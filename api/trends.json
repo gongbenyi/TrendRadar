@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T05:01:13.515646+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-27T06:03:06.344504+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
@@ -19,26 +19,26 @@
           "time_info": "02时06分"
         },
         {
-          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
-          "url": "https://flash.jin10.com/detail/20260227044702015800",
+          "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
+          "url": "https://flash.jin10.com/detail/20260227053249656800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时03分"
         },
         {
-          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3059757",
+          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3059780",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时03分"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -57,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -72,8 +73,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
+          "url": "https://flash.jin10.com/detail/20260227044702015800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
+        },
+        {
+          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "特朗普威胁驱逐教父饰演者",
@@ -126,7 +151,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -163,22 +188,24 @@
           "url": "https://wallstreetcn.com/livenews/3059753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3059749",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -198,7 +225,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -220,7 +247,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -228,7 +255,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球每年仅1人！祝贺这位中国科学家",
@@ -238,8 +265,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -250,8 +277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -259,11 +286,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
@@ -274,19 +302,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时06分 ~ 06时03分]"
         },
         {
           "title": "王者全球英雄票选开启",
           "url": "https://www.douyin.com/hot/2412384",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[05时00分 ~ 06时03分]"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260227050838676800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "部分美国私募股权基金在连续两日上涨后回落，黑石集团(BX.N)跌1.8%，KKR、阿波罗全球管理公司均跌4%，阿瑞斯资产管理公司跌2.5%。",
@@ -294,6 +334,34 @@
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
+          "url": "https://wallstreetcn.com/livenews/3059781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
+          "url": "https://wallstreetcn.com/livenews/3059680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -310,28 +378,12 @@
           "url": "https://wallstreetcn.com/livenews/3059752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
-          "url": "https://wallstreetcn.com/livenews/3059680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         }
       ]
     }
