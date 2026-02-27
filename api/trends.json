@@ -1,12 +1,67 @@
 {
-  "generated_at": "2026-02-28T04:59:24.593948+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-28T05:56:24.447693+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "美国总统特朗普：伊朗有那么多石油，根本不需要去浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260228053714270800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不想走得更远，“这太糟糕了”。",
+          "url": "https://flash.jin10.com/detail/20260228053622783800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
+          "url": "https://wallstreetcn.com/livenews/3060522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们对与伊朗的谈判不满意。我们要求伊朗不进行铀浓缩。伊朗没有找到正确的答案。不担心袭击伊朗对油价的影响。",
+          "url": "https://flash.jin10.com/detail/20260228053431319800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
+          "url": "https://flash.jin10.com/detail/20260228053001600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
           "url": "https://www.toutiao.com/trending/7611361368545280036/",
@@ -14,11 +69,12 @@
           "ranks": [
             18,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +96,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -68,6 +124,17 @@
           "time_info": "[03时22分 ~ 04时59分]"
         },
         {
+          "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
+          "url": "https://flash.jin10.com/detail/20260228052645165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
           "url": "https://wallstreetcn.com/livenews/3060465",
           "source": "华尔街见闻-快讯",
@@ -90,13 +157,24 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20260228041113668800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -121,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "强硬回应AI军用分歧：特朗普称Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
@@ -246,69 +335,8 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "草案显示，欧盟拟动员资金和投资，支持印度在拟议自由贸易协定框架下减少排放。",
-          "url": "https://flash.jin10.com/detail/20260228004427176800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3060490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
-          "url": "https://flash.jin10.com/detail/20260228035818477800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "消息人士：软银旗下PayPay拟在纳斯达克上市，获卡塔尔投资局、Visa和阿布扎比投资局支持。PayPay寻求最高140亿美元估值。",
-          "url": "https://flash.jin10.com/detail/20260228035803983800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "美国白宫：越来越多的公司在美国投资，总投资额已超过9.7万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228022333028800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -332,8 +360,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -344,8 +372,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -357,6 +396,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "草案显示，欧盟拟动员资金和投资，支持印度在拟议自由贸易协定框架下减少排放。",
+          "url": "https://flash.jin10.com/detail/20260228004427176800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "日本软银集团旗下PayPay美国IPO获得2亿美元锚投资，估值至多140亿美元。 Qia、Visa、Idia将锚定PayPal纳斯达克挂牌交易股票。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
+        },
+        {
+          "title": "消息人士：PayPay美国IPO将吸引2亿美元基石投资。",
+          "url": "https://flash.jin10.com/detail/20260228035818477800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "消息人士：软银旗下PayPay拟在纳斯达克上市，获卡塔尔投资局、Visa和阿布扎比投资局支持。PayPay寻求最高140亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260228035803983800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        },
+        {
+          "title": "美国白宫：越来越多的公司在美国投资，总投资额已超过9.7万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228022333028800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -384,19 +485,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 05时56分]"
         },
         {
           "title": "全球首创全涵道式吨级飞行器亮相",
           "url": "https://www.toutiao.com/trending/7611148552635187236/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时56分]"
         },
         {
           "title": "德国联邦机动车运输管理局（KBA）：宝马召回行动可能涉及全球337,374辆汽车，其中德国境内29,441辆。",
@@ -424,8 +526,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 05时56分]"
         }
       ]
     }
