@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T22:53:12.402519+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-03-01T23:46:57.052465+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 23时46分]"
         },
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 23时46分]"
         },
         {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 22时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 23时46分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -120,6 +120,19 @@
           "time_info": "[06时50分 ~ 07时42分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时54分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
@@ -151,6 +164,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普称，针对伊朗方面的行动进展迅速。“没人能相信我们取得的成功会如此之大”。",
+          "url": "https://flash.jin10.com/detail/20260301232709215800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3061240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普称哈梅内伊已死",
@@ -242,19 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时53分]"
         },
         {
           "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
@@ -428,6 +450,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普称伊朗险些在两周内就能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260301232258667800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普威胁伊朗勿发起更猛烈反击",
           "url": "https://www.toutiao.com/trending/7611809487199931958/",
           "source": "今日头条",
@@ -448,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普谈及霍尔木兹海峡和石油时称，什么都不担心。",
+          "url": "https://flash.jin10.com/detail/20260301232214546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国白宫公布特朗普监督美国对伊朗发动袭击的照片。",
@@ -536,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "德国总理默茨：我将于周二在华盛顿与美国总统特朗普讨论中东局势。",
+          "url": "https://flash.jin10.com/detail/20260301231437631800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国白宫：总统特朗普及其国家安全团队将全天密切关注局势。",
@@ -807,8 +862,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 23时46分]"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡，哈梅内伊遇害，全球市场影响几何？石油、黄金的最大地缘变数是否已落地？",
+          "url": "https://www.zhihu.com/question/2011351967654511903",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时12分 ~ 22时53分]"
+          "time_info": "[15时49分 ~ 23时46分]"
         },
         {
           "title": "国防部：美是全球战略稳定最大乱源",
@@ -825,18 +893,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时42分]"
-        },
-        {
-          "title": "伊朗宣布关闭霍尔木兹海峡，哈梅内伊遇害，全球市场影响几何？石油、黄金的最大地缘变数是否已落地？",
-          "url": "https://www.zhihu.com/question/2011351967654511903",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时49分 ~ 22时53分]"
         },
         {
           "title": "国防部：美是全球战略稳定最大乱源",
@@ -858,7 +914,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -876,6 +932,19 @@
           "time_info": "[15时49分 ~ 17时56分]"
         },
         {
+          "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
+          "url": "https://www.cls.cn/detail/2298867",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时46分]"
+        },
+        {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
           "url": "https://www.zhihu.com/question/2011015637259028204",
           "source": "知乎",
@@ -885,18 +954,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 03时01分]"
-        },
-        {
-          "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
-          "url": "https://www.cls.cn/detail/2298867",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时53分]"
         },
         {
           "title": "国际能源署（IEA）：正密切关注中东局势及其对全球油气市场和贸易流动的潜在影响。",
@@ -998,8 +1055,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 22时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 23时46分]"
         },
         {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
@@ -1140,8 +1197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时49分 ~ 22时53分]"
+          "appearance_count": 10,
+          "time_info": "[15时49分 ~ 23时46分]"
         },
         {
           "title": "“后巴菲特时代”首封股东信：巴菲特仍坐镇，手握3700亿现金，坚守日本投资策略",
