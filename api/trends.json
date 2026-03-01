@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T07:42:32.735608+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-01T13:12:53.222975+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 61,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 13时12分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -79,24 +80,13 @@
           "time_info": "[06时50分 ~ 07时42分]"
         },
         {
-          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
-          "url": "https://www.zhihu.com/question/2011106123147675013",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%BA%AB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -129,7 +119,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -145,13 +135,25 @@
           "time_info": "05时40分"
         },
         {
+          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
+          "url": "https://www.zhihu.com/question/2011106123147675013",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 13时12分]"
+        },
+        {
           "title": "特朗普称哈梅内伊“已死”",
           "url": "https://www.toutiao.com/trending/7611690055245021211/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -162,9 +164,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "据Punchbowl：特朗普政府官员将于周日向国会工作人员简报伊朗的情况。",
@@ -351,6 +364,17 @@
           "time_info": "[06时50分 ~ 07时42分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "据ABC新闻：美国总统特朗普在被问及伊朗领导层的情况以及美国是否认为他们是在袭击中丧生时回应称，很大程度上是这样的。虽然我们还不完全清楚，但在很大程度上是这样。这是一次非常强有力的打击。",
           "url": "https://flash.jin10.com/detail/20260301042110699800",
           "source": "金十数据",
@@ -360,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "卡塔尔国家媒体：卡塔尔埃米尔接到美国总统特朗普的电话。",
@@ -384,6 +419,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/livenews/3061056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普已分别同沙特阿拉伯、卡塔尔、阿联酋领导人以及北约秘书长吕特通话。",
           "url": "https://flash.jin10.com/detail/20260301030142107800",
           "source": "金十数据",
@@ -404,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "据以色列第12频道报道，特朗普看到了哈梅内伊遗体的照片。",
@@ -470,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
+          "url": "https://wallstreetcn.com/livenews/3061046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "特朗普政府高级官员：伊朗针对美国关于铀浓缩要求所提出的方案，竟是允许其自行建造离心机。",
@@ -640,7 +708,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -655,8 +723,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 13时12分]"
         },
         {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
@@ -768,12 +836,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "国防部：美是全球战略稳定最大乱源",
@@ -846,9 +925,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "90秒｜中东战火再燃，全球恐进入“霍尔木兹时刻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32674554",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "切断霍尔木兹海峡，对全球经济影响几何？",
+          "url": "https://flash.jin10.com/detail/20260301121134176800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -873,11 +974,12 @@
           "url": "https://wallstreetcn.com/articles/3766440",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 13时12分]"
         }
       ]
     }
