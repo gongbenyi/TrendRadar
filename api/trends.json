@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T07:49:09.205597+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-03-02T13:09:44.647065+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -98,6 +98,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "美国总统特朗普：我刚刚接到消息，我们已经摧毁并击沉了9艘伊朗海军舰艇，其中有些舰艇规模较大且十分重要。",
           "url": "https://flash.jin10.com/detail/20260302012251829800",
           "source": "金十数据",
@@ -121,6 +132,28 @@
           "time_info": "[00时56分 ~ 03时01分]"
         },
         {
+          "title": "“不得不说，特朗普的计划落空了”",
+          "url": "https://news.ifeng.com/c/8rAA4FIm65f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "沙特否认劝特朗普对伊朗动手",
+          "url": "https://wallstreetcn.com/livenews/3061525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3061240",
           "source": "华尔街见闻-快讯",
@@ -131,6 +164,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "特朗普：对伊朗军事行动可能持续约4周",
@@ -156,6 +200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时54分]"
+        },
+        {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 13时09分]"
         },
         {
           "title": "美国总统特朗普：呼吁伊朗人民抓住这一时机，夺回自己的国家。",
@@ -206,17 +262,6 @@
           "time_info": "[05时44分 ~ 06时54分]"
         },
         {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 07时49分]"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗）整个军事指挥系统已瓦解，许多人希望投降。军事行动将持续进行，直至我们所有的目标得以实现。",
           "url": "https://flash.jin10.com/detail/20260302050918097800",
           "source": "金十数据",
@@ -252,6 +297,28 @@
           "time_info": "06时54分"
         },
         {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "特朗普称同意与伊朗新领导层对话，“委内瑞拉式结局”是选项之一",
+          "url": "https://wallstreetcn.com/articles/3766494",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "据华盛顿邮报：特朗普政府官员表示，轰炸而非对话是优先事项。",
           "url": "https://flash.jin10.com/detail/20260302011522830800",
           "source": "金十数据",
@@ -274,6 +341,50 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：通过新的手段，特朗普再次将自己个人崇拜所带来的代价强加给了美国军人及其家属。",
+          "url": "https://flash.jin10.com/detail/20260302123615602800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：由于特朗普错误的行动，他将自己所鼓吹的“美国优先”口号变成了“以色列优先”，为了以色列的权力扩张而牺牲了美国士兵的生命。",
+          "url": "https://flash.jin10.com/detail/20260302123604578800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "特朗普政府将于周二向国会作伊朗问题的简报",
           "url": "https://flash.jin10.com/detail/20260302044632602800",
           "source": "金十数据",
@@ -283,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普因狂妄的野心将该地区拖入了混乱之中，如今他又表示担心会有更多美国人伤亡。",
+          "url": "https://flash.jin10.com/detail/20260302123554585800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "据路透社/益普索民调：约半数美国人——包括四分之一的共和党人——认为特朗普过于倾向于动用武力。",
@@ -420,7 +542,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
@@ -431,11 +553,12 @@
             9,
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 13时09分]"
         },
         {
           "title": "90秒｜中东战火再燃，全球恐进入“霍尔木兹时刻”",
@@ -464,6 +587,28 @@
           "time_info": "[00时55分 ~ 07时49分]"
         },
         {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "全球首款机器人手机亮相MWC",
+          "url": "https://www.toutiao.com/trending/7611736009055191050/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "澳大利亚2月标普全球制造业PMI终值 51，前值51.5。",
           "url": "https://flash.jin10.com/detail/20260302060002181800",
           "source": "金十数据",
@@ -481,7 +626,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -495,23 +640,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "中国造全球首款机器人手机亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "哈梅内伊身亡，投资者关心“然后”呢？周末唯一开盘的市场已完成从“大跌”到“大涨”",
           "url": "https://wallstreetcn.com/articles/3766455",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 13时09分]"
         },
         {
           "title": "据知情人士透露，Warburg Pincus（华平投资）投资全球第一大禽蛋生产商Global Eggs，对后者估值80亿美元。（彭博）",
@@ -527,6 +684,17 @@
           "time_info": "[05时44分 ~ 07时49分]"
         },
         {
+          "title": "地缘危机后如何布局投资",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E7%BC%98%E5%8D%B1%E6%9C%BA%E5%90%8E%E5%A6%82%E4%BD%95%E5%B8%83%E5%B1%80%E6%8A%95%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "周一悉尼盘前，风险货币下挫，澳元询价走低，投资者关注伊朗冲突升级。",
           "url": "https://wallstreetcn.com/livenews/3061249",
           "source": "华尔街见闻-快讯",
@@ -536,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "格力电器遭高瓴资本减持，套现 43 亿，投资格力六年高瓴资本是亏了还是赚了？未来可能进一步减持吗？",
+          "url": "https://www.zhihu.com/question/2010686442356093025",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "投资公司：油价可能因伊朗冲突上涨，但水平可控",
@@ -555,9 +734,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
+          "url": "https://www.cls.cn/detail/2298837",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
