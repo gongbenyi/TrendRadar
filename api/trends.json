@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T05:52:45.981190+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-03-03T06:58:31.134901+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时33分 ~ 03时54分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -86,6 +86,42 @@
           "time_info": "[01时33分 ~ 01时34分]"
         },
         {
+          "title": "特朗普，还有一仗？",
+          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
+          "url": "https://wallstreetcn.com/articles/3766482",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "中方回应特朗普3月访华能否成行",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3062086",
           "source": "华尔街见闻-快讯",
@@ -95,6 +131,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "特朗普称不达目标不停战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "美上诉院驳回特朗普政府推迟关税退税请求",
@@ -108,64 +158,16 @@
           "time_info": "03时54分"
         },
         {
-          "title": "特朗普，还有一仗？",
-          "url": "https://news.ifeng.com/c/8rAbiWHwmP6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
-        },
-        {
-          "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
-          "url": "https://wallstreetcn.com/articles/3766482",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
-        },
-        {
-          "title": "中方回应特朗普3月访华能否成行",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%88%E8%AE%BF%E5%8D%8E%E8%83%BD%E5%90%A6%E6%88%90%E8%A1%8C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
-        },
-        {
-          "title": "特朗普称不达目标不停战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E8%BE%BE%E7%9B%AE%E6%A0%87%E4%B8%8D%E5%81%9C%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
-        },
-        {
           "title": "特朗普3月访华能否成行？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 06时58分]"
         },
         {
           "title": "特朗普称同意与伊朗新领导层对话",
@@ -188,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 01时34分]"
+        },
+        {
+          "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
+          "url": "https://wallstreetcn.com/livenews/3062170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
@@ -347,7 +360,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "天然气飙涨近50%！全球最大LNG生产商卡塔尔能源宣布遇袭停产",
@@ -357,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "美伊冲突冲击全球供应链：多家航运巨头紧急涨价 中东空运遭严重干扰",
@@ -369,8 +382,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "全球先锋赛门票争夺战",
@@ -378,22 +391,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
-        },
-        {
-          "title": "澳洲联储主席Bullock：中东局势及时提醒地缘政治不确定性。 油价上涨可能会拖累全球经济（增速）和通胀（进展）。 澳洲联储对通胀预期的迹象“非常警惕”。 现在判断中东局势对通胀的影响还言之过早。 澳洲联储准备在必要时针对冲击做出政策回应。 一系列指标表明，劳动力市场条件是紧俏的。",
-          "url": "https://wallstreetcn.com/livenews/3062152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "中国建成全球最大的可再生能源体系",
@@ -402,11 +405,36 @@
           "ranks": [
             30,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "澳洲联储主席Bullock：中东局势及时提醒地缘政治不确定性。 油价上涨可能会拖累全球经济（增速）和通胀（进展）。 澳洲联储对通胀预期的迹象“非常警惕”。 现在判断中东局势对通胀的影响还言之过早。 澳洲联储准备在必要时针对冲击做出政策回应。 一系列指标表明，劳动力市场条件是紧俏的。",
+          "url": "https://wallstreetcn.com/livenews/3062152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时58分]"
+        },
+        {
+          "title": "ONE首席执行官称，全球约10%的集装箱船被困霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3062139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时58分]"
         },
         {
           "title": "地中海航运公司（MSC）周日表示，作为预防性措施，已暂停所有前往中东地区的全球货运预订，直至另行通知。",
@@ -420,15 +448,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "ONE首席执行官称，全球约10%的集装箱船被困霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3062139",
+          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
+          "url": "https://wallstreetcn.com/livenews/3062167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时58分"
         },
         {
           "title": "澳洲联储主席布洛克：中东局势提醒人们地缘政治的不确定性，供应冲击可能加剧通胀压力，但长期冲击也可能对全球经济活动产生不利影响。",
@@ -437,7 +465,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -459,7 +487,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -489,8 +517,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "地缘危机后如何布局投资",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E7%BC%98%E5%8D%B1%E6%9C%BA%E5%90%8E%E5%A6%82%E4%BD%95%E5%B8%83%E5%B1%80%E6%8A%95%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            18,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 06时58分]"
         },
         {
           "title": "两年期德债收益率涨9个基点，投资者权衡中东局势及其通过油价带来的通胀风险",
@@ -502,19 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "地缘危机后如何布局投资",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E7%BC%98%E5%8D%B1%E6%9C%BA%E5%90%8E%E5%A6%82%E4%BD%95%E5%B8%83%E5%B1%80%E6%8A%95%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时33分 ~ 05时52分]"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -534,7 +563,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -549,22 +578,24 @@
           "url": "https://flash.jin10.com/detail/20260303052851593800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时58分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时58分]"
         }
       ]
     }
