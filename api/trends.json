@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T19:59:28.756486+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-03T22:34:42.274376+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -30,6 +30,29 @@
           "time_info": "[01时33分 ~ 07时55分]"
         },
         {
+          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
+          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时34分]"
+        },
+        {
+          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
+          "url": "https://wallstreetcn.com/articles/3766558",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时34分]"
+        },
+        {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
           "url": "https://wallstreetcn.com/articles/3766483",
           "source": "华尔街见闻",
@@ -43,17 +66,6 @@
           "time_info": "[01时33分 ~ 07时55分]"
         },
         {
-          "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
-          "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 19时59分]"
-        },
-        {
           "title": "外交部回应特朗普3月访华能否成行",
           "url": "https://www.toutiao.com/trending/7611824247237361727/",
           "source": "今日头条",
@@ -64,18 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时33分 ~ 07时55分]"
-        },
-        {
-          "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
-          "url": "https://wallstreetcn.com/articles/3766558",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 19时59分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -165,6 +165,17 @@
           "time_info": "[18时07分 ~ 18时08分]"
         },
         {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时34分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -187,15 +198,16 @@
           "time_info": "[01时33分 ~ 01时34分]"
         },
         {
-          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
-          "url": "https://wallstreetcn.com/articles/3766590",
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时34分]"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
@@ -221,6 +233,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时33分 ~ 06时58分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "美上诉院驳回特朗普政府推迟关税退税请求",
@@ -276,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "欧盟贸易抉择陷入两难 审批延宕挑战特朗普耐心",
@@ -358,6 +370,18 @@
           "time_info": "[01时33分 ~ 01时34分]"
         },
         {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时34分]"
+        },
+        {
           "title": "摩根大通CEO戴蒙：美国总统特朗普有权对“去银行”问题感到愤怒。 但特朗普在这个问题上的诉讼得不到好处。",
           "url": "https://wallstreetcn.com/livenews/3062112",
           "source": "华尔街见闻-快讯",
@@ -367,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "前美联储主席、前美国财政部长耶伦：对美国经济前景感到乐观，但（面临）“严重风险”。 关注伊朗风险，具体取决于（美国和以色列挑起的）战争持续的时间。 如果油价居高不下、或进一步上涨，恐怕会引发美国通胀担忧。 3%的通胀率中，可能有0.5个百分点来自（总统特朗普挑起的）关税。 如果油价偏高，将伤害到经济增长，并构成通胀风险。 伊朗局势将让美联储“更容易维持”政策利率不变。 特朗普对美联储理事库克的所作所为“只能用无法想象来形容”。 美国司法部的任何刑事指控都将对美联储“构成巨大的威胁”。",
@@ -422,17 +457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
-        },
-        {
-          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2011830146605274886",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "美国总统特朗普：伊朗政权的弹道导弹计划发展迅速，已经具备打击欧洲的能力。",
@@ -559,7 +583,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "天然气飙涨近50%！全球最大LNG生产商卡塔尔能源宣布遇袭停产",
@@ -630,9 +654,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "为什么全球“稀土矿藏”纷纷冒出来",
+          "url": "https://www.toutiao.com/trending/7612965431761964585/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "印尼财长：若全球油价飙升至每桶90美元，印尼财政赤字可能升至GDP的约3.6%，但将调整预算，确保赤字控制在3%以下。",
@@ -641,7 +676,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -715,6 +750,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "元宵节遇上 2026 年全球唯一一次月全食，你拍到了哪些好看的月亮照片？",
+          "url": "https://www.zhihu.com/topic/2011860942984537539?share_code=y8oaFZYfFcTp&utm_psn=2012255151361119570",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "消息人士：土耳其计划实施一项燃油补贴方案，以缓解全球油价上涨对通胀的影响。",
           "url": "https://flash.jin10.com/detail/20260303174837176800",
           "source": "金十数据",
@@ -732,7 +778,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -759,13 +805,24 @@
           "time_info": "01时34分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3062829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "全球股市黑色星期二",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%8C%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -809,7 +866,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -839,7 +896,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "地缘危机后如何布局投资",
@@ -852,11 +909,12 @@
             14,
             9,
             23,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时33分 ~ 19时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时33分 ~ 22时34分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -956,7 +1014,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -970,12 +1028,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "壳牌巴西首席执行官表示，壳牌承诺向巴西能源公司Raízen投资35亿巴西雷亚尔。",
+          "url": "https://wallstreetcn.com/livenews/3062813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
@@ -989,6 +1058,28 @@
           "time_info": "18时08分"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时34分]"
+        },
+        {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
           "source": "金十数据",
@@ -999,17 +1090,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时58分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时59分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
