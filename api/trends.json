@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T18:03:32.687275+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-03-04T19:56:52.885211+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -19,6 +19,21 @@
           "time_info": "[01时31分 ~ 15时28分]"
         },
         {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            15,
+            19,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 19时56分]"
+        },
+        {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
           "url": "https://news.ifeng.com/c/8rBh2u8DdpX",
           "source": "凤凰网",
@@ -28,20 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时31分 ~ 07时55分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            15,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 18时03分]"
         },
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -59,11 +60,12 @@
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 19时56分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -99,13 +101,24 @@
           "time_info": "07时55分"
         },
         {
+          "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -121,6 +134,19 @@
           "time_info": "01时32分"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 19时56分]"
+        },
+        {
           "title": "德国总理默茨：已告知特朗普，乌克兰不可能再割让更多领土。",
           "url": "https://flash.jin10.com/detail/20260304044618511800",
           "source": "金十数据",
@@ -130,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普下令两手保航运，能否抑制油价涨势？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260304195119338800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "报道：特朗普周二与Coinbase首席执行官举行了私人会晤",
@@ -163,19 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 18时03分]"
         },
         {
           "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
@@ -215,6 +239,17 @@
           "time_info": "[12时59分 ~ 18时03分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 19时56分]"
+        },
+        {
           "title": "西班牙回应特朗普称将切断贸易往来",
           "url": "https://www.toutiao.com/trending/7612678791206387775/",
           "source": "今日头条",
@@ -239,15 +274,27 @@
           "time_info": "[12时59分 ~ 15时28分]"
         },
         {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时28分 ~ 18时03分]"
+          "time_info": "[18时03分 ~ 19时56分]"
+        },
+        {
+          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
+          "url": "https://www.zhihu.com/question/2012477817481344424",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时56分]"
         },
         {
           "title": "特朗普表示：不会让银行“破坏”加密货币议程",
@@ -397,17 +444,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "德国总理默茨：将在G7峰会、北约峰会上再次会见特朗普。",
           "url": "https://flash.jin10.com/detail/20260304044102237800",
           "source": "金十数据",
@@ -417,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
@@ -752,7 +777,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "为什么全球“稀土矿藏”纷纷冒出来",
@@ -781,6 +806,17 @@
           "time_info": "[12时59分 ~ 18时03分]"
         },
         {
+          "title": "德国最高经济咨询机构换新 助力政府应对全球挑战",
+          "url": "https://flash.jin10.com/detail/20260304195116792800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "如何评价英国的 BNO 护照在全球无法通行?",
           "url": "https://www.zhihu.com/question/784358080",
           "source": "知乎",
@@ -800,8 +836,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 18时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 19时56分]"
         },
         {
           "title": "《飞驰人生3》2026年票房全球第一",
@@ -844,7 +880,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -869,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
+          "url": "https://www.zhihu.com/question/2011731606025499798",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
@@ -915,6 +962,17 @@
           "time_info": "12时59分"
         },
         {
+          "title": "记者：中国机器人发展引发全球赞叹",
+          "url": "https://www.toutiao.com/trending/7612471551675433014/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "德国总理默茨：伊朗政权应对全球范围内的大量恐怖主义活动负有个人责任。",
           "url": "https://flash.jin10.com/detail/20260304043232855800",
           "source": "金十数据",
@@ -938,7 +996,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -985,7 +1043,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -1070,7 +1128,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
@@ -1107,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时03分]"
+        },
+        {
+          "title": "OpenAI高管：自主性是开发AI智能体的关键",
+          "url": "https://flash.jin10.com/detail/20260304194354289800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
