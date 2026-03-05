@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T18:09:29.256146+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-05T20:02:11.692531+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -42,6 +42,30 @@
           "time_info": "[01时12分 ~ 07时03分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 20时02分]"
+        },
+        {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
           "url": "https://wallstreetcn.com/livenews/3063848",
           "source": "华尔街见闻-快讯",
@@ -75,6 +99,18 @@
           "time_info": "13时05分"
         },
         {
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普夫人，“翻车”了",
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
@@ -87,17 +123,17 @@
           "time_info": "[01时12分 ~ 13时05分]"
         },
         {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
           "ranks": [
-            5,
-            6,
-            8
+            17,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 18时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 20时02分]"
         },
         {
           "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
@@ -133,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 18时09分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -194,17 +218,6 @@
           "time_info": "[15时58分 ~ 18时09分]"
         },
         {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
           "url": "https://www.cls.cn/detail/2303036",
           "source": "财联社热门",
@@ -225,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "委贱卖黄金，特朗普补亏空计划浮现丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260305193519023800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
@@ -351,8 +375,21 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
+          "url": "https://wallstreetcn.com/articles/3766731",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 20时02分]"
+        },
         {
           "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
           "url": "https://www.zhihu.com/question/2011731606025499798",
@@ -365,17 +402,26 @@
           "time_info": "[01时12分 ~ 07时03分]"
         },
         {
-          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
-          "url": "https://wallstreetcn.com/articles/3766731",
-          "source": "华尔街见闻",
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            9,
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时05分 ~ 18时09分]"
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "中东战火致全球航空运输大混乱",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E8%87%B4%E5%85%A8%E7%90%83%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%A4%A7%E6%B7%B7%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "中国拥有全球门类最齐全制造业体系",
@@ -472,6 +518,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "投资于人！政府工作报告最新部署",
+          "url": "https://www.toutiao.com/trending/7613409342791929363/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时09分 ~ 20时02分]"
+        },
+        {
           "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
           "url": "https://wallstreetcn.com/livenews/3063836",
           "source": "华尔街见闻-快讯",
@@ -517,17 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "投资于人！政府工作报告最新部署",
-          "url": "https://www.toutiao.com/trending/7613409342791929363/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
         },
         {
           "title": "市场消息：日本投资者上个月抛售了自2024年以来最大规模的海外债券，市场观察人士正密切关注资金流向，以寻找日债收益率上升是否正在引发资金回流的迹象。",
