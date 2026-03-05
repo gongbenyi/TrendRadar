@@ -1,46 +1,12 @@
 {
-  "generated_at": "2026-03-05T23:37:49.866479+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-03-06T03:47:47.071433+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
-          "url": "https://www.cls.cn/detail/2302897",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
@@ -49,67 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 23时37分]"
-        },
-        {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时05分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
           "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 23时37分]"
-        },
-        {
-          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
-          "url": "https://wallstreetcn.com/livenews/3063848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "白宫称已向美国参议院提交总统特朗普委任凯文·沃什为美联储主席的提名。",
-          "url": "https://wallstreetcn.com/livenews/3063791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
-          "url": "https://www.cls.cn/detail/2303132",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "03时47分"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -118,322 +36,142 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时37分"
+          "time_info": "03时47分"
         },
         {
-          "title": "特朗普夫人，“翻车”了",
-          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 13时05分]"
-        },
-        {
-          "title": "西班牙首相回击特朗普",
-          "url": "https://www.douyin.com/hot/2419161",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 20时02分]"
-        },
-        {
-          "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
-          "url": "https://wallstreetcn.com/livenews/3063838",
+          "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
+          "url": "https://wallstreetcn.com/livenews/3064642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 05时03分]"
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
-          "url": "https://www.zhihu.com/question/2012477817481344424",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "美称打死试图暗杀特朗普的伊朗高官",
-          "url": "https://www.toutiao.com/trending/7613391444652330559/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 07时03分]"
-        },
-        {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 18时09分]"
-        },
-        {
-          "title": "伊朗高官让特朗普想想美以谁优先",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 18时09分]"
-        },
-        {
-          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
-          "url": "https://www.cls.cn/detail/2303036",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时05分"
+          "time_info": "03时47分"
         },
         {
-          "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://flash.jin10.com/detail/20260305055643565800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "委贱卖黄金，特朗普补亏空计划浮现丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260305193519023800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "特朗普政府承诺“护航”原油供应？华尔街和行业专家疾呼：还不够！",
-          "url": "https://www.cls.cn/detail/2303813",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
-          "url": "https://flash.jin10.com/detail/20260305042503367800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "特朗普：共和党人必须不惜一切代价全力推进《拯救美国法案》",
-          "url": "https://wallstreetcn.com/livenews/3064566",
+          "title": "美国国土安全部部长将换人，特朗普提名新人选",
+          "url": "https://wallstreetcn.com/livenews/3064640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时37分"
+          "time_info": "03时47分"
         },
         {
-          "title": "白宫新闻秘书莱维特：本周末，美国总统特朗普将在迈阿密欢迎来自12个拉丁美洲国家的国家元首。",
-          "url": "https://flash.jin10.com/detail/20260305030422126800",
+          "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
+          "url": "https://wallstreetcn.com/livenews/3064636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：马奎恩·马林将于2026年3月31日起担任美国国土安全部部长。",
+          "url": "https://flash.jin10.com/detail/20260306024253670800",
           "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普提名美国参议员马奎恩·马林接替克里斯蒂·诺姆出任美国国土安全部部长。",
+          "url": "https://flash.jin10.com/detail/20260306024210116800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3064618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
+          "url": "https://wallstreetcn.com/livenews/3064630",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "03时47分"
         },
         {
-          "title": "白宫：特朗普正讨论战后在伊朗的角色 暂无派遣地面部队计划",
-          "url": "https://flash.jin10.com/detail/20260305030410423800",
-          "source": "金十数据",
+          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
+          "url": "https://wallstreetcn.com/livenews/3064629",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "03时47分"
         },
         {
-          "title": "美国总统特朗普：我们将继续前进。",
-          "url": "https://flash.jin10.com/detail/20260305042107536800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的导弹和发射器正在被消灭。",
-          "url": "https://flash.jin10.com/detail/20260305042038924800",
+          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
+          "url": "https://flash.jin10.com/detail/20260306025523028800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗战争前线）1-10分打分的话，我给15分。",
-          "url": "https://flash.jin10.com/detail/20260305042035461800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
-          "url": "https://flash.jin10.com/detail/20260305042026139800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗问题上处于非常有利的地位。",
-          "url": "https://flash.jin10.com/detail/20260305041920558800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
-          "url": "https://flash.jin10.com/detail/20260305041250924800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：石油正开始从委内瑞拉流出。",
-          "url": "https://flash.jin10.com/detail/20260305041104184800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3063861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "03时47分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国财长贝森特：15%全球关税或本周落地，将推“海运保险”稳波斯湾油运",
-          "url": "https://wallstreetcn.com/articles/3766731",
-          "source": "华尔街见闻",
+          "title": "全美超20州就美政府新的全球关税政策提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3064641",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 20时02分]"
-        },
-        {
-          "title": "AWS 阿联酋数据中心遭物体撞击后起火，同时 Claude 全球宕机，两者有关系吗？如何看待这一风波？",
-          "url": "https://www.zhihu.com/question/2011731606025499798",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -443,261 +181,26 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
-          "title": "中东战火致全球航空运输大混乱",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E8%87%B4%E5%85%A8%E7%90%83%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%A4%A7%E6%B7%B7%E4%B9%B1",
-          "source": "百度热搜",
+          "title": "中东战事扩大冲击全球",
+          "url": "https://www.douyin.com/hot/2419376",
+          "source": "抖音",
           "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 23时37分]"
-        },
-        {
-          "title": "中国拥有全球门类最齐全制造业体系",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8B%A5%E6%9C%89%E5%85%A8%E7%90%83%E9%97%A8%E7%B1%BB%E6%9C%80%E9%BD%90%E5%85%A8%E5%88%B6%E9%80%A0%E4%B8%9A%E4%BD%93%E7%B3%BB%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "IMF警告：中东战争将考验全球经济韧性 更多新冲击将至！",
-          "url": "https://www.cls.cn/detail/2303878",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3063879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260305004814477800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "BLG晋级2026全球先锋赛",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%99%8B%E7%BA%A72026%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "全球外交联动施压加纳 敦促暂停提高黄金特许权使用费",
-          "url": "https://flash.jin10.com/detail/20260305230903042800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
-          "url": "https://wallstreetcn.com/livenews/3064174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "全球航空业ETF跌2.03%，在美股盘初领跌行业ETF，医疗保健ETF跌1.57%，标普日常消费ETF跌1.28%，房地产精选ETF跌1.20%。 标普油气ETF则涨1.7%，北美科技股软件ETF涨2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3064564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "伊朗陆军中将基奥马尔斯·海达里：我们正在海上、空中和太空与奉行全球主义的美国展开一场激烈的战斗。",
-          "url": "https://flash.jin10.com/detail/20260305151601753800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "美国2月全球供应链压力指数 0.49，前值0.41。",
-          "url": "https://flash.jin10.com/detail/20260305230245564800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "伊拉克外长：全球能源市场恐受伊朗局势升级严重影响",
-          "url": "https://wallstreetcn.com/livenews/3063891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）全球股市指数-美洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260305230018305800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "金十图示：2026年03月04日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260305050550122800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "世界黄金协会：2月全球黄金ETF净流入53亿美元",
-          "url": "https://wallstreetcn.com/livenews/3064555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
+          "time_info": "03时47分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "投资于人！政府工作报告最新部署",
-          "url": "https://www.toutiao.com/trending/7613409342791929363/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时02分]"
-        },
-        {
-          "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
-          "url": "https://wallstreetcn.com/livenews/3063836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 05时03分]"
-        },
-        {
-          "title": "3月5日投资避雷针：8天6板人气股不涉及“特种光纤”等业务 如进一步上涨或申请停牌",
-          "url": "https://www.cls.cn/detail/2303213",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 15时58分]"
-        },
-        {
-          "title": "日本对美国的下一批投资可能会包括核电厂和铜冶炼。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3063815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 05时03分]"
-        },
-        {
-          "title": "日本投资者上月抛售了自2024年以来最大规模的海外债券",
-          "url": "https://flash.jin10.com/detail/20260305125202333800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "市场消息：日本投资者上个月抛售了自2024年以来最大规模的海外债券，市场观察人士正密切关注资金流向，以寻找日债收益率上升是否正在引发资金回流的迹象。",
-          "url": "https://flash.jin10.com/detail/20260305124849130800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "盖茨投资的核电公司Terra LLC.获得许可，将在美国怀俄明州修建利用下一代反应堆技术的第一座商用反应堆。",
-          "url": "https://wallstreetcn.com/livenews/3063781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
         {
           "title": "促内需转向“财金联动” 新型政策性金融工具较上年增3000亿元 扩投资政策力度加码",
           "url": "https://www.cls.cn/detail/2304192",
@@ -705,160 +208,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "市场消息：消息人士称，部分Anthropic投资者敦促与美国国防部缓和紧张局势，投资者担忧“供应链风险”认定可能损害Anthropic的业务，该公司与美国国防部仍在继续磋商。",
-          "url": "https://flash.jin10.com/detail/20260305005102314800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
-          "url": "https://flash.jin10.com/detail/20260305053239942800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
-          "url": "https://wallstreetcn.com/livenews/3063822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 05时03分]"
-        },
-        {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "The Information：OpenAI开发出一款“双向”音频模型。",
-          "url": "https://flash.jin10.com/detail/20260305230503213800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时37分"
-        },
-        {
-          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260305041842177800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://wallstreetcn.com/livenews/3063847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美国总统特朗普：谷歌是一家好公司。",
-          "url": "https://flash.jin10.com/detail/20260305042824208800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
-          "url": "https://wallstreetcn.com/livenews/3063812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "谷歌DeepMind向千问团队抛橄榄枝",
-          "url": "https://wallstreetcn.com/livenews/3064303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时03分]"
+          "time_info": "03时47分"
         }
       ]
     }
