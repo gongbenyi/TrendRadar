@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:18:59.098960+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-03-06T22:07:16.069993+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时47分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[03时47分 ~ 22时07分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "美媒：本月非农报告对特朗普极为不利",
+          "url": "https://flash.jin10.com/detail/20260306213951107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -135,6 +146,17 @@
           "time_info": "[03时47分 ~ 05时54分]"
         },
         {
+          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
+          "url": "https://wallstreetcn.com/articles/3766863",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 22时07分]"
+        },
+        {
           "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
           "url": "https://www.cls.cn/detail/2304459",
           "source": "财联社热门",
@@ -169,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 05时54分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
@@ -214,17 +247,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
-          "url": "https://wallstreetcn.com/articles/3766863",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
@@ -332,7 +354,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -362,7 +384,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "能源情报集团记者Amena Bakr：（美国临时允许印度购买滞留在海上的俄油）这仍然不足以缓解全球石油市场的压力。",
@@ -423,6 +445,17 @@
           "time_info": "[03时47分 ~ 05时54分]"
         },
         {
+          "title": "请全球通缉发明这个水枪的天才",
+          "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E5%85%A8%E7%90%83%E9%80%9A%E7%BC%89%E5%8F%91%E6%98%8E%E8%BF%99%E4%B8%AA%E6%B0%B4%E6%9E%AA%E7%9A%84%E5%A4%A9%E6%89%8D&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
           "title": "金十图示：2026年03月05日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260306050555313800",
           "source": "金十数据",
@@ -440,7 +473,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -495,7 +528,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -645,8 +678,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 22时07分]"
         },
         {
           "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
