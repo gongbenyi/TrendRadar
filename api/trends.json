@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T22:54:45.987257+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-03-08T23:48:21.601909+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -41,6 +41,35 @@
           "time_info": "[00时55分 ~ 05时41分]"
         },
         {
+          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
+          "url": "https://wallstreetcn.com/articles/3766963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时01分 ~ 23时48分]"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时01分 ~ 23时48分]"
+        },
+        {
           "title": "委内瑞拉代总统致函特朗普",
           "url": "https://www.toutiao.com/trending/7614119677836476458/",
           "source": "今日头条",
@@ -55,32 +84,17 @@
           "time_info": "[13时02分 ~ 21时52分]"
         },
         {
-          "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
-          "url": "https://wallstreetcn.com/articles/3766963",
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[17时01分 ~ 22时54分]"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时01分 ~ 22时54分]"
+          "time_info": "[17时55分 ~ 23时48分]"
         },
         {
           "title": "英国可能部署航母至中东，特朗普：不需要",
@@ -95,19 +109,6 @@
           "time_info": "[07时44分 ~ 18时55分]"
         },
         {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时55分 ~ 22时54分]"
-        },
-        {
           "title": "特朗普：目前无计划在伊朗部署地面部队",
           "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
@@ -118,6 +119,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时44分 ~ 15时44分]"
+        },
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时48分]"
         },
         {
           "title": "王毅回应特朗普访华",
@@ -132,18 +146,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时02分 ~ 17时56分]"
-        },
-        {
-          "title": "王毅谈特朗普访华",
-          "url": "https://www.douyin.com/hot/2423029",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时54分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普最好承认他犯了错误，被以色列欺骗了。",
@@ -254,6 +256,19 @@
           "time_info": "[04时52分 ~ 07时44分]"
         },
         {
+          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
+          "url": "https://wallstreetcn.com/livenews/3065878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时48分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-08）",
           "url": "https://flash.jin10.com/detail/20260308183208221800",
           "source": "金十数据",
@@ -266,6 +281,18 @@
           "time_info": "[18时55分 ~ 19时42分]"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普的当前计划中不包括部署地面部队。特朗普并未排除这一选项。",
+          "url": "https://flash.jin10.com/detail/20260308221917861800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
           "title": "美国宣布有条件放松对委内瑞拉黄金交易相关制裁！委代总统：将以“特朗普式速度”加快美获取委矿产进程，包括黄金、稀土等",
           "url": "https://wallstreetcn.com/articles/3766957",
           "source": "华尔街见闻",
@@ -275,18 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
-          "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
-          "url": "https://wallstreetcn.com/livenews/3065878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时54分]"
         },
         {
           "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
@@ -312,17 +327,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "白宫新闻秘书莱维特：特朗普的当前计划中不包括部署地面部队。特朗普并未排除这一选项。",
-          "url": "https://flash.jin10.com/detail/20260308221917861800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
           "title": "美国总统特朗普：伊朗已经垮了，古巴也会垮，我们正在大获全胜！",
           "url": "https://flash.jin10.com/detail/20260308010938903800",
           "source": "金十数据",
@@ -343,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普：未经我批准 伊朗新任最高领袖不会在位太久",
+          "url": "https://flash.jin10.com/detail/20260308231657473800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普：我认为鲁比奥将成为历史上最优秀的国务卿，这是我的看法。",
@@ -367,6 +382,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普：油价飙升是“预料中的波折”",
+          "url": "https://flash.jin10.com/detail/20260308231407886800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
           "url": "https://flash.jin10.com/detail/20260308104028991800",
           "source": "金十数据",
@@ -387,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国参议员汤姆·蒂利斯要求特朗普立即解雇国土安全顾问斯蒂芬·米勒。",
+          "url": "https://flash.jin10.com/detail/20260308230009882800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -531,8 +568,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时44分 ~ 22时54分]"
+          "appearance_count": 11,
+          "time_info": "[15时44分 ~ 23时48分]"
         },
         {
           "title": "杨超越巴黎世家全球首穿",
@@ -563,11 +600,23 @@
           "url": "https://www.zhihu.com/question/2013557504592859381",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时54分]"
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 23时48分]"
+        },
+        {
+          "title": "中国式现代化圈粉全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时48分]"
         },
         {
           "title": "王毅谈经济全球化：脱钩断链最终将反噬其身",
@@ -595,6 +644,18 @@
           "time_info": "[00时55分 ~ 03时01分]"
         },
         {
+          "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
+          "url": "https://wallstreetcn.com/livenews/3065898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
           "title": "美国私募信贷危机扩散！“全球最大资管”也被迫“限制赎回”旗下私募信贷基金",
           "url": "https://wallstreetcn.com/articles/3766937",
           "source": "华尔街见闻",
@@ -605,17 +666,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时44分]"
-        },
-        {
-          "title": "中国式现代化圈粉全球",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%9C%88%E7%B2%89%E5%85%A8%E7%90%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时54分]"
         },
         {
           "title": "王毅：中国始终心系全球南方、扎根全球南方",
@@ -641,24 +691,13 @@
           "time_info": "[06时52分 ~ 13时02分]"
         },
         {
-          "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
-          "url": "https://wallstreetcn.com/livenews/3065898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
           "title": "全球先锋赛抽签结果",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
