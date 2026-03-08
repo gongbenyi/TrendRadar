@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-03-09T05:46:20.268354+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-09T06:54:00.231229+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,39 +42,29 @@
           "time_info": "[00时57分 ~ 05时46分]"
         },
         {
-          "title": "王毅谈特朗普访华",
-          "url": "https://www.douyin.com/hot/2423029",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
-        },
-        {
-          "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
-        },
-        {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
           "url": "https://wallstreetcn.com/articles/3766963",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -66,16 +79,15 @@
           "time_info": "[00时57分 ~ 05时46分]"
         },
         {
-          "title": "委内瑞拉代总统致函特朗普",
-          "url": "https://www.toutiao.com/trending/7614119677836476458/",
-          "source": "今日头条",
+          "title": "伊朗高官说特朗普不懂伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065934",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
@@ -114,6 +126,32 @@
           "time_info": "[00时57分 ~ 01时51分]"
         },
         {
+          "title": "特朗普威胁称伊朗新领导人“难长久”",
+          "url": "https://wallstreetcn.com/livenews/3065911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗外长致信联合国安理会，称特朗普近日相关表态构成战争罪和危害人类罪",
+          "url": "https://wallstreetcn.com/livenews/3065914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时54分]"
+        },
+        {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
           "url": "https://wallstreetcn.com/livenews/3065878",
           "source": "华尔街见闻-快讯",
@@ -143,30 +181,6 @@
           "ranks": [
             7,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时46分]"
-        },
-        {
-          "title": "特朗普威胁称伊朗新领导人“难长久”",
-          "url": "https://wallstreetcn.com/livenews/3065911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时46分]"
-        },
-        {
-          "title": "伊朗外长致信联合国安理会，称特朗普近日相关表态构成战争罪和危害人类罪",
-          "url": "https://wallstreetcn.com/livenews/3065914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -287,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "两会外长会｜王毅85分钟答21问！中国外交是全球乱局中不可替代的中流砥柱（完整版）",
@@ -298,8 +312,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "油价、气价、粮价、肥价都在涨，霍尔木兹航运危机是否正在触发一场大宗商品涨价风暴？对全球通胀有何影响？",
@@ -311,8 +325,21 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "全球先锋赛抽签结果",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时46分]"
+          "time_info": "[03时02分 ~ 06时54分]"
         },
         {
           "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
@@ -338,18 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 03时03分]"
-        },
-        {
-          "title": "全球先锋赛抽签结果",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 05时46分]"
         },
         {
           "title": "“龙虾”全球爆火 多家A股公司回应",
@@ -378,8 +393,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时51分 ~ 06时54分]"
         },
         {
           "title": "美元在悉尼盘初走高，投资者关注油价上涨",
@@ -387,11 +402,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时54分]"
         },
         {
           "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
@@ -400,7 +416,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
