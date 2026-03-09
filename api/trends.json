@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T16:02:46.514747+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-09T19:12:41.833086+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -73,11 +73,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 19时12分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -104,13 +105,24 @@
           "time_info": "[13时13分 ~ 16时02分]"
         },
         {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美媒劝特朗普见好就收",
           "url": "https://news.ifeng.com/c/8rLmtoks9IL",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -282,13 +294,24 @@
           "time_info": "[07时49分 ~ 07时50分]"
         },
         {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美媒使用旧视频掩盖特朗普失礼行为",
           "url": "https://www.toutiao.com/trending/7615121103565340681/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -304,13 +327,35 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美国总统特使威特科夫、特朗普女婿库什纳访以行程推迟。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3066456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "伊朗方面称若邻国无法遏制特朗普，油价将涨至创纪录的200美元/桶。",
           "url": "https://flash.jin10.com/detail/20260309152919893800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -346,6 +391,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特使威特科夫、特朗普女婿库什纳访以行程推迟。",
+          "url": "https://flash.jin10.com/detail/20260309183351665800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "特朗普的儿子们支持一家瞄准国防部订单的无人机新公司。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3066443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
@@ -406,7 +473,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国式现代化圈粉全球",
@@ -469,7 +536,30 @@
           "time_info": "[13时13分 ~ 13时14分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 19时12分]"
+        },
+        {
           "title": "G7拟协调释放石油储备！WTI原油抹去一半涨幅，全球股债双杀、韩股跌7%，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
           "ranks": [
@@ -477,7 +567,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "19时12分"
         },
         {
           "title": "英国警告全球贸易体系正承受不可持续的压力。（英国金融时报）",
@@ -514,17 +604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 03时03分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 16时02分]"
         },
         {
           "title": "博通作为全球市值第二的芯片公司为什么没有什么知名度？",
@@ -569,6 +648,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "全球第三大战略原油储备！日本即将“放油”？",
+          "url": "https://wallstreetcn.com/articles/3766995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "机构：2025年全球AI眼镜出货量达870万台 同比大幅增长322%",
@@ -626,6 +716,39 @@
           "time_info": "13时14分"
         },
         {
+          "title": "镖人升至全球武侠片票房亚军",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E5%8D%87%E8%87%B3%E5%85%A8%E7%90%83%E6%AD%A6%E4%BE%A0%E7%89%87%E7%A5%A8%E6%88%BF%E4%BA%9A%E5%86%9B%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "国际油价“坐上过山车”？IMF总裁：每涨10%，全球通胀就会上升40基点！",
+          "url": "https://www.cls.cn/detail/2307002",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "中国台湾证券交易所：尽管全球不确定性加剧、市场波动性上升，台湾股市在稳健的企业基本面、强劲的经济动能以及充裕的市场流动性支撑下，仍展现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260309184225120800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：如果这种趋势在今年多数时间持续下去，油价每上涨10%，将导致全球通胀上升40个基点。",
           "url": "https://flash.jin10.com/detail/20260309122719546800",
           "source": "金十数据",
@@ -643,7 +766,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -654,7 +777,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -662,7 +785,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股春季行情短期仍可能延续？投资主线有哪些？十大券商策略来了",
@@ -686,7 +809,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -697,7 +820,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -715,6 +838,28 @@
           "time_info": "[04时54分 ~ 06时54分]"
         },
         {
+          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 19时12分]"
+        },
+        {
+          "title": "中国台湾证券交易所：鼓励上市公司适时执行买回库存股，以提升投资人信心。",
+          "url": "https://flash.jin10.com/detail/20260309184337749800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
           "url": "https://flash.jin10.com/detail/20260309043828672800",
           "source": "金十数据",
@@ -724,17 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
-        },
-        {
-          "title": "“龙虾”狂欢③深圳龙岗拟推“龙虾十条”，“一人公司”项目最高1000万元股权投资支持",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728871",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "油价飙升触发避险狂潮 投资者静候“最坏时刻”",
