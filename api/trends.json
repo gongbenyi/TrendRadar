@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:02:11.159251+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-03-10T22:38:30.691512+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时54分 ~ 20时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时54分 ~ 22时38分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 22时38分]"
         },
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时01分 ~ 15时58分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时38分]"
         },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -163,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普称可能与伊朗对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "美媒最新民调：特朗普支持率下滑至44%",
@@ -264,6 +264,17 @@
           "time_info": "[01时38分 ~ 07时55分]"
         },
         {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -286,6 +297,28 @@
           "time_info": "05时04分"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
           "url": "https://flash.jin10.com/detail/20260310011623908800",
           "source": "金十数据",
@@ -303,9 +336,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
@@ -317,6 +361,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            24,
+            25,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时58分 ~ 22时38分]"
         },
         {
           "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
@@ -366,19 +424,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时54分 ~ 13时02分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时58分 ~ 20时02分]"
         },
         {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
@@ -552,7 +597,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -621,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "以色列外交部长萨尔援引美国总统特朗普的话称，这场战争本周不会结束。",
+          "url": "https://flash.jin10.com/detail/20260310220252807800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：当伊朗在很长一段时间内都无能力再对美国、以色列或我们的盟友发动武器袭击时，这场危机就结束了。",
@@ -934,7 +990,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -1010,6 +1066,28 @@
           "time_info": "07时55分"
         },
         {
+          "title": "LOL全球战队实力排行榜更新",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E5%85%A8%E7%90%83%E6%88%98%E9%98%9F%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "中国两会将为全球创造更多机遇",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%B0%86%E4%B8%BA%E5%85%A8%E7%90%83%E5%88%9B%E9%80%A0%E6%9B%B4%E5%A4%9A%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.614吨，当前持仓量为1070.707吨。",
           "url": "https://flash.jin10.com/detail/20260310064900632800",
           "source": "金十数据",
@@ -1021,16 +1099,30 @@
           "time_info": "07时01分"
         },
         {
+          "title": "交通部约谈两家全球航运公司",
+          "url": "https://www.douyin.com/hot/2425165",
+          "source": "抖音",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时38分]"
+        },
+        {
           "title": "G7会后称暂不释放油储，但“随时准备”采取必要措施支持全球能源供应",
           "url": "https://wallstreetcn.com/articles/3767079",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时38分]"
         },
         {
           "title": "中国拥有全球规模最大海运船队",
@@ -1044,18 +1136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时55分 ~ 07时01分]"
-        },
-        {
-          "title": "交通部约谈两家全球航运公司",
-          "url": "https://www.douyin.com/hot/2425165",
-          "source": "抖音",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "中国拥有全球规模最大的海运船队",
@@ -1169,6 +1249,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "中东冲突引发市场剧烈波动，全球最大的几家对冲基金损失数亿美元",
+          "url": "https://wallstreetcn.com/livenews/3067365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "一些以色列高级官员开始对伊朗的升级、无止境的攻击表示担忧，并提出可能的出路，以期在战争进一步损害该地区和全球经济之前停止冲突。",
           "url": "https://flash.jin10.com/detail/20260310010314500800",
           "source": "金十数据",
@@ -1202,6 +1293,17 @@
           "time_info": "18时07分"
         },
         {
+          "title": "金十图示：2026年03月10日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260310220031176800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
           "title": "伊朗外交部：伊朗外交部长与日本外相通电话，就美国和以色列的军事行动及地区局势发展，以及其在地区和全球范围内的影响进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260310152106933800",
           "source": "金十数据",
@@ -1216,7 +1318,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "中证报：耐心资本服务“硬科技”，创业投资锚定产业新赛道",
@@ -1250,7 +1352,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -1283,7 +1385,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -1297,6 +1399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "两会深观察｜投资于人，高质量发展的最大底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32738123",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "日本首相高市早苗：已指示部长们考虑投资规模和时机。",
@@ -1319,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "国际金融协会（IIF）：继1月份创纪录的1005亿美元资金流入之后，2月份非居民投资者又向新兴市场投资组合净流入217亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310220107234800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "日本首相高市早苗：此前的投资目标选择是处于战略性考量。",
@@ -1352,6 +1476,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "印度政府：印度批准有限放宽中企在印度的投资限制。",
+          "url": "https://flash.jin10.com/detail/20260310215717246800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "谷歌公司将向美国五角大楼未披露的工作提供AI智能体（AI Agents）。",
+          "url": "https://wallstreetcn.com/livenews/3067368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         }
       ]
     },
@@ -1380,23 +1543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         }
       ]
     }
