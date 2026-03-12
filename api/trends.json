@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:54:43.644387+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-03-12T22:39:01.285149+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时54分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[06时54分 ~ 22时39分]"
         },
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -56,6 +56,19 @@
           "time_info": "[01时39分 ~ 07时55分]"
         },
         {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时39分]"
+        },
+        {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
           "url": "https://www.cls.cn/detail/2310250",
           "source": "财联社热门",
@@ -82,6 +95,31 @@
           "time_info": "[01时39分 ~ 07时55分]"
         },
         {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 22时39分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时39分]"
+        },
+        {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -91,18 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时54分]"
         },
         {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
@@ -115,18 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 16时02分]"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时08分 ~ 19时54分]"
         },
         {
           "title": "中方回应特朗普将对华新贸易调查",
@@ -173,17 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "消息人士称，俄罗斯总统普京的特使德米特里耶夫正在佛罗里达州，会见美国总统特朗普政府的成员。",
@@ -287,6 +290,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时54分 ~ 13时08分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普宣称：当前美国工作的人数比历史上任何时候都多。",
@@ -568,6 +582,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "美国总统特朗普的司法部提交诉讼，要求阻止加州的电动汽车政策。",
+          "url": "https://wallstreetcn.com/livenews/3068989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "特朗普再次威胁将切断与西班牙贸易往来",
           "url": "https://flash.jin10.com/detail/20260312024400952800",
           "source": "金十数据",
@@ -577,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普担心短期内能源价格走高。",
+          "url": "https://flash.jin10.com/detail/20260312220842654800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "特朗普称美国将“略微”削减战略石油储备",
@@ -703,7 +739,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗封锁海峡为何让全球油价上涨",
@@ -775,7 +811,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -789,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "追觅AURORA手机全球首秀",
+          "url": "https://wallstreetcn.com/livenews/3068997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "国际能源署：受中东危机影响，航空旅行受到干扰，将2026年航空燃料和煤油的需求预期下调。 将全球2026年航空燃料和煤油年需求修正为788万桶/日。（上月为791万桶/日）。",
@@ -879,6 +926,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "金十图示：2026年03月12日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260312220027915800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "老板电器发布全球首款AI烹饪眼镜",
           "url": "https://wallstreetcn.com/livenews/3068770",
           "source": "华尔街见闻-快讯",
@@ -907,7 +965,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
@@ -915,7 +973,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "十五五，十五问｜促进高质量就业，为何必须“投资于人”？",
@@ -1008,9 +1066,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "胜宏科技：2025年净利润同比增长273.52%，2026年度投资计划不超过200亿元",
+          "url": "https://wallstreetcn.com/livenews/3068980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
