@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T13:06:29.842060+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-03-13T16:01:58.948263+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "time_info": "[01时39分 ~ 07时54分]"
         },
         {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 16时01分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -44,27 +57,15 @@
           "time_info": "[01时39分 ~ 05时06分]"
         },
         {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时54分]"
-        },
-        {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
           "url": "https://news.ifeng.com/c/8rSDrMIby5D",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -84,7 +85,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -110,6 +111,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 13时06分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -153,18 +190,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -180,17 +206,6 @@
           "time_info": "03时56分"
         },
         {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
           "url": "https://flash.jin10.com/detail/20260313031932554800",
           "source": "金十数据",
@@ -200,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
         },
         {
           "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
@@ -252,7 +256,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -271,7 +275,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "为全球发展注入稳定性和正能量",
@@ -283,6 +287,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时39分 ~ 13时06分]"
+        },
+        {
+          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-03-13）",
+          "url": "https://flash.jin10.com/detail/20260313153948135800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "美国财长贝森特：为了增加现有供应的全球覆盖范围，财政部正提供一项临时授权，允许各国购买目前滞留在海上的俄罗斯石油。这一短期措施仅适用于已经在运输途中的石油，且不会给俄罗斯政府带来重大的财政收益。",
@@ -342,6 +357,18 @@
           "time_info": "[07时04分 ~ 07时54分]"
         },
         {
+          "title": "伊朗副外长称允许部分国家船只通过霍尔木兹海峡，并未在该水域布雷，这对全球能源市场有哪些利好？",
+          "url": "https://www.zhihu.com/question/2015702712000410278",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
+        },
+        {
           "title": "伊朗封锁海峡为何让全球油价上涨",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E6%B5%B7%E5%B3%A1%E4%B8%BA%E4%BD%95%E8%AE%A9%E5%85%A8%E7%90%83%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -352,6 +379,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时03分 ~ 07时54分]"
+        },
+        {
+          "title": "美联储全年降息预期首度跌破1次！油价飙升后将演变为全球加息潮？",
+          "url": "https://www.cls.cn/detail/2311536",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "博通全球首款102.4 Tbps交换芯片实现量产出货",
@@ -394,7 +432,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -416,7 +454,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -427,18 +465,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "伊朗副外长称允许部分国家船只通过霍尔木兹海峡，并未在该水域布雷，这对全球能源市场有哪些利好？",
-          "url": "https://www.zhihu.com/question/2015702712000410278",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         }
@@ -446,7 +473,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "力拓投资者表示，嘉能可首席执行官加里·纳格尔希望在煤炭价格上涨之际重启与力拓集团的谈判。",
@@ -455,7 +482,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -484,6 +511,18 @@
           "time_info": "[05时06分 ~ 07时04分]"
         },
         {
+          "title": "3月13日投资避雷针：700亿人气股紧急澄清 网络上取得大额订单等信息均不属实",
+          "url": "https://www.cls.cn/detail/2311519",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时06分 ~ 16时01分]"
+        },
+        {
           "title": "据BBVA Mexico：墨西哥固定收益市场在2月份迎来20亿美元外国投资者资金流入，创2019年以来最佳年度开局。",
           "url": "https://wallstreetcn.com/livenews/3069174",
           "source": "华尔街见闻-快讯",
@@ -496,15 +535,15 @@
           "time_info": "[07时04分 ~ 07时54分]"
         },
         {
-          "title": "3月13日投资避雷针：700亿人气股紧急澄清 网络上取得大额订单等信息均不属实",
-          "url": "https://www.cls.cn/detail/2311519",
-          "source": "财联社热门",
+          "title": "中基协就《私募投资基金信息披露实施细则（征求意见稿）》等公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3069514",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时06分"
+          "time_info": "16时01分"
         },
         {
           "title": "美国能源部宣布将投资19亿美元用于关键电网基础设施，以降低电力成本。",
