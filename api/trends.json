@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T07:01:45.111828+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-03-16T07:58:52.654044+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "美以伊战争丨伊议长：特朗普说击败了我们9次，搞笑",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "特朗普点名日本护航，高市早苗压力陡增",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "特朗普呼吁多国派遣军舰护航，回应来了",
@@ -82,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
@@ -91,11 +91,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
@@ -106,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
@@ -118,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
@@ -146,15 +147,49 @@
           "time_info": "[01时03分 ~ 05时55分]"
         },
         {
+          "title": "美国总统特朗普：那些传播假消息的媒体机构应因散布虚假信息而被以叛国罪起诉。",
+          "url": "https://flash.jin10.com/detail/20260316075114013800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗与假新闻媒体密切配合，展示“亚伯拉罕·林肯”号航空母舰在海上失控燃烧。但实际上它不仅没有着火，甚至根本没有遭到攻击。",
+          "url": "https://flash.jin10.com/detail/20260316075053880800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：联邦通信委员会（FCC）主席布伦丹·卡尔正在审查其中一些腐败且极不爱国的“新闻”机构的牌照。这些机构获得了数十亿美元价值的美国公共电波资源，却用来传播谎言。",
+          "url": "https://flash.jin10.com/detail/20260316075030732800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美石油巨头警告特朗普政府：能源危机恐加剧",
           "url": "https://wallstreetcn.com/livenews/3070428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时58分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
@@ -180,13 +215,46 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美国总统特朗普：据《华尔街日报》的虚假报道以及其他媒体称，有五架美国空中加油机被击落并严重受损，但事实上这些飞机都仍在服役，只有一架例外，而且很快也会重新飞上天空。",
+          "url": "https://flash.jin10.com/detail/20260316075000378800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国总统特朗普：人工智能成为了伊朗使用的另一个虚假信息武器，而且他们用得相当熟练，尽管他们每天都在被彻底击溃。",
+          "url": "https://flash.jin10.com/detail/20260316074925803800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普再批英国行动太迟：赢了才派船",
+          "url": "https://flash.jin10.com/detail/20260316072611295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
           "url": "https://flash.jin10.com/detail/20260316061016846800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -197,9 +265,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普警告北约：若不出力协助海峡通航 将面临“糟糕”未来",
+          "url": "https://flash.jin10.com/detail/20260316071914018800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据英国金融时报：特朗普还警告称，美国准备对伊朗石油出口枢纽哈尔克岛发动新的打击，并可能瞄准其石油基础设施。",
+          "url": "https://flash.jin10.com/detail/20260316071519850800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据英国金融时报：特朗普警告称，如果盟友不帮助美国应对伊朗问题，北约将面临“非常糟糕的未来”。",
+          "url": "https://flash.jin10.com/detail/20260316071225306800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -215,8 +316,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "战前买下全球1/3超级油轮运力！这位神秘韩国富豪是伊朗战争最大赢家？",
@@ -226,8 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "中国仙侠剧凡人修仙传火爆全球",
@@ -239,11 +340,12 @@
             18,
             24,
             29,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
@@ -253,8 +355,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时58分]"
         },
         {
           "title": "“超级央行周”来袭，伊朗战争阴影笼罩全球利率决策",
@@ -308,6 +410,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 05时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东乱局下，能源安全成头号投资主题！大摩详解布局方向",
+          "url": "https://www.cls.cn/detail/2313171",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
