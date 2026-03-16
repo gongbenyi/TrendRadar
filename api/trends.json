@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-03-17T02:11:51.901288+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-17T05:04:27.749549+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2016900692145637068",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -35,6 +25,39 @@
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,37 +75,49 @@
           "time_info": "02时11分"
         },
         {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：战争很快就会结束，但不是这周。",
+          "url": "https://flash.jin10.com/detail/20260317044608983800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "05时04分"
         },
         {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们并不清楚是否有任何水雷被布设在霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260317044201946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普政府请求法官重新考虑阻止针对鲍威尔刑事调查的裁决",
+          "url": "https://flash.jin10.com/detail/20260317044129034800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "05时04分"
         },
         {
           "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
           "url": "https://wallstreetcn.com/articles/3767606",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -92,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -103,8 +138,64 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "美国总统特朗普：将在“合适的时机”揭示哪些国家在提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260317043657484800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普宣称：我比几乎任何人都不希望发动战争。",
+          "url": "https://wallstreetcn.com/livenews/3071153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：（谈英国首相斯塔默）我告诉他，我们不需要你的航母。",
+          "url": "https://flash.jin10.com/detail/20260317043528007800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及哈尔格岛）在某个时候，输油管道方面将会发生一些事情。",
+          "url": "https://flash.jin10.com/detail/20260317043453852800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美国总统特朗普结束新闻发布会。",
@@ -118,6 +209,28 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美国总统特朗普：如果我们不这样做，就会有核战争。",
+          "url": "https://flash.jin10.com/detail/20260317043335605800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：其他国家应该感谢我。",
+          "url": "https://flash.jin10.com/detail/20260317043308055800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "美国总统特朗普：真主党一直是个问题。",
           "url": "https://flash.jin10.com/detail/20260317011359200800",
           "source": "金十数据",
@@ -127,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及在伊朗的行动）我为我们所做的感到非常自豪。",
+          "url": "https://flash.jin10.com/detail/20260317043301770800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "美国总统特朗普：与以色列讨论了在黎巴嫩的地面行动。",
@@ -217,6 +341,17 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美国总统特朗普：我想要的战争比几乎任何人都少。",
+          "url": "https://flash.jin10.com/detail/20260317042600526800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "美国总统特朗普：霍尔木兹海峡可能存在水雷以让船只远离。",
           "url": "https://flash.jin10.com/detail/20260317010548761800",
           "source": "金十数据",
@@ -259,17 +394,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
+          "title": "G2 vs TSW 全球先锋赛",
+          "url": "https://search.bilibili.com/all?keyword=G2%20TSW",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "给铝价“火上浇油”！巴林铝业开始分阶段关闭“全球最大铝冶炼厂”",
+          "url": "https://wallstreetcn.com/articles/3767551",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
+        },
+        {
+          "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
+          "url": "https://flash.jin10.com/detail/20260317044000425800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时11分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "Uber(UBER.N)盘后上涨3%，英伟达与Uber将推出由英伟达软件驱动的全球自动驾驶车队，计划于2027年上半年启动。",
+          "url": "https://flash.jin10.com/detail/20260317043539548800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "2026 英雄联盟全球先锋赛 小组赛 BLG 3：2 战胜 BFX，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2016925262856627223",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -313,34 +499,6 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "给铝价“火上浇油”！巴林铝业开始分阶段关闭“全球最大铝冶炼厂”",
-          "url": "https://wallstreetcn.com/articles/3767551",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "G2 vs TSW 全球先锋赛",
-          "url": "https://search.bilibili.com/all?keyword=G2%20TSW",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -349,11 +507,12 @@
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 05时04分]"
         }
       ]
     }
