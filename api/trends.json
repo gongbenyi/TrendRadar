@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:17:45.234202+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-03-19T16:02:40.015745+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -62,6 +62,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时31分 ~ 13时17分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时02分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -143,26 +155,26 @@
           "time_info": "07时21分"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "知情人士：特朗普政府或强推官方保险！想要美军护航要“先买单”？",
+          "url": "https://flash.jin10.com/detail/20260319153837266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "被质问为何不谴责美以袭击伊朗？高市早苗语出惊人：因为我要见特朗普",
@@ -171,9 +183,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "高市早苗访美与特朗普如何“面对面”？",
+          "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
@@ -223,7 +246,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -237,13 +260,24 @@
           "time_info": "[03时31分 ~ 07时21分]"
         },
         {
+          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
+          "url": "https://wallstreetcn.com/articles/3767863",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 16时02分]"
+        },
+        {
           "title": "昆仑万维：SkyReels V4登上Artificial Analysis榜单全球第一",
           "url": "https://flash.jin10.com/detail/20260319130405351800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -254,7 +288,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -265,18 +299,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "伊朗对美相关能源设施发动大规模导弹袭击，列明中东三国目标，卡塔尔称“全球最大LNG设施遭严重破坏”",
-          "url": "https://wallstreetcn.com/articles/3767863",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         },
@@ -338,6 +361,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "油价上涨如何影响全球股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "俄副总理称全球正面临40年来最严重能源危机",
           "url": "https://wallstreetcn.com/livenews/3072649",
           "source": "华尔街见闻-快讯",
@@ -360,6 +394,61 @@
           "time_info": "07时21分"
         },
         {
+          "title": "日本央行行长植田和男：中东冲突后与全球央行没有具体的联合行动。 距离目标通胀还有一定距离。",
+          "url": "https://wallstreetcn.com/livenews/3073057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "任敏10年前考上全球前十表演学校",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F10%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%85%A8%E7%90%83%E5%89%8D%E5%8D%81%E8%A1%A8%E6%BC%94%E5%AD%A6%E6%A0%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "港澳台侨企深耕沪上，上海何以成为全球布局的首选之地？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783196",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本央行行长植田和男：中东冲突后并未与全球央行采取具体联合行动。",
+          "url": "https://flash.jin10.com/detail/20260319153417176800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本央行行长植田和男：全球市场的风险情绪略有缓解，但没有消除。 不认为金融系统出现系统性风险。 中东冲突前的数据表现“符合预期”。 关于潜在通胀的新指标可能会排除政府政策对通胀的影响。 在其他条件不变的情况下，油价上涨会推高通胀、抑制经济。 本月维持利率不变，是因为实现通胀目标的可见性降低。",
+          "url": "https://wallstreetcn.com/livenews/3073048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "《蜘蛛侠4》全球首支预告",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E5%85%A8%E7%90%83%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A",
           "source": "百度热搜",
@@ -371,13 +460,24 @@
           "time_info": "05时51分"
         },
         {
+          "title": "全球最大LNG厂遭袭气价暴涨，分析师警告：危机不会随战争结束而终结",
+          "url": "https://flash.jin10.com/detail/20260319153141860800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "全球最大电子级玻璃纤维生产线点火",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%94%B5%E5%AD%90%E7%BA%A7%E7%8E%BB%E7%92%83%E7%BA%A4%E7%BB%B4%E7%94%9F%E4%BA%A7%E7%BA%BF%E7%82%B9%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
@@ -385,7 +485,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
@@ -419,8 +519,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时31分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[03时31分 ~ 16时02分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -456,6 +556,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "三星电子：计划2026年在研发与设施方面投资至少110万亿韩元。 计划2026年派发9.8万亿韩元常规股息。 寻求机器人、医疗技术、汽车电子、暖通空调领域有意义的并购。",
+          "url": "https://wallstreetcn.com/livenews/3073075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美联储主席鲍威尔：人工智能投资也可能会提高中性利率。",
           "url": "https://flash.jin10.com/detail/20260319031755717800",
           "source": "金十数据",
@@ -465,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "3月19日投资避雷针：中东战火升级至能源领域 上周海湾国家日均石油出口量下跌超六成",
+          "url": "https://www.cls.cn/detail/2317543",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
