@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T07:56:53.502893+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-03-21T12:55:18.020496+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -14,11 +14,27 @@
           "ranks": [
             5,
             4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 12时55分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 12时55分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -43,18 +59,30 @@
           "time_info": "[05时03分 ~ 07时56分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
             5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时56分]"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 12时55分]"
+        },
+        {
+          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 12时55分]"
         },
         {
           "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
@@ -78,6 +106,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时51分 ~ 07时56分]"
+        },
+        {
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
@@ -114,6 +153,19 @@
           "time_info": "[01时12分 ~ 07时56分]"
         },
         {
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 12时55分]"
+        },
+        {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
           "url": "https://news.ifeng.com/c/8reXnxHbSXD",
           "source": "凤凰网",
@@ -123,17 +175,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
         },
         {
           "title": "美国总统特朗普：我们可以与伊朗对话，但我不想要停火。",
@@ -147,6 +188,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
+          "url": "https://flash.jin10.com/detail/20260321115027994800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
           "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
           "source": "澎湃新闻",
@@ -154,19 +206,6 @@
             17,
             15,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时56分]"
-        },
-        {
-          "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -265,6 +304,17 @@
           "time_info": "[05时03分 ~ 07时56分]"
         },
         {
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
           "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
           "url": "https://wallstreetcn.com/livenews/3074342",
           "source": "华尔街见闻-快讯",
@@ -277,16 +327,26 @@
           "time_info": "[05时03分 ~ 07时01分]"
         },
         {
-          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
-          "url": "https://wallstreetcn.com/articles/3768030",
-          "source": "华尔街见闻",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时56分]"
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
@@ -490,6 +550,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "消息人士称，特朗普政府正制定方案以夺取伊朗核材料储备",
+          "url": "https://flash.jin10.com/detail/20260321102549793800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
           "url": "https://wallstreetcn.com/livenews/3074255",
           "source": "华尔街见闻-快讯",
@@ -537,7 +608,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "我国是全球增绿最多最快的国家",
@@ -551,15 +622,18 @@
           "time_info": "[01时12分 ~ 07时56分]"
         },
         {
-          "title": "JDG战胜LYON 全球先锋赛",
-          "url": "https://search.bilibili.com/all?keyword=LYON%20JDG",
+          "title": "G2战胜BFX 全球先锋赛",
+          "url": "https://search.bilibili.com/all?keyword=G2%20BFX",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4,
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时51分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 12时55分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -574,17 +648,27 @@
           "time_info": "[01时12分 ~ 07时01分]"
         },
         {
-          "title": "G2战胜BFX 全球先锋赛",
-          "url": "https://search.bilibili.com/all?keyword=G2%20BFX",
+          "title": "JDG战胜LYON 全球先锋赛",
+          "url": "https://search.bilibili.com/all?keyword=LYON%20JDG",
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4,
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时56分]"
+          "appearance_count": 6,
+          "time_info": "[03时51分 ~ 12时55分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 12时55分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）全球股市指数-美洲市场",
@@ -596,17 +680,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 07时56分]"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -632,6 +705,64 @@
           "time_info": "[05时03分 ~ 07时01分]"
         },
         {
+          "title": "波斯湾战火倒逼全球能源革命",
+          "url": "https://www.douyin.com/hot/2437623",
+          "source": "抖音",
+          "ranks": [
+            29,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 12时55分]"
+        },
+        {
+          "title": "伊朗军方威胁全球追击美以目标人员",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%A8%81%E8%83%81%E5%85%A8%E7%90%83%E8%BF%BD%E5%87%BB%E7%BE%8E%E4%BB%A5%E7%9B%AE%E6%A0%87%E4%BA%BA%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 12时55分]"
+        },
+        {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
+          "url": "https://www.cls.cn/detail/2320263",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
+          "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802764",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
           "title": "2026 全球先锋赛 BFX 爆冷 0-3 被 G2 零封，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2018457077987636278",
           "source": "知乎",
@@ -642,18 +773,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 05时03分]"
-        },
-        {
-          "title": "波斯湾战火倒逼全球能源革命",
-          "url": "https://www.douyin.com/hot/2437623",
-          "source": "抖音",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时56分]"
         },
         {
           "title": "LYON vs JDG 全球先锋赛",
@@ -709,23 +828,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "伊朗军方威胁全球追击美以目标人员",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%A8%81%E8%83%81%E5%85%A8%E7%90%83%E8%BF%BD%E5%87%BB%E7%BE%8E%E4%BB%A5%E7%9B%AE%E6%A0%87%E4%BA%BA%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国能源部：日本已承诺在美国各地投资5500亿美元。",
@@ -743,11 +851,34 @@
           "url": "https://wallstreetcn.com/livenews/3074385",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 12时55分]"
+        },
+        {
+          "title": "墨西哥媒体称墨方正考虑对中国投资进行“经济安全审查”，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801671",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 12时55分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         },
         {
           "title": "陪审团裁定：马斯克在2022年收购前误导了推特投资者",
@@ -762,6 +893,17 @@
           "time_info": "[07时01分 ~ 07时56分]"
         },
         {
+          "title": "黄金失守 4500 美元，白银跌破 68 美元，是短期调整还是趋势终结？会继续下探吗？普通投资者如何应对？",
+          "url": "https://www.zhihu.com/question/2018600177959708307",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
+        },
+        {
           "title": "英国两年期国债收益率本周涨超44个基点，投资者深挖英国央行官员们的利率政策立场",
           "url": "https://wallstreetcn.com/livenews/3074269",
           "source": "华尔街见闻-快讯",
@@ -771,17 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "墨西哥媒体称墨方正考虑对中国投资进行“经济安全审查”，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801671",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
         }
       ]
     },
@@ -796,11 +927,12 @@
           "ranks": [
             20,
             17,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 12时55分]"
         }
       ]
     }
