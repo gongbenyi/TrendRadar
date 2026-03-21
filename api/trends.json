@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T04:55:33.743268+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-22T05:50:28.040784+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "2026 全球先锋赛半决赛 G2 3:0 零封淘汰夺冠大热门 GEN，如何评价这场比赛？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "过去一周是一场清算，全球市场开始正视“伊朗战争不会很快结束”",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "人形机器人出货全球第一！从宇树招股书看王兴兴的“技术野心”与“扩张蓝图”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "G2战胜GEN 全球先锋赛",
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
@@ -86,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "BLG vs JDG 全球先锋赛",
@@ -112,8 +112,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "BLG战胜JDG 全球先锋赛",
@@ -121,11 +121,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         },
         {
           "title": "中国贸促会副会长刘健男会见丹麦诺和诺德公司全球执行副总裁林意明",
@@ -135,8 +136,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时50分]"
         },
         {
           "title": "七国集团外长声明：随时准备采取必要措施，支持全球能源供应。",
@@ -144,11 +145,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         },
         {
           "title": "利比亚国家石油公司（NOC）表示，已与全球专家公司签订合同，处理在利比亚海岸附近受损的俄罗斯油轮。",
@@ -199,8 +201,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -210,8 +212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
@@ -221,8 +223,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -243,8 +245,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
@@ -254,8 +256,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -265,8 +267,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -276,8 +278,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "美媒：特朗普团队正在为可能的伊朗和平谈判制定策略",
@@ -285,11 +287,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -299,8 +302,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -308,11 +311,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -340,8 +344,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时00分 ~ 05时50分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -369,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 05时50分]"
         },
         {
           "title": "卢特尼克：已在俄亥俄州启动价值330亿美元的日本投资项目",
@@ -378,11 +382,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时50分]"
         }
       ]
     }
