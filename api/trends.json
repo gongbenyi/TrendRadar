@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T08:05:59.878604+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-26T14:04:03.372994+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -30,6 +30,17 @@
           "time_info": "[02时38分 ~ 07时01分]"
         },
         {
+          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
+          "url": "https://wallstreetcn.com/articles/3768393",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时04分]"
+        },
+        {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
           "url": "https://wallstreetcn.com/articles/3768302",
           "source": "华尔街见闻",
@@ -41,15 +52,26 @@
           "time_info": "[02时38分 ~ 04时58分]"
         },
         {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
+          "title": "白宫：特朗普将于5月中旬访华",
+          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时05分]"
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         },
         {
           "title": "美元指数日内涨跌持平。美国总统特朗普在全国共和党国会委员会筹款活动上谈到伊朗称，“他们正在谈判”。",
@@ -58,7 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -72,6 +94,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 14时04分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -126,7 +160,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -137,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -164,17 +198,6 @@
           "time_info": "07时01分"
         },
         {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：（谈到第82空降师）特朗普更喜欢能有选择。",
           "url": "https://flash.jin10.com/detail/20260326020032797800",
           "source": "金十数据",
@@ -192,7 +215,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -206,12 +229,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
+          "url": "https://wallstreetcn.com/livenews/3077116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
@@ -249,6 +283,18 @@
           "time_info": "[02时38分 ~ 07时01分]"
         },
         {
+          "title": "BLG全球先锋赛语音",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E8%AF%AD%E9%9F%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 14时04分]"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.572吨，当前持仓量为1052.419吨。",
           "url": "https://flash.jin10.com/detail/20260326061829632800",
           "source": "金十数据",
@@ -260,15 +306,26 @@
           "time_info": "07时01分"
         },
         {
-          "title": "BLG全球先锋赛语音",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E8%AF%AD%E9%9F%B3",
-          "source": "bilibili 热搜",
+          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326134828854800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-03-26）",
+          "url": "https://flash.jin10.com/detail/20260326133756222800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "14时04分"
         },
         {
           "title": "金十图示：2026年03月25日（周三）全球股市指数-美洲市场（收盘）",
@@ -288,7 +345,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -296,6 +353,78 @@
           "title": "摩科瑞能源贸易全球LNG业务主管朱利安：在2029年之前不太可能出现液化天然气供应过剩的情况。",
           "url": "https://flash.jin10.com/detail/20260326045908585800",
           "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "东方证券：中国资产具有三重“安全溢价”，依然看好其投资机会",
+          "url": "https://flash.jin10.com/detail/20260326135432925800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
+          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时38分 ~ 08时05分]"
+        },
+        {
+          "title": "印度放宽投资限制，中国商人不敢妄动",
+          "url": "https://news.ifeng.com/c/8rnfHIrkSoj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 14时04分]"
+        },
+        {
+          "title": "3月26日投资避雷针：6天4板人气股提示风险 2025年预亏1.45亿至1.85亿元",
+          "url": "https://www.cls.cn/detail/2325056",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
+          "title": "澳大利亚资源部长：澳大利亚政府应做好准备，在未来数十年内持续支持关键矿物产业。法国拟投资澳大利亚关键矿物项目。澳大利亚将通过建立战略关键矿产储备，应对价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260326134103231800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "雅宝计划在智利投资高达31亿美元，用于锂提取项目",
+          "url": "https://wallstreetcn.com/livenews/3076915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
@@ -315,11 +444,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时04分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -357,45 +487,6 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
-          "url": "https://news.ifeng.com/c/8rmg1K8OuB2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 08时05分]"
-        },
-        {
-          "title": "印度放宽投资限制，中国商人不敢妄动",
-          "url": "https://news.ifeng.com/c/8rnfHIrkSoj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "雅宝计划在智利投资高达31亿美元，用于锂提取项目",
-          "url": "https://wallstreetcn.com/livenews/3076915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -409,8 +500,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 08时05分]"
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 14时04分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -422,6 +513,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         }
       ]
     }
