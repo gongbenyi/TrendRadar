@@ -1,977 +1,12 @@
 {
-  "generated_at": "2026-03-27T23:52:48.482926+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-03-28T00:55:06.458852+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 47,
-      "titles": [
-        {
-          "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
-          "url": "https://wallstreetcn.com/articles/3768496",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时07分 ~ 23时52分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 23时52分]"
-        },
-        {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 16时10分]"
-        },
-        {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时32分]"
-        },
-        {
-          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
-          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
-          "url": "https://wallstreetcn.com/articles/3768393",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时57分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 23时52分]"
-        },
-        {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://www.toutiao.com/trending/7621462030418972210/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren就2008年金融危机期间的行为质询总统特朗普的美联储主席提名人凯文·沃什。",
-          "url": "https://wallstreetcn.com/livenews/3077727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "谈判僵局重燃市场恐慌，油价重新走强，拖累股债金齐跌，特朗普称暂缓打击后美元涨势回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "据美国新闻机构DropSiteNews：特朗普称是伊朗请求他暂停打击伊能源设施，一名伊朗官员否认了这一说法称：“我们没有就美国潜在的袭击提出任何请求。”",
-          "url": "https://flash.jin10.com/detail/20260327053457955800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国总统特朗普将签署行政命令，在国土安全部（DHS）关门期间向运输安全管理局（TSA）特工们支付工资。",
-          "url": "https://wallstreetcn.com/livenews/3077725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
-          "url": "https://wallstreetcn.com/articles/3768442",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时13分 ~ 13时53分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗请求给多七天时间，我给了他们十天。",
-          "url": "https://flash.jin10.com/detail/20260327052820305800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国总统特朗普：我将签署一项命令，指示国土安全部部长马克韦恩·马林立即向运输安全管理局工作人员支付薪酬。",
-          "url": "https://flash.jin10.com/detail/20260327063356817800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普谈暂停对伊朗能源打击：是伊朗人让我这么做的。",
-          "url": "https://flash.jin10.com/detail/20260327052135478800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 13时53分]"
-        },
-        {
-          "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260327053813277800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时01分]"
-        },
-        {
-          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
-          "url": "https://www.cls.cn/detail/2325824",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时32分]"
-        },
-        {
-          "title": "比特币略微走高，特朗普称：伊朗要求七天，“我给了他们十天”",
-          "url": "https://wallstreetcn.com/livenews/3077701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 07时01分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时48分]"
-        },
-        {
-          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
-          "url": "https://www.zhihu.com/question/2020434705586102279",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 19时32分]"
-        },
-        {
-          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2020523519075710358",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 19时32分]"
-        },
-        {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时57分]"
-        },
-        {
-          "title": "一直赢的特朗普，又给自己续了10天",
-          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时10分]"
-        },
-        {
-          "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2326334",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时10分]"
-        },
-        {
-          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
-          "url": "https://www.cls.cn/detail/2326367",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时10分]"
-        },
-        {
-          "title": "特朗普签名将出现在面额100美元的纸币上",
-          "url": "https://flash.jin10.com/detail/20260327052048605800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国（特朗普政府）调查斯坦福大学医学院的行政政策。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3077621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国参议院共和党人正推动特朗普宣布国家紧急状态，以支付美国运输安全管理局工作人员的薪酬。",
-          "url": "https://flash.jin10.com/detail/20260327031254534800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "特朗普揭晓所谓伊朗“大礼”",
-          "url": "https://www.toutiao.com/trending/7621688276944093203/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "美财政部称纸币印特朗普签名“实至名归”",
-          "url": "https://flash.jin10.com/detail/20260327060931474800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：在七国集团会议上重申，总统特朗普致力于尽快促成俄乌战争的停火及谈判解决。",
-          "url": "https://flash.jin10.com/detail/20260327203641625800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3077645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
-          "url": "https://wallstreetcn.com/livenews/3077681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普称再推迟10天打击伊朗发电厂",
-          "url": "https://wallstreetcn.com/livenews/3077680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美指涨穿100关口，特朗普延长对伊朗谈判的最后期限至4月6日",
-          "url": "https://wallstreetcn.com/livenews/3077679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美元纸币将印特朗普签名",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%83%E7%BA%B8%E5%B8%81%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
-          "url": "https://flash.jin10.com/detail/20260327043248465800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
-          "url": "https://wallstreetcn.com/livenews/3077593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "特朗普将打击伊能源设施时间推后10天 金油暴动",
-          "url": "https://flash.jin10.com/detail/20260327042436894800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
-          "url": "https://wallstreetcn.com/livenews/3077592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "全球",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 23时52分]"
-        },
-        {
-          "title": "中国造光缆吸引全球订单",
-          "url": "https://www.toutiao.com/trending/7621483481763364905/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "继续巩固全球市场第二！中芯国际2025全年销售超93亿美元 产能利用率增至93.5%",
-          "url": "https://www.cls.cn/detail/2325992",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
-        },
-        {
-          "title": "商务部公告2026年第17号 公布对美国破坏全球产供链相关做法和措施发起贸易壁垒调查",
-          "url": "https://wallstreetcn.com/livenews/3078040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "七国集团外长：正专注于支持旨在缓解全球经济冲击的举措。",
-          "url": "https://flash.jin10.com/detail/20260327224528518800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "原油危机4月“全球大爆发”？小摩绘制“时间表地图”：依次为亚非欧美！",
-          "url": "https://www.cls.cn/detail/2326867",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 22时48分]"
-        },
-        {
-          "title": "“想在全球成功 就必须选择中国”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%83%B3%E5%9C%A8%E5%85%A8%E7%90%83%E6%88%90%E5%8A%9F+%E5%B0%B1%E5%BF%85%E9%A1%BB%E9%80%89%E6%8B%A9%E4%B8%AD%E5%9B%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时03分 ~ 23时52分]"
-        },
-        {
-          "title": "全球唯一双座隐身战机！解析歼-20S",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E5%8F%8C%E5%BA%A7%E9%9A%90%E8%BA%AB%E6%88%98%E6%9C%BA%EF%BC%81%E8%A7%A3%E6%9E%90%E6%AD%BC-20S",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 16时10分]"
-        },
-        {
-          "title": "解读3月全球宏观经济",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB3%E6%9C%88%E5%85%A8%E7%90%83%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3078265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "全球先锋赛全位置前三数据",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E5%85%A8%E4%BD%8D%E7%BD%AE%E5%89%8D%E4%B8%89%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "日本据传考虑做空原油救日元 全球分析师集体打出问号",
-          "url": "https://www.cls.cn/detail/2326200",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "俄罗斯外长拉夫罗夫：美国意图控制北溪天然气管道，作为其更广泛控制全球能源市场的努力的一部分。美国还希望控制通过霍尔木兹海峡的委内瑞拉石油和碳氢化合物运输。",
-          "url": "https://flash.jin10.com/detail/20260327204329602800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "Roubini Macro Associates首席执行官鲁里埃尔·鲁比尼警告称：伊朗战争持续将伤害全球经济。 存在一种尾部风险：如果美国和以色列升级行动，而伊朗进一步攻击石油设施，“局面就可能演变成上世纪70年代那样”。 即便战争明天就结束，油价也不会回到战前水平。 油价上涨10%-15%“不算悲剧性”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3078363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.286吨，当前持仓量为1052.705吨。",
-          "url": "https://flash.jin10.com/detail/20260327061724611800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "联合国粮农组织：美以伊冲突正快速冲击全球粮食与能源供应链",
-          "url": "https://wallstreetcn.com/livenews/3077686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "机构：2025年第四季度全球云基础设施服务支出达1109亿美元，同比增长29%",
-          "url": "https://wallstreetcn.com/livenews/3077928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少104.21吨，当前持仓量为15409.46吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20260327060243113800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "印度石油部长：全球局势依然动荡，我们正实时密切监测事态发展。 印度在全球不确定性中展现出了韧性，将继续以及时、主动、协调的方式采取行动。 关于印度将实施能源封锁的传言完全不属实。",
-          "url": "https://wallstreetcn.com/livenews/3077919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.80万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3077661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "高盛慕天辉：中国市场风险收益比具吸引力，HALO投资主题持续性强",
-          "url": "https://wallstreetcn.com/livenews/3077721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "市场消息：消息人士称，SpaceX IPO或将预留高达30%的股份给散户投资者。",
-          "url": "https://flash.jin10.com/detail/20260327015701191800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "亿纬锂能：拟投建60GWh储能电池生产制造项目，总投资约60亿元",
-          "url": "https://wallstreetcn.com/livenews/3078341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "SpaceX告知潜在的IPO投资者，公司高管将于四月份举行说明会。",
-          "url": "https://flash.jin10.com/detail/20260327031646612800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3077656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）去年营收196.1亿美元，较之前一年增长15%。 去年EBITDA为66.7亿美元，同比增长23%。 去年净利润24.2亿美元，之前一年为2.45亿美元。 去年净精炼铜成本（Net Cathode Cost，通常被标记为C3成本）增长14%。 2025年铜产量133.4万吨。 同期投资51亿美元。 CEO称，去年业绩出现“趋势变化”。",
-          "url": "https://wallstreetcn.com/livenews/3078333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "英伟达及黄仁勋遭投资者集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3077690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "亿纬锂能：拟投资约60亿元建设亿纬锂能60GWh储能（动力）电池生产制造项目",
-          "url": "https://flash.jin10.com/detail/20260327222645382800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "Meta将对El Paso数据中心的投资增加至100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260327030207497800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "中国平安郭晓涛：2025年综合投资收益率6.3% 黄金为核心策略资产之一",
-          "url": "https://wallstreetcn.com/livenews/3077927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            2,
-            15,
-            16,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 23时52分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            20,
-            17,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 23时52分]"
-        },
-        {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 04时07分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            13,
-            15,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时10分 ~ 23时52分]"
-        },
-        {
-          "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
-          "url": "https://flash.jin10.com/detail/20260327032315760800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
           "url": "https://www.cls.cn/detail/2327153",
@@ -979,126 +14,120 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
-          "url": "https://www.cls.cn/detail/2326356",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3077637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            13,
-            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 07时01分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077691",
-          "source": "华尔街见闻-快讯",
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
-          "url": "https://flash.jin10.com/detail/20260327045344271800",
-          "source": "金十数据",
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260327045343835800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "德国总理默茨：（谈伊朗问题）特朗普目前的做法是一次后果不堪设想的大规模升级行动。",
+          "url": "https://flash.jin10.com/detail/20260328004456633800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
+          "url": "https://wallstreetcn.com/livenews/3078390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
       "match_count": 2,
       "titles": [
         {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 07时01分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
-          "url": "https://www.zhihu.com/question/2015379461017659100",
+          "title": "中国芯片出口金额增速超七成，这对国产芯片产业发展意味着什么？在全球市场处于什么水平？",
+          "url": "https://www.zhihu.com/question/2020648289683424883",
           "source": "知乎",
           "ranks": [
-            20,
-            18,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 13时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     },
@@ -1111,11 +140,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时52分]"
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
