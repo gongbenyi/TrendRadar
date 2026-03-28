@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T20:53:06.993225+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-03-28T21:51:41.912038+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 21时51分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 21时51分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -70,6 +70,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时49分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时56分 ~ 21时51分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -95,18 +110,18 @@
           "time_info": "[04时37分 ~ 10时03分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9,
             8,
-            7,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[13时56分 ~ 20时53分]"
+          "time_info": "[14时58分 ~ 21时51分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -121,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时49分 ~ 20时53分]"
+          "appearance_count": 23,
+          "time_info": "[01时49分 ~ 21时51分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -150,19 +165,6 @@
           "time_info": "[01时49分 ~ 10时03分]"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时58分 ~ 20时53分]"
-        },
-        {
           "title": "想跑跑不了，特朗普失控",
           "url": "https://news.ifeng.com/c/8rrd4miP6TY",
           "source": "凤凰网",
@@ -171,8 +173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 21时51分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -485,6 +487,18 @@
           "time_info": "[05时34分 ~ 07时31分]"
         },
         {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时51分]"
+        },
+        {
           "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
           "url": "https://wallstreetcn.com/livenews/3078512",
           "source": "华尔街见闻-快讯",
@@ -654,17 +668,6 @@
           "time_info": "[02时55分 ~ 03时40分]"
         },
         {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
           "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
           "source": "澎湃新闻",
@@ -775,6 +778,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "当着全世界的面，特朗普将霍尔木兹海峡称为“特朗普海峡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32848951",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "美国总统特朗普：正寻求国会采取行动，允许E15乙醇汽油全年销售使用。",
           "url": "https://flash.jin10.com/detail/20260328010744140800",
           "source": "金十数据",
@@ -821,120 +835,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 14时58分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            15,
-            18,
-            16,
-            12,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 20时53分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            15,
-            13,
-            22,
-            19,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 20时53分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            17,
-            14,
-            16,
-            20,
-            18,
-            24,
-            23,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时54分 ~ 20时53分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
-          "url": "https://flash.jin10.com/detail/20260328013224717800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 20时53分]"
-        },
-        {
-          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260328014753556800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国芯片出口金额增速超七成，这对国产芯片产业发展意味着什么？在全球市场处于什么水平？",
@@ -960,6 +862,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 07时31分]"
+        },
+        {
+          "title": "全球首家 工行资产破50万亿",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E5%AE%B6+%E5%B7%A5%E8%A1%8C%E8%B5%84%E4%BA%A7%E7%A0%B450%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "欧洲运输与环境联合会：美以伊战事推高全球航运成本",
@@ -1023,9 +936,134 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 14时58分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            15,
+            18,
+            16,
+            12,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 21时51分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            15,
+            13,
+            22,
+            19,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 21时51分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            17,
+            14,
+            16,
+            20,
+            18,
+            24,
+            23,
+            21,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时54分 ~ 21时51分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
+          "url": "https://flash.jin10.com/detail/20260328013224717800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 20时53分]"
+        },
+        {
+          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260328014753556800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "投资",
       "match_count": 2,
       "titles": [
+        {
+          "title": "上一次“石油冲击”--“1970年代”给投资者的教训",
+          "url": "https://wallstreetcn.com/articles/3768634",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时51分]"
+        },
         {
           "title": "广东江门累计设立台资企业超1600家 投资超59亿美元",
           "url": "https://flash.jin10.com/detail/20260328170801299800",
@@ -1037,17 +1075,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时31分]"
-        },
-        {
-          "title": "上一次“石油冲击”--“1970年代”给投资者的教训",
-          "url": "https://wallstreetcn.com/articles/3768634",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
         }
       ]
     },
