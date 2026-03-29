@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:30:20.709061+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-03-29T10:13:19.553255+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -24,11 +24,25 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
         },
         {
           "title": "想跑跑不了，特朗普失控",
@@ -38,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -49,18 +63,6 @@
             7,
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -101,15 +103,15 @@
           "time_info": "[06时28分 ~ 07时30分]"
         },
         {
-          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
-          "url": "https://www.zhihu.com/question/2021274346899943516",
-          "source": "知乎",
+          "title": "美以伊战争丨多国爆发反特朗普抗议活动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -123,6 +125,18 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
+          "url": "https://www.zhihu.com/question/2021274346899943516",
+          "source": "知乎",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时13分]"
+        },
+        {
           "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
           "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
           "source": "凤凰网",
@@ -130,14 +144,101 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时30分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
+          "url": "https://wallstreetcn.com/articles/3768645",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
+          "url": "https://flash.jin10.com/detail/20260329094312533800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "上一次“石油冲击”--“1970年代”给投资者的教训",
+          "url": "https://wallstreetcn.com/articles/3768634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
+        },
+        {
+          "title": "3月以来，全球“股债金”三杀，“这是最糟的局面，投资者无处可躲”",
+          "url": "https://wallstreetcn.com/articles/3768637",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "高盛对冲基金业务主管：我接触的机构几乎都看跌，了解现货商品的人更担忧，伊朗拖得越久，市场越倾向于短期投资",
+          "url": "https://wallstreetcn.com/articles/3768642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "印度商务部长：纳入投资框架协定将有损世界贸易组织的职能边界，并削弱其基本原则。",
+          "url": "https://flash.jin10.com/detail/20260329012026359800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "印度商务部长：印度并未同意将《投资促进发展协定》（IFD）纳入世界贸易组织框架。",
+          "url": "https://flash.jin10.com/detail/20260329012016568800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -148,11 +249,12 @@
             15,
             18,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时13分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -184,54 +286,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上一次“石油冲击”--“1970年代”给投资者的教训",
-          "url": "https://wallstreetcn.com/articles/3768634",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时30分]"
         },
         {
-          "title": "印度商务部长：纳入投资框架协定将有损世界贸易组织的职能边界，并削弱其基本原则。",
-          "url": "https://flash.jin10.com/detail/20260329012026359800",
-          "source": "金十数据",
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "印度商务部长：印度并未同意将《投资促进发展协定》（IFD）纳入世界贸易组织框架。",
-          "url": "https://flash.jin10.com/detail/20260329012016568800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "time_info": "10时13分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球首家 工行资产破50万亿",
@@ -263,6 +334,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时28分 ~ 05时29分]"
+        },
+        {
+          "title": "四万多人齐聚上海西岸，全球开发者先锋大会为何这么“热”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32851801",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     }
