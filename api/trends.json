@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T15:02:38.324708+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:38:47.115778+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 16时38分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -99,8 +99,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时38分]"
+        },
+        {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 16时38分]"
         },
         {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时30分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 15时02分]"
         },
         {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
@@ -203,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -264,9 +275,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时38分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -275,11 +286,23 @@
           "ranks": [
             2,
             7,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 16时38分]"
+        },
+        {
+          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
+          "url": "https://www.zhihu.com/question/2021000785224287940",
+          "source": "知乎",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时02分]"
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时38分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -291,23 +314,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
-        },
-        {
-          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
-          "url": "https://www.zhihu.com/question/2021000785224287940",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上一次“石油冲击”--“1970年代”给投资者的教训",
@@ -334,8 +346,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 16时38分]"
         },
         {
           "title": "3月以来，全球“股债金”三杀，“这是最糟的局面，投资者无处可躲”",
@@ -347,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
+          "url": "https://wallstreetcn.com/articles/3768660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "印度商务部长：纳入投资框架协定将有损世界贸易组织的职能边界，并削弱其基本原则。",
@@ -374,7 +397,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球首家 工行资产破50万亿",
@@ -417,8 +440,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 16时38分]"
         },
         {
           "title": "周鸿祎对话刘慈欣：未来全球可能出现百亿“龙虾”智能体，人类最重要的是审美",
@@ -426,11 +449,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时38分]"
         },
         {
           "title": "中东两大铝厂遇袭 恐影响全球供应链",
@@ -439,9 +463,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "全球首个通用智能人“通通”3.0正式发布",
+          "url": "https://flash.jin10.com/detail/20260329145403618800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     }
