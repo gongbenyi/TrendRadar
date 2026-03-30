@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T20:02:48.387368+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-30T22:27:03.800186+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 22时27分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -56,17 +69,16 @@
           "time_info": "[13时24分 ~ 20时02分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4,
-            3
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 20时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 22时27分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -95,18 +107,6 @@
           "time_info": "[17时10分 ~ 20时02分]"
         },
         {
-          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
-          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 20时02分]"
-        },
-        {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
           "url": "https://www.cls.cn/detail/2328385",
           "source": "财联社热门",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时23分 ~ 20时02分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时27分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -160,6 +171,17 @@
           "time_info": "[13时24分 ~ 20时02分]"
         },
         {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -169,17 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "据阿拉伯卫星电视台：美国官员表示，特朗普仍在研究如何打开霍尔木兹海峡。",
@@ -210,7 +221,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -224,6 +235,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时25分 ~ 17时11分]"
+        },
+        {
+          "title": "美抗议人群组成特朗普须下台巨型标语",
+          "url": "https://www.toutiao.com/trending/7622494680384815123/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时27分]"
+        },
+        {
+          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
+          "url": "https://wallstreetcn.com/articles/3768769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "特朗普：不排除占领伊朗石油枢纽哈尔克岛",
@@ -255,7 +289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -266,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -288,18 +322,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美抗议人群组成特朗普须下台巨型标语",
-          "url": "https://www.toutiao.com/trending/7622494680384815123/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -343,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -544,7 +567,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "周鸿祎对话刘慈欣：未来全球可能出现百亿“龙虾”智能体，人类最重要的是审美",
@@ -639,6 +662,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "美国财政部长斯科特·贝森特宣称：全球石油市场“每天存在约1000万至1200万桶的缺口，而我们正在弥补这一缺口”。 国际能源署（IEA）协调释放的战略储备每天可弥补约400万桶的缺口。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3079441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "欧洲理事会主席科斯塔：今天与巴基斯坦总理通话，听取了他对伊朗战争的评估，以及最近在伊斯兰堡举行的埃及、沙特、巴基斯坦和土耳其外长之间的磋商结果。欧盟对战争的持续和其日益扩大的全球影响深感担忧。欧盟支持所有调解努力。",
           "url": "https://flash.jin10.com/detail/20260330184113447800",
           "source": "金十数据",
@@ -650,13 +684,24 @@
           "time_info": "19时02分"
         },
         {
+          "title": "金十图示：2026年03月30日（周一）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260330220049386800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
           "title": "标普全球：中东冲突或终结新兴市场评级上调趋势",
           "url": "https://flash.jin10.com/detail/20260330190820828800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
@@ -664,7 +709,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
@@ -704,6 +749,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 13时24分]"
+        },
+        {
+          "title": "房利美和房地美飙升，知名投资人阿克曼称股价“便宜得离谱”",
+          "url": "https://wallstreetcn.com/livenews/3079452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "香港金管局报告：全球投资者对分散投资的需求日益增长 将支持香港离岸人民币债市长远发展",
+          "url": "https://wallstreetcn.com/livenews/3079448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "3月30日投资避雷针：全国猪价跌破5元 创历史新低",
@@ -750,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "韩国人工智能（AI）芯片初创公司Rebellions按23.4亿美元估值融资4亿美元。 该公司的投资者包括三星，计划利用这笔资金来扩大美国业务。 该公司对标英伟达、以及初创公司Groq和Cerebras等，其芯片产品侧重于AI推理。",
+          "url": "https://wallstreetcn.com/livenews/3079421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -786,8 +864,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 20时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 22时27分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
