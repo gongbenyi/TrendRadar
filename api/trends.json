@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T01:41:59.552753+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-01T02:10:21.898067+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://www.cls.cn/detail/2330869",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -37,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -48,8 +49,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
+        },
+        {
+          "title": "白宫官员：特朗普总统对很快达成协议充满信心。",
+          "url": "https://flash.jin10.com/detail/20260401015412302800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时10分"
+        },
+        {
+          "title": "法国对特朗普指责“不配合”表“惊讶”",
+          "url": "https://wallstreetcn.com/livenews/3080316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -59,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -70,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -81,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
@@ -92,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -103,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
@@ -114,8 +137,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -125,8 +148,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -136,19 +159,59 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "美国联邦法官裁定：特朗普政府终止移民身份行为违法",
           "url": "https://wallstreetcn.com/livenews/3080292",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
+        },
+        {
+          "title": "特朗普希望4月6日前与伊朗签协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B4%E6%9C%886%E6%97%A5%E5%89%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%AD%BE%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864912",
+          "source": "澎湃新闻",
+          "ranks": [
             20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰向阿拉巴马州SUV工厂投资40亿美元。",
+          "url": "https://flash.jin10.com/detail/20260401012846492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "02时10分"
         }
       ]
     },
@@ -164,8 +227,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         },
         {
           "title": "高盛将2026年第二季度LME铝价预测上调至3450美元，此前为3200美元。 2026年全球原铝市场将出现57万吨的缺口，此前预计为55万吨的过剩。",
@@ -189,28 +252,12 @@
           "url": "https://wallstreetcn.com/livenews/3080310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "投资过亿城铁站“无人问津”，人民日报：少数干部患上“政绩冲动症”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864912",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时10分]"
         }
       ]
     }
