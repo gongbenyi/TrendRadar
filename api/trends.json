@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T19:48:24.972021+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-03-31T21:15:54.662280+08:00",
+  "total_titles_processed": 1729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -46,6 +46,19 @@
           "time_info": "[00时05分 ~ 07时34分]"
         },
         {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 21时15分]"
+        },
+        {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2329476",
           "source": "财联社热门",
@@ -60,17 +73,17 @@
           "time_info": "[00时05分 ~ 07时34分]"
         },
         {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4,
-            2
+            6,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 19时48分]"
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -81,21 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时41分 ~ 19时48分]"
-        },
-        {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[05时41分 ~ 21时15分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -130,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 21时15分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -145,6 +145,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时10分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
@@ -167,6 +181,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时08分 ~ 21时15分]"
         },
         {
           "title": "特朗普再就停火威胁伊朗",
@@ -202,32 +229,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 19时48分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时08分 ~ 19时48分]"
-        },
-        {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2329789",
           "source": "财联社热门",
@@ -241,13 +242,59 @@
           "time_info": "[07时34分 ~ 15时12分]"
         },
         {
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 21时15分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "特朗普称暂不放弃施压伊朗开放霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260331211149865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "特朗普：美国会记住法国“极不配合”对伊军事行动",
           "url": "https://wallstreetcn.com/livenews/3080137",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -258,22 +305,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
         {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            15,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
@@ -382,6 +427,17 @@
           "time_info": "[02时59分 ~ 03时58分]"
         },
         {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时15分]"
+        },
+        {
           "title": "美国白宫：特朗普希望国会开会以结束国土安全部的停摆。",
           "url": "https://flash.jin10.com/detail/20260331015946804800",
           "source": "金十数据",
@@ -469,9 +525,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗副总统：特朗普可能会向哈尔克岛派兵，但撤军将不在其掌控之中。",
@@ -507,24 +574,13 @@
           "time_info": "10时11分"
         },
         {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "无视特朗普警告 伊朗硬刚回应 科威特满载油轮遭袭令油价再现震荡！",
           "url": "https://www.cls.cn/detail/2330032",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -546,9 +602,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：特朗普账户是个“好主意”，我们将参与。 由于人工智能而出现了一些岗位流失，大部分已经重新安排。",
+          "url": "https://wallstreetcn.com/livenews/3080178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美国汽油4年来首次升破4美元！特朗普正给自己“埋雷”？",
@@ -601,9 +668,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
@@ -617,6 +695,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美国国防部长海格塞斯谈霍尔木兹海峡：今天通过的船只比以往更多。 特朗普今天早上对霍尔木兹海峡问题的立场很明确。 各国需要准备好在霍尔木兹海峡问题上加强行动。",
+          "url": "https://wallstreetcn.com/livenews/3080169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美国白宫：特朗普未排除对伊朗进行地面行动的可能性。",
           "url": "https://flash.jin10.com/detail/20260331014441972800",
           "source": "金十数据",
@@ -628,13 +717,24 @@
           "time_info": "02时59分"
         },
         {
+          "title": "特朗普称美国尚未从霍尔木兹海峡撤出兵力。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3080160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "特朗普：伊朗基本上已经被摧毁殆尽 去争取你们自己的石油吧",
           "url": "https://flash.jin10.com/detail/20260331191522342800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -645,7 +745,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -667,7 +767,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -689,7 +789,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -700,7 +800,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
@@ -708,7 +808,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
@@ -719,11 +819,12 @@
             11,
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时10分 ~ 19时48分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 21时15分]"
         },
         {
           "title": "联合利华已在全球范围内针对“所有级别”冻结招聘，该冻结将至少持续三个月。",
@@ -780,8 +881,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时15分]"
         },
         {
           "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
@@ -792,8 +893,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时15分]"
         },
         {
           "title": "摩根士丹利： 将全球股票评级从超配下调至标配，并将美国国债和现金评级从标配上调至超配。石油供应中断的规模和持续时间存在不确定性，这意味着风险资产的走势已变得越来越不对称。",
@@ -840,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3080182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "联合利华将冻结全球招聘 伊朗冲突推高运输成本",
@@ -908,6 +1020,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "标普：中东战争对我们2026年的全球经济展望造成实质冲击，实际上抵消了我们先前预期的成长潜力。",
+          "url": "https://flash.jin10.com/detail/20260331210231306800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "全球产区天气3.31：美国降水扰春播，南美大豆收获能否顺利收官？",
           "url": "https://flash.jin10.com/detail/20260331095337153800",
           "source": "金十数据",
@@ -966,7 +1089,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -1141,6 +1264,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "巴菲特：股票估值仍然缺乏吸引力。 苹果仍然是伯克希尔哈撒韦最大的单一投资。 仍参与伯克希尔哈撒韦公司的投资决策，但不会做出任何首席执行官格雷格·阿贝尔认为错误的投资。 伯克希尔哈撒韦本周购买了170亿美元的国库券。 如果市场出现大幅下跌，伯克希尔将动用现金进行投资。 预计伯克希尔在苹果公司的投资上获利超过1000亿美元。 我开始减持苹果股票的时间过早。 我不知道股市会如何发展，也不相信其他人能预测得出。",
+          "url": "https://wallstreetcn.com/livenews/3080159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "安德利：参与投资私募股权投资基金 聚焦电子信息等行业发展机遇",
           "url": "https://flash.jin10.com/detail/20260331174655829800",
           "source": "金十数据",
@@ -1150,12 +1284,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "英伟达向MARVELL投资20亿美元，两者将在硅光子技术方面展开合作。",
+          "url": "https://wallstreetcn.com/livenews/3080156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -1184,6 +1329,19 @@
           "time_info": "18时08分"
         },
         {
+          "title": "DeepSeek被做成清明节纸扎",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 21时15分]"
+        },
+        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1196,27 +1354,26 @@
           "time_info": "[16时58分 ~ 18时08分]"
         },
         {
-          "title": "DeepSeek被做成清明节纸扎",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时48分]"
-        },
-        {
           "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
           "url": "https://flash.jin10.com/detail/20260331191726516800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "DeepSeek服务中断一小时后恢复",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
