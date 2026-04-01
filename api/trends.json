@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-02T05:43:39.317266+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-04-02T06:37:04.020483+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
-        },
         {
           "title": "马克龙访日暗讽特朗普",
           "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -37,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -47,6 +36,17 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -86,19 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
-        },
-        {
-          "title": "美国白宫官员：北约秘书长吕特下周将与美国总统特朗普会面。",
-          "url": "https://flash.jin10.com/detail/20260402053429487800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "特朗普称美军将很快撤出伊朗战事",
@@ -109,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
@@ -120,8 +109,55 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
+        },
+        {
+          "title": "美国白宫官员：北约秘书长吕特下周将与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260402053429487800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普政府准备对部分制药企业征收新关税。",
+          "url": "https://flash.jin10.com/detail/20260402063449515800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "time_info": "[03时01分 ~ 06时37分]"
         },
         {
           "title": "马克龙“暗批”特朗普",
@@ -139,17 +175,6 @@
           "time_info": "[00时53分 ~ 05时43分]"
         },
         {
-          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
-        },
-        {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32870657",
           "source": "澎湃新闻",
@@ -161,26 +186,59 @@
           "time_info": "[00时53分 ~ 05时43分]"
         },
         {
-          "title": "北约秘书长吕特将于下周会见美国总统特朗普。 北约发言人称，吕特的访美“早有安排”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081123",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（谈及伊朗问题）我在战争开始前曾预测，战争将在三天内结束。",
+          "url": "https://flash.jin10.com/detail/20260402063337370800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普（开玩笑的语气说）：如果伊朗协议没达成，我就怪副总统万斯。如果达成了，功劳全是我的。",
+          "url": "https://flash.jin10.com/detail/20260402063306646800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时37分"
         },
         {
-          "title": "美国情报机构表示：伊朗认为，美国总统特朗普在对话方面缺乏诚意。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3081122",
-          "source": "华尔街见闻-快讯",
+          "title": "据纽约时报：美国总统特朗普曾考虑让环保署署长泽尔丁接替司法部长邦迪。",
+          "url": "https://flash.jin10.com/detail/20260402063114466800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "06时37分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普已讨论解雇美国司法部长邦迪。",
+          "url": "https://flash.jin10.com/detail/20260402063039543800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普考虑罢免司法部长Bondi。 特朗普希望用环境保护署（EPA）主管Zeldin取代Bondi。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3081139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "据Politico：特朗普将在当地时间周三晚上发表的讲话中宣布伊朗战争已接近尾声，而其他国家则需解决霍尔木兹海峡问题。",
@@ -219,17 +277,39 @@
           "time_info": "[00时53分 ~ 01时49分]"
         },
         {
-          "title": "特朗普称伊朗新政权总统请求停火",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "北约秘书长吕特将于下周会见美国总统特朗普。 北约发言人称，吕特的访美“早有安排”。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081123",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30,
-            15,
-            14
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 05时43分]"
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时37分]"
+        },
+        {
+          "title": "美国情报机构表示：伊朗认为，美国总统特朗普在对话方面缺乏诚意。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3081122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时37分]"
+        },
+        {
+          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
+          "url": "https://wallstreetcn.com/articles/3768990",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 06时37分]"
         },
         {
           "title": "美国官员：特朗普将重申2-3周内撤离伊朗的时间表",
@@ -334,7 +414,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -350,24 +430,13 @@
           "time_info": "00时53分"
         },
         {
-          "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放，但不会对美国开放",
-          "url": "https://wallstreetcn.com/articles/3768990",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "据华尔街日报：北约秘书长吕特将于下周会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260402052333701800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -392,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美情报机构：伊朗目前无意参与实质性谈判，不认为特朗普是认真的",
+          "url": "https://wallstreetcn.com/livenews/3081128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "芬兰总统办公室：芬兰总统斯图布在与美国总统特朗普的通话中表示，在他看来，一个更加欧洲化的北约正逐渐成型。",
@@ -422,7 +502,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -532,7 +612,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -554,7 +634,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -612,12 +692,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美国情报机构：伊朗目前无意进行实质性谈判，认为特朗普缺乏诚意",
+          "url": "https://flash.jin10.com/detail/20260402053816190800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "普京：俄可提供全球油气供应解决方案",
@@ -628,11 +719,12 @@
             20,
             19,
             24,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 06时37分]"
         },
         {
           "title": "局势缓和信号提振市场 全球股市大涨 国际油价回落 | 今夜看点",
@@ -691,6 +783,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.714吨，当前持仓量为1050.99吨。",
+          "url": "https://flash.jin10.com/detail/20260402061933684800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "浙江国资回应投资张雪9000万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%9B%BD%E8%B5%84%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%84%E5%BC%A0%E9%9B%AA9000%E4%B8%87%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 06时37分]"
+        },
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 06时37分]"
         }
       ]
     },
@@ -709,26 +843,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "浙江国资回应投资张雪9000万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%9B%BD%E8%B5%84%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%84%E5%BC%A0%E9%9B%AA9000%E4%B8%87%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 05时43分]"
         }
       ]
     }
