@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T17:52:52.720046+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-04-03T18:42:05.621000+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -80,6 +80,18 @@
           "time_info": "[00时01分 ~ 10时09分]"
         },
         {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 18时42分]"
+        },
+        {
           "title": "伊朗强硬回应特朗普",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -111,16 +123,15 @@
           "time_info": "[00时01分 ~ 07时34分]"
         },
         {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
           "source": "凤凰网",
           "ranks": [
-            4,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 18时42分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -135,6 +146,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时55分 ~ 06时31分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 18时42分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -159,30 +183,6 @@
           "time_info": "[10时08分 ~ 10时09分]"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 17时52分]"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时52分]"
-        },
-        {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010200558800",
           "source": "金十数据",
@@ -192,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "特朗普夸耀的“战绩”被美情报部门“打脸”",
+          "url": "https://wallstreetcn.com/livenews/3082146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -256,6 +267,18 @@
           "time_info": "[05时37分 ~ 06时31分]"
         },
         {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
           "url": "https://wallstreetcn.com/articles/3769043",
           "source": "华尔街见闻",
@@ -265,6 +288,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时55分 ~ 07时34分]"
+        },
+        {
+          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
+          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时42分]"
+        },
+        {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时42分]"
         },
         {
           "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
@@ -292,29 +338,6 @@
           "time_info": "[13时04分 ~ 16时52分]"
         },
         {
-          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
-          "url": "https://wallstreetcn.com/articles/3769139",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
-        },
-        {
-          "title": "鲁比奥指责伊朗不把钱用于民生，特朗普：美国的钱要优先用来打仗",
-          "url": "https://news.ifeng.com/c/8s1YO2Kuf9C",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
-        },
-        {
           "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
           "url": "https://wallstreetcn.com/livenews/3081814",
           "source": "华尔街见闻-快讯",
@@ -337,18 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 15时06分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
         },
         {
           "title": "伊朗外长嘲讽特朗普：石器时代可没有油气",
@@ -399,6 +410,17 @@
           "time_info": "[02时56分 ~ 03时50分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-03）",
+          "url": "https://flash.jin10.com/detail/20260403181214807800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
           "url": "https://flash.jin10.com/detail/20260403004016648800",
           "source": "金十数据",
@@ -416,7 +438,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -578,7 +600,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
@@ -594,6 +616,19 @@
           "time_info": "[06时30分 ~ 15时06分]"
         },
         {
+          "title": "对话张雪机车投资人：张雪初看“不完美”，为何两个月前会投他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32885072",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 18时42分]"
+        },
+        {
           "title": "私募信贷的“雷曼时刻”？Blue Owl遭遇史诗级挤兑，41%投资者要求撤资",
           "url": "https://wallstreetcn.com/articles/3769118",
           "source": "华尔街见闻",
@@ -604,21 +639,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时34分 ~ 17时52分]"
-        },
-        {
-          "title": "对话张雪机车投资人：张雪初看“不完美”，为何两个月前会投他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32885072",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 17时52分]"
+          "appearance_count": 14,
+          "time_info": "[04时34分 ~ 18时42分]"
         },
         {
           "title": "华信信托公开招募重整投资人",
@@ -627,7 +649,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -680,6 +702,18 @@
           "time_info": "[04时34分 ~ 05时37分]"
         },
         {
+          "title": "震荡市的投资利器？近七成指增基金跑赢基准",
+          "url": "https://www.cls.cn/detail/2334328",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时42分]"
+        },
+        {
           "title": "美国政府警告称，秘鲁拟议的矿业法可能会加重监管不确定性，进而不利于投资。",
           "url": "https://wallstreetcn.com/livenews/3081748",
           "source": "华尔街见闻-快讯",
@@ -728,37 +762,38 @@
           "time_info": "[02时56分 ~ 03时50分]"
         },
         {
+          "title": "伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣",
+          "url": "https://wallstreetcn.com/livenews/3082115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时42分]"
+        },
+        {
           "title": "三孚新科：上海季胜投资管理有限公司持股比例已降至5%",
           "url": "https://flash.jin10.com/detail/20260403173419620800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
         {
-          "title": "伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣",
-          "url": "https://wallstreetcn.com/livenews/3082115",
+          "title": "长虹能源：拟投资约9.99亿元建设马来西亚高倍率锂电池生产基地",
+          "url": "https://wallstreetcn.com/livenews/3082131",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "震荡市的投资利器？近七成指增基金跑赢基准",
-          "url": "https://www.cls.cn/detail/2334328",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "18时42分"
         },
         {
           "title": "沙特公共投资基金正考虑在SpaceX IPO中认购50亿美元股份",
@@ -781,6 +816,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "长虹能源：拟投资约9.99亿元建设马来西亚高倍率锂电池生产基地",
+          "url": "https://flash.jin10.com/detail/20260403175637652800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.81万亿美元。",
@@ -822,8 +868,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时42分]"
         },
         {
           "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
@@ -834,8 +880,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 18时42分]"
         },
         {
           "title": "全球产区天气4.3：阿根廷洪涝来袭，大豆收获恐受阻？",
@@ -970,6 +1016,18 @@
           "time_info": "[10时08分 ~ 15时06分]"
         },
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时42分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -980,17 +1038,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 13时04分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
