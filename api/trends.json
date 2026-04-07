@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T21:16:17.929807+08:00",
-  "total_titles_processed": 1681,
+  "generated_at": "2026-04-07T23:07:09.786315+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 156,
+      "match_count": 165,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时35分 ~ 21时16分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 23时07分]"
         },
         {
           "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
@@ -67,6 +67,18 @@
           "time_info": "[00时44分 ~ 10时12分]"
         },
         {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
           "url": "https://wallstreetcn.com/articles/3769328",
           "source": "华尔街见闻",
@@ -79,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时54分 ~ 21时16分]"
+          "appearance_count": 16,
+          "time_info": "[03时54分 ~ 23时07分]"
         },
         {
           "title": "特朗普：与伊朗协议有望达成 本周二将是“最终期限”",
@@ -121,6 +133,20 @@
           "time_info": "[00时44分 ~ 07时35分]"
         },
         {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 23时07分]"
+        },
+        {
           "title": "【早报】特朗普暗示“最后期限”推迟1天，称有望于4月7日前达成协议",
           "url": "https://www.cls.cn/detail/2335621",
           "source": "财联社热门",
@@ -135,6 +161,20 @@
           "time_info": "[00时44分 ~ 10时12分]"
         },
         {
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 23时07分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：伊朗可在一夜内被击溃",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -146,16 +186,17 @@
           "time_info": "[02时57分 ~ 05时37分]"
         },
         {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时07分]"
         },
         {
           "title": "特朗普设下最后期限之际，美军“末日飞机”升空",
@@ -168,33 +209,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时45分 ~ 19时54分]"
-        },
-        {
-          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
-          "url": "https://wallstreetcn.com/articles/3769330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 21时16分]"
-        },
-        {
-          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时12分 ~ 21时16分]"
         },
         {
           "title": "特朗普再发威胁：7日20时是“最后期限”",
@@ -210,6 +224,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时12分 ~ 21时16分]"
+        },
+        {
+          "title": "联合国警告特朗普：或涉战争罪",
+          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时07分]"
         },
         {
           "title": "伊朗回应特朗普最新威胁：绝不退缩",
@@ -234,17 +260,65 @@
           "time_info": "[17时45分 ~ 18时15分]"
         },
         {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
+          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
+          "url": "https://wallstreetcn.com/articles/3769340",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时16分]"
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时07分]"
+        },
+        {
+          "title": "中方就特朗普威胁伊朗表态",
+          "url": "https://www.toutiao.com/trending/7624686886321393188/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
+          "url": "https://www.cls.cn/detail/2336994",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：整个文明将消亡",
+          "url": "https://news.ifeng.com/c/8s8XYUTRSiV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "特朗普：该由美国收霍尔木兹通行费",
@@ -334,7 +408,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -362,17 +436,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时14分 ~ 21时16分]"
-        },
-        {
-          "title": "联合国警告特朗普：或涉战争罪",
-          "url": "https://news.ifeng.com/c/8s8Tyoozbw4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "市场消息：在特朗普执政期间，美国移民海关执法局（ICE）根据美国运输安全管理局（TSA）提供的线索逮捕了超过800人。",
@@ -428,34 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
-        },
-        {
-          "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
-          "url": "https://wallstreetcn.com/articles/3769340",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时16分]"
-        },
-        {
-          "title": "中方就特朗普威胁伊朗表态",
-          "url": "https://www.toutiao.com/trending/7624686886321393188/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时16分]"
         },
         {
           "title": "中方回应特朗普威胁一夜击毁伊朗",
@@ -638,6 +673,32 @@
           "time_info": "[06时35分 ~ 07时35分]"
         },
         {
+          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
+          "url": "https://www.cls.cn/detail/2336608",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 23时07分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 23时07分]"
+        },
+        {
           "title": "内塔尼亚胡警告特朗普",
           "url": "https://news.ifeng.com/c/8s7IfSXTh6S",
           "source": "凤凰网",
@@ -647,6 +708,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 15时14分]"
+        },
+        {
+          "title": "联合国警告特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时07分]"
         },
         {
           "title": "特朗普最后通牒将到期，全世界都在屏息等待",
@@ -671,6 +744,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 15时14分]"
+        },
+        {
+          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
+          "url": "https://www.zhihu.com/question/2024942392235614830",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时07分]"
         },
         {
           "title": "美国总统特朗普：我不想摧毁伊朗的基础设施。我们最不想做的就是重建发电厂。",
@@ -840,18 +924,6 @@
           "time_info": "[02时57分 ~ 03时54分]"
         },
         {
-          "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
-          "url": "https://www.cls.cn/detail/2336608",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时16分]"
-        },
-        {
           "title": "伊朗就美停战提议提10项要求，特朗普：有意义但不够好，会“拿走石油”",
           "url": "https://wallstreetcn.com/livenews/3082890",
           "source": "华尔街见闻-快讯",
@@ -888,6 +960,17 @@
           "time_info": "[00时45分 ~ 01时43分]"
         },
         {
+          "title": "联合国警告特朗普政府",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普再发威胁：若伊朗不立即“投降”将打击民用设施 | 环球市场",
           "url": "https://www.cls.cn/detail/2335992",
           "source": "财联社热门",
@@ -911,6 +994,28 @@
           "time_info": "[02时57分 ~ 03时54分]"
         },
         {
+          "title": "韩国回应特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "特朗普：美军营救行动出动155架飞机，炸毁两架运输机",
           "url": "https://wallstreetcn.com/livenews/3082919",
           "source": "华尔街见闻-快讯",
@@ -923,16 +1028,37 @@
           "time_info": "[02时57分 ~ 03时54分]"
         },
         {
-          "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915431",
+          "title": "特朗普威胁伊朗：“整个文明将消亡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918291",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时16分]"
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915193",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "特朗普威胁称伊朗整个文明将消亡",
+          "url": "https://www.douyin.com/hot/2458671",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "伊朗最大产油岛哈尔克岛传出多次爆炸，特朗普称“整个文明将消亡”",
@@ -941,18 +1067,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "联合国警告特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1029,7 +1144,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1084,7 +1199,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1197,17 +1312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
-          "url": "https://www.zhihu.com/question/2024942392235614830",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们实现了政权更迭，他们变得更温和。",
@@ -1634,7 +1738,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -1807,8 +1911,33 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "全球首只纯内存芯片ETF横空出世 对存储股是喜是忧？",
+          "url": "https://www.cls.cn/detail/2336303",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 23时07分]"
+        },
+        {
+          "title": "全球缺油之际教你无中生“油”",
+          "url": "https://www.douyin.com/hot/2458491",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 23时07分]"
+        },
         {
           "title": "金十数据全球财经早餐 | 2026年4月7日",
           "url": "https://flash.jin10.com/detail/20260407070110009800",
@@ -1819,18 +1948,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "全球首只纯内存芯片ETF横空出世 对存储股是喜是忧？",
-          "url": "https://www.cls.cn/detail/2336303",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 21时16分]"
         },
         {
           "title": "澳大利亚3月标普全球服务业PMI终值 46.3，前值46.6。",
@@ -1855,16 +1972,15 @@
           "time_info": "07时35分"
         },
         {
-          "title": "全球缺油之际教你无中生“油”",
-          "url": "https://www.douyin.com/hot/2458491",
-          "source": "抖音",
+          "title": "恒天然：4月7日全球乳品贸易（GDT）拍卖价格指数下降3.4%，奶粉各合同期FAS拍卖均价4,228美元/吨。 批发奶粉价格指数跌0.7%，报3,687美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3083572",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "中国蓝莓产量超越美国跃居全球第一",
@@ -1921,9 +2037,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "新西兰至3月31日全球乳制品贸易价格指数 -3.4%，前值0.1%。",
+          "url": "https://flash.jin10.com/detail/20260407223550345800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "周二美股盘前你需要了解的全球要闻",
@@ -1932,9 +2059,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "名创优品：已在全球落地65家“乐园系”门店，预计2026年底达到200家",
+          "url": "https://wallstreetcn.com/livenews/3083564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "伊朗战争造成全球争抢供应，北美石油成“香饽饽”",
@@ -2009,7 +2147,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -2072,7 +2210,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "父亲问儿子要2000元投资款被拒",
@@ -2127,6 +2265,17 @@
           "time_info": "[00时44分 ~ 02时57分]"
         },
         {
+          "title": "摩根大通资管：关于伊朗局势，投资者有两大误判",
+          "url": "https://wallstreetcn.com/articles/3769372",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
           "title": "天弘同利LOF：2026年04月09日起暂停大额申购、转换转入及定期定额投资业务；并限制申购金额、转换转入金额、定期定额投资金额至不超过3000万元。",
           "url": "https://flash.jin10.com/detail/20260407175200685800",
           "source": "金十数据",
@@ -2147,6 +2296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "挪威克朗兑美元涨幅扩大至1.3%，报0.9864，创2024年12月以来新高，投资者关注国际油价涨势。",
+          "url": "https://wallstreetcn.com/livenews/3083559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时07分"
         },
         {
           "title": "欧元区4月Sentix投资者信心指数 -19.2，预期 -8，前值 -3.1。",
@@ -2231,7 +2391,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         }
@@ -2241,6 +2401,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 23时07分]"
+        },
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
           "url": "https://flash.jin10.com/detail/20260407123739903800",
@@ -2263,18 +2435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时43分]"
-        },
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时16分]"
         },
         {
           "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
