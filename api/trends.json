@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-09T21:29:11.719437+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2026-04-09T23:22:05.407962+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 89,
       "titles": [
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时14分 ~ 23时22分]"
+        },
         {
           "title": "美副总统万斯：美伊停火为“脆弱休战” 特朗普“急于看到进展”",
           "url": "https://www.cls.cn/detail/2338136",
@@ -77,18 +89,6 @@
           "time_info": "[01时01分 ~ 06时38分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 21时29分]"
-        },
-        {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
           "url": "https://wallstreetcn.com/articles/3769534",
           "source": "华尔街见闻",
@@ -98,8 +98,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 21时29分]"
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 23时22分]"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 23时22分]"
         },
         {
           "title": "特朗普最后一刻TACO：中间人来回传话，一天内多轮修改方案，伊朗高层最终拍板，幕后一片混乱",
@@ -166,18 +178,6 @@
           "time_info": "[13时08分 ~ 20时09分]"
         },
         {
-          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
-          "url": "https://wallstreetcn.com/articles/3769537",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 21时29分]"
-        },
-        {
           "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
           "url": "https://wallstreetcn.com/articles/3769503",
           "source": "华尔街见闻",
@@ -190,6 +190,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时14分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 23时22分]"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时58分 ~ 23时22分]"
         },
         {
           "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
@@ -254,17 +281,17 @@
           "time_info": "[10时14分 ~ 20时09分]"
         },
         {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
-          "source": "澎湃新闻",
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            18,
-            13
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[20时09分 ~ 23时22分]"
         },
         {
           "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
@@ -322,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "美媒称特朗普要求内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://wallstreetcn.com/livenews/3085201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.49美元/桶，报101.81美元/桶。 纳斯达克综合指数与纳斯达克100指数转涨，标普转涨。 据NBC新闻，美国官员表示，特朗普要求内塔尼亚胡减轻对黎巴嫩的轰炸行动，以助力与伊朗的谈判取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3085200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
@@ -383,6 +432,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "特朗普被曝施压北约成员国：未来几天协助搞定霍尔木兹！",
+          "url": "https://flash.jin10.com/detail/20260409230812905800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "外交部回应特朗普：关税战没有赢家！",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%B3%E7%A8%8E%E6%88%98%E6%B2%A1%E6%9C%89%E8%B5%A2%E5%AE%B6%EF%BC%81",
           "source": "百度热搜",
@@ -406,18 +466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
-        },
-        {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时29分]"
         },
         {
           "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
@@ -455,16 +503,16 @@
           "time_info": "[13时08分 ~ 17时06分]"
         },
         {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            6
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时22分]"
         },
         {
           "title": "周三（4月8日），美股降息赢家指数涨4.42%，报90.26点。 “特朗普关税输家”指数涨4.03%，报101.50点；“特朗普金融指数”涨4.18%，报158.68点。 散户抱团概念股指数/迷因股（meme stock）指数涨8.80%，报125.83点。",
@@ -512,17 +560,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时40分]"
-        },
-        {
-          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "美国副总统万斯：特朗普曾提及过解除制裁事宜。他还谈到了经济合作之类的内容。但除非伊朗方面明确承诺停止任何接近制造核武器的活动，否则这种情况是不会发生的。",
@@ -602,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "IMF总裁：对于美国国会山批准IMF配额评估的前景，我相当乐观。 感谢总统特朗普的政府支持IMF的第 16 轮份额总检查（16th Quota Review）。 IMF就像一家储蓄银行，不需要财政拨款（Appropriations）。",
+          "url": "https://wallstreetcn.com/livenews/3085193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "白宫新闻秘书莱维特：北约经受了考验，但他们失败了。美国总统特朗普期待与北约秘书长吕特进行坦诚对话。",
@@ -890,6 +938,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "WTI原油日内涨幅达7.5%，报101.52美元/桶。 国家经济委员会主任凯文·哈塞特表示，根据美国1977年《国际紧急经济权力法》（IEEPA），总统特朗普有权颁布新的涉伊关税。 哈塞特宣称，由于美国正处于“冲突状态”，该法案可以被启用，且“这显然属于总统的关税职权范围”。 若特朗普利用该紧急法征收关税，政府将面临一场说服法院其合法性的艰巨挑战，因为最高法院此前曾裁定该法案“并未授权总统征收关税”。",
+          "url": "https://wallstreetcn.com/livenews/3085177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（就霍尔木兹海峡）美国总统特朗普将让伊朗为海峡保持开放负责。",
           "url": "https://flash.jin10.com/detail/20260409013805976800",
           "source": "金十数据",
@@ -899,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "格陵兰岛自治政府总理回应特朗普：我们不是一块冰",
+          "url": "https://flash.jin10.com/detail/20260409223524794800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "英国国防大臣希利拒绝就美国总统特朗普有关北约的社交媒体帖子发表评论。",
@@ -929,7 +999,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -970,20 +1040,8 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 21时29分]"
-        },
         {
           "title": "哪吒2全球票房超泰坦尼克号",
           "url": "https://www.toutiao.com/trending/7625223908514168851/",
@@ -994,6 +1052,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 06时38分]"
+        },
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 23时22分]"
         },
         {
           "title": "哪吒2票房升至全球第4",
@@ -1040,6 +1111,19 @@
           "time_info": "[01时01分 ~ 06时38分]"
         },
         {
+          "title": "全球市场“报复性反弹”，即便“导弹仍在飞、海峡尚未通”",
+          "url": "https://wallstreetcn.com/articles/3769531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时06分 ~ 23时22分]"
+        },
+        {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -1049,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 06时38分]"
+        },
+        {
+          "title": "惠誉：若停火有效且持续，将消除近期升级风险。在海湾地区停火两周及美伊高级别会谈之后，全球能源市场出现严重紧张局势的情景似乎不太可能。",
+          "url": "https://flash.jin10.com/detail/20260409230955968800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "比亚迪拟在加拿大设20家经销网点，推进全球扩张",
@@ -1062,6 +1157,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "惠誉评美伊冲突信用风险：如果停火有效且能持续，将消除短期内的局势升级风险。 随着海湾地区达成两周停火以及美伊高层会谈的开启，全球能源市场出现极端压力情景的可能性似乎已降低。 尽管达成停火，美伊冲突引发的信用风险依然处于高位。",
+          "url": "https://wallstreetcn.com/livenews/3085198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "全球货币体系走向何方",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E8%B4%A7%E5%B8%81%E4%BD%93%E7%B3%BB%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9",
           "source": "bilibili 热搜",
@@ -1072,19 +1178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时09分 ~ 21时29分]"
-        },
-        {
-          "title": "全球市场“报复性反弹”，即便“导弹仍在飞、海峡尚未通”",
-          "url": "https://wallstreetcn.com/articles/3769531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时06分 ~ 21时29分]"
         },
         {
           "title": "如何看待 box office 统计的《哪吒之魔童闹海》票房超越了《泰坦尼克号》成为了全球影史第四？",
@@ -1198,7 +1291,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -1223,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "土耳其外长：以色列破坏停火的企图必须得到全球的回应。",
+          "url": "https://flash.jin10.com/detail/20260409225344429800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "商务部：“出口中国”让中国大市场成全球共享大市场",
@@ -1264,9 +1368,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "IMF总裁：我们存在财政空间问题，这几乎是全球都存在的。 各国必须对“部署无法承担的措施来应对价格上涨”有清晰的认识。",
+          "url": "https://wallstreetcn.com/livenews/3085186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "马来西亚总理安瓦尔：全球能源危机带来了不确定性，这对成本和供应链造成了压力。",
@@ -1297,7 +1412,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -1319,7 +1434,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -1333,6 +1448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "IMF总裁：全球无法在面临某些经济“阵痛”的情况下熬过战争。",
+          "url": "https://wallstreetcn.com/livenews/3085173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "哪吒2全球票房离第三不到一亿",
@@ -1382,11 +1508,12 @@
           "url": "https://www.baidu.com/s?wd=2947%E4%BA%BA%E7%9A%84%E6%8A%95%E8%B5%84%E7%BE%A4%E9%87%8C2946%E4%BA%BA%E6%98%AF%E2%80%9C%E6%89%98%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时09分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[20时09分 ~ 23时22分]"
         },
         {
           "title": "马上评｜虚报数十亿省外投资，如何守住数据真实底线",
@@ -1396,11 +1523,12 @@
             18,
             17,
             14,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 21时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 23时22分]"
         },
         {
           "title": "两年期德债收益率重挫约23个基点，投资者关注油价大幅下跌",
@@ -1569,7 +1697,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -1580,7 +1708,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         }
@@ -1597,7 +1725,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         }
