@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:26:28.369851+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-04-10T17:08:16.773999+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -57,6 +57,31 @@
           "time_info": "[01时06分 ~ 05时44分]"
         },
         {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 17时08分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 17时08分]"
+        },
+        {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
           "source": "澎湃新闻",
@@ -95,28 +120,28 @@
           "time_info": "[01时06分 ~ 07时37分]"
         },
         {
-          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
-          "url": "https://www.cls.cn/detail/2339900",
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 15时26分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
+            8,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 17时08分]"
+        },
+        {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -185,6 +210,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "特朗普要撤军？白宫称“在商讨”",
+          "url": "https://wallstreetcn.com/livenews/3085748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%84%BF%E5%AD%90%E7%BA%A6%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AD%90%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -227,18 +263,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 15时26分]"
-        },
-        {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -327,6 +351,17 @@
           "time_info": "[10时25分 ~ 13时24分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
           "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
           "url": "https://wallstreetcn.com/livenews/3085341",
           "source": "华尔街见闻-快讯",
@@ -357,7 +392,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -538,13 +573,24 @@
           "time_info": "05时28分"
         },
         {
+          "title": "拜登儿子约架特朗普儿子，总统之子要肉搏？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260410165334443800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -641,7 +687,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -799,7 +845,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -818,7 +864,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "马上评｜虚报数十亿省外投资，如何守住数据真实底线",
@@ -924,6 +970,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "【证监会：推出更多创业板相关ETF和期权，适时推出创业板股指期货】中国证监会新闻发言人就《关于深化创业板改革 更好服务新质生产力发展的意见》答记者问：加快推进投资端改革，是健全投资和融资相协调的资本市场功能、支持服务实体经济的重要一环。这次改革主要推出了以下举措。一是优化交易制度。引入做市商制度，促进创业板参与主体和交易策略多元化，减少价格波动，增强市场韧性。将协议大宗交易调整为实时成交确认，提高投资者证券和资金使用效率，增强成交确定性和中长期资金参与意愿。引入创业板相关ETF盘后固定价格交易机制，更好满足投资者多元化的交易需求，有利于降低大额交易对二级市场的冲击。二是丰富产品服务体系。优化创业板相关指数编制，推出更多创业板相关ETF和期权，适时推出创业板股指期货，支持基金投顾配置创业板ETF，将创业板ETF纳入基金通平台转让，更好满足不同投资者资产配置和风险管理需求，提升投资便利度和吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3085718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "证监会：引入创业板相关交易型开放式证券投资基金（ETF）盘后固定价格交易机制",
+          "url": "https://wallstreetcn.com/livenews/3085711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产增长至7.819万亿美元。",
