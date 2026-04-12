@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T03:39:25.818745+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-13T04:35:16.058548+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -38,42 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
-        },
-        {
-          "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3086478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时39分]"
-        },
-        {
-          "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
-          "url": "https://flash.jin10.com/detail/20260413025340242800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
-          "url": "https://flash.jin10.com/detail/20260413020447925800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -84,33 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
-          "url": "https://flash.jin10.com/detail/20260413020223685800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时39分]"
-        },
-        {
-          "title": "特朗普：不允许伊朗通过出售石油赚钱",
-          "url": "https://wallstreetcn.com/livenews/3086458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -120,8 +61,72 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
+        },
+        {
+          "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3086478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
+        },
+        {
+          "title": "特朗普：不允许伊朗通过出售石油赚钱",
+          "url": "https://wallstreetcn.com/livenews/3086458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 04时35分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
+          "url": "https://flash.jin10.com/detail/20260413020447925800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
+          "url": "https://flash.jin10.com/detail/20260413020223685800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时35分]"
+        },
+        {
+          "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
+          "url": "https://flash.jin10.com/detail/20260413025340242800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时35分]"
         },
         {
           "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
@@ -313,6 +318,34 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球最大冰山A23a，没了",
+          "url": "https://www.cls.cn/detail/2341326",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
+        },
+        {
+          "title": "英国政府：首相斯塔默与法国总统马克龙通话；首相强调需要达成持久停火；双方领导人一致认为，任何停火都必须涵盖黎巴嫩；霍尔木兹海峡对全球贸易和能源供应具有战略重要意义。",
+          "url": "https://flash.jin10.com/detail/20260413033650232800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -325,25 +358,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "全球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大冰山A23a，没了",
-          "url": "https://www.cls.cn/detail/2341326",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时35分]"
         }
       ]
     }
