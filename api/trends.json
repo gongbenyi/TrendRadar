@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:35:16.058548+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-13T05:33:46.768054+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -70,11 +70,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 05时33分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
+          "url": "https://flash.jin10.com/detail/20260413020447925800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 05时33分]"
         },
         {
           "title": "特朗普：不允许伊朗通过出售石油赚钱",
@@ -91,30 +106,18 @@
           "time_info": "[00时37分 ~ 04时35分]"
         },
         {
-          "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫对美国总统特朗普表示：“如果你挑衅，我们就迎战；如果你以理相待，我们就以理相待。”",
-          "url": "https://flash.jin10.com/detail/20260413020447925800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时35分]"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
           "url": "https://flash.jin10.com/detail/20260413020223685800",
           "source": "金十数据",
           "ranks": [
             3,
             10,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[02时45分 ~ 05时33分]"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -122,11 +125,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时33分]"
         },
         {
           "title": "“21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系",
@@ -329,19 +333,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         },
         {
           "title": "英国政府：首相斯塔默与法国总统马克龙通话；首相强调需要达成持久停火；双方领导人一致认为，任何停火都必须涵盖黎巴嫩；霍尔木兹海峡对全球贸易和能源供应具有战略重要意义。",
           "url": "https://flash.jin10.com/detail/20260413033650232800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时33分]"
         }
       ]
     },
@@ -358,8 +363,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时33分]"
         }
       ]
     }
