@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:43:56.301091+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-04-15T07:41:21.555320+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 06时43分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -57,27 +69,61 @@
           "time_info": "[00时08分 ~ 06时43分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
-        },
-        {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 07时41分]"
+        },
+        {
+          "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3088036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
+          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时52分 ~ 07时41分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
@@ -91,17 +137,6 @@
           "time_info": "04时52分"
         },
         {
-          "title": "特朗普暗示美伊“未来两天”或重启伊斯兰堡会谈",
-          "url": "https://news.ifeng.com/c/8sKPIktXF3q",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时52分 ~ 06时43分]"
-        },
-        {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
           "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
@@ -113,6 +148,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时13分]"
+        },
+        {
+          "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
+          "url": "https://flash.jin10.com/detail/20260415063058322800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普暗示美伊会谈或在2天内恢复",
+          "url": "https://www.toutiao.com/trending/7628753825699991090/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
@@ -206,7 +263,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球存储大狂欢！SK海力士股价再创新高 闪迪、南亚科捷报频传",
@@ -216,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -228,8 +285,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
+        },
+        {
+          "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
+          "url": "https://www.cls.cn/detail/2343935",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -243,16 +313,15 @@
           "time_info": "[00时08分 ~ 06时43分]"
         },
         {
-          "title": "全球氦气供应再受冲击！俄罗斯实施临时出口管制",
-          "url": "https://www.cls.cn/detail/2343935",
-          "source": "财联社热门",
+          "title": "金十数据全球财经早餐 | 2026年4月15日",
+          "url": "https://flash.jin10.com/detail/20260415070009438800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -262,8 +331,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时52分 ~ 06时43分]"
+          "appearance_count": 5,
+          "time_info": "[04时52分 ~ 07时41分]"
         },
         {
           "title": "全球营收第二大律所斩获83亿美元收入，创历史新高",
@@ -300,6 +369,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260414234104391800",
           "source": "金十数据",
@@ -309,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.286吨，当前持仓量为1049.478吨。",
+          "url": "https://flash.jin10.com/detail/20260415062333782800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "英国10年期国债发行收益率创全球金融危机以来新高",
@@ -325,7 +416,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "有人爆料多地寺庙撤商铺，将被整改，还收集和尚的社交媒体账号与投资任职情况，是真的吗？具体什么情况？",
@@ -340,8 +431,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "投资超7亿农业实训基地不见农业影子",
@@ -352,11 +443,12 @@
             8,
             23,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         },
         {
           "title": "城堡投资格里芬：伊朗战争威胁全球经济衰退",
@@ -379,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "央视曝光投资7亿农业基地不干农业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%95%E8%B5%847%E4%BA%BF%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "文件显示，挪威将解除对其规模达2.2万亿美元的主权财富基金投资叙利亚政府债券的禁令。（路透）",
@@ -480,8 +583,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 07时41分]"
         }
       ]
     },
