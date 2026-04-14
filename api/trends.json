@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:29:21.975669+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-04-14T17:17:10.324879+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -95,6 +95,19 @@
           "time_info": "[00时12分 ~ 13时23分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时41分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -147,24 +160,25 @@
           "time_info": "[00时12分 ~ 07时41分]"
         },
         {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时17分]"
+        },
+        {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
           "ranks": [
             9,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时41分 ~ 15时29分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -197,6 +211,17 @@
           "time_info": "[00时12分 ~ 06时42分]"
         },
         {
+          "title": "特朗普威胁向伊朗供武将加征关税，中方回应",
+          "url": "https://news.ifeng.com/c/8sJnWoKRpnK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
           "title": "伊朗强硬回应特朗普封锁威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -209,6 +234,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时22分 ~ 07时41分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时17分]"
         },
         {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
@@ -233,22 +271,35 @@
           "time_info": "00时12分"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普发了一张图，让西方大吃一惊",
           "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8,
             6
           ],
           "is_new": false,
@@ -328,29 +379,6 @@
           "time_info": "[04时54分 ~ 05时47分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 15时29分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
-        },
-        {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
           "source": "澎湃新闻",
@@ -363,16 +391,15 @@
           "time_info": "[10时26分 ~ 13时23分]"
         },
         {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时29分]"
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -659,7 +686,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国为全球市场点亮“希望之光”",
@@ -748,6 +775,17 @@
           "time_info": "[04时54分 ~ 07时41分]"
         },
         {
+          "title": "全球争购中国变压器 变压器高景气度有望延续",
+          "url": "https://www.cls.cn/detail/2342912",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260414040620819800",
           "source": "金十数据",
@@ -788,7 +826,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -840,7 +878,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "财晓得｜这波中国科技大爆发，应该如何把握投资机会？",
@@ -853,6 +891,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时41分]"
+        },
+        {
+          "title": "4月14日投资避雷针：一年十倍大牛股突发！终止收购锂电池企业事项",
+          "url": "https://www.cls.cn/detail/2342936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时17分]"
         },
         {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
@@ -877,18 +928,6 @@
           "time_info": "06时42分"
         },
         {
-          "title": "4月14日投资避雷针：一年十倍大牛股突发！终止收购锂电池企业事项",
-          "url": "https://www.cls.cn/detail/2342936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 15时29分]"
-        },
-        {
           "title": "派杰投资：将微软(MSFT.O)目标价从600美元下调至500美元。",
           "url": "https://flash.jin10.com/detail/20260414124554110800",
           "source": "金十数据",
@@ -898,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "李云泽会见美国桥水投资公司创始人瑞·达利欧",
+          "url": "https://wallstreetcn.com/livenews/3087577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "美国银行调查：投资者押注伊朗战争对美元的提振是短暂的",
@@ -920,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "廖岷会见桥水投资公司创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3087565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "高盛计划发行投资级债券，筹集至少50亿美元",
@@ -969,7 +1030,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
