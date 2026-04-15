@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T13:23:21.907209+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-04-15T15:29:45.077839+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时08分 ~ 07时41分]"
+        },
+        {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 15时29分]"
         },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -69,16 +81,51 @@
           "time_info": "[00时08分 ~ 06时43分]"
         },
         {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
+            4,
             3,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时41分 ~ 13时23分]"
+          "time_info": "[10时24分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时29分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时29分]"
         },
         {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
@@ -93,38 +140,15 @@
           "time_info": "[03时12分 ~ 07时41分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
+          "title": "特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
+          "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 15时29分]"
         },
         {
           "title": "伊朗战争丨万斯：特朗普想和伊朗达成大协议",
@@ -138,17 +162,6 @@
           "time_info": "10时24分"
         },
         {
-          "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088037",
           "source": "华尔街见闻-快讯",
@@ -158,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "特朗普称没有必要延长同伊朗的停火",
-          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         },
         {
           "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
@@ -223,11 +225,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时29分]"
         },
         {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
@@ -236,9 +239,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "15时29分"
         },
         {
           "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
@@ -258,7 +272,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -302,7 +316,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -373,6 +387,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美参院民主党领袖：每周强制发起投票 限制特朗普“战争权力”",
+          "url": "https://wallstreetcn.com/livenews/3088254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美国副总统万斯称，特朗普不想要小规模协议，他想要的是“大协议”。他还表示，特朗普的根本政策是阻止伊朗获得核武器。",
           "url": "https://flash.jin10.com/detail/20260415095010311800",
           "source": "金十数据",
@@ -390,7 +415,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -401,7 +426,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -409,7 +434,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球存储大狂欢！SK海力士股价再创新高 闪迪、南亚科捷报频传",
@@ -448,6 +473,18 @@
           "time_info": "[00时08分 ~ 07时41分]"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时52分 ~ 15时29分]"
+        },
+        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -457,18 +494,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 06时43分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时52分 ~ 13时23分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年4月15日",
@@ -509,11 +534,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 15时29分]"
         },
         {
           "title": "全球营收第二大律所斩获83亿美元收入，创历史新高",
@@ -572,6 +598,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "金十图示：2026年04月15日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260415151137311800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.286吨，当前持仓量为1049.478吨。",
           "url": "https://flash.jin10.com/detail/20260415062333782800",
           "source": "金十数据",
@@ -589,7 +626,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -660,9 +697,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时29分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -811,8 +848,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 15时29分]"
         }
       ]
     },
