@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T07:41:10.131550+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-04-16T10:31:44.889355+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -83,11 +84,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -95,11 +97,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -108,11 +111,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -125,6 +129,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 06时41分]"
+        },
+        {
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -148,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
@@ -178,7 +204,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -274,7 +300,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "宁德时代连发多条重要公告，涉及分红、一季报、对外投资",
@@ -310,8 +336,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -369,9 +395,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "4月16日投资避雷针：1500亿白马股一季度亏损1.5亿 智能手机与电脑类收入减少",
+          "url": "https://www.cls.cn/detail/2345544",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "市场消息：法拉第未来修订了其1000万美元的股权投资协议，将投资金额提高至1200万美元。此次修订删除了反稀释条款，旨在加强对现有股东权益的保护。",
@@ -380,7 +417,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -396,6 +433,28 @@
           "time_info": "03时15分"
         },
         {
+          "title": "中国1至3月城镇固定资产投资同比 1.7%，前值 1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3088921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "中国1至3月全国房地产开发投资 -11.2%，前值 -11.1%。",
+          "url": "https://wallstreetcn.com/livenews/3088918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "乌克兰总理：在跟进今年3月于基辅举行的美乌重建投资基金董事会会议时，与贝森特强调了批准下一轮投资项目的重要性。双方同意扩大该基金的运营能力，并设立一个共同投资基金。",
           "url": "https://flash.jin10.com/detail/20260416032439949800",
           "source": "金十数据",
@@ -405,6 +464,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "国家统计局：1-3月外商投资企业固定资产投资下降6.3%",
+          "url": "https://flash.jin10.com/detail/20260416100501588800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "国家统计局：1-3月第三产业投资63608亿元，下降1.0%",
+          "url": "https://flash.jin10.com/detail/20260416100432246800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "中国3月城镇固定资产投资环比 0.52%，前值0.39%。",
+          "url": "https://flash.jin10.com/detail/20260416100421094800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "提醒：北京时间10:00，将公布中国一季度GDP，1-3月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资等数据。",
+          "url": "https://wallstreetcn.com/livenews/3088905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "报道：超大规模IPO临近，SpaceX计划邀请大额投资者实地考察",
@@ -421,7 +524,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球首个未来太空医院来了",
@@ -443,7 +546,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -484,6 +587,18 @@
           "time_info": "[04时45分 ~ 05时52分]"
         },
         {
+          "title": "铝的全球库存只有：9天！",
+          "url": "https://wallstreetcn.com/articles/3769995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时31分]"
+        },
+        {
           "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
           "url": "https://wallstreetcn.com/livenews/3088769",
           "source": "华尔街见闻-快讯",
@@ -495,17 +610,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时45分 ~ 06时41分]"
-        },
-        {
-          "title": "铝的全球库存只有：9天！",
-          "url": "https://wallstreetcn.com/articles/3769995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "IMF警告美国国债正失去安全溢价，并在全球范围内推高借贷成本",
@@ -539,12 +643,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：G7讨论了全球经济、关键矿产、乌克兰等议题。 美国财长贝森特周三没有参加G7会议。 已经告诉G7日本正以高度紧迫感关注汇市。 早些时候在双边会谈中与贝森特讨论了外汇问题。 在G7峰会期间表示，石油市场趋势正在影响外汇市场。 贝森特在双边会谈中没有提及货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3088908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
@@ -569,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
+          "url": "https://www.cls.cn/detail/2345498",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -608,11 +734,12 @@
             29,
             28,
             21,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 10时31分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
