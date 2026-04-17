@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T15:44:58.495946+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-17T17:16:32.380802+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 15时44分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 17时16分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -44,6 +44,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 06时39分]"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 17时16分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 17时16分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -66,29 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时44分]"
-        },
-        {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时44分]"
         },
         {
           "title": "特朗普称以黎停火10天",
@@ -214,8 +215,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时16分]"
         },
         {
           "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
@@ -228,6 +229,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "巴西总统卢拉：特朗普“不能总是以战争威胁其他国家”",
@@ -588,7 +600,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -596,7 +608,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -657,6 +669,18 @@
           "time_info": "[04时46分 ~ 06时39分]"
         },
         {
+          "title": "Mythos令全球金融精英陷恐慌与困惑，英央行行长：上辈子做错了什么？",
+          "url": "https://wallstreetcn.com/articles/3770197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 17时16分]"
+        },
+        {
           "title": "金十图示：2026年04月16日（周四）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260417040801179800",
           "source": "金十数据",
@@ -692,17 +716,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "Mythos令全球金融精英陷恐慌与困惑，英央行行长：上辈子做错了什么？",
-          "url": "https://wallstreetcn.com/articles/3770197",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "迪拜启用全球首个综合空中出租车起降场",
           "url": "https://wallstreetcn.com/livenews/3089784",
           "source": "华尔街见闻-快讯",
@@ -731,7 +744,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -780,6 +793,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "全球领先！我国具备同时建造50台核电机组能力",
+          "url": "https://wallstreetcn.com/livenews/3089928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "G7警告称，必须尽快限制中东战争给全球经济造成的损失",
           "url": "https://flash.jin10.com/detail/20260417095931265800",
           "source": "金十数据",
@@ -789,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "张雪机车与东鹏特饮签全球冠名合作",
+          "url": "https://www.toutiao.com/trending/7629184370535989254/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "韩国承诺提供41亿美元刺激计划，以应对美伊战争带来的全球风险。",
@@ -808,9 +843,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "挪威财长明确表态：全球最大主权财富基金无意减持美资产",
+          "url": "https://flash.jin10.com/detail/20260417164754672800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "全球航班大规模取消",
@@ -822,12 +868,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "全球最大零食店“零食王国”迎客",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%9B%B6%E9%A3%9F%E5%BA%97%E2%80%9C%E9%9B%B6%E9%A3%9F%E7%8E%8B%E5%9B%BD%E2%80%9D%E8%BF%8E%E5%AE%A2",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "马上评｜政府投资终身追责，向“拍脑袋”决策亮剑",
@@ -848,11 +905,12 @@
           "url": "https://www.cls.cn/detail/2347047",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时16分]"
         },
         {
           "title": "美财长贝森特承诺支持日本推进投资审查机制",
@@ -885,8 +943,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 17时16分]"
+        },
+        {
+          "title": "证监会：依法从严打击违法违规行为，切实维护投资者合法权益",
+          "url": "https://wallstreetcn.com/livenews/3089942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "日本财务大臣片山皋月：日本国际协力银行（JBIC）将设立规模达6000亿日元的新投资窗口，以帮助亚洲国家确保能源供应。 正密切关注金融市场，因为原油期货的波动正影响外汇市场。",
@@ -906,7 +975,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -942,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "绿城水务：收到控股股东南宁建宁水务投资集团有限责任公司的通知，公司法定代表人、董事长黄东海被南宁市监察委员会立案调查并采取留置措施。",
+          "url": "https://wallstreetcn.com/livenews/3089915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
@@ -1054,6 +1134,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
