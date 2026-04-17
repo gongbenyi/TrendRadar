@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T17:16:32.380802+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-04-17T18:54:56.139647+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -46,24 +46,24 @@
           "time_info": "[01时13分 ~ 06时39分]"
         },
         {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 17时16分]"
-        },
-        {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
           "url": "https://wallstreetcn.com/articles/3770182",
           "source": "华尔街见闻",
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 18时54分]"
+        },
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -184,6 +184,17 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 18时54分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -208,15 +219,15 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 17时16分]"
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时54分]"
         },
         {
           "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
@@ -231,17 +242,6 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
-          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "巴西总统卢拉：特朗普“不能总是以战争威胁其他国家”",
           "url": "https://wallstreetcn.com/livenews/3089629",
           "source": "华尔街见闻-快讯",
@@ -251,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "美前官员：特朗普欲“谈合作”，但其团队对华立场更为强硬",
@@ -273,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "海湾地区官员：特朗普迫切希望结束战争，或将接受更多妥协",
+          "url": "https://flash.jin10.com/detail/20260417182105937800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "限特朗普战争权力议案遭美众院否决",
@@ -427,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-17）",
+          "url": "https://flash.jin10.com/detail/20260417181312613800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "特朗普：如果伊朗协议在伊斯兰堡签署，我可能会去",
@@ -608,7 +641,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
@@ -677,8 +710,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 18时54分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）全球股市指数-美洲市场（收盘）",
@@ -703,6 +736,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "张雪机车与东鹏特饮签全球冠名合作",
+          "url": "https://www.toutiao.com/trending/7629184370535989254/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时54分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年4月17日",
@@ -747,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "全球首款可耐受1300℃高温的锂电池材料研发成功",
+          "url": "https://www.cls.cn/detail/2347358",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "金十图示：2026年04月17日（周五）全球汽车制造商市值变化",
@@ -799,7 +855,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -813,17 +869,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "张雪机车与东鹏特饮签全球冠名合作",
-          "url": "https://www.toutiao.com/trending/7629184370535989254/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "韩国承诺提供41亿美元刺激计划，以应对美伊战争带来的全球风险。",
@@ -854,7 +899,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -876,7 +921,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
@@ -884,7 +929,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "马上评｜政府投资终身追责，向“拍脑袋”决策亮剑",
@@ -909,8 +954,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 17时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 18时54分]"
         },
         {
           "title": "美财长贝森特承诺支持日本推进投资审查机制",
@@ -953,7 +998,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -980,6 +1025,17 @@
           "time_info": "15时44分"
         },
         {
+          "title": "中财金控投资有限公司收北京证监局警示函",
+          "url": "https://wallstreetcn.com/livenews/3089984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "澳大利亚与英国签署投资合作伙伴协议。 协议将解锁两国之间的养老基金投资。",
           "url": "https://wallstreetcn.com/livenews/3089615",
           "source": "华尔街见闻-快讯",
@@ -1002,6 +1058,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "中基协：基金管理公司应当全面建立以基金投资收益为核心的绩效考核体系",
+          "url": "https://wallstreetcn.com/livenews/3089973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3089547",
           "source": "华尔街见闻-快讯",
@@ -1019,7 +1086,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
@@ -1148,7 +1215,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
