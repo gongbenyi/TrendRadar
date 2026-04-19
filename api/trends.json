@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-19T07:34:16.374008+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-19T10:32:41.152426+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
         {
           "title": "特朗普：伊朗不会拥有核武器",
           "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
@@ -42,26 +31,28 @@
           "time_info": "[00时39分 ~ 07时34分]"
         },
         {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时32分]"
+        },
+        {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
+            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时32分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -73,6 +64,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时32分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -144,6 +147,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
           "url": "https://flash.jin10.com/detail/20260419021741854800",
           "source": "金十数据",
@@ -206,6 +220,28 @@
           "time_info": "[05时34分 ~ 07时34分]"
         },
         {
+          "title": "特朗普称以色列是“勇敢的盟友” 批评其他盟友“暴露本性”",
+          "url": "https://flash.jin10.com/detail/20260419091413176800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统特朗普：无论人们是否喜欢以色列，他们都证明了自己是美国的伟大盟友。",
+          "url": "https://flash.jin10.com/detail/20260419090827382800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美国总统特朗普：今天结束前会有一些信息。",
           "url": "https://flash.jin10.com/detail/20260418214748360800",
           "source": "金十数据",
@@ -237,12 +273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "专家：伊朗短暂重开海峡后再次关闭，特朗普乐观谈判前景遭质疑",
+          "url": "https://flash.jin10.com/detail/20260419055846431800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -250,11 +297,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时32分]"
         },
         {
           "title": "国产光纤全球爆单 部分产品价格暴涨650%",
@@ -262,11 +310,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 10时32分]"
         },
         {
           "title": "全球船东回应“霍尔木兹海峡开放”：谨慎乐观，但不敢动",
@@ -293,6 +342,28 @@
           "time_info": "[00时39分 ~ 07时34分]"
         },
         {
+          "title": "价格暴涨650%！国产光纤全球爆单",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "国产光纤全球爆单价格暴涨650%",
+          "url": "https://www.toutiao.com/trending/7629203877225332778/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "国产光纤全球爆单 光纤价格暴涨650%",
           "url": "https://flash.jin10.com/detail/20260418225047551800",
           "source": "金十数据",
@@ -308,7 +379,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -316,11 +387,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时32分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -337,7 +420,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -362,6 +445,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时34分]"
+        },
+        {
+          "title": "既当分析师，又当投资人：这个29岁年轻人，正掌握芯片的话语权",
+          "url": "https://wallstreetcn.com/articles/3770312",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     }
