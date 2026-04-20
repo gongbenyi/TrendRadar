@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T18:47:52.447968+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-04-20T20:03:36.859139+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 18时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 20时03分]"
         },
         {
           "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
@@ -70,6 +70,17 @@
           "time_info": "[00时38分 ~ 07时35分]"
         },
         {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 20时03分]"
+        },
+        {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
           "source": "澎湃新闻",
@@ -81,17 +92,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 18时47分]"
         },
         {
           "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
@@ -132,6 +132,19 @@
           "time_info": "[13时40分 ~ 18时47分]"
         },
         {
+          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
+          "url": "https://www.cls.cn/detail/2348969",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 20时03分]"
+        },
+        {
           "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
           "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
           "source": "凤凰网",
@@ -143,17 +156,15 @@
           "time_info": "[13时40分 ~ 16时04分]"
         },
         {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            5,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 18时47分]"
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时03分]"
         },
         {
           "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
@@ -216,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -350,6 +350,18 @@
           "time_info": "[13时40分 ~ 16时04分]"
         },
         {
+          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
+          "url": "https://www.cls.cn/detail/2349003",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时03分]"
+        },
+        {
           "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
           "url": "https://flash.jin10.com/detail/20260419233905048800",
           "source": "金十数据",
@@ -385,24 +397,13 @@
           "time_info": "13时40分"
         },
         {
-          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
-          "url": "https://www.cls.cn/detail/2349003",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "特朗普边称要谈判边威胁伊朗，伊朗称「已为战火重燃做好准备」，特朗普目的何在？目前局势如何？",
           "url": "https://www.zhihu.com/question/2029496732459778569",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -413,7 +414,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -421,7 +422,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "周末要闻汇总：国产光纤全球爆单；原油市场再现“绝妙”押注",
@@ -483,11 +484,12 @@
           "ranks": [
             13,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 20时03分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年4月20日",
@@ -505,11 +507,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E5%A4%A7%E9%98%94%E6%8A%98%E6%89%8B%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时03分]"
         },
         {
           "title": "美伊战事50天 全球“蒸发”了5亿桶原油 这相当于……",
@@ -517,11 +520,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 20时03分]"
         },
         {
           "title": "阿布扎比国家石油公司首席执行官阿尔·贾伯：全球经济无法承受更多不确定性；霍尔木兹海峡在威胁下无法正常运作。",
@@ -592,6 +596,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "4 月 20 日华为发布会正式推出全球首款大阔折，内外双面阔型屏对于体验有哪些提升？",
+          "url": "https://www.zhihu.com/question/2029518256541634879",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "减航班、涨票价 全球多家航司进入“自保”模式",
           "url": "https://flash.jin10.com/detail/20260420094343649800",
           "source": "金十数据",
@@ -609,7 +624,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         }
@@ -617,7 +632,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "加拿大总理：加拿大将吸引全球投资，降低对单一外部市场的依赖",
@@ -686,7 +701,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -722,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "腾讯入股金融科技公司Kaspi.kz 对哈萨克斯坦进行了首次投资",
+          "url": "https://wallstreetcn.com/livenews/3091068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "张雪机车投资人未来打算继续追加投入",
@@ -788,11 +814,12 @@
           "url": "https://www.zhihu.com/question/2029232145541980805",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时03分]"
         }
       ]
     },
@@ -810,6 +837,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 02时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI最新生图模型有多强",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%9C%80%E6%96%B0%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     }
