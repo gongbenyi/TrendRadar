@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T15:48:21.947873+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-21T17:47:57.341876+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 15时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 17时47分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -41,6 +41,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 17时47分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -73,21 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时48分]"
-        },
-        {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时48分]"
+          "time_info": "[13时26分 ~ 17时47分]"
         },
         {
           "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
@@ -96,9 +97,45 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 17时47分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 17时47分]"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 17时47分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-21）",
+          "url": "https://flash.jin10.com/detail/20260421174329067800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "17时47分"
         },
         {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
@@ -112,18 +149,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时42分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
@@ -196,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时44分]"
-        },
-        {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 15时48分]"
         },
         {
           "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
@@ -294,6 +307,18 @@
           "time_info": "[05时45分 ~ 06时42分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 17时47分]"
+        },
+        {
           "title": "民调：特朗普支持率创第二任期内新低",
           "url": "https://www.toutiao.com/trending/7630352961877655571/",
           "source": "今日头条",
@@ -362,6 +387,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "今晚市场迎来美国数据、特朗普、沃什三场考验",
+          "url": "https://flash.jin10.com/detail/20260421173502870800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "特朗普在美国中期选举前已囤积5.5亿美元竞选资金",
           "url": "https://wallstreetcn.com/livenews/3091468",
           "source": "华尔街见闻-快讯",
@@ -373,15 +409,15 @@
           "time_info": "10时28分"
         },
         {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "17时47分"
         },
         {
           "title": "美国总统特朗普“重申”：如果不达成伊朗协议，美军就不会解除对霍尔木兹海峡的封锁。 封锁正在摧毁伊朗。",
@@ -467,7 +503,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -481,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "据消息人士透露，美国贸易代表格里尔向墨西哥企业表示，特朗普对墨西哥的关税措施将长期维持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3091692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "特朗普坚称伊朗“将会谈判”",
@@ -552,7 +599,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "迪拜帆船酒店将停业 1 年半进行大规模修复工程，为何需要这么久？作为全球顶级地标，这对迪拜旅游影响有多大？",
@@ -609,7 +656,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -705,9 +752,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "全球最大变频压缩机生产基地在眉山竣工投产",
@@ -749,7 +807,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -809,11 +867,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 17时47分]"
         },
         {
           "title": "据华尔街日报：美国参议院民主党人重点关注沃什可能持有银行股等投资资产。",
@@ -846,7 +905,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -940,6 +999,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     }
