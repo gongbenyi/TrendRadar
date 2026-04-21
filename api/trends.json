@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:28:45.999789+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-04-21T13:26:42.967249+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 10时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 13时26分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -59,20 +60,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时26分]"
         },
         {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
@@ -84,8 +74,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普撇清：以色列可说不动我",
+          "url": "https://news.ifeng.com/c/8sUslKZt0DW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
+          "url": "https://wallstreetcn.com/articles/3770427",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时26分]"
         },
         {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
@@ -158,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时44分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时26分]"
         },
         {
           "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
@@ -256,17 +281,6 @@
           "time_info": "[01时56分 ~ 03时04分]"
         },
         {
-          "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
-          "url": "https://wallstreetcn.com/articles/3770427",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "特朗普：新协议将比伊核协议好得多，停火“极不可能”延长",
           "url": "https://flash.jin10.com/detail/20260421065026687800",
           "source": "金十数据",
@@ -276,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
+          "url": "https://wallstreetcn.com/livenews/3091534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "伊朗议长：特朗普妄图将谈判桌变成投降桌",
@@ -300,13 +325,35 @@
           "time_info": "03时04分"
         },
         {
+          "title": "民调：特朗普支持率创第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7630352961877655571/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "特朗普在美国中期选举前已囤积5.5亿美元竞选资金",
           "url": "https://wallstreetcn.com/livenews/3091468",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -328,7 +375,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -405,7 +452,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -438,7 +485,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -468,7 +515,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "迪拜帆船酒店将停业 1 年半进行大规模修复工程，为何需要这么久？作为全球顶级地标，这对迪拜旅游影响有多大？",
@@ -486,6 +533,17 @@
           "time_info": "[00时08分 ~ 07时41分]"
         },
         {
+          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
+          "url": "https://www.cls.cn/detail/2350092",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时26分]"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年4月21日",
           "url": "https://flash.jin10.com/detail/20260421070424049800",
           "source": "金十数据",
@@ -497,15 +555,15 @@
           "time_info": "07时41分"
         },
         {
-          "title": "减速机订单已排到明年！人形机器人“物种爆发” 2030年全球出货量将超50万？",
-          "url": "https://www.cls.cn/detail/2350092",
-          "source": "财联社热门",
+          "title": "广交会架起全球贸易新桥梁",
+          "url": "https://www.toutiao.com/trending/7630845051991638057/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "13时26分"
         },
         {
           "title": "金十图示：2026年04月20日（周一）全球股市指数-美洲市场（收盘）",
@@ -593,6 +651,17 @@
           "time_info": "[04时44分 ~ 05时45分]"
         },
         {
+          "title": "全球最大变频压缩机生产基地在眉山竣工投产",
+          "url": "https://wallstreetcn.com/livenews/3091528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "金十图示：2026年04月20日（周一）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260420234111459800",
           "source": "金十数据",
@@ -602,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "全球最大变频压缩机生产基地在眉山竣工投产",
+          "url": "https://flash.jin10.com/detail/20260421125718818800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "苹果(AAPL.O)：作为执行董事长，库克将协助公司处理某些事务，包括与全球政策制定者的互动。",
@@ -632,7 +712,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -666,6 +746,17 @@
           "time_info": "[01时56分 ~ 03时04分]"
         },
         {
+          "title": "4月21日投资避雷针：千亿液冷服务器龙头业绩“遇冷” 一季度净利润同比下降81.97%",
+          "url": "https://www.cls.cn/detail/2350121",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时26分]"
+        },
+        {
           "title": "亚马逊(AMZN.O)：Anthropic将在AWS技术上投资超过1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260421044043115800",
           "source": "金十数据",
@@ -676,17 +767,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时42分]"
-        },
-        {
-          "title": "4月21日投资避雷针：千亿液冷服务器龙头业绩“遇冷” 一季度净利润同比下降81.97%",
-          "url": "https://www.cls.cn/detail/2350121",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         },
         {
           "title": "香港交易所上市主管伍洁镟：结构性产品是香港证券市场不可或缺的一部分，不仅为投资者提供有效的风险对冲工具，也令市场更有活力。 我们很高兴各项建议得到市场的大力支持，优化后的上市制度将确保香港结构性产品市场的国际竞争力及领先地位，促进产品创新，并维持高水平的市场质素和投资者保障标准。 这次改革将令相关机制更具韧性及灵活性，支持市场的可持续发展，进一步丰富香港交易所的多元资产生态圈。（证券日报）",
@@ -739,7 +819,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
