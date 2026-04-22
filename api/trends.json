@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T19:03:59.750921+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-04-22T23:13:20.590706+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 19时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时34分 ~ 23时13分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时06分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[02时06分 ~ 23时13分]"
         },
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -86,6 +86,21 @@
           "time_info": "[00时59分 ~ 10时27分]"
         },
         {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 23时13分]"
+        },
+        {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
           "url": "https://wallstreetcn.com/articles/3770498",
           "source": "华尔街见闻",
@@ -109,22 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 19时03分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 19时03分]"
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 23时13分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -152,6 +153,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时24分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时13分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -190,17 +202,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时03分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -271,13 +272,35 @@
           "time_info": "07时34分"
         },
         {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美媒：特朗普再给伊朗3至5天停火时间",
+          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普称美国拦截的伊朗货轮可能载有“来自中国的礼物”，外交部回应",
           "url": "https://flash.jin10.com/detail/20260422183850895800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -317,6 +340,18 @@
           "time_info": "[10时26分 ~ 13时25分]"
         },
         {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时13分]"
+        },
+        {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
           "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
           "source": "凤凰网",
@@ -334,17 +369,6 @@
           "ranks": [
             11,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时03分]"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -455,6 +479,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
           "url": "https://wallstreetcn.com/livenews/3092025",
           "source": "华尔街见闻-快讯",
@@ -508,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
@@ -631,6 +677,17 @@
           "time_info": "01时00分"
         },
         {
+          "title": "贝森特：特朗普很擅长降低能源成本",
+          "url": "https://wallstreetcn.com/livenews/3092691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "标普500 E-mini期货跌幅收窄至0.3%，特朗普称将延长美国与伊朗的停火协议。",
           "url": "https://wallstreetcn.com/livenews/3092093",
           "source": "华尔街见闻-快讯",
@@ -640,6 +697,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "精神航空（Spirit Aviation）场外交易股价上涨36.7%至0.82美元，此前有报道称特朗普政府接近达成对精神航空的救助。",
+          "url": "https://flash.jin10.com/detail/20260422223809289800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美国知情人士称：总统特朗普愿意额外给予伊朗3-5天停火时间。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "特朗普发帖：已指示军方继续实施封锁，同时将延长停火",
@@ -659,7 +738,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -689,7 +768,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "全球最大避孕套生产商将涨价",
@@ -790,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国贸易代表格里尔：在审查美国墨西哥加拿大贸易协议（USMCA）的谈判中，原产地规则的调整需涵盖汽车以外的更多领域。 加拿大正变本加厉地推动全球化。 如果加拿大不在更广泛的原产地规则上与美方接触，那么美方可能需要采取其他边境管制措施。",
+          "url": "https://wallstreetcn.com/livenews/3092701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1059.762吨。",
@@ -905,7 +995,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "公、私募全线预警：电诈产业化围猎投资者，多种套路曝光",
@@ -1047,7 +1137,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1069,7 +1159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1113,9 +1203,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "投资者敦促英国审计监管机构审查汇丰银行的气候会计处理",
+          "url": "https://wallstreetcn.com/livenews/3092685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
@@ -1210,6 +1311,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "谷歌：Google Drive中的AI概览功能现已普遍可用。",
+          "url": "https://flash.jin10.com/detail/20260422224544540800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260422224338586800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
