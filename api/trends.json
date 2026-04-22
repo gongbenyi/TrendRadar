@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T05:51:13.672313+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-23T06:46:21.139431+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -39,8 +27,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时03分]"
+        },
+        {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -88,6 +101,18 @@
           "time_info": "[05时50分 ~ 05时51分]"
         },
         {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
+        },
+        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -99,16 +124,16 @@
           "time_info": "[00时58分 ~ 00时59分]"
         },
         {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 4,
+          "time_info": "[04时04分 ~ 06时46分]"
         },
         {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
@@ -122,6 +147,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
           "url": "https://flash.jin10.com/detail/20260423014423775800",
           "source": "金十数据",
@@ -131,18 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
         },
         {
           "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
@@ -162,32 +186,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
-          "url": "https://wallstreetcn.com/livenews/3092860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 05时51分]"
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
@@ -196,7 +197,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -211,6 +212,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时04分]"
+        },
+        {
+          "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
+          "url": "https://wallstreetcn.com/livenews/3092860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时46分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
@@ -351,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -365,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3092875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "美国总统特朗普预计伊朗外长阿拉格齐将继续参与伊朗谈判。（福克斯新闻）",
@@ -406,7 +430,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -523,7 +547,49 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全球最大避孕套生产商警告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%81%BF%E5%AD%95%E5%A5%97%E7%94%9F%E4%BA%A7%E5%95%86%E8%AD%A6%E5%91%8A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.57吨，当前持仓量为1050.907吨。",
+          "url": "https://flash.jin10.com/detail/20260423061728073800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
+          "url": "https://wallstreetcn.com/livenews/3092839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         }
@@ -544,8 +610,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时46分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
@@ -589,37 +655,6 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全球最大避孕套生产商警告",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%81%BF%E5%AD%95%E5%A5%97%E7%94%9F%E4%BA%A7%E5%95%86%E8%AD%A6%E5%91%8A%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时51分]"
-        },
-        {
-          "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
-          "url": "https://wallstreetcn.com/livenews/3092839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "投资",
       "match_count": 1,
       "titles": [
@@ -630,7 +665,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         }
