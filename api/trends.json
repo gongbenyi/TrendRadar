@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T15:50:11.761053+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-23T17:27:21.945452+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -20,17 +20,6 @@
           "time_info": "[00时58分 ~ 10时31分]"
         },
         {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时44分]"
-        },
-        {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
           "url": "https://wallstreetcn.com/articles/3770634",
           "source": "华尔街见闻",
@@ -40,8 +29,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时04分 ~ 15时50分]"
+          "appearance_count": 10,
+          "time_info": "[04时04分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 07时44分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -107,6 +107,31 @@
           "time_info": "[00时58分 ~ 07时44分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时27分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 17时27分]"
+        },
+        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -116,6 +141,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时03分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时27分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -128,30 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时50分]"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时50分]"
         },
         {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
@@ -176,17 +188,6 @@
           "time_info": "[06时46分 ~ 07时44分]"
         },
         {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
-        },
-        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -196,6 +197,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 00时59分]"
+        },
+        {
+          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
+          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 17时27分]"
         },
         {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
@@ -253,19 +267,6 @@
           "time_info": "05时51分"
         },
         {
-          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
-          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 15时50分]"
-        },
-        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -290,6 +291,17 @@
           "time_info": "[10时31分 ~ 15时50分]"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时27分]"
+        },
+        {
           "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
           "url": "https://wallstreetcn.com/livenews/3092860",
           "source": "华尔街见闻-快讯",
@@ -302,15 +314,15 @@
           "time_info": "[05时51分 ~ 06时46分]"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时50分]"
+          "time_info": "[15时49分 ~ 17时27分]"
         },
         {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
@@ -335,17 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时44分]"
-        },
-        {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
         },
         {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
@@ -546,6 +547,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普掌握着所有的筹码。牌在特朗普手中，美国保持控制。",
           "url": "https://flash.jin10.com/detail/20260423032001718800",
           "source": "金十数据",
@@ -648,11 +660,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%AD%A3%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E9%87%8D%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时27分]"
         },
         {
           "title": "全球首个百GWh储能全产业链基地落子宜昌",
@@ -661,7 +674,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -683,7 +696,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -768,8 +781,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "谷歌：将在奥地利开设首个数据中心，创造100个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260423170332420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
         {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
           "url": "https://www.cls.cn/detail/2352843",
@@ -898,11 +922,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 17时27分]"
         },
         {
           "title": "SpaceX瞄准内部GPU 警告投资者芯片供应和成本问题",
