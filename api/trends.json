@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T21:02:30.590915+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-25T22:40:56.918914+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时38分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时38分 ~ 22时40分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
@@ -99,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时12分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时12分 ~ 22时40分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -433,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
@@ -802,8 +813,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 22时40分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -839,7 +850,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -921,11 +932,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时40分]"
         },
         {
           "title": "DeepSeek-V4“解锁”国产芯片",
@@ -952,6 +964,119 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
+          "url": "https://www.cls.cn/detail/2355220",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 15时13分]"
+        },
+        {
+          "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260425040623846800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 10时12分]"
+        },
+        {
+          "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
+          "url": "https://wallstreetcn.com/livenews/3094289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时45分 ~ 06时38分]"
+        },
+        {
+          "title": "纵横G700至尊航行版完成全球首个载人航行应急演练",
+          "url": "https://wallstreetcn.com/livenews/3094355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时02分]"
+        },
+        {
+          "title": "比亚迪第三代元PLUS全球首发亮相",
+          "url": "https://www.toutiao.com/trending/7631729873135894564/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时13分]"
+        },
+        {
+          "title": "日本修订「武器出口三原则」核心条款，武器出口类型不再受限，此举会对全球经贸和日本经济产生何种影响？",
+          "url": "https://www.zhihu.com/question/2029865979480641584",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "解读4月全球宏观经济",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB4%E6%9C%88%E5%85%A8%E7%90%83%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加16.9吨，当前持仓量为15154.69吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260425082759366800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1046.622吨。",
+          "url": "https://flash.jin10.com/detail/20260425082531965800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
@@ -965,8 +1090,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 22时40分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -1050,108 +1175,6 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
-          "url": "https://www.cls.cn/detail/2355220",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时54分 ~ 15时13分]"
-        },
-        {
-          "title": "金十图示：2026年04月24日（周五）全球股市指数-美洲市场",
-          "url": "https://flash.jin10.com/detail/20260425040623846800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时45分 ~ 10时12分]"
-        },
-        {
-          "title": "周五（4月24日），美股行业ETF涨跌各异，半导体ETF收涨5.11%，全球科技股指数ETF、科技行业ETF涨超2.8%，网络股指数ETF涨超1.2%，生物科技指数ETF、银行业ETF、医疗业ETF至少收跌1.41%，区域银行ETF跌1.59%。",
-          "url": "https://wallstreetcn.com/livenews/3094289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 06时38分]"
-        },
-        {
-          "title": "纵横G700至尊航行版完成全球首个载人航行应急演练",
-          "url": "https://wallstreetcn.com/livenews/3094355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 21时02分]"
-        },
-        {
-          "title": "比亚迪第三代元PLUS全球首发亮相",
-          "url": "https://www.toutiao.com/trending/7631729873135894564/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 15时13分]"
-        },
-        {
-          "title": "解读4月全球宏观经济",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB4%E6%9C%88%E5%85%A8%E7%90%83%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加16.9吨，当前持仓量为15154.69吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260425082759366800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1046.622吨。",
-          "url": "https://flash.jin10.com/detail/20260425082531965800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "投资",
       "match_count": 7,
       "titles": [
@@ -1166,11 +1189,24 @@
             9,
             8,
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时10分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时10分 ~ 22时40分]"
+        },
+        {
+          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
+          "url": "https://www.cls.cn/detail/2355592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 22时40分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
@@ -1186,18 +1222,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时38分 ~ 15时13分]"
-        },
-        {
-          "title": "AI热潮推动核能投资升温 X-Energy上市首日股价大涨27%",
-          "url": "https://www.cls.cn/detail/2355592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时51分 ~ 21时02分]"
         },
         {
           "title": "Wedbush向甲骨文投资者发出紧急信号",
