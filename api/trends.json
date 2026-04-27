@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:53:26.939403+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-27T16:22:14.850939+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -109,11 +109,12 @@
             6,
             4,
             15,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -125,6 +126,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
@@ -139,6 +156,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 13时53分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "枪击发生时特朗普旁的华裔女记者是谁",
@@ -157,21 +189,6 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
-        },
-        {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
           "source": "澎湃新闻",
@@ -179,25 +196,12 @@
             17,
             18,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -220,11 +224,12 @@
           "ranks": [
             13,
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -248,8 +253,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
+          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时22分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时22分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -357,17 +384,6 @@
           "time_info": "[01时38分 ~ 05时37分]"
         },
         {
-          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
-          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "美国总统特朗普：巴基斯坦方面已不遗余力，并将继续参与谈判进程。",
           "url": "https://flash.jin10.com/detail/20260427005455489800",
           "source": "金十数据",
@@ -381,17 +397,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
@@ -502,6 +507,19 @@
           "time_info": "[10时37分 ~ 13时53分]"
         },
         {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
           "url": "https://flash.jin10.com/detail/20260426235811049800",
           "source": "金十数据",
@@ -588,6 +606,17 @@
           "time_info": "[00时41分 ~ 01时38分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
           "title": "美国总统特朗普：弗吉尼亚的选区重划糟糕，佛罗里达应该试试。",
           "url": "https://flash.jin10.com/detail/20260426233516532800",
           "source": "金十数据",
@@ -610,18 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时38分]"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
         },
         {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
@@ -803,7 +820,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -835,11 +852,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -914,8 +932,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
         },
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
@@ -926,8 +944,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -936,7 +965,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -972,29 +1001,167 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时22分]"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BBDeepSeek%20V1-V4",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 16时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2356009",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时37分]"
+        },
+        {
+          "title": "两年前全仓英特尔的大学生：曾经“最惨投资者”，如今成了“预言家”？",
+          "url": "https://www.cls.cn/detail/2355826",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "中信证券十大股东中罕见一位个人投资者，超级牛散付小铜加杠杆豪赌？",
+          "url": "https://www.cls.cn/detail/2356535",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "国家发改委：依法依规对外资收购Manus项目作出禁止投资决定",
+          "url": "https://wallstreetcn.com/livenews/3094840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。",
+          "url": "https://flash.jin10.com/detail/20260427160551132800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "摩根大通称投资者可利用股市疲软机会增加配置",
+          "url": "https://wallstreetcn.com/livenews/3094837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "4月27日投资避雷针：六公司明起将被实施ST",
+          "url": "https://www.cls.cn/detail/2356191",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
+        },
+        {
+          "title": "中证协召开投资者服务与保护专业委员会主任委员（扩大）会议",
+          "url": "https://flash.jin10.com/detail/20260427160454053800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "个人投资者渐成ETF认购绝对主力，偏好医药等热门主题产品",
+          "url": "https://wallstreetcn.com/livenews/3094570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "广州广开知城人工智能产业投资基金成立",
+          "url": "https://flash.jin10.com/detail/20260427102814679800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家统计局：1—3月份，规模以上工业企业中，国有控股企业实现利润总额6196.1亿元，同比增长10.1%； 股份制企业实现利润总额13054.6亿元，增长20.9%； 外商及港澳台投资企业实现利润总额3837.3亿元，增长1.2%； 私营企业实现利润总额4305.3亿元，增长25.4%。",
+          "url": "https://wallstreetcn.com/livenews/3094628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1004,7 +1171,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "电影寒战1994全球首映礼",
@@ -1018,11 +1185,12 @@
             29,
             27,
             30,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 16时22分]"
         },
         {
           "title": "美国众议院通过《硬件技术控制多边协同法案》等多项出口管制法案，其正式发布后会对全球经贸有何影响？",
@@ -1058,8 +1226,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时22分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年4月27日",
@@ -1079,7 +1247,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1090,7 +1258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1101,7 +1269,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1126,85 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股市场短期或将延续震荡上行格局？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2356009",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时37分]"
         },
         {
-          "title": "两年前全仓英特尔的大学生：曾经“最惨投资者”，如今成了“预言家”？",
-          "url": "https://www.cls.cn/detail/2355826",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时38分]"
-        },
-        {
-          "title": "个人投资者渐成ETF认购绝对主力，偏好医药等热门主题产品",
-          "url": "https://wallstreetcn.com/livenews/3094570",
+          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
+          "url": "https://wallstreetcn.com/livenews/3094812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "4月27日投资避雷针：六公司明起将被实施ST",
-          "url": "https://www.cls.cn/detail/2356191",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 13时53分]"
-        },
-        {
-          "title": "广州广开知城人工智能产业投资基金成立",
-          "url": "https://flash.jin10.com/detail/20260427102814679800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "国家统计局：1—3月份，规模以上工业企业中，国有控股企业实现利润总额6196.1亿元，同比增长10.1%； 股份制企业实现利润总额13054.6亿元，增长20.9%； 外商及港澳台投资企业实现利润总额3837.3亿元，增长1.2%； 私营企业实现利润总额4305.3亿元，增长25.4%。",
-          "url": "https://wallstreetcn.com/livenews/3094628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "16时22分"
         }
       ]
     },
@@ -1219,7 +1319,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
