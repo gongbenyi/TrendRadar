@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T21:50:07.758796+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-04-27T23:47:36.440287+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -94,8 +94,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 21时50分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 23时47分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -253,8 +253,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时41分 ~ 21时50分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 23时47分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -271,6 +271,17 @@
           "time_info": "[00时41分 ~ 07时38分]"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时47分]"
+        },
+        {
           "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
           "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
           "source": "凤凰网",
@@ -282,15 +293,18 @@
           "time_info": "[13时53分 ~ 16时22分]"
         },
         {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            16,
+            13,
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 21时50分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 23时47分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -368,19 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 21时50分]"
         },
         {
           "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
@@ -500,7 +501,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -729,7 +730,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -822,6 +823,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "伊朗外长：美国总统特朗普要求谈判，因为美方尚未实现任何目标，我们正在研究对方的请求。",
+          "url": "https://wallstreetcn.com/livenews/3095102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美国总统特朗普：英国国王查尔斯要来了。",
           "url": "https://flash.jin10.com/detail/20260426232818288800",
           "source": "金十数据",
@@ -891,7 +903,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1037,11 +1049,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时50分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时47分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -1160,6 +1173,224 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "电影寒战1994全球首映礼",
+          "url": "https://www.douyin.com/hot/2479868",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            26,
+            28,
+            29,
+            27,
+            30,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 19时03分]"
+        },
+        {
+          "title": "美国众议院通过《硬件技术控制多边协同法案》等多项出口管制法案，其正式发布后会对全球经贸有何影响？",
+          "url": "https://www.zhihu.com/question/2031737879139980661",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时52分 ~ 10时37分]"
+        },
+        {
+          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
+          "url": "https://wallstreetcn.com/articles/3770921",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 19时03分]"
+        },
+        {
+          "title": "全球首台重型商用车高压直喷纯氨内燃机成功点火",
+          "url": "https://wallstreetcn.com/livenews/3094522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时37分]"
+        },
+        {
+          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
+          "url": "https://www.cls.cn/detail/2356707",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时50分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年4月27日",
+          "url": "https://flash.jin10.com/detail/20260427070104855800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260427134008322800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "宁德时代获全球最大钠离子电池订单",
+          "url": "https://www.toutiao.com/trending/7633204063064113195/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260427133939771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "“自我驱动且不可逆转”！全球电车保有量面临“临界点”",
+          "url": "https://wallstreetcn.com/articles/3770912",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "高盛：预计全球石油市场将从2025年180万桶/日的供应过剩，转变为在2026年第二季度960万桶/日的供应不足。全球石油需求将在第二季度下降170万桶/日，2026年全年下降10万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260427064728470800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "高盛预计中东原油产量将减少1450万桶/日，推动全球石油库存以创纪录的速度下降，4月份库存降幅达1100万至1200万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260427064402476800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
+          "url": "https://wallstreetcn.com/livenews/3094812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "中东局势冲击全球奢侈品行业",
+          "url": "https://wallstreetcn.com/livenews/3095032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "全球迎来超级央行周",
+          "url": "https://www.douyin.com/hot/2481035",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "俄总统新闻秘书：重启战端不符合伊朗、霍尔木兹海峡沿岸国家和全球经济体利益",
+          "url": "https://wallstreetcn.com/livenews/3095094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
@@ -1326,170 +1557,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "全球",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "电影寒战1994全球首映礼",
-          "url": "https://www.douyin.com/hot/2479868",
-          "source": "抖音",
-          "ranks": [
-            21,
-            23,
-            26,
-            28,
-            29,
-            27,
-            30,
-            14,
-            17
-          ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 19时03分]"
-        },
-        {
-          "title": "美国众议院通过《硬件技术控制多边协同法案》等多项出口管制法案，其正式发布后会对全球经贸有何影响？",
-          "url": "https://www.zhihu.com/question/2031737879139980661",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时52分 ~ 10时37分]"
-        },
-        {
-          "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
-          "url": "https://wallstreetcn.com/articles/3770921",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 19时03分]"
-        },
-        {
-          "title": "全球首台重型商用车高压直喷纯氨内燃机成功点火",
-          "url": "https://wallstreetcn.com/livenews/3094522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时37分]"
-        },
-        {
-          "title": "韩国散户“扫货全球半导体”：中国PCB牛股进入TOP50龙虎榜",
-          "url": "https://www.cls.cn/detail/2356707",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时50分]"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年4月27日",
-          "url": "https://flash.jin10.com/detail/20260427070104855800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）全球富豪榜",
-          "url": "https://flash.jin10.com/detail/20260427134008322800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260427133939771800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "“自我驱动且不可逆转”！全球电车保有量面临“临界点”",
-          "url": "https://wallstreetcn.com/articles/3770912",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "高盛：预计全球石油市场将从2025年180万桶/日的供应过剩，转变为在2026年第二季度960万桶/日的供应不足。全球石油需求将在第二季度下降170万桶/日，2026年全年下降10万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260427064728470800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "高盛预计中东原油产量将减少1450万桶/日，推动全球石油库存以创纪录的速度下降，4月份库存降幅达1100万至1200万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260427064402476800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "机构：第一季度全球智能手机SoC出货量同比下降8% 预计2028年初回升",
-          "url": "https://wallstreetcn.com/livenews/3094812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "中东局势冲击全球奢侈品行业",
-          "url": "https://wallstreetcn.com/livenews/3095032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "21时50分"
         }
@@ -1504,11 +1572,12 @@
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时47分]"
         },
         {
           "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
@@ -1517,7 +1586,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1528,7 +1597,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1539,7 +1608,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1550,7 +1619,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -1564,6 +1633,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
+          "url": "https://wallstreetcn.com/livenews/3095117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "美国国防部在其人工智能门户中新增了Gemini模型。",
+          "url": "https://flash.jin10.com/detail/20260427230746134800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
