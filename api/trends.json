@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T16:14:38.224210+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-04-29T18:56:05.930937+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -38,13 +38,59 @@
           "time_info": "[00时50分 ~ 13时54分]"
         },
         {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 18时56分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
+          "title": "英国国王给特朗普送了一口钟",
+          "url": "https://www.toutiao.com/trending/7634038550409216027/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗无法达成一致意见。他们不知道如何签署无核协议。他们最好尽快明智起来！",
           "url": "https://flash.jin10.com/detail/20260429161232382800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -79,7 +125,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -94,18 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
         },
         {
           "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
@@ -157,6 +191,19 @@
           "time_info": "[10时45分 ~ 16时14分]"
         },
         {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 18时56分]"
+        },
+        {
           "title": "特朗普再次无视英国王室规矩",
           "url": "https://www.douyin.com/hot/2482526",
           "source": "抖音",
@@ -203,16 +250,15 @@
           "time_info": "[10时45分 ~ 16时14分]"
         },
         {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
+          "title": "特朗普一句“爆料”逗笑英国国王",
+          "url": "https://www.toutiao.com/trending/7634095221042581028/",
+          "source": "今日头条",
           "ranks": [
-            13,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "英国王嘲讽美国特朗普表情亮了",
@@ -266,7 +312,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -423,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "德国总理默茨：与特朗普的私人关系仍然“良好”。",
+          "url": "https://wallstreetcn.com/livenews/3096508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
@@ -430,6 +487,17 @@
       "keyword_group": "chatgpt openai",
       "match_count": 23,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 18时56分]"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -454,17 +522,6 @@
           "time_info": "[00时50分 ~ 07时56分]"
         },
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 16时14分]"
-        },
-        {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
           "url": "https://wallstreetcn.com/articles/3771064",
           "source": "华尔街见闻",
@@ -478,6 +535,19 @@
           "time_info": "[00时50分 ~ 07时56分]"
         },
         {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 18时56分]"
+        },
+        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -489,19 +559,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时57分 ~ 13时54分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 16时14分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -538,6 +595,19 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 18时56分]"
+        },
+        {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
           "url": "https://wallstreetcn.com/livenews/3096044",
           "source": "华尔街见闻-快讯",
@@ -548,18 +618,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时56分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -701,7 +759,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -728,11 +786,12 @@
             11,
             14,
             18,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 18时56分]"
         },
         {
           "title": "全球仅剩一个的我",
@@ -745,11 +804,12 @@
             25,
             20,
             17,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 18时56分]"
         },
         {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
@@ -836,6 +896,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "迪拜媒体办公室表示，国家计划旨在全球挑战中保障阿联酋对基本食品、医疗和工业品所需物资的供应安全。",
+          "url": "https://flash.jin10.com/detail/20260429182135249800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "金十图示：2026年04月28日（周二）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260428235029165800",
           "source": "金十数据",
@@ -869,6 +940,17 @@
           "time_info": "10时46分"
         },
         {
+          "title": "经济学家：全球供应冲击改变英央行政策前景，2026年降息或无望",
+          "url": "https://flash.jin10.com/detail/20260429181813671800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "周二（4月28日），美股行业ETF涨跌各异，半导体ETF收跌2.97%，全球科技股指数ETF、科技行业ETF、网络股指数ETF跌1.81%-0.98%. 银行业ETF、区域银行ETF则至多收涨0.43%，能源业ETF涨1.66%。",
           "url": "https://wallstreetcn.com/livenews/3096000",
           "source": "华尔街见闻-快讯",
@@ -894,7 +976,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "紫金矿业计划投资15亿美元开发秘鲁La Arena铜矿",
@@ -919,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 16时14分]"
+        },
+        {
+          "title": "央行一季度逆势购金，普通投资者能抄作业吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260429183518794800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国银行：预计5月美国高评级（投资级）公司债销售额将突破1900亿美元，创新冠疫情以来的新高。 鉴于上半年发行规模如此庞大，预计供应量将在下半年放缓。",
@@ -960,7 +1053,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -971,7 +1064,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -982,7 +1075,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -1009,11 +1102,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 18时56分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 18时56分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
@@ -1036,17 +1142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
         }
       ]
     },
