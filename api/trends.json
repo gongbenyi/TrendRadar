@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:54:46.162769+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-04-30T10:46:04.955943+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -28,8 +28,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
+        },
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 10时46分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -43,26 +65,28 @@
           "time_info": "[01时27分 ~ 06时56分]"
         },
         {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时46分]"
         },
         {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
           "ranks": [
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时46分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -96,18 +120,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -134,15 +147,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
+          "title": "据Axios报道：美国中央司令部已准备好一份针对伊朗进行“短暂且强有力”打击波次的计划，可能包含基础设施目标；将于周四向特朗普简报针对伊朗的新军事选项。",
+          "url": "https://wallstreetcn.com/livenews/3097120",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时46分"
         },
         {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
@@ -181,6 +194,19 @@
           "time_info": "[06时56分 ~ 07时54分]"
         },
         {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 10时46分]"
+        },
+        {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
           "url": "https://wallstreetcn.com/articles/3771197",
           "source": "华尔街见闻",
@@ -191,6 +217,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 07时54分]"
+        },
+        {
+          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
+          "url": "https://www.zhihu.com/question/2032758360743883157",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时46分]"
+        },
+        {
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时46分]"
+        },
+        {
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "特朗普支持率降至任内新低",
@@ -217,6 +290,17 @@
           "time_info": "[06时56分 ~ 07时54分]"
         },
         {
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "特朗普称或削减驻德美军",
           "url": "https://flash.jin10.com/detail/20260430060755309800",
           "source": "金十数据",
@@ -229,24 +313,34 @@
           "time_info": "[06时56分 ~ 07时54分]"
         },
         {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普施压伊朗签署协议 或延长对伊朗港口封锁措施",
+          "url": "https://www.cls.cn/detail/2360144",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "特朗普：向普京建议俄乌实施短期停火",
           "url": "https://wallstreetcn.com/livenews/3096975",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -271,29 +365,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
-          "url": "https://www.zhihu.com/question/2032758360743883157",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "普京与特朗普通话1个半小时",
-          "url": "https://www.toutiao.com/trending/7634319454465166874/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -304,7 +376,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -337,18 +409,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "普京与特朗普通话超一个半小时",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -397,6 +458,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "特朗普称正在研究削减驻德美军可能性",
+          "url": "https://wallstreetcn.com/livenews/3097085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
           "title": "特朗普评鲍威尔留任理事：其他地方没人要他",
           "url": "https://flash.jin10.com/detail/20260430055637436800",
           "source": "金十数据",
@@ -425,7 +497,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -488,7 +560,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "匈牙利变局会影响中国投资吗",
@@ -497,11 +569,12 @@
           "ranks": [
             22,
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
         },
         {
           "title": "传奇投资者Tudor Jones：凌晨2:30起床看盘，称“巴菲特是复利鼻祖”，“所有伟大财富，都来自长期持有趋势”",
@@ -513,8 +586,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
         },
         {
           "title": "沙特主权财富基金PIF考虑在本赛季结束之后停止投资LIV Golf。（彭博）",
@@ -527,6 +600,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时54分]"
+        },
+        {
+          "title": "4月30日投资避雷针：闻泰科技、华夏幸福等20余股将被实施ST",
+          "url": "https://www.cls.cn/detail/2360375",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "亚马逊一季度净销售1815.2亿美元，分析师预期1772.3亿美元。 一季度AWS净销售375.9亿美元，分析师预期366.8亿美元。 一季度北美净销售1041.4亿美元，分析师预期1020.8亿美元。 一季度实体店净销售57.9亿美元，分析师预期58.1亿美元。 一季度运营利润238.5亿美元，分析师预期207.5亿美元。 一季度每股收益（EPS）为2.78美元，分析师预期1.62美元。 对物业与设备的购买同比增长593亿美元，体现出对AI的投资。 预计二季度净销售1940亿-1990亿美元，分析师预期1891.5亿美元。 预计二季度运营利润200亿-240亿美元，分析师预期228.6亿美元。 亚马逊（AMZN）盘后跌4.8%。",
@@ -579,7 +663,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -604,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "A股券商股异动拉升，长江证券封涨停，财达证券、中信建投、华创云信、光大证券、国投资本跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3097089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "高通(QCOM.O)：领先的超大规模定制芯片合作预计将在今年晚些时候开始初步交付。期待在6月24日的投资者日上提供关于包括数据中心和物理人工智能机遇的信息。",
@@ -641,104 +736,31 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 8,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 9,
       "titles": [
         {
-          "title": "金十数据全球财经早餐 | 2026年4月30日",
-          "url": "https://flash.jin10.com/detail/20260430070135319800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "鲍威尔：无法围绕大幅调整点阵图（dot plot）寻找到大范围的支持。 放眼全球，我从来都不是点阵图的死忠。 我认为，我们的沟通（效果）是不错的。 考虑改善沟通是自然的。 如果我们需要加息，肯定就会发出那样的信号。 如果适合降息，我们也会给出相应的信号。",
-          "url": "https://wallstreetcn.com/livenews/3096893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1039.195吨。",
-          "url": "https://flash.jin10.com/detail/20260430062016690800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时54分]"
-        },
-        {
-          "title": "以海军试图拦截“全球坚韧船队” 哈马斯称其为“海盗行为”",
-          "url": "https://flash.jin10.com/detail/20260430064332448800",
-          "source": "金十数据",
+          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
+          "url": "https://wallstreetcn.com/articles/3771319",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
-          "title": "保时捷CEO：3月份目睹了中东（车辆）销售量的下滑。 中东销量在全球批发的占比为2%。",
-          "url": "https://wallstreetcn.com/livenews/3096823",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
-        {
-          "title": "Phillips 66：全球油轮船队紧俏，现货市场受限。",
-          "url": "https://wallstreetcn.com/livenews/3096822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "声明显示，阿尔及利亚重申继续加强在欧佩克及欧佩克+内的参与，以支持全球石油市场的可持续稳定。",
-          "url": "https://flash.jin10.com/detail/20260430004357547800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少61.94吨，当前持仓量为15092.75吨。欢迎点击查看数据中心…",
-          "url": "https://flash.jin10.com/detail/20260430055951518800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
         {
           "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
           "url": "https://wallstreetcn.com/livenews/3096931",
@@ -819,8 +841,114 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "金十数据全球财经早餐 | 2026年4月30日",
+          "url": "https://flash.jin10.com/detail/20260430070135319800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "鲍威尔：无法围绕大幅调整点阵图（dot plot）寻找到大范围的支持。 放眼全球，我从来都不是点阵图的死忠。 我认为，我们的沟通（效果）是不错的。 考虑改善沟通是自然的。 如果我们需要加息，肯定就会发出那样的信号。 如果适合降息，我们也会给出相应的信号。",
+          "url": "https://wallstreetcn.com/livenews/3096893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1039.195吨。",
+          "url": "https://flash.jin10.com/detail/20260430062016690800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时54分]"
+        },
+        {
+          "title": "欧洲议员：美以是全球安全最大威胁",
+          "url": "https://www.toutiao.com/trending/7634171969587494918/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "以海军试图拦截“全球坚韧船队” 哈马斯称其为“海盗行为”",
+          "url": "https://flash.jin10.com/detail/20260430064332448800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "保时捷CEO：3月份目睹了中东（车辆）销售量的下滑。 中东销量在全球批发的占比为2%。",
+          "url": "https://wallstreetcn.com/livenews/3096823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "Phillips 66：全球油轮船队紧俏，现货市场受限。",
+          "url": "https://wallstreetcn.com/livenews/3096822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "声明显示，阿尔及利亚重申继续加强在欧佩克及欧佩克+内的参与，以支持全球石油市场的可持续稳定。",
+          "url": "https://flash.jin10.com/detail/20260430004357547800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少61.94吨，当前持仓量为15092.75吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260430055951518800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -881,6 +1009,17 @@
           "time_info": "[01时27分 ~ 06时56分]"
         },
         {
+          "title": "Anthropic年收300亿碾压OpenAI",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
           "url": "https://flash.jin10.com/detail/20260430010327901800",
           "source": "金十数据",
@@ -904,11 +1043,12 @@
           "ranks": [
             13,
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -916,11 +1056,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 10时46分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
