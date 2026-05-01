@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T06:48:59.084154+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-05-02T07:52:17.221248+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -30,30 +31,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         },
         {
           "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
+        },
+        {
+          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时52分]"
         },
         {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
@@ -76,28 +91,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 05时53分]"
-        },
-        {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时48分]"
-        },
-        {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -221,6 +214,18 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3098071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 07时52分]"
+        },
+        {
           "title": "美国总统特朗普对古巴官员、企业、政府的支持者实施广泛制裁。",
           "url": "https://wallstreetcn.com/livenews/3097999",
           "source": "华尔街见闻-快讯",
@@ -281,6 +286,28 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
+          "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
+          "url": "https://flash.jin10.com/detail/20260502034714929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
+          "url": "https://flash.jin10.com/detail/20260502034433058800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时52分]"
+        },
+        {
           "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
           "url": "https://wallstreetcn.com/livenews/3098044",
           "source": "华尔街见闻-快讯",
@@ -293,26 +320,16 @@
           "time_info": "[04时52分 ~ 06时48分]"
         },
         {
-          "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
-          "url": "https://flash.jin10.com/detail/20260502034714929800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3098059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时48分]"
-        },
-        {
-          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
-          "url": "https://flash.jin10.com/detail/20260502034433058800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时48分]"
+          "time_info": "[05时53分 ~ 07时52分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -420,6 +437,18 @@
           "time_info": "[00时58分 ~ 02时01分]"
         },
         {
+          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3098062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
           "title": "美国总统特朗普：美国将提高欧盟汽车关税，因为他们没有遵守协议。",
           "url": "https://wallstreetcn.com/livenews/3097974",
           "source": "华尔街见闻-快讯",
@@ -432,17 +461,6 @@
           "time_info": "[00时58分 ~ 02时01分]"
         },
         {
-          "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3098059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时48分]"
-        },
-        {
           "title": "特朗普：伊朗最新方案让人不满意",
           "url": "https://wallstreetcn.com/livenews/3097971",
           "source": "华尔街见闻-快讯",
@@ -453,6 +471,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 02时01分]"
+        },
+        {
+          "title": "特朗普：我认为将近400艘油轮被困在霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3098057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
+          "url": "https://wallstreetcn.com/livenews/3098055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普：对伊朗最新谈判方案不满意",
+          "url": "https://www.toutiao.com/trending/7634016079875604530/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美国总统特朗普：刚刚与伊朗进行了对话。",
@@ -587,17 +640,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3098062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "美国总统特朗普：我们正在通过电话进行谈判。",
           "url": "https://flash.jin10.com/detail/20260502002519093800",
           "source": "金十数据",
@@ -686,17 +728,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "特朗普：我认为将近400艘油轮被困在霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3098057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "特朗普：个人倾向于不重启对伊轰炸行动",
           "url": "https://flash.jin10.com/detail/20260502005432564800",
           "source": "金十数据",
@@ -717,17 +748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
-          "url": "https://wallstreetcn.com/livenews/3098055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "据两名白宫官员透露，美国总统特朗普周五签署了一项行政命令，对古巴政府实施新的制裁。",
@@ -909,8 +929,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -925,17 +956,6 @@
           "time_info": "[00时57分 ~ 06时48分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
-        },
-        {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
@@ -944,8 +964,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -953,17 +973,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时52分]"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Hemab Therapeutics Holdings Inc.（COAG）美国IPO首日收涨24.13%，报34.00美元，这家获得诺和诺德投资的公司通过扩大IPO股票发行规模融资3.015亿美元。",
@@ -987,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "血液凝固障碍药物制造商Hemab Therapeutics Holdings Inc.（COAG）美国IPO首日收涨24.13%，报34.00美元，这家获得诺和诺德投资的公司通过扩大IPO股票发行规模融资3.015亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
@@ -1002,8 +1034,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时52分]"
         },
         {
           "title": "全球第四大黄金矿业公司据悉暂停IPO计划",
@@ -1030,8 +1062,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时52分]"
         }
       ]
     }
