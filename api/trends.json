@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:12:29.729464+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-05-04T17:17:50.352603+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -76,11 +76,12 @@
           "url": "https://www.cls.cn/detail/2362106",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 17时17分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -121,6 +122,17 @@
           "time_info": "[01时45分 ~ 07时43分]"
         },
         {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
           "url": "https://www.cls.cn/detail/2362213",
           "source": "财联社热门",
@@ -132,15 +144,15 @@
           "time_info": "[00时47分 ~ 05时40分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 17时17分]"
         },
         {
           "title": "欧佩克主要产油国连续第三个月宣布增产，伊朗新谈判方案重创原油，特朗普称伊朗新提议不可接受，美国将启动引导被困霍尔木兹海峡船只驶离行动…后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -165,24 +177,13 @@
           "time_info": "04时41分"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
           "url": "https://wallstreetcn.com/livenews/3098402",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -199,6 +200,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
@@ -224,6 +237,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时43分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
@@ -260,18 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
         },
         {
           "title": "特朗普：将于周一起帮助船只离开霍尔木兹海峡 与伊朗谈判积极",
@@ -366,6 +380,19 @@
           "time_info": "[04时41分 ~ 07时43分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
+        },
+        {
           "title": "特朗普宣称美伊战事“结束”出于哪些考量",
           "url": "https://wallstreetcn.com/articles/3771501",
           "source": "华尔街见闻",
@@ -404,18 +431,6 @@
           "time_info": "[01时45分 ~ 03时56分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
-        },
-        {
           "title": "美国总统特朗普：美国在霍尔木兹海峡解放船只的努力将于（中东时间）周一上午开始。",
           "url": "https://flash.jin10.com/detail/20260504043925584800",
           "source": "金十数据",
@@ -438,18 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时40分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我完全支持特朗普总统启动“自由计划”的决定，其目的是恢复霍尔木兹海峡的航行自由，这条通道对全球经济至关重要，但却被伊朗“恐怖主义”锁住。",
@@ -493,7 +496,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -515,7 +518,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -553,6 +556,28 @@
           "time_info": "07时43分"
         },
         {
+          "title": "四道难关近在眼前 特朗普怎么过",
+          "url": "https://www.toutiao.com/trending/7634889469027581971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "伊朗最高领袖外事顾问：特朗普近期言行难掩“白宫幻想破灭”",
           "url": "https://flash.jin10.com/detail/20260503225449431800",
           "source": "金十数据",
@@ -570,7 +595,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
@@ -578,7 +603,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "林园投资被查，事出违规打新",
@@ -593,8 +618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时47分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 17时17分]"
         },
         {
           "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
@@ -635,6 +660,42 @@
           "time_info": "10时42分"
         },
         {
+          "title": "欧元区5月Sentix投资者信心指数 -16.4，前值 -19.2。",
+          "url": "https://wallstreetcn.com/livenews/3098445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
+        },
+        {
+          "title": "打新涉及定价依据不充分等十项违规，林园投资遭中证协“点名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095259",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
+        },
+        {
           "title": "雅戈尔去年投资业务净利近25亿元",
           "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%88%88%E5%B0%94%E5%8E%BB%E5%B9%B4%E6%8A%95%E8%B5%84%E4%B8%9A%E5%8A%A1%E5%87%80%E5%88%A9%E8%BF%9125%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -647,27 +708,48 @@
           "time_info": "[01时45分 ~ 06时40分]"
         },
         {
-          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
-          "source": "澎湃新闻",
+          "title": "阿联酋能源部长：欧佩克对阿联酋决定退出该组织表现得相对平静。 所有人都认识到这是一个主权决定，并且阿联酋将会是一个负责任的生产国。 我有信心我们将与许多国家合作，包括欧佩克和欧佩克+成员国。 我们有责任为投资阿联酋的合作伙伴生产世界所需的能源，不受限制，并与所有其他生产国协作。 我们将根据市场需求以及本地产业的生产需要来衡量我们的合作。 不应允许任何人控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3098442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
-          "title": "打新涉及定价依据不充分等十项违规，林园投资遭中证协“点名”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095259",
-          "source": "澎湃新闻",
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "欧元区5月Sentix投资者信心指数 -16.4，预期-21，前值-19.2。",
+          "url": "https://flash.jin10.com/detail/20260504163002131800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "一人公司值得投资吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%80%BC%E5%BE%97%E6%8A%95%E8%B5%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
             14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "香港外汇基金第一季度投资收益345亿港元。 香港外汇基金第一季度债券投资收益246亿港元，香港股票投资亏损50亿港元。",
@@ -681,21 +763,54 @@
           "time_info": "10时42分"
         },
         {
+          "title": "欧元区5月Sentix投资者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260504162000000800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "阿联酋能源巨头谈“退群”：将释放投资自主权，加速产能扩张",
+          "url": "https://flash.jin10.com/detail/20260504161519908800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "雅戈尔为何做衣服不行投资凑",
           "url": "https://www.toutiao.com/trending/7635818471338544703/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "阿联酋能源部长：我们有责任为投资阿联酋的合作伙伴生产世界所需的产品，且不受限制，与所有其他生产者合作。",
+          "url": "https://flash.jin10.com/detail/20260504161245596800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年5月4日",
@@ -707,6 +822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "AI狂潮继续！全球存储芯片大涨，SK海力士市值首破1000万亿韩元，布油涨2%，黄金失守4580美元",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "金十图示：2026年05月04日（周一）全球股市指数-亚太市场",
@@ -724,11 +850,12 @@
           "url": "https://wallstreetcn.com/articles/3771518",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 17时17分]"
         },
         {
           "title": "全球最大航运公司推出中东至欧洲新服务，避开霍尔木兹海峡",
@@ -759,7 +886,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
@@ -778,8 +905,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 17时17分]"
         }
       ]
     }
