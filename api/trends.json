@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:43:42.445203+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-04T10:42:23.953716+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -38,11 +38,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
@@ -63,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -77,19 +79,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
@@ -129,6 +132,17 @@
           "time_info": "[00时47分 ~ 05时40分]"
         },
         {
+          "title": "欧佩克主要产油国连续第三个月宣布增产，伊朗新谈判方案重创原油，特朗普称伊朗新提议不可接受，美国将启动引导被困霍尔木兹海峡船只驶离行动…后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260504103301059800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
@@ -138,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -160,7 +185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -399,9 +424,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "特朗普将于美国东部时间周一下午3点（北京时间周二凌晨3点）参加小型企业峰会。",
+          "url": "https://flash.jin10.com/detail/20260504101923240800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
@@ -410,9 +457,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "德国经济部：我们注意到特朗普关于提高汽车关税的声明，将在欧盟内部密切协调下一步行动。",
@@ -432,7 +490,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -451,7 +509,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "林园投资被查，事出违规打新",
@@ -462,11 +520,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时42分]"
         },
         {
           "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
@@ -496,6 +555,17 @@
           "time_info": "[00时48分 ~ 07时43分]"
         },
         {
+          "title": "Anthropic接近与黑石、高盛及其他公司达成15亿美元的组建合资企业的协议，Anthropic、黑石、Hellman & Friedman各投资约3亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "雅戈尔去年投资业务净利近25亿元",
           "url": "https://www.baidu.com/s?wd=%E9%9B%85%E6%88%88%E5%B0%94%E5%8E%BB%E5%B9%B4%E6%8A%95%E8%B5%84%E4%B8%9A%E5%8A%A1%E5%87%80%E5%88%A9%E8%BF%9125%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -506,12 +576,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时45分 ~ 06时40分]"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "打新涉及定价依据不充分等十项违规，林园投资遭中证协“点名”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095259",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "香港外汇基金第一季度投资收益345亿港元。 香港外汇基金第一季度债券投资收益246亿港元，香港股票投资亏损50亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3098355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年5月4日",
@@ -520,9 +623,59 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260504102701342800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "全球最大航运公司推出中东至欧洲新服务，避开霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sqUHzyp8QX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "澳新银行：预计2026年全球石油市场供需缺口为160万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260504100359025800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
