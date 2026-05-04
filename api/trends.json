@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:17:50.352603+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-05-04T19:47:51.282227+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -80,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 19时47分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -122,15 +122,15 @@
           "time_info": "[01时45分 ~ 07时43分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时47分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -144,15 +144,30 @@
           "time_info": "[00时47分 ~ 05时40分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            6,
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 19时47分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 19时47分]"
         },
         {
           "title": "欧佩克主要产油国连续第三个月宣布增产，伊朗新谈判方案重创原油，特朗普称伊朗新提议不可接受，美国将启动引导被困霍尔木兹海峡船只驶离行动…后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -177,6 +192,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时47分]"
+        },
+        {
           "title": "德国汽车股盘前普跌1~2%，此前特朗普称将对欧盟输美汽车和卡车加征25%关税。",
           "url": "https://wallstreetcn.com/livenews/3098402",
           "source": "华尔街见闻-快讯",
@@ -186,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -200,18 +238,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "美官员澄清：特朗普“解救”霍尔木兹海峡被困船只的行动不涉及军舰护航",
@@ -237,19 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时43分]"
-        },
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
@@ -340,6 +353,19 @@
           "time_info": "[04时41分 ~ 07时43分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 19时47分]"
+        },
+        {
           "title": "美国总统特朗普：我完全留意到，我的代表们正在与伊朗进行非常积极的磋商，这些磋商有望为各方带来积极成果。",
           "url": "https://flash.jin10.com/detail/20260504044058616800",
           "source": "金十数据",
@@ -378,19 +404,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时43分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "特朗普宣称美伊战事“结束”出于哪些考量",
@@ -501,6 +514,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "美媒：特朗普对伊朗问题僵局感到“厌倦”，他想要达成协议",
+          "url": "https://wallstreetcn.com/livenews/3098472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "特朗普将于美国东部时间周一下午3点（北京时间周二凌晨3点）参加小型企业峰会。",
           "url": "https://flash.jin10.com/detail/20260504101923240800",
           "source": "金十数据",
@@ -562,7 +586,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -573,7 +597,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -603,7 +627,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "林园投资被查，事出违规打新",
@@ -618,8 +642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 19时47分]"
         },
         {
           "title": "巴菲特场外访谈：市场赌博情绪空前，缺乏理想投资环境，等待没人接电话时，鲍威尔在更安心（附全文）",
@@ -666,21 +690,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
-        },
-        {
-          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 17时17分]"
         },
         {
           "title": "打新涉及定价依据不充分等十项违规，林园投资遭中证协“点名”",
@@ -690,6 +702,18 @@
             16,
             14,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 19时47分]"
+        },
+        {
+          "title": "为何手握3800亿美元不投资？巴菲特：没有想投的，那就什么都不做，入行60年里真正肥美的机会就五年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095008",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -708,24 +732,25 @@
           "time_info": "[01时45分 ~ 06时40分]"
         },
         {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 19时47分]"
+        },
+        {
           "title": "阿联酋能源部长：欧佩克对阿联酋决定退出该组织表现得相对平静。 所有人都认识到这是一个主权决定，并且阿联酋将会是一个负责任的生产国。 我有信心我们将与许多国家合作，包括欧佩克和欧佩克+成员国。 我们有责任为投资阿联酋的合作伙伴生产世界所需的能源，不受限制，并与所有其他生产国协作。 我们将根据市场需求以及本地产业的生产需要来衡量我们的合作。 不应允许任何人控制霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3098442",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -736,7 +761,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -747,7 +772,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -769,7 +794,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -780,7 +805,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -802,15 +827,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "广西投资集团总经理刘明洪被查",
+          "url": "https://www.toutiao.com/trending/7635960836167925802/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十数据全球财经早餐 | 2026年5月4日",
@@ -830,7 +866,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
         },
@@ -854,8 +890,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 19时47分]"
         },
         {
           "title": "全球最大航运公司推出中东至欧洲新服务，避开霍尔木兹海峡",
@@ -878,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "阿联酋航空：中断后恢复96%的全球航线网络。",
+          "url": "https://flash.jin10.com/detail/20260504184653534800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "2.5亿桶原油已运往海外，美国库存连降四周——全球“最后供应商”还能撑多久？",
