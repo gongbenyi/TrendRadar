@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T14:52:56.210089+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-05-08T16:23:09.026255+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -30,6 +30,18 @@
           "time_info": "[00时50分 ~ 05时57分]"
         },
         {
+          "title": "特朗普回应打击伊朗：只是轻微敲打",
+          "url": "https://news.ifeng.com/c/8swugAgjYdA",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普访华前瞻——台湾怎么办？",
           "url": "https://news.ifeng.com/c/8swQYqpheqc",
           "source": "凤凰网",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普回应打击伊朗：只是轻微敲打",
-          "url": "https://news.ifeng.com/c/8swugAgjYdA",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 14时52分]"
         },
         {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
@@ -99,6 +99,18 @@
           "time_info": "12时16分"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普：给予欧盟至7月4日履行贸易协议，否则将提高关税",
           "url": "https://wallstreetcn.com/livenews/3100166",
           "source": "华尔街见闻-快讯",
@@ -108,6 +120,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
+          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗不迅速签署协议，那么在将来，我们将会以更猛烈、更激烈的手段来对付他们。",
@@ -158,40 +195,15 @@
           "time_info": "[07时02分 ~ 08时02分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
+          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
-        },
-        {
-          "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
-          "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "time_info": "[14时52分 ~ 16时23分]"
         },
         {
           "title": "特朗普：美伊停火仍有效",
@@ -204,6 +216,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时52分]"
+        },
+        {
+          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
+          "url": "https://www.cls.cn/detail/2365546",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 16时23分]"
         },
         {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
@@ -242,15 +265,37 @@
           "time_info": "[07时02分 ~ 08时02分]"
         },
         {
-          "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
-          "url": "https://news.ifeng.com/c/8sxPIPLXdSr",
-          "source": "凤凰网",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
@@ -262,17 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "局势升级！美伊在霍尔木兹交火 特朗普：停火仍有效，只是“轻微敲打”",
-          "url": "https://www.cls.cn/detail/2365546",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "美法院裁定特朗普的10%全球关税不成立",
@@ -465,7 +499,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -496,27 +530,28 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 16时23分]"
+        },
+        {
           "title": "马来西亚总理安瓦尔：马来西亚重申坚定承诺，继续加强东盟团结，以应对日益严峻的全球挑战，特别是地缘政治危机对能源和食品保障以及区域供应链稳定的直接影响。",
           "url": "https://flash.jin10.com/detail/20260508142455397800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
-        },
-        {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 14时52分]"
         },
         {
           "title": "既然历史上有气候更温暖、二氧化碳含量更高的时期，这是否意味着不用担心全球变暖？",
@@ -527,8 +562,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
         },
         {
           "title": "欧洲央行执委Schnabel：在我看来，伊朗战争造成的某些伤害难以逆转。 股市定价与全球局势似乎存在脱节。",
@@ -573,7 +608,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -655,6 +690,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "联合国粮农组织：预计2025年全球谷物产量将达到30.40亿吨，高于之前预计的30.36亿吨。",
+          "url": "https://flash.jin10.com/detail/20260508160102259800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "Cheniere首席商务官Anatol Feygin：亚洲3月液化天然气（LNG）进口下滑7%。 由于中东冲突的缘故，全球LNG市场到2027年可能都将保持供应紧俏状态。",
           "url": "https://wallstreetcn.com/livenews/3100090",
           "source": "华尔街见闻-快讯",
@@ -672,6 +718,30 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
+          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
+          "url": "https://www.cls.cn/detail/2365550",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
           "title": "冲上热搜！星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
           "source": "澎湃新闻",
@@ -686,27 +756,17 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
-          "title": "星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
-        },
-        {
-          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
-          "url": "https://www.cls.cn/detail/2365550",
+          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
+          "url": "https://www.cls.cn/detail/2365556",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
         },
         {
           "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
@@ -742,18 +802,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时02分]"
-        },
-        {
-          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
-          "url": "https://www.cls.cn/detail/2365556",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
         },
         {
           "title": "中国投资者被假皇室骗1800万美元",
@@ -861,8 +909,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时23分 ~ 14时52分]"
+          "appearance_count": 12,
+          "time_info": "[02时23分 ~ 16时23分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -870,11 +918,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
         },
         {
           "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
