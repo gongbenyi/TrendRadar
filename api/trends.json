@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T16:23:09.026255+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-08T18:25:02.158931+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -65,6 +65,56 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 18时25分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 18时25分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普发言时突然跑题吐槽打字软件",
           "url": "https://www.toutiao.com/trending/7636619045152784426/",
           "source": "今日头条",
@@ -99,16 +149,15 @@
           "time_info": "12时16分"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508181456677800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普：给予欧盟至7月4日履行贸易协议，否则将提高关税",
@@ -128,19 +177,6 @@
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时23分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -193,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时02分]"
+        },
+        {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 18时25分]"
         },
         {
           "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
@@ -263,39 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "巴西总统卢拉：据翻译称，特朗普告诉我他并未考虑入侵古巴。",
@@ -474,6 +489,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "特朗普发图称已降低油价",
+          "url": "https://flash.jin10.com/detail/20260508180012129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3100199",
           "source": "华尔街见闻-快讯",
@@ -499,7 +525,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -516,6 +542,19 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
+          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
+          "url": "https://wallstreetcn.com/articles/3771769",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时02分 ~ 18时25分]"
+        },
+        {
           "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
           "url": "https://www.cls.cn/detail/2365364",
           "source": "财联社热门",
@@ -528,19 +567,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时50分 ~ 08时02分]"
-        },
-        {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 16时23分]"
         },
         {
           "title": "马来西亚总理安瓦尔：马来西亚重申坚定承诺，继续加强东盟团结，以应对日益严峻的全球挑战，特别是地缘政治危机对能源和食品保障以及区域供应链稳定的直接影响。",
@@ -600,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时02分]"
+        },
+        {
+          "title": "汉坦病毒不会全球大暴发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E4%B8%8D%E4%BC%9A%E5%85%A8%E7%90%83%E5%A4%A7%E6%9A%B4%E5%8F%91%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "菲律宾总统：近期危机清楚地提醒我们，经济对国际秩序的突然变化及其对全球经济的影响是多么脆弱。",
@@ -696,9 +733,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "欧盟气候监测机构：4月全球海洋表面温度达历史第二高",
+          "url": "https://wallstreetcn.com/livenews/3100576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "Cheniere首席商务官Anatol Feygin：亚洲3月液化天然气（LNG）进口下滑7%。 由于中东冲突的缘故，全球LNG市场到2027年可能都将保持供应紧俏状态。",
@@ -715,7 +763,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
@@ -725,8 +773,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 18时25分]"
         },
         {
           "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
@@ -881,6 +929,28 @@
           "time_info": "07时02分"
         },
         {
+          "title": "黄河旋风：投资3亿元建设年产4.5亿克拉人造金刚石项目",
+          "url": "https://wallstreetcn.com/livenews/3100596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "通富微电：国家集成电路产业投资基金减持0.71%至持股5.97%，触及1%整数倍",
+          "url": "https://wallstreetcn.com/livenews/3100579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
           "url": "https://flash.jin10.com/detail/20260508044535643800",
           "source": "金十数据",
@@ -909,8 +979,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时23分 ~ 16时23分]"
+          "appearance_count": 14,
+          "time_info": "[02时23分 ~ 18时25分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -995,8 +1065,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
         {
           "title": "DeepSeek-TUI是如何火起来的",
           "url": "https://www.toutiao.com/trending/7637338304165187078/",
@@ -1008,6 +1089,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时52分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "DeepSeek网页及API服务出现异常，官方称正在实施修复",
+          "url": "https://wallstreetcn.com/livenews/3100615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
