@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T20:08:55.127146+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-05-08T22:58:36.327836+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,22 @@
           "time_info": "[00时50分 ~ 12时16分]"
         },
         {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时15分 ~ 22时58分]"
+        },
+        {
           "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
@@ -65,19 +81,29 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9,
-            10,
-            11,
-            12
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 20时08分]"
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 22时58分]"
+        },
+        {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时22分 ~ 22时58分]"
         },
         {
           "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
@@ -92,28 +118,16 @@
           "time_info": "[12时15分 ~ 18时25分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
+          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
+          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
+          "source": "凤凰网",
           "ranks": [
-            27,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时08分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            13,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时22分 ~ 20时08分]"
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时58分]"
         },
         {
           "title": "特朗普发言时突然跑题吐槽打字软件",
@@ -137,17 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时24分]"
-        },
-        {
-          "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
-          "url": "https://news.ifeng.com/c/8sxspkZXRqe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
         },
         {
           "title": "据英国金融时报：美国企业敦促特朗普干预欧盟新消费者规则。",
@@ -313,6 +316,17 @@
           "time_info": "[07时02分 ~ 08时02分]"
         },
         {
+          "title": "美国贸易法院裁定特朗普10%全球关税无效",
+          "url": "https://wallstreetcn.com/articles/3771788",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时58分]"
+        },
+        {
           "title": "美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响",
           "url": "https://wallstreetcn.com/livenews/3100233",
           "source": "华尔街见闻-快讯",
@@ -331,7 +345,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -342,18 +356,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "美国贸易法院裁定特朗普10%全球关税无效",
-          "url": "https://wallstreetcn.com/articles/3771788",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -569,6 +572,263 @@
       ]
     },
     {
+      "keyword_group": "投资",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 20时08分]"
+        },
+        {
+          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
+          "url": "https://www.cls.cn/detail/2365550",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
+          "title": "冲上热搜！星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
+        {
+          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
+          "url": "https://www.cls.cn/detail/2365556",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 16时23分]"
+        },
+        {
+          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
+          "url": "https://wallstreetcn.com/livenews/3100390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "中证报：新老基建齐发力，以重大项目带动有效投资",
+          "url": "https://wallstreetcn.com/livenews/3100245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时02分]"
+        },
+        {
+          "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
+          "url": "https://wallstreetcn.com/livenews/3100244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时02分]"
+        },
+        {
+          "title": "中国投资者被假皇室骗1800万美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%81%87%E7%9A%87%E5%AE%A4%E9%AA%971800%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时52分]"
+        },
+        {
+          "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
+          "url": "https://flash.jin10.com/detail/20260508120539317800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "裕信银行：同意向阿联酋投资者出售部分俄罗斯银行业务",
+          "url": "https://wallstreetcn.com/livenews/3100164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "券商一季度业绩说明会回应投资者关切，聚焦业绩波动与差异化发展路径",
+          "url": "https://wallstreetcn.com/livenews/3100256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "阿根廷国家石油公司YPF：上调与埃尼集团Eni、ADNOC合资公司的资本开支（不含钻井）至240亿美元。 投资者对阿根廷液化天然气（LNG）的需求超过（本公司自身的）融资目标。",
+          "url": "https://wallstreetcn.com/livenews/3100800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "通鼎互联：拟与曲江国资在广东省韶关市曲江区成立合资公司，项目公司注册资本8亿元，项目公司拟投资约8亿元建设年产600吨光棒及2000万芯公里光纤项目。",
+          "url": "https://wallstreetcn.com/livenews/3100671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "传奇投资者：AI牛市“还能再持续一两年”",
+          "url": "https://wallstreetcn.com/livenews/3100154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据路透社旗下媒体IFR：沙特阿拉伯公共投资基金敲定70亿美元三部分债券的最终条款。",
+          "url": "https://flash.jin10.com/detail/20260508001842782800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "消息人士称，SK海力士已收到来自全球科技公司的投资提案，拟投资其芯片生产线，并为极紫外光刻机的采购提供资金。",
+          "url": "https://flash.jin10.com/detail/20260508060231911800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "黄河旋风：投资3亿元建设年产4.5亿克拉人造金刚石项目",
+          "url": "https://wallstreetcn.com/livenews/3100596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "天阳科技：与启明星汉、杨兵、赵凯签署《项目合作协议》，通过股权转让、联合投入、收益分成等模式，共同落地执行《服务合同》项下算力服务项目的深度合作，由项目公司主要负责算力采购及租赁业务，采购投资金额为35亿元至40亿元之间。",
+          "url": "https://wallstreetcn.com/livenews/3100653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "通富微电：国家集成电路产业投资基金减持0.71%至持股5.97%，触及1%整数倍",
+          "url": "https://wallstreetcn.com/livenews/3100579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "永杉锂业：拟于四川南充经开化工园区投资建设锂盐项目",
+          "url": "https://wallstreetcn.com/livenews/3100647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508044535643800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "全球",
       "match_count": 22,
       "titles": [
@@ -746,7 +1006,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -801,7 +1061,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -826,241 +1086,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 20时08分]"
-        },
-        {
-          "title": "中东资金如何增持A股？阿布达比投资局现身66股前十大流通股东",
-          "url": "https://www.cls.cn/detail/2365550",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时23分]"
-        },
-        {
-          "title": "冲上热搜！星空卫视宣布停播：已开播24年，正寻求战略投资与业务重组机会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33108206",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 08时02分]"
-        },
-        {
-          "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
-          "url": "https://www.cls.cn/detail/2365556",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时15分 ~ 16时23分]"
-        },
-        {
-          "title": "高盛：强力超配中国，且A股的投资价值显著优于H股。将沪深300指数的12个月目标位大幅上调至5300点，隐含约9%的价格涨幅及13%的美元总回报。",
-          "url": "https://wallstreetcn.com/livenews/3100390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "中证报：新老基建齐发力，以重大项目带动有效投资",
-          "url": "https://wallstreetcn.com/livenews/3100245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时02分]"
-        },
-        {
-          "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
-          "url": "https://wallstreetcn.com/livenews/3100244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时02分]"
-        },
-        {
-          "title": "中国投资者被假皇室骗1800万美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%A2%AB%E5%81%87%E7%9A%87%E5%AE%A4%E9%AA%971800%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时52分]"
-        },
-        {
-          "title": "据英国金融时报：特朗普之子已投资于由总部位于特朗普大厦的金融集团Dominari Holdings旗下部门发起的名为American Ventures的基金。",
-          "url": "https://flash.jin10.com/detail/20260508120539317800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "裕信银行：同意向阿联酋投资者出售部分俄罗斯银行业务",
-          "url": "https://wallstreetcn.com/livenews/3100164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "券商一季度业绩说明会回应投资者关切，聚焦业绩波动与差异化发展路径",
-          "url": "https://wallstreetcn.com/livenews/3100256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "通鼎互联：拟与曲江国资在广东省韶关市曲江区成立合资公司，项目公司注册资本8亿元，项目公司拟投资约8亿元建设年产600吨光棒及2000万芯公里光纤项目。",
-          "url": "https://wallstreetcn.com/livenews/3100671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "传奇投资者：AI牛市“还能再持续一两年”",
-          "url": "https://wallstreetcn.com/livenews/3100154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "据路透社旗下媒体IFR：沙特阿拉伯公共投资基金敲定70亿美元三部分债券的最终条款。",
-          "url": "https://flash.jin10.com/detail/20260508001842782800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "消息人士称，SK海力士已收到来自全球科技公司的投资提案，拟投资其芯片生产线，并为极紫外光刻机的采购提供资金。",
-          "url": "https://flash.jin10.com/detail/20260508060231911800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "黄河旋风：投资3亿元建设年产4.5亿克拉人造金刚石项目",
-          "url": "https://wallstreetcn.com/livenews/3100596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "天阳科技：与启明星汉、杨兵、赵凯签署《项目合作协议》，通过股权转让、联合投入、收益分成等模式，共同落地执行《服务合同》项下算力服务项目的深度合作，由项目公司主要负责算力采购及租赁业务，采购投资金额为35亿元至40亿元之间。",
-          "url": "https://wallstreetcn.com/livenews/3100653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "通富微电：国家集成电路产业投资基金减持0.71%至持股5.97%，触及1%整数倍",
-          "url": "https://wallstreetcn.com/livenews/3100579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "永杉锂业：拟于四川南充经开化工园区投资建设锂盐项目",
-          "url": "https://wallstreetcn.com/livenews/3100647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
-          "url": "https://flash.jin10.com/detail/20260508044535643800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
         }
       ]
     },
@@ -1220,7 +1245,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -1237,7 +1262,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
