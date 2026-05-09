@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T22:49:57.566297+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-05-09T23:51:46.605687+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
@@ -104,6 +104,32 @@
           "time_info": "[12时22分 ~ 12时23分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 23时51分]"
+        },
+        {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
           "url": "https://flash.jin10.com/detail/20260509020204572800",
           "source": "金十数据",
@@ -135,32 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时49分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 22时49分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
@@ -527,6 +527,21 @@
           "time_info": "17时18分"
         },
         {
+          "title": "全球紧急追踪涉疫邮轮人员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E7%B4%A7%E6%80%A5%E8%BF%BD%E8%B8%AA%E6%B6%89%E7%96%AB%E9%82%AE%E8%BD%AE%E4%BA%BA%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            15,
+            21,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时51分]"
+        },
+        {
           "title": "加拿大央行：加拿大港口在全球航运网络中的角色已恶化。",
           "url": "https://flash.jin10.com/detail/20260509015336362800",
           "source": "金十数据",
@@ -538,18 +553,17 @@
           "time_info": "02时09分"
         },
         {
-          "title": "全球紧急追踪涉疫邮轮人员",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E7%B4%A7%E6%80%A5%E8%BF%BD%E8%B8%AA%E6%B6%89%E7%96%AB%E9%82%AE%E8%BD%AE%E4%BA%BA%E5%91%98",
-          "source": "bilibili 热搜",
+          "title": "外交部条法司司长齐大海出席全球调解论坛",
+          "url": "https://flash.jin10.com/detail/20260509195441736800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            15,
-            21,
-            9
+            10,
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 22时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时51分]"
         },
         {
           "title": "标普：由于以色列的国内天然气产量可观，中东冲突引发的全球能源价格冲击影响有限。",
@@ -585,27 +599,16 @@
           "time_info": "[21时14分 ~ 22时49分]"
         },
         {
-          "title": "外交部条法司司长齐大海出席全球调解论坛",
-          "url": "https://flash.jin10.com/detail/20260509195441736800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时49分]"
-        },
-        {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
           "url": "https://flash.jin10.com/detail/20260509214114227800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时51分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）全球股市指数-欧洲市场",
@@ -817,8 +820,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -885,8 +888,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -897,8 +900,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时51分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -920,9 +923,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时51分]"
         }
       ]
     },
