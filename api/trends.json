@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T02:59:23.977923+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-05-10T04:00:25.451137+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 04时00分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -59,44 +60,48 @@
           "url": "https://flash.jin10.com/detail/20260510021659577800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时00分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
           "url": "https://flash.jin10.com/detail/20260510020811536800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时00分]"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时00分]"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
           "url": "https://flash.jin10.com/detail/20260510013801926800",
           "source": "金十数据",
           "ranks": [
-            21
+            21,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 04时00分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普告诉一名法国记者，他预计“很快”会收到伊朗方面的消息。",
@@ -105,7 +110,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -113,7 +118,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -124,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -135,8 +140,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -144,11 +149,23 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
+        },
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时00分]"
         }
       ]
     },
@@ -163,11 +180,12 @@
           "ranks": [
             23,
             17,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         },
         {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
@@ -194,8 +212,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         }
       ]
     },
@@ -212,8 +230,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 02时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 04时00分]"
         }
       ]
     }
