@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-10T05:42:16.976040+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-10T06:42:07.916293+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 10,
       "titles": [
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            4,
+            22,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 06时42分]"
+        },
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
           "url": "https://wallstreetcn.com/articles/3771883",
@@ -16,22 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            4,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时42分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -144,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -155,8 +157,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -169,8 +171,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -180,8 +182,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时59分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[03时59分 ~ 06时42分]"
         }
       ]
     },
@@ -202,8 +204,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         },
         {
           "title": "机构：伊朗战争正以前所未有的速度消耗全球石油缓冲库存",
@@ -230,8 +232,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         }
       ]
     },
@@ -250,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 05时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 06时42分]"
         }
       ]
     }
