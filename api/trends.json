@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T18:56:47.011746+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-05-09T19:51:24.894879+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时51分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -93,6 +93,17 @@
           "time_info": "[12时22分 ~ 12时23分]"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时51分]"
+        },
+        {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
           "url": "https://flash.jin10.com/detail/20260509020204572800",
           "source": "金十数据",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时56分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯与乌克兰之间的战争将于5月9日、10日和11日停火三天。",
@@ -147,6 +147,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时07分 ~ 18时56分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时51分]"
+        },
+        {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时51分]"
         },
         {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
@@ -184,17 +209,6 @@
           "time_info": "[02时09分 ~ 04时07分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时56分]"
-        },
-        {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
           "url": "https://wallstreetcn.com/articles/3771788",
           "source": "华尔街见闻",
@@ -215,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时51分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -238,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时56分]"
         },
         {
           "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
@@ -316,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
-          "url": "https://flash.jin10.com/detail/20260509182305293800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
@@ -489,7 +492,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -519,8 +522,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时51分]"
         },
         {
           "title": "欧洲投资者也在“往光里挤” 两只瑞士光通信股票成为新宠",
@@ -631,17 +634,6 @@
           "time_info": "17时18分"
         },
         {
-          "title": "全球紧急追踪涉疫邮轮人员",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E7%B4%A7%E6%80%A5%E8%BF%BD%E8%B8%AA%E6%B6%89%E7%96%AB%E9%82%AE%E8%BD%AE%E4%BA%BA%E5%91%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "加拿大央行：加拿大港口在全球航运网络中的角色已恶化。",
           "url": "https://flash.jin10.com/detail/20260509015336362800",
           "source": "金十数据",
@@ -651,6 +643,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "全球紧急追踪涉疫邮轮人员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E7%B4%A7%E6%80%A5%E8%BF%BD%E8%B8%AA%E6%B6%89%E7%96%AB%E9%82%AE%E8%BD%AE%E4%BA%BA%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时51分]"
         },
         {
           "title": "标普：由于以色列的国内天然气产量可观，中东冲突引发的全球能源价格冲击影响有限。",
@@ -734,8 +738,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -745,22 +749,12 @@
             6,
             4,
             11,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时22分 ~ 18时56分]"
-        },
-        {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "appearance_count": 7,
+          "time_info": "[12时22分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -768,11 +762,24 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时51分]"
+        },
+        {
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时56分]"
+          "time_info": "[18时56分 ~ 19时51分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -861,11 +868,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 17时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 19时51分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -876,8 +884,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时51分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -887,8 +895,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时18分"
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 19时51分]"
         }
       ]
     }
