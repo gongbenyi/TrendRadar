@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:53:10.217424+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-05-10T18:13:54.770629+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时46分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时46分 ~ 18时13分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球紧急追踪涉疫邮轮人员",
@@ -187,11 +187,12 @@
             22,
             21,
             18,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 16时53分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时13分]"
         },
         {
           "title": "我国造船业3大指标继续全球领跑",
@@ -212,30 +213,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时13分]"
         },
         {
           "title": "吸引全球资本，亚洲新一轮“超级周期”正上演",
           "url": "https://wallstreetcn.com/articles/3771922",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时13分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
           "url": "https://www.cls.cn/detail/2367107",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时13分]"
+        },
+        {
+          "title": "中国牵头全球深渊科考重大突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%89%B5%E5%A4%B4%E5%85%A8%E7%90%83%E6%B7%B1%E6%B8%8A%E7%A7%91%E8%80%83%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "沙特阿美：东西管道有助于缓解全球能源冲击的影响。",
@@ -355,8 +369,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 16时53分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时13分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -365,11 +379,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek被曝融资500亿",
@@ -377,11 +392,12 @@
           "source": "微博",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时10分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[14时10分 ~ 18时13分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
