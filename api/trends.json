@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:19:29.335127+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-05-12T17:53:46.624458+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -82,6 +82,20 @@
           "time_info": "[00时32分 ~ 07时57分]"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2368275",
           "source": "财联社热门",
@@ -95,17 +109,16 @@
           "time_info": "[00时32分 ~ 10时59分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
           "ranks": [
-            5,
-            8,
-            26
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 17时53分]"
         },
         {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
@@ -143,18 +156,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 10时59分]"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 14时19分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -212,6 +213,19 @@
           "time_info": "00时32分"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 17时53分]"
+        },
+        {
           "title": "美国总统特朗普：我们需要更多关税。",
           "url": "https://flash.jin10.com/detail/20260512042137003800",
           "source": "金十数据",
@@ -224,25 +238,24 @@
           "time_info": "[04时48分 ~ 06时06分]"
         },
         {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 17时53分]"
+        },
+        {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
           "url": "https://www.cls.cn/detail/2368480",
           "source": "财联社热门",
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 14时19分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -261,15 +274,28 @@
           "time_info": "[00时32分 ~ 02时59分]"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            14,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 17时53分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时53分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -282,6 +308,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 14时19分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时53分]"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想要利用现在的“平静”局势，这种想法太幼稚。",
@@ -367,7 +405,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -433,7 +471,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -469,17 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "美国总统特朗普：即使霍尔木兹海峡开放，仍会有人继续购买美国石油。",
@@ -598,18 +625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -645,17 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
@@ -790,6 +795,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://flash.jin10.com/detail/20260512064331490800",
           "source": "金十数据",
@@ -826,7 +842,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
@@ -856,6 +872,17 @@
           "time_info": "[00时32分 ~ 10时59分]"
         },
         {
+          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3772017",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时53分]"
+        },
+        {
           "title": "金十图示：2026年05月12日（周二）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260512105557470800",
           "source": "金十数据",
@@ -882,15 +909,27 @@
           "time_info": "[00时32分 ~ 07时57分]"
         },
         {
-          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
-          "url": "https://wallstreetcn.com/articles/3772017",
-          "source": "华尔街见闻",
+          "title": "全球最大LNG港口实施信号管制，卡塔尔要求货轮“隐身”入港!",
+          "url": "https://flash.jin10.com/detail/20260512173813726800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时53分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时53分]"
         },
         {
           "title": "沙特阿美CEO：若霍尔木兹海峡持续关闭 全球油市每周或损失1亿桶供应",
@@ -916,15 +955,26 @@
           "time_info": "[02时58分 ~ 02时59分]"
         },
         {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
+          "title": "“全球进入北京时间”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E7%90%83%E8%BF%9B%E5%85%A5%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "17时53分"
+        },
+        {
+          "title": "美国CPI前，全球股债在美伊僵持影响下承压，英债领跌，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年5月12日",
@@ -966,9 +1016,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "克里姆林宫：经济并未免受全球市场波动的影响。",
+          "url": "https://flash.jin10.com/detail/20260512173129095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "港股恒瑞医药涨超14%，A股恒瑞医药涨超6%。公司与BMS达成全球重磅合作，携手开发13款早期创新药。",
@@ -977,7 +1038,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -999,7 +1060,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -1007,7 +1068,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "贝莱德：对投资委内瑞拉的机会持有“相当乐观”的态度",
@@ -1051,7 +1112,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1065,12 +1126,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "宇树科技发布载人机甲 投资人回应",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2+%E6%8A%95%E8%B5%84%E4%BA%BA%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "宇树科技发布载人机甲，投资人回应",
+          "url": "https://flash.jin10.com/detail/20260512172818984800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "厚朴投资获澳门新基金法生效后首个投资基金管理公司牌照",
+          "url": "https://wallstreetcn.com/livenews/3102162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI与微软设380亿美元分成上限",
@@ -1082,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "OpenAI预计：在与微软的最新协议下，到2030年公司将节省970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -1140,7 +1245,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
