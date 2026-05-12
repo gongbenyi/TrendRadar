@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:54:31.922426+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-05-12T22:25:39.289153+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 83,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -115,11 +115,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 22时25分]"
         },
         {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
@@ -157,6 +158,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 10时59分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 22时25分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -203,15 +218,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
-          "url": "https://news.ifeng.com/c/8t4CJqYob72",
-          "source": "凤凰网",
+          "title": "特朗普访华有哪些重要议题",
+          "url": "https://www.toutiao.com/trending/7638916562564792363/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
@@ -225,17 +240,66 @@
           "time_info": "00时32分"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
+            14,
+            7,
             6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 22时25分]"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普称阻止伊朗研发核武器“只是时间问题”",
+          "url": "https://flash.jin10.com/detail/20260512221536063800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 22时25分]"
+        },
+        {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 22时25分]"
         },
         {
           "title": "美国总统特朗普：我们需要更多关税。",
@@ -250,17 +314,18 @@
           "time_info": "[04时48分 ~ 06时06分]"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            7,
-            6
+            18,
+            13,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 22时25分]"
         },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
@@ -287,32 +352,6 @@
           "time_info": "[07时57分 ~ 14时19分]"
         },
         {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
           "url": "https://www.toutiao.com/trending/7638642573942197823/",
           "source": "今日头条",
@@ -335,6 +374,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时53分 ~ 19时54分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 22时25分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -380,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普：必须以不同的方式处理关税，效率更低。 我可以收取更多关税。 船只正前往得克萨斯和路易斯安那装载石油。 我们只是需要以更复杂的方式来实施。",
+          "url": "https://wallstreetcn.com/livenews/3102357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普批准解雇美国食品药品监督管理局（FDA） 专员马卡里。",
@@ -459,17 +520,6 @@
           "time_info": "10时59分"
         },
         {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
           "url": "https://flash.jin10.com/detail/20260512000657529800",
           "source": "金十数据",
@@ -492,6 +542,17 @@
           "time_info": "02时59分"
         },
         {
+          "title": "特朗普：我们百分之百会拿到伊朗的核材料。 伊朗问题只是时间问题。 我们不必操之过急。 伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3102353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
           "url": "https://flash.jin10.com/detail/20260512000601966800",
           "source": "金十数据",
@@ -509,7 +570,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -556,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "白宫公布名单，16位美国商界领袖将随特朗普访华",
+          "url": "https://wallstreetcn.com/livenews/3102348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美国总统特朗普：即使霍尔木兹海峡开放，仍会有人继续购买美国石油。",
@@ -855,6 +927,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美国白宫官员：特朗普政府正在“微调”可能的行政措施，以缓解美国牛肉市场的临时短缺情况。",
+          "url": "https://flash.jin10.com/detail/20260512215736943800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国总统特朗普：不打算因航空燃油价格上涨就对航空业实施救助。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3101758",
           "source": "华尔街见闻-快讯",
@@ -880,7 +963,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
@@ -896,17 +979,6 @@
           "time_info": "[00时32分 ~ 10时59分]"
         },
         {
-          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
-          "url": "https://wallstreetcn.com/articles/3772017",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
           "title": "世界大学生围棋赛首进中国内地，让全球青年了解中国文化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33155012",
           "source": "澎湃新闻",
@@ -919,6 +991,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 10时59分]"
+        },
+        {
+          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3772017",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）全球主要科技与互联网公司市值变化",
@@ -994,6 +1078,18 @@
           "time_info": "[10时59分 ~ 14时19分]"
         },
         {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 22时25分]"
+        },
+        {
           "title": "AI正把韩国推成全球最疯狂牛市",
           "url": "https://www.toutiao.com/trending/7638535831472311827/",
           "source": "今日头条",
@@ -1016,17 +1112,6 @@
           "time_info": "17时53分"
         },
         {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "金十数据全球财经早餐 | 2026年5月12日",
           "url": "https://flash.jin10.com/detail/20260512071300859800",
           "source": "金十数据",
@@ -1047,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260512220507868800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "涉疫邮轮撤离工作收尾 世卫组织：全球风险目前为“低”",
@@ -1093,13 +1189,46 @@
           "time_info": "14时19分"
         },
         {
+          "title": "阿布扎比国家石油公司CEO：霍尔木兹海峡封锁已使全球出现10亿桶短缺",
+          "url": "https://wallstreetcn.com/livenews/3102341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "全球石油供应两个月减少约 10 亿桶，沙特阿美一季度净利润却增长 26%，如何解读？",
+          "url": "https://www.zhihu.com/question/2037107620956169590",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3102340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "媒体：全球进入北京时间",
           "url": "https://www.toutiao.com/trending/7638912348242640932/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1121,7 +1250,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1140,7 +1269,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "贝莱德：对投资委内瑞拉的机会持有“相当乐观”的态度",
@@ -1178,6 +1307,17 @@
           "time_info": "[10时59分 ~ 14时19分]"
         },
         {
+          "title": "俄罗斯经济部：预计2026年投资将下降1.5%，并在2027年恢复2%的增长。",
+          "url": "https://flash.jin10.com/detail/20260512220204057800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美国财长贝森特：就美日投资协议进行了积极会谈。 支持日本建立投资审查机制。 关于外汇波动的沟通始终持续且有力。",
           "url": "https://wallstreetcn.com/livenews/3102029",
           "source": "华尔街见闻-快讯",
@@ -1211,6 +1351,17 @@
           "time_info": "17时53分"
         },
         {
+          "title": "联合国秘书长古特雷斯：非洲拥有全球60%的最佳太阳能潜力，却仅获得2%的全球清洁能源投资。如果获得适当的资金，到2040年，非洲可以产生其所需电力的10倍，全部来自可再生能源。",
+          "url": "https://flash.jin10.com/detail/20260512215609949800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "宇树科技发布载人机甲，投资人回应",
           "url": "https://flash.jin10.com/detail/20260512172818984800",
           "source": "金十数据",
@@ -1239,7 +1390,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
