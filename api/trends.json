@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-13T05:19:44.938794+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-13T06:59:52.066653+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
+        },
         {
           "title": "特朗普访华",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
@@ -16,19 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
-        },
-        {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -39,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "特朗普访华有哪些重要议题",
@@ -50,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
@@ -62,19 +63,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
+          "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
+          "url": "https://wallstreetcn.com/livenews/3102552",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据AXIOS记者：美国众议院交通委员会主席萨姆·格雷夫斯在被问及特朗普提出的暂停征收燃油税方案时表示：“我认为这只是一个短期解决方案。”",
+          "url": "https://flash.jin10.com/detail/20260513064533429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
@@ -84,8 +96,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
@@ -96,19 +120,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
           "url": "https://wallstreetcn.com/articles/3772030",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 06时59分]"
         },
         {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
@@ -117,7 +142,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -128,7 +153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -150,7 +175,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -161,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -194,7 +219,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -205,9 +230,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "据《纽约时报》：最新评估显示，伊朗对其沿霍尔木兹海峡33处导弹阵地中的30处仍保有作战使用能力，这表明伊朗军事实力远比特朗普所声称的强大得多。",
+          "url": "https://flash.jin10.com/detail/20260513053813546800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
@@ -219,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普：食品药品管理局（FDA）局长Makary正在离开。",
@@ -235,18 +282,30 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加33.78吨，当前持仓量为15118.67吨。欢迎点击查看数据中心",
+          "url": "https://flash.jin10.com/detail/20260513064655629800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
         {
           "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
           "url": "https://wallstreetcn.com/articles/3772017",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
@@ -257,8 +316,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "全球昆虫正在以惊人速度灭绝",
@@ -269,19 +328,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时59分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 06时59分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.999吨，当前持仓量为1038.279吨。",
+          "url": "https://flash.jin10.com/detail/20260513062200443800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "道达尔能源服务：全球不确定性及大宗商品价格波动持续拖累北美地区第一季度钻井与完井作业活动。2026年1月，公司停止在美国的油井服务业务，绝大部分运营设备已于2月完成出售。",
+          "url": "https://flash.jin10.com/detail/20260513060925599800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
@@ -290,7 +372,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -304,12 +386,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，沃尔玛(WMT.N)计划裁员或调岗约1,000名企业员工。沃尔玛高管已审查公司内部架构，并决定精简部分团队。沃尔玛正寻求进一步整合其全球技术团队与人工智能产品团队。",
+          "url": "https://flash.jin10.com/detail/20260513060126996800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据知情人士透露，随着投资者对股票需求激增，芯片制造商Cerebras Systems正向潜在投资者表示，预计其IPO的定价将高于此前公布的发行价格区间上限。",
+          "url": "https://flash.jin10.com/detail/20260513061952472800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "聚焦能源投资主线，公募加码布局全产业链",
+          "url": "https://wallstreetcn.com/livenews/3102542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "10年期美债收益率涨超4.9个基点，投资者关注美国CPI通胀数据与国际油价",
+          "url": "https://wallstreetcn.com/livenews/3102531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国财长贝森特：日本经济基本面强劲，且有韧性。 与日本首相高市早苗讨论了美日投资计划。 与日本提出了关键矿产问题。",
+          "url": "https://wallstreetcn.com/livenews/3102530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国财长贝森特：就美日投资计划、关键矿产方面与日本首相高市早苗进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260513053230893800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -321,6 +475,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
+          "url": "https://flash.jin10.com/detail/20260513060313265800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
