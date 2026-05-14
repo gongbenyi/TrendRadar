@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T01:02:19.063262+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-15T03:01:40.567116+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普称赞“中国太美了”",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平同特朗普举行会谈：中美应当做伙伴而不是对手，让2026年成为中美关系继往开来的历史性、标志性年份",
@@ -59,19 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "特朗普访华欢迎宴会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平同特朗普参观天坛",
@@ -81,8 +70,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普访华欢迎宴会，都有哪些看点值得关注？",
@@ -92,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -103,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
@@ -114,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -125,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -136,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普：世上最顶级企业都想来中国",
@@ -147,8 +136,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平同特朗普会晤详讯公布",
@@ -157,9 +146,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时01分]"
         },
         {
           "title": "习近平为特朗普举行欢迎宴会",
@@ -168,9 +157,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时01分]"
         },
         {
           "title": "习近平同特朗普参观天坛",
@@ -179,9 +168,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普访华欢迎宴会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
@@ -191,19 +192,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普为中国少年儿童驻足鼓掌",
           "url": "https://www.toutiao.com/trending/7638863754645782534/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普访华欢迎仪式完整版视频",
@@ -213,19 +215,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普：美高法门楣上刻着孔子雕像",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E9%AB%98%E6%B3%95%E9%97%A8%E6%A5%A3%E4%B8%8A%E5%88%BB%E7%9D%80%E5%AD%94%E5%AD%90%E9%9B%95%E5%83%8F",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "美国总统特朗普开始对中国进行国事访问，有哪些信息值得关注？",
@@ -235,19 +238,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "特朗普说美高法门楣刻孔子无比荣幸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BE%8E%E9%AB%98%E6%B3%95%E9%97%A8%E6%A5%A3%E5%88%BB%E5%AD%94%E5%AD%90%E6%97%A0%E6%AF%94%E8%8D%A3%E5%B9%B8%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "视频丨特朗普：中美两国有着美好的未来",
@@ -257,8 +261,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 03时01分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -267,9 +271,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时01分]"
         },
         {
           "title": "特朗普公布访华团高管名单",
@@ -278,15 +282,37 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普为中国少年儿童驻足鼓掌",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E9%A9%BB%E8%B6%B3%E9%BC%93%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时01分]"
+        },
+        {
+          "title": "米兰向特朗普申请辞去美联储理事",
+          "url": "https://wallstreetcn.com/livenews/3103856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
@@ -295,7 +321,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -306,16 +332,38 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
+          "url": "https://wallstreetcn.com/livenews/3103841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "台积电预计全球芯片市场规模将暴增",
+          "url": "https://www.toutiao.com/trending/7638924511433424905/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 03时01分]"
+        },
         {
           "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
           "url": "https://wallstreetcn.com/livenews/3103819",
@@ -323,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
