@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:46:43.632542+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-05-17T06:43:55.761622+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -73,19 +73,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -95,8 +96,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -106,8 +107,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -129,11 +130,12 @@
           "ranks": [
             8,
             14,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时43分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -153,11 +155,12 @@
           "url": "https://flash.jin10.com/detail/20260517042429937800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时43分]"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -195,8 +198,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -207,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "中国式支付圈粉全球",
@@ -218,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "国产光纤光模块卖爆全球",
@@ -229,8 +232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "订单排到2028年！国产之“光”，全球爆单！",
@@ -240,8 +243,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "日本央行副行长冰见野良三呼吁对全球货币体系采取“整体性方法”",
@@ -253,8 +256,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -262,11 +265,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时46分]"
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时43分]"
         }
       ]
     },
@@ -282,8 +286,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         },
         {
           "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
@@ -293,8 +297,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时43分]"
         },
         {
           "title": "贝莱德考虑向SpaceX的IPO投资50亿至100亿美元",
@@ -336,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -353,8 +357,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     },
@@ -372,8 +376,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时43分]"
         }
       ]
     }
