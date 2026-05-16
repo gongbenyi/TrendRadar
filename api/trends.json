@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T17:29:03.886596+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-05-16T19:02:38.607852+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -185,11 +185,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 19时02分]"
         },
         {
           "title": "特朗普与高市早苗通电话，讨论访华细节",
@@ -257,6 +258,20 @@
           "time_info": "[00时50分 ~ 04时16分]"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 19时02分]"
+        },
+        {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2038577207740715513",
           "source": "知乎",
@@ -293,6 +308,17 @@
           "time_info": "[00时50分 ~ 08时02分]"
         },
         {
+          "title": "特朗普在空军一号受访，释放大量信号",
+          "url": "https://news.ifeng.com/c/8tAtho08BXE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普松口：可接受伊朗暂停核计划20年",
           "url": "https://news.ifeng.com/c/8tAOMUPRq30",
           "source": "凤凰网",
@@ -305,30 +331,6 @@
           "time_info": "[12时28分 ~ 17时29分]"
         },
         {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普在空军一号受访，释放大量信号",
-          "url": "https://news.ifeng.com/c/8tAtho08BXE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "特朗普结束访华 乘专机离开北京",
           "url": "https://www.douyin.com/hot/2499944",
           "source": "抖音",
@@ -339,6 +341,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 07时01分]"
+        },
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时02分]"
         },
         {
           "title": "特朗普说“伊斯兰国”二号头目被“清除”",
@@ -375,6 +401,17 @@
           "time_info": "[12时28分 ~ 17时29分]"
         },
         {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普团队拟重塑加沙“钱途” 巴勒斯坦税收恐被挪用",
           "url": "https://flash.jin10.com/detail/20260516002931658800",
           "source": "金十数据",
@@ -395,30 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
-        },
-        {
-          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
-          "url": "https://www.zhihu.com/question/2038603109828486376",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 17时29分]"
-        },
-        {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 17时29分]"
         },
         {
           "title": "美国总统特朗普与日本首相高市早苗就同盟关系进行通话",
@@ -503,6 +516,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时02分]"
         },
         {
           "title": "特朗普称随访美国商人是自己想来的",
@@ -600,17 +625,6 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
           "url": "https://wallstreetcn.com/livenews/3104653",
           "source": "华尔街见闻-快讯",
@@ -643,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：我们对伊朗进行了极其严厉的打击，结果简直令人难以置信。",
@@ -785,8 +810,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 19时02分]"
         },
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -796,8 +821,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时02分]"
+        },
+        {
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时02分]"
         },
         {
           "title": "国产光纤光模块热卖全球",
@@ -809,18 +846,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 15时13分]"
-        },
-        {
-          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
-          "url": "https://wallstreetcn.com/articles/3772386",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 17时29分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -851,33 +876,48 @@
           "source": "抖音",
           "ranks": [
             16,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 19时02分]"
         },
         {
           "title": "陈茂波：香港有条件成为全球医疗创新生态系统核心基地",
           "url": "https://wallstreetcn.com/livenews/3104775",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 19时02分]"
         },
         {
           "title": "阿联酋能源部长：阿联酋退出欧佩克及欧佩克+的决定是一项主权战略选择，其根源在于该国的长期经济愿景、不断发展的能源能力以及对全球能源安全的一贯承诺。",
           "url": "https://flash.jin10.com/detail/20260516165823956800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 19时02分]"
+        },
+        {
+          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
+          "url": "https://wallstreetcn.com/articles/3772409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时02分]"
         },
         {
           "title": "金十图示：2026年05月15日（周五）全球股市指数-美洲市场",
@@ -891,15 +931,15 @@
           "time_info": "[05时59分 ~ 08时02分]"
         },
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
+          "title": "全球昆虫正在以惊人速度灭绝，这会对地球生态系统带来哪些连锁影响？",
+          "url": "https://www.zhihu.com/question/2037684043257472040",
+          "source": "知乎",
           "ranks": [
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时02分]"
         },
         {
           "title": "订单排到2028年！国产之“光”，全球爆单！",
@@ -923,17 +963,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
-        },
-        {
-          "title": "全球昆虫正在以惊人速度灭绝，这会对地球生态系统带来哪些连锁影响？",
-          "url": "https://www.zhihu.com/question/2037684043257472040",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "如何看待「全球汉籍合璧工程发布重要成果，37 万余张珍稀汉籍图像首次向公众公布」？",
@@ -984,8 +1013,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 19时02分]"
         },
         {
           "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
@@ -1000,6 +1029,18 @@
           "time_info": "[15时13分 ~ 17时29分]"
         },
         {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 19时02分]"
+        },
+        {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
           "url": "https://wallstreetcn.com/livenews/3104627",
           "source": "华尔街见闻-快讯",
@@ -1009,17 +1050,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
-          "url": "https://wallstreetcn.com/livenews/3104759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
@@ -1058,8 +1088,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
           "url": "https://wallstreetcn.com/livenews/3104554",
@@ -1159,11 +1200,12 @@
           "url": "https://wallstreetcn.com/livenews/3104769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 19时02分]"
         }
       ]
     }
