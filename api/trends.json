@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:20:08.680523+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-17T04:44:07.988145+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -72,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -83,8 +83,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -94,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -105,8 +105,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -127,22 +127,24 @@
           "source": "金十数据",
           "ranks": [
             11,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时44分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
           "url": "https://flash.jin10.com/detail/20260517015331327800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时44分]"
         },
         {
           "title": "美国总统特朗普：马里兰州刚刚曝光了50万张假邮寄选票。作为一个国家，我们不能再容忍下去了！选民身份验证和公民身份证明现在必须得到批准，不正当的邮寄投票必须被制止！",
@@ -170,7 +172,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -180,8 +182,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
@@ -191,8 +193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "中国式支付圈粉全球",
@@ -202,8 +204,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "国产光纤光模块卖爆全球",
@@ -213,8 +215,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "订单排到2028年！国产之“光”，全球爆单！",
@@ -224,8 +226,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "日本央行副行长冰见野良三呼吁对全球货币体系采取“整体性方法”",
@@ -233,11 +235,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
+          "url": "https://flash.jin10.com/detail/20260517031730023800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
@@ -246,17 +260,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
-          "url": "https://wallstreetcn.com/livenews/3104815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
           "url": "https://wallstreetcn.com/articles/3772428",
           "source": "华尔街见闻",
@@ -264,8 +267,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
+        },
+        {
+          "title": "报道：贝莱德或将在SpaceX IPO中投资数十亿美元",
+          "url": "https://wallstreetcn.com/livenews/3104815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时44分]"
         },
         {
           "title": "贝莱德考虑向SpaceX的IPO投资50亿至100亿美元",
@@ -303,11 +317,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         }
       ]
     },
@@ -323,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 04时44分]"
         }
       ]
     },
@@ -338,11 +353,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
         }
       ]
     }
