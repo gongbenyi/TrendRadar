@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T17:04:18.673533+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-17T19:04:51.792215+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 17时04分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时04分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -36,11 +36,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 17时04分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时04分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -65,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 17时04分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时04分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -128,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 17时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 19时04分]"
         },
         {
           "title": "特朗普黄仁勋同款美食",
@@ -154,6 +155,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-17）",
+          "url": "https://flash.jin10.com/detail/20260517183041756800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
           "title": "美国民主党人表示，美国参议院一名官员已将特朗普白宫宴会厅项目的拨款从共和党支出方案中删除。",
           "url": "https://flash.jin10.com/detail/20260517102035886800",
           "source": "金十数据",
@@ -163,6 +175,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，与特朗普的私交或可避免更多关税与制裁，并确保巴西民主得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260517183017817800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
+          "url": "https://flash.jin10.com/detail/20260517181926076800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -251,19 +285,53 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 19时04分]"
         },
         {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时04分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "19时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
+          "url": "https://flash.jin10.com/detail/20260517181141541800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
@@ -286,6 +354,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，他与美国总统特朗普的政治分歧并不影响其作为国家元首与他特朗普的关系。",
+          "url": "https://flash.jin10.com/detail/20260517181008473800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
+          "url": "https://flash.jin10.com/detail/20260517180941712800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "特朗普警告“台独”",
@@ -324,7 +425,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "日股一线观察：与1999年高度相似，投资者被迫参与可能是“一代人一遇”的牛市",
@@ -355,23 +456,12 @@
         },
         {
           "title": "陈茂波：香港经济基调良好前景正面 有助吸引更多国际长期资金投资",
-          "url": "https://wallstreetcn.com/livenews/3104858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "陈茂波：香港经济基调良好前景正面 有助吸引更多国际长期资金投资",
           "url": "https://flash.jin10.com/detail/20260517162217167800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -381,11 +471,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 19时04分]"
+        },
+        {
+          "title": "陈茂波：香港经济基调良好前景正面 有助吸引更多国际长期资金投资",
+          "url": "https://wallstreetcn.com/livenews/3104858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时22分 ~ 17时04分]"
+          "time_info": "[17时04分 ~ 19时04分]"
         },
         {
           "title": "上交所举办“国际投资者赴境内调研上市公司”活动",
@@ -398,6 +501,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 17时04分]"
+        },
+        {
+          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
+          "url": "https://wallstreetcn.com/articles/3772438",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时04分]"
         },
         {
           "title": "贝莱德考虑向SpaceX的IPO投资50亿至100亿美元",
@@ -424,17 +539,6 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
-          "title": "50-100亿美元！“全球最大资管”贝莱德考虑投资“历史最大IPO”Space X",
-          "url": "https://wallstreetcn.com/articles/3772438",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
           "title": "据韩联社：韩国计划向战略材料企业投资1700亿韩元。",
           "url": "https://flash.jin10.com/detail/20260517123923995800",
           "source": "金十数据",
@@ -455,12 +559,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "以色列统计局：以色列第一季度出口下降3.7%，私人消费下降4.7%，投资增长12.6%，政府支出下降4.8%。",
+          "url": "https://flash.jin10.com/detail/20260517180051174800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -506,8 +621,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 17时04分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时04分]"
         },
         {
           "title": "订单排到2028年！国产之“光”，全球爆单！",
@@ -540,11 +655,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[14时22分 ~ 19时04分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -558,6 +674,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时44分 ~ 07时52分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，仍希望将巴西定位为全球冲突的调解者。",
+          "url": "https://flash.jin10.com/detail/20260517181329764800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
         },
         {
           "title": "中国汽车专利公开量领跑全球 我国新能源汽车专利突破11万件",
