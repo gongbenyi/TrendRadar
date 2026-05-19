@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T16:34:00.556998+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-05-19T20:09:09.870057+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时02分]"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 20时09分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -81,15 +93,16 @@
           "time_info": "[00时21分 ~ 13时00分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时34分]"
+          "time_info": "[16时33分 ~ 20时09分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -106,15 +119,16 @@
           "time_info": "[00时21分 ~ 06时02分]"
         },
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            16,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 20时09分]"
         },
         {
           "title": "美国白宫：特朗普政府将仿制药纳入特朗普处方药计划。",
@@ -213,6 +227,17 @@
           "time_info": "[12时59分 ~ 16时34分]"
         },
         {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "日专家：特朗普暗示日本过头了",
           "url": "https://www.toutiao.com/trending/7640804206983249974/",
           "source": "今日头条",
@@ -235,6 +260,17 @@
           "time_info": "[00时21分 ~ 08时04分]"
         },
         {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
           "title": "特朗普暗示日本过头了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86",
           "source": "百度热搜",
@@ -246,15 +282,26 @@
           "time_info": "[12时59分 ~ 13时00分]"
         },
         {
-          "title": "特朗普暗示日本过头了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "为何特朗普抛涉台“四不”说法",
+          "url": "https://www.toutiao.com/trending/7640681040356671526/",
+          "source": "今日头条",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "美防长集会模仿特朗普引哄笑",
+          "url": "https://www.toutiao.com/trending/7640718233914048518/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
         },
         {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
@@ -307,7 +354,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -384,7 +431,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -557,7 +604,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "全球债市抛售潮持续蔓延，日本长债收益率跳升，油价冲上110美元",
@@ -578,11 +625,35 @@
           "ranks": [
             6,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 16时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 20时09分]"
+        },
+        {
+          "title": "中国又一行业全球爆单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E8%A1%8C%E4%B8%9A%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "世界正应对新一轮通胀，“长债风暴”席卷全球",
+          "url": "https://wallstreetcn.com/articles/3772578",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 20时09分]"
         },
         {
           "title": "全球债券收益率上升加剧亚洲资本外流 印尼、菲律宾和印度料受创最深",
@@ -591,7 +662,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -607,38 +678,50 @@
           "time_info": "00时21分"
         },
         {
-          "title": "世界正应对新一轮通胀，“长债风暴”席卷全球",
-          "url": "https://wallstreetcn.com/articles/3772578",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特：与七国集团的对口官员进行了建设性讨论。 讨论了全球经济、失衡和关键矿产。",
+          "url": "https://wallstreetcn.com/livenews/3106021",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "“几乎0库存”！铝加工行业，全球爆单",
           "url": "https://www.cls.cn/detail/2375082",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 20时09分]"
         },
         {
           "title": "全球升温已连续三年超过 1.5℃，这意味着什么？这一临界点失守是否会导致变暖迎来质变？",
           "url": "https://www.zhihu.com/question/2039434128068720466",
           "source": "知乎",
           "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 20时09分]"
+        },
+        {
+          "title": "印尼等10国外长强烈谴责以色列再次袭击“全球坚韧船队”",
+          "url": "https://www.cls.cn/detail/2375126",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "time_info": "[20时08分 ~ 20时09分]"
         },
         {
           "title": "报告：全球电商流量前三，AliExpress、Temu占两席",
@@ -663,6 +746,17 @@
           "time_info": "13时00分"
         },
         {
+          "title": "法国财政部长莱斯库尔：我们在G7内部都一致认为全球宏观失衡是不可持续的，必须停止。",
+          "url": "https://flash.jin10.com/detail/20260519194233194800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年5月19日",
           "url": "https://flash.jin10.com/detail/20260519065818624800",
           "source": "金十数据",
@@ -672,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美国财长贝森特：与G7同行讨论了全球经济、不平衡、关键矿产。",
+          "url": "https://flash.jin10.com/detail/20260519194042378800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "Meta内部文件显示，该公司计划5月20日裁员。 Meta计划5月20日在全球范围内分三批裁员。（路透）",
@@ -691,9 +796,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "印尼财长：印尼计划通过最新的全球债券筹集20亿至30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260519193922653800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "日本财务大臣片山皋月：向七国集团（G7）表示，需要密切关注市场。 需要采取行动来纠正全球失衡问题。 我们需要解决与Mythos相关的风险。",
@@ -743,7 +859,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "5月19日投资避雷针：上市仅一个月股价累计涨幅超16倍 这只人气股今起停牌核查",
@@ -758,6 +874,18 @@
           "time_info": "[12时59分 ~ 16时34分]"
         },
         {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 20时09分]"
+        },
+        {
           "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
           "url": "https://wallstreetcn.com/livenews/3105558",
           "source": "华尔街见闻-快讯",
@@ -770,18 +898,6 @@
           "time_info": "[02时50分 ~ 04时24分]"
         },
         {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 16时34分]"
-        },
-        {
           "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
           "url": "https://www.cls.cn/detail/2374826",
           "source": "财联社热门",
@@ -791,6 +907,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
+          "title": "开发商投资7500余万拿地 5年没拿到",
+          "url": "https://www.toutiao.com/trending/7641489246255169587/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 20时09分]"
+        },
+        {
+          "title": "法国财政部长莱斯库尔：我们决定延续去年由加拿大创建的关键材料联盟，包括库存、信息共享和增加投资。大家一致认为，首要任务是恢复贸易流动的正常状态。",
+          "url": "https://flash.jin10.com/detail/20260519194653622800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "澳大利亚10年期国债收益率跌6.48个基点，悉尼盘初报5.0488%，投资者关注国际油价。 三年期澳债收益率跌6.19个基点，报4.6756%。",
@@ -835,6 +973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "精研科技：拟投资4亿元建设高强高韧粉末钛合金及其精密注射成形构件的研发与产业化项目",
+          "url": "https://flash.jin10.com/detail/20260519193737502800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "2026年全球贸易投资促进峰会在京举行",
@@ -952,11 +1101,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 20时09分]"
         },
         {
           "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
@@ -968,6 +1118,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://wallstreetcn.com/livenews/3105984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     }
