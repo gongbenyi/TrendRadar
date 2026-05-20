@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T08:04:05.836865+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-05-20T13:04:07.441056+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 13时04分]"
+        },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
@@ -30,15 +42,15 @@
           "time_info": "[00时19分 ~ 08时04分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "万斯为特朗普超长交易清单辩护",
@@ -47,7 +59,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -80,7 +92,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -91,7 +103,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -102,7 +114,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -143,6 +155,18 @@
           "time_info": "[02时59分 ~ 08时04分]"
         },
         {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时04分]"
+        },
+        {
           "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
           "url": "https://flash.jin10.com/detail/20260520042923533800",
           "source": "金十数据",
@@ -167,17 +191,6 @@
           "time_info": "[04时48分 ~ 06时15分]"
         },
         {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
           "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
           "url": "https://flash.jin10.com/detail/20260520042843664800",
           "source": "金十数据",
@@ -188,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 06时15分]"
+        },
+        {
+          "title": "特朗普家族被豁免永久禁止国税局审计",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B1%81%E5%85%8D%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%AE%A1%E8%AE%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "美国副总统万斯：无论美国总统特朗普对伊朗做出什么决定，这种情况不会永远持续。",
@@ -218,7 +242,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -251,7 +275,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -262,7 +286,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -306,7 +330,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -328,7 +352,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -361,7 +385,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -375,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普的关税通牒奏效了？欧盟内部达成临时协议！",
+          "url": "https://flash.jin10.com/detail/20260520115829098800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "特朗普称美方可能不得不对伊朗“再予以一击”",
@@ -402,18 +437,31 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时04分]"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 13时04分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -427,6 +475,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 08时04分]"
+        },
+        {
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时59分 ~ 13时04分]"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -463,38 +524,49 @@
           "time_info": "[04时48分 ~ 06时15分]"
         },
         {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时59分 ~ 08时04分]"
+          "time_info": "[08时03分 ~ 13时04分]"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "time_info": "[13时03分 ~ 13时04分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
@@ -690,9 +762,136 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
+        },
+        {
+          "title": "越南总理：继续与美方合作以完成贸易协定的制定工作，愿意促进美国在越南的投资和商业活动。",
+          "url": "https://flash.jin10.com/detail/20260520122940572800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "印度尼西亚总统：政府将改善所有机构以提升投资环境。",
+          "url": "https://flash.jin10.com/detail/20260520122624429800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "日本政府正考虑面向散户投资者发行新一轮日本国债。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3106456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "报道：SpaceX若上市，华乐投资与创始基金各自有望斩获超600亿美元回报",
+          "url": "https://wallstreetcn.com/livenews/3106202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "国家发展改革委紧急安排5000万元中央预算内投资支持湖南省严重洪涝灾害灾后应急恢复",
+          "url": "https://wallstreetcn.com/livenews/3106454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "据The Information：红杉资本作为后期投资者，预计将从SpaceX IPO获利约20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260520020347068800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "平替带来投资热情，公募量化新势力破圈",
+          "url": "https://wallstreetcn.com/livenews/3106280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "国家发展改革委紧急安排5000万元中央预算内投资支持湖南省严重洪涝灾害灾后应急恢复",
+          "url": "https://flash.jin10.com/detail/20260520115722373800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "通用汽车将在墨西哥Toluca工厂投资10亿美元。（Expansion）",
+          "url": "https://wallstreetcn.com/livenews/3106225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -769,7 +968,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -791,70 +990,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 5,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         },
         {
-          "title": "报道：SpaceX若上市，华乐投资与创始基金各自有望斩获超600亿美元回报",
-          "url": "https://wallstreetcn.com/livenews/3106202",
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "据The Information：红杉资本作为后期投资者，预计将从SpaceX IPO获利约20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260520020347068800",
-          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "04时48分"
         },
         {
-          "title": "平替带来投资热情，公募量化新势力破圈",
-          "url": "https://wallstreetcn.com/livenews/3106280",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
           "ranks": [
-            22
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "通用汽车将在墨西哥Toluca工厂投资10亿美元。（Expansion）",
-          "url": "https://wallstreetcn.com/livenews/3106225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "13时04分"
         }
       ]
     },
@@ -890,36 +1067,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
@@ -931,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "印度尼西亚总统：我不希望我们的棕榈油价格受到其他国家的影响。我已要求内阁确保我们的商品价格，如镍和黄金，由我们自己决定。",
+          "url": "https://flash.jin10.com/detail/20260520120514918800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     }
