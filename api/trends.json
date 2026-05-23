@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T21:22:25.383134+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-05-23T22:59:57.727938+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -29,8 +29,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 22时59分]"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时05分 ~ 22时59分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -46,20 +60,6 @@
           "time_info": "[00时24分 ~ 08时06分]"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时05分 ~ 21时22分]"
-        },
-        {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
           "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
           "source": "凤凰网",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时59分]"
         },
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -78,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时59分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -181,17 +181,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "美媒：特朗普愿给美伊谈判“更多时间”",
-          "url": "https://wallstreetcn.com/livenews/3108370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
           "url": "https://www.zhihu.com/question/2041148892323000444",
           "source": "知乎",
@@ -203,6 +192,43 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时39分 ~ 19时10分]"
+        },
+        {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时59分]"
+        },
+        {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时59分]"
+        },
+        {
+          "title": "美媒：特朗普愿给美伊谈判“更多时间”",
+          "url": "https://wallstreetcn.com/livenews/3108370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -228,30 +254,6 @@
           "time_info": "[12时39分 ~ 15时32分]"
         },
         {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时22分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
           "url": "https://wallstreetcn.com/livenews/3108228",
           "source": "华尔街见闻-快讯",
@@ -262,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 06时07分]"
+        },
+        {
+          "title": "美媒：特朗普愿给美伊谈判“更多时间”",
+          "url": "https://flash.jin10.com/detail/20260523205703345800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
         },
         {
           "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
@@ -341,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美媒：特朗普愿给美伊谈判“更多时间”",
-          "url": "https://flash.jin10.com/detail/20260523205703345800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "美国总统特朗普：当我们想关注的时候，会有一些债务。 我们会按自己的方式实现增长，摆脱债务问题。 不希望阻碍经济增长，增长并不意味着通胀。",
@@ -508,6 +511,17 @@
           "time_info": "12时39分"
         },
         {
+          "title": "卡塔尔埃米尔与特朗普通话，强调维护海上安全",
+          "url": "https://wallstreetcn.com/livenews/3108381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普取消出席儿子婚礼返回白宫",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E5%84%BF%E5%AD%90%E5%A9%9A%E7%A4%BC%E8%BF%94%E5%9B%9E%E7%99%BD%E5%AE%AB%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -536,7 +550,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -591,7 +605,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
@@ -722,7 +736,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -755,7 +769,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -878,7 +892,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
@@ -886,7 +900,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -912,8 +926,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 22时59分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -935,9 +949,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
+        },
+        {
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "22时59分"
         },
         {
           "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
@@ -974,11 +999,12 @@
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 22时59分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
