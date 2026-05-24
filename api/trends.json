@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T21:22:38.901440+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-05-24T23:02:54.717630+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
@@ -64,8 +64,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 23时02分]"
+        },
+        {
+          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
+          "url": "https://www.cls.cn/detail/2379936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 23时02分]"
         },
         {
           "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
@@ -79,19 +92,6 @@
           "time_info": "[00时07分 ~ 14时58分]"
         },
         {
-          "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
-          "url": "https://www.cls.cn/detail/2379936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 21时22分]"
-        },
-        {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
           "url": "https://wallstreetcn.com/articles/3772979",
           "source": "华尔街见闻",
@@ -102,8 +102,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
+          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 23时02分]"
         },
         {
           "title": "一名外交官表示：美国总统特朗普与中东领袖们的对话“是积极的”。（福克斯新闻）",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时49分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
-          "url": "https://news.ifeng.com/c/8tN4z0QKtP2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 21时22分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
@@ -170,6 +170,20 @@
           "time_info": "[03时24分 ~ 11时26分]"
         },
         {
+          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
+          "url": "https://wallstreetcn.com/articles/3772984",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普称美伊达成协议还是重启战事仍是“对半开”，又说美伊“越来越接近”达成协议",
           "url": "https://wallstreetcn.com/livenews/3108417",
           "source": "华尔街见闻-快讯",
@@ -195,6 +209,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "特朗普：已通知代表不要急于达成协议 时间在我们这边",
+          "url": "https://flash.jin10.com/detail/20260524221210008800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3108428",
           "source": "华尔街见闻-快讯",
@@ -204,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "特朗普：我不急于和伊朗达成一份协议",
+          "url": "https://wallstreetcn.com/livenews/3108518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普：已与多国领导人通话 美伊协议基本达成",
@@ -294,20 +330,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时49分 ~ 07时56分]"
-        },
-        {
-          "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
-          "url": "https://wallstreetcn.com/articles/3772984",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 21时22分]"
         },
         {
           "title": "美国总统特朗普对以色列第12频道表示，如果协议对以色列不利，我将不会签署。",
@@ -486,6 +508,18 @@
           "time_info": "[19时15分 ~ 21时22分]"
         },
         {
+          "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
+          "url": "https://wallstreetcn.com/livenews/3108501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "据以色列第12频道报道，以色列官员称，美国特使威特科夫正试图“不惜一切代价”促成协议，并且正是他在施压特朗普总统不要恢复战事。",
           "url": "https://flash.jin10.com/detail/20260524010941345800",
           "source": "金十数据",
@@ -519,17 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        },
-        {
-          "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
-          "url": "https://wallstreetcn.com/livenews/3108501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
         },
         {
           "title": "据News Nation白宫记者：周六晚上9:30（北京时间早上9:30），特朗普总统仍在椭圆形办公室办公。",
@@ -764,6 +787,18 @@
           "time_info": "[00时07分 ~ 11时26分]"
         },
         {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 23时02分]"
+        },
+        {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
@@ -776,20 +811,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 21时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时07分 ~ 23时02分]"
         },
         {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -807,28 +842,17 @@
           "time_info": "[00时07分 ~ 07时56分]"
         },
         {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时22分]"
-        },
-        {
           "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
           "url": "https://www.zhihu.com/question/2041119709844788638",
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 23时02分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -851,8 +875,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -889,11 +913,12 @@
           "url": "https://flash.jin10.com/detail/20260524195336388800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "美军全面执行针对伊朗的海上封锁行动，将对全球原油供应链以及国际油价走势带来怎样的连锁反应？",
@@ -908,6 +933,18 @@
           "time_info": "[03时23分 ~ 06时53分]"
         },
         {
+          "title": "解读世界格局的新全球化",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%A0%BC%E5%B1%80%E7%9A%84%E6%96%B0%E5%85%A8%E7%90%83%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
+        {
           "title": "全球100个最热城市印度占98个",
           "url": "https://www.toutiao.com/trending/7642754817001226250/",
           "source": "今日头条",
@@ -919,26 +956,15 @@
           "time_info": "[19时15分 ~ 21时22分]"
         },
         {
-          "title": "解读世界格局的新全球化",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E4%B8%96%E7%95%8C%E6%A0%BC%E5%B1%80%E7%9A%84%E6%96%B0%E5%85%A8%E7%90%83%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "全球100个最热城市印度占98个",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83100%E4%B8%AA%E6%9C%80%E7%83%AD%E5%9F%8E%E5%B8%82%E5%8D%B0%E5%BA%A6%E5%8D%A098%E4%B8%AA",
           "source": "百度热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "土耳其总统埃尔多安：达成一项确保霍尔木兹海峡航行自由的协议，将有助于地区稳定并缓解全球经济压力。",
@@ -957,6 +983,18 @@
       "keyword_group": "投资",
       "match_count": 6,
       "titles": [
+        {
+          "title": "如何把握本轮“鱼尾行情”？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2380124",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
+        },
         {
           "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
           "url": "https://wallstreetcn.com/livenews/3108455",
@@ -983,26 +1021,16 @@
           "time_info": "[17时23分 ~ 19时15分]"
         },
         {
-          "title": "如何把握本轮“鱼尾行情”？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2380124",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "中信建投：迎接MLCC超级周期， 重视产业链投资机遇",
           "url": "https://flash.jin10.com/detail/20260524191845578800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时02分]"
         },
         {
           "title": "韩国将向外国投资者开放ETF和ETN交易",
