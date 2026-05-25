@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:57:56.050082+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-25T08:01:53.587992+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "特朗普一季度做了3711笔证券交易",
@@ -61,11 +62,12 @@
             28,
             17,
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -112,11 +114,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时57分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时01分]"
         },
         {
           "title": "特朗普告诉美方代表：不要急于达成协议",
@@ -165,6 +168,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "特朗普称美伊协议“未谈妥”",
+          "url": "https://www.douyin.com/hot/2511044",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
           "url": "https://flash.jin10.com/detail/20260525021837160800",
           "source": "金十数据",
@@ -196,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普称美伊协议未谈妥：封锁将持续",
+          "url": "https://www.toutiao.com/trending/7643602399059250731/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
@@ -208,11 +233,12 @@
           "url": "https://www.cls.cn/detail/2380075",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -223,8 +249,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -234,8 +260,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -245,14 +271,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "解读世界格局的新全球化",
@@ -264,8 +290,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "全球100个最热城市印度占98个",
@@ -277,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 02时04分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年5月25日",
+          "url": "https://flash.jin10.com/detail/20260525070719138800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
@@ -293,18 +330,30 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何把握本轮“鱼尾行情”？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2380124",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 08时01分]"
+        },
+        {
+          "title": "资金涌入成长风格ETF，韩国投资者积极买入中国标的",
+          "url": "https://wallstreetcn.com/livenews/3108561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
