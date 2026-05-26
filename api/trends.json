@@ -1,11 +1,161 @@
 {
-  "generated_at": "2026-05-27T03:20:54.422053+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-27T05:44:04.072076+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
+          "url": "https://flash.jin10.com/detail/20260527052251487800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
+          "url": "https://wallstreetcn.com/livenews/3109663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时44分]"
+        },
+        {
+          "title": "特朗普：内阁会议将由戴维营改至白宫举行",
+          "url": "https://wallstreetcn.com/livenews/3109658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "巴西参议员弗拉维奥·博尔索纳罗确认，他于当地时间周二在白宫会见了美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260527050312456800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "巴西联邦参议院议员博索纳罗（Flávio Bolsonaro）在美国白宫会见总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3109655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
+          "url": "https://flash.jin10.com/detail/20260527044831585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国与加拿大存在贸易争端，该国对特朗普的关税采取了报复措施。",
+          "url": "https://flash.jin10.com/detail/20260527043602723800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
+          "url": "https://wallstreetcn.com/livenews/3109650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对美国与墨西哥之间的贸易赤字表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260527043047760800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普对关税豁免计划不感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260527042055039800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
+          "url": "https://wallstreetcn.com/livenews/3109633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球爆单！抹茶出口暴涨700%",
@@ -15,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时44分]"
         },
         {
           "title": "美伊和谈预期升温，油价跳水，全球股市走强，泛欧股指六连涨，金银铜齐升",
@@ -28,6 +178,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 03时20分]"
+        },
+        {
+          "title": "玻璃基板竞赛升温，英特尔争夺全球首个量产席位",
+          "url": "https://wallstreetcn.com/articles/3773131",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时44分]"
+        },
+        {
+          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
+          "url": "https://www.cls.cn/detail/2381765",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时44分]"
         },
         {
           "title": "“战争金属”告急！美军弹药库存承压 美国正加速在全球寻找钨资源",
@@ -52,51 +225,61 @@
           "time_info": "00时42分"
         },
         {
-          "title": "玻璃基板竞赛升温，英特尔争夺全球首个量产席位",
-          "url": "https://wallstreetcn.com/articles/3773131",
-          "source": "华尔街见闻",
+          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
+          "url": "https://wallstreetcn.com/livenews/3109647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "05时44分"
         },
         {
-          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
-          "url": "https://www.cls.cn/detail/2381765",
-          "source": "财联社热门",
+          "title": "富时罗素：根据富时罗素的快速纳入规则，SpaceX似乎有资格被纳入富时美国股票指数系列及富时全球股票指数系列。",
+          "url": "https://flash.jin10.com/detail/20260527041734572800",
+          "source": "金十数据",
           "ranks": [
-            13
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "05时44分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "投资",
+      "match_count": 3,
       "titles": [
         {
-          "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237017",
-          "source": "澎湃新闻",
+          "title": "富时罗素指数公司批准修改IPO快速通道制度。 符合条件的快速纳入IPO将在初始上市后第五个交易日收盘后纳入。 可投资市值超过罗素美国前500大调整后总市值阈值的IPO将有资格快速纳入。 SpaceX将独立接受指数纳入审核。",
+          "url": "https://wallstreetcn.com/livenews/3109649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
+          "title": "富时罗素：可投资市值超过罗素美国前500大调整后总市值阈值的IPO将有资格快速纳入。",
+          "url": "https://flash.jin10.com/detail/20260527042429115800",
+          "source": "金十数据",
           "ranks": [
-            7
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "长周末归来，纽约可可期货持续上涨，目前涨9.8%刷新日高至4175美元；（伦敦上市的）可可期货也涨9.1%。 在可可豆产量存在风险之际，投资者加大空头回补的力度。",
+          "url": "https://wallstreetcn.com/livenews/3109540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -113,28 +296,12 @@
           "url": "https://www.zhihu.com/question/12005197517",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长周末归来，纽约可可期货持续上涨，目前涨9.8%刷新日高至4175美元；（伦敦上市的）可可期货也涨9.1%。 在可可豆产量存在风险之际，投资者加大空头回补的力度。",
-          "url": "https://wallstreetcn.com/livenews/3109540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 05时44分]"
         }
       ]
     }
