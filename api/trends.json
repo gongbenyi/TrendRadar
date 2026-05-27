@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:09:10.798989+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-27T11:37:16.533730+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -14,11 +14,23 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 07时09分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 11时37分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -139,7 +151,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -150,7 +162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -161,7 +173,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -183,7 +195,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -194,7 +206,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -205,7 +217,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -224,7 +236,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球爆单！抹茶出口暴涨700%",
@@ -300,7 +312,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -322,7 +334,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -347,12 +359,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "新西兰联储：中东冲突扰乱全球供应链。 贸易伙伴的通胀正在上升。 近期经济增长将放缓。 金融环境收紧。 委员会讨论了通胀前景面临的风险。 加息步伐将取决于价格与增长动态的对比。 中长期通胀压力的前景具有“不确定性”。 商业联络和调查显示，信心和支出表现更加疲软。",
+          "url": "https://wallstreetcn.com/livenews/3109768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "把股价涨跌暂时“藏”起来：险资买了银行买同行，做大股票投资压舱石",
@@ -361,7 +384,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -372,7 +395,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -383,7 +406,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -394,9 +417,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "5月27日投资避雷针：3连板人气股提示风险 MLCC产品营收占比未达1%",
+          "url": "https://www.cls.cn/detail/2382331",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "工具化投资成新宠，基金标签“失灵”引争议",
@@ -405,7 +439,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
