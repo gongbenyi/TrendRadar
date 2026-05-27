@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:02:44.691034+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-27T20:19:10.197414+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -16,11 +16,12 @@
             17,
             16,
             11,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 20时19分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -38,11 +39,23 @@
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -248,7 +261,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球爆单！抹茶出口暴涨700%",
@@ -279,7 +292,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -338,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "速腾聚创：第一季度登顶全球机器人领域3D激光雷达企业出货量第一",
+          "url": "https://flash.jin10.com/detail/20260527194834002800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "金十图示：2026年05月26日（周二）全球股市指数-欧洲市场",
@@ -401,7 +425,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -409,7 +433,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "把股价涨跌暂时“藏”起来：险资买了银行买同行，做大股票投资压舱石",
@@ -429,7 +453,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -467,6 +491,18 @@
           "time_info": "07时09分"
         },
         {
+          "title": "香港地区部分银行昨起开立投资账户需签署声明，确认“资金合法来源”",
+          "url": "https://www.cls.cn/detail/2382715",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 20时19分]"
+        },
+        {
           "title": "5月27日投资避雷针：3连板人气股提示风险 MLCC产品营收占比未达1%",
           "url": "https://www.cls.cn/detail/2382331",
           "source": "财联社热门",
@@ -490,24 +526,24 @@
           "time_info": "07时09分"
         },
         {
+          "title": "香港金管局：就内地投资者投资账户新增三项监管措施 开户核查倒查至2023年1月",
+          "url": "https://flash.jin10.com/detail/20260527194934145800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "中信证券发布A股下半年投资策略",
           "url": "https://www.cls.cn/detail/2382384",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "香港地区部分银行昨起开立投资账户需签署声明，确认“资金合法来源”",
-          "url": "https://www.cls.cn/detail/2382715",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -532,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "天岳先进：辽宁中德产业股权投资基金合伙企业(有限合伙)及其一致行动人持股比例降至6.83%",
+          "url": "https://flash.jin10.com/detail/20260527193606391800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "长周末归来，纽约可可期货持续上涨，目前涨9.8%刷新日高至4175美元；（伦敦上市的）可可期货也涨9.1%。 在可可豆产量存在风险之际，投资者加大空头回补的力度。",
