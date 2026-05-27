@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T11:37:16.533730+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-05-27T16:02:44.691034+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -15,11 +15,12 @@
             18,
             17,
             16,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 16时02分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -29,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -236,7 +248,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球爆单！抹茶出口暴涨700%",
@@ -259,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 03时20分]"
+        },
+        {
+          "title": "全球人形机器人约90%来自中国",
+          "url": "https://www.douyin.com/hot/2513855",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "玻璃基板竞赛升温，英特尔争夺全球首个量产席位",
@@ -367,15 +390,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "美国明尼阿波利斯联储主席尼尔·卡什卡利：目前美国通胀的风险高于劳动力市场恶化的风险，但两者都需关注。 美联储未来应采取中性政策展望。 自4月我投下反对票以来，美国公布的大部分数据都显示通胀风险在上升，而非下降。 （当被问及市场对10月加息的押注时）现在预测美联储下一次行动的时间还为时过早。 中东战争给全球带来的通胀冲击波可能会持续。 担忧全球通胀正在向债券市场传导。",
+          "url": "https://wallstreetcn.com/livenews/3109892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "把股价涨跌暂时“藏”起来：险资买了银行买同行，做大股票投资压舱石",
@@ -387,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "2026年FOMC票委、达拉斯联储主席洛根将于十分钟后参加日本央行金融研究院主办的小组会议；瑞士5月ZEW投资者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260527155000001800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "工具化投资成新宠，基金标签“失灵”引争议",
@@ -426,11 +471,12 @@
           "url": "https://www.cls.cn/detail/2382331",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 16时02分]"
         },
         {
           "title": "工具化投资成新宠，基金标签“失灵”引争议",
@@ -442,6 +488,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "中信证券发布A股下半年投资策略",
+          "url": "https://www.cls.cn/detail/2382384",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "香港地区部分银行昨起开立投资账户需签署声明，确认“资金合法来源”",
+          "url": "https://www.cls.cn/detail/2382715",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "富时罗素指数公司批准修改IPO快速通道制度。 符合条件的快速纳入IPO将在初始上市后第五个交易日收盘后纳入。 可投资市值超过罗素美国前500大调整后总市值阈值的IPO将有资格快速纳入。 SpaceX将独立接受指数纳入审核。",
