@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T18:01:14.783066+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-05-30T19:28:13.533591+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 18时01分]"
+          "appearance_count": 11,
+          "time_info": "[06时28分 ~ 19时28分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 18时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 19时28分]"
         },
         {
           "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
@@ -40,8 +40,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 18时01分]"
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 19时28分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 19时28分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时40分 ~ 19时28分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -55,6 +80,17 @@
           "time_info": "[01时37分 ~ 08时09分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "特朗普肖像纪念钞能流通吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
           "source": "bilibili 热搜",
@@ -64,30 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        },
-        {
-          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
-          "url": "https://www.cls.cn/detail/2385988",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 18时01分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 18时01分]"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -160,6 +172,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
+          "url": "https://wallstreetcn.com/livenews/3111801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "特朗普正式承认美国卫生部近期针对儿童疫苗做出的一项科学评估结果",
           "url": "https://wallstreetcn.com/livenews/3111659",
           "source": "华尔街见闻-快讯",
@@ -199,7 +222,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         },
@@ -306,7 +329,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美军将在驻日基地部署3架“全球鹰”无人侦察机",
@@ -342,8 +365,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 18时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 19时28分]"
         },
         {
           "title": "高盛测算全球原油库存逼近百日警戒线，可视库存预计仅剩 73 天需求量，这意味着什么？",
@@ -357,6 +380,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 08时09分]"
+        },
+        {
+          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 19时28分]"
         },
         {
           "title": "全球发展倡议主题研讨会聚焦服务贸易促进高质量发展",
@@ -393,15 +428,15 @@
           "time_info": "[17时59分 ~ 18时01分]"
         },
         {
-          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
-          "source": "澎湃新闻",
+          "title": "高志凯预测全球将爆发的危机",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E5%BF%97%E5%87%AF%E9%A2%84%E6%B5%8B%E5%85%A8%E7%90%83%E5%B0%86%E7%88%86%E5%8F%91%E7%9A%84%E5%8D%B1%E6%9C%BA&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
+          "time_info": "[19时27分 ~ 19时28分]"
         },
         {
           "title": "挪威首相：期待与中国在人工智能等全球性议题上加强沟通",
@@ -450,6 +485,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 08时09分]"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时28分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -493,8 +557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时52分 ~ 18时01分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 19时28分]"
         },
         {
           "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
@@ -506,24 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 08时09分]"
         }
       ]
     },
