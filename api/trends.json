@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T07:02:04.860180+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-03T11:54:59.812298+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -75,6 +75,18 @@
           "time_info": "01时21分"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 11时54分]"
+        },
+        {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
@@ -86,15 +98,37 @@
           "time_info": "01时21分"
         },
         {
-          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
-          "url": "https://wallstreetcn.com/articles/3773679",
-          "source": "华尔街见闻",
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
@@ -103,7 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -133,7 +167,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "我国光通信技术实现重要突破，全球首条三波段超低损耗多芯光缆线路正式开通",
@@ -176,9 +210,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "外资公募再增资，中国资产性价比吸引全球资金",
@@ -187,7 +232,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -201,6 +246,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260603110619048800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "中国三轮全球爆单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%BD%AE%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "欧洲央行：黄金替代美债成全球官方储备第一大资产",
@@ -217,7 +284,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "前4月农业投资同比增长14.5%",
@@ -227,8 +294,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 11时54分]"
+        },
+        {
+          "title": "6月3日投资避雷针：世界气象组织报告显示 本轮厄尔尼诺将至少发展成中等强度事件",
+          "url": "https://www.cls.cn/detail/2389043",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美国稀土公司将在南卡罗来纳州投资12亿美元建厂 以提高产量",
@@ -248,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -259,7 +337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -296,11 +374,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 11时54分]"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -328,8 +407,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3113311",
@@ -337,7 +427,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
