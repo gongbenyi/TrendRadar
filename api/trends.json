@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T16:20:26.613564+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-06-04T19:52:24.547284+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 19时52分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -32,6 +33,18 @@
           "time_info": "[07时42分 ~ 16时20分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 19时52分]"
+        },
+        {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
           "url": "https://news.ifeng.com/c/8ter8XhY8eS",
           "source": "凤凰网",
@@ -42,17 +55,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时22分 ~ 07时42分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时20分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -100,6 +102,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "美、布两油短线下跌近1美元，此前特朗普发文称美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://flash.jin10.com/detail/20260604192450276800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
           "url": "https://wallstreetcn.com/livenews/3113962",
           "source": "华尔街见闻-快讯",
@@ -109,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "特朗普斥众议院投票：宁愿国家失败也不让我再赢一次",
+          "url": "https://flash.jin10.com/detail/20260604192337351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
@@ -213,6 +237,17 @@
           "time_info": "[11时48分 ~ 11时49分]"
         },
         {
+          "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://wallstreetcn.com/livenews/3114408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "【特朗普称与伊朗谈判进展“非常顺利”】美国总统特朗普表示，与伊朗的谈判进展非常顺利，新一轮谈判可能在本周末举行。一旦协议签署后，霍尔木兹海峡将立即重新开放。 特朗普称，如果伊朗签署了协议，那就意味着他们已承诺绝不拥有核武器，绝不自行研发，也绝不从外部购买。特朗普称，最初的协议草案中只规定了“不自行研发”这一项，并没有“绝不从外部购买”。这个问题引发了长达两周的谈判，但最终美国把这一条也加了进去。只要伊朗签署那份文件，协议便正式生效。特朗普表示，理论上讲，“他们距离签署协议已经非常接近了”。 在谈及伊朗浓缩铀问题时，特朗普表示，“将在不久的将来拿到它”。 特朗普称，“我们完全可以再耗上两三周，把对方彻底消灭。但我宁愿不那样做。”他表示，如果能通过书面协议达成同样的目标，且无需造成大规模杀伤，那他更倾向于选择这种方式。 特朗普还表示，正在尝试将霍尔木兹海峡的开放问题与黎巴嫩的战事问题区分处理。特朗普称，他们有史以来第一次与黎真主党进行了对话，前一天已达成共识：他们不会攻击以色列，以色列也不会攻击他们。（央视）",
           "url": "https://wallstreetcn.com/livenews/3114023",
           "source": "华尔街见闻-快讯",
@@ -222,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在进行最后谈判以结束伊朗战争。",
+          "url": "https://flash.jin10.com/detail/20260604191540995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "特朗普称内塔尼亚胡是“伟大的伙伴”",
@@ -244,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普：众议院对战争权力的投票毫无意义。",
+          "url": "https://flash.jin10.com/detail/20260604191441978800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美国国务卿卢比奥：总统特朗普将参加下周的北约（NATO）首脑会议。",
@@ -356,6 +413,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "据俄新社：俄罗斯德米特里耶夫表示，俄罗斯本周将与美国总统特使威特科夫和特朗普女婿库什纳进行接触。",
+          "url": "https://flash.jin10.com/detail/20260604190629338800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "特朗普称美伊协议可能在本周末达成",
           "url": "https://flash.jin10.com/detail/20260604060822313800",
           "source": "金十数据",
@@ -392,7 +460,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "气候临界点加速逼近：从印度热浪看全球极端高温的严峻现实",
@@ -418,13 +486,35 @@
           "time_info": "[11时48分 ~ 16时20分]"
         },
         {
+          "title": "阿波罗全球管理公司总裁泽尔特：不认为通胀会影响市场基本面。",
+          "url": "https://flash.jin10.com/detail/20260604192504290800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "商务部：美滥用出口管制冲击全球半导体产供链稳定",
+          "url": "https://www.cls.cn/detail/2390673",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "新宙邦：公司氟化液产品已在全球主要半导体FAB厂量产使用",
           "url": "https://flash.jin10.com/detail/20260604155253825800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -438,8 +528,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 19时52分]"
         },
         {
           "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
@@ -451,6 +541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 05时48分]"
+        },
+        {
+          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
+          "url": "https://www.cls.cn/detail/2390391",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 19时52分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年6月4日",
@@ -475,15 +577,15 @@
           "time_info": "11时49分"
         },
         {
-          "title": "全球央妈4月重新“扫货”黄金：波兰蝉联最大买家 中国央行18连增",
-          "url": "https://www.cls.cn/detail/2390391",
-          "source": "财联社热门",
+          "title": "阿波罗全球管理公司总裁泽尔特：全球长期债券短缺。",
+          "url": "https://flash.jin10.com/detail/20260604191515162800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "19时52分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：全球霸权体系建立了一个名为“以色列”的军事基地，伊朗不会在对“以色列”的立场上退缩。",
@@ -492,7 +594,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -506,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "欧洲央行称黄金替代美债成全球官方储备第一大资产，黄金占比升至 27%，美债占比降至 22%，如何解读？",
+          "url": "https://www.zhihu.com/question/2045468542531851848",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "全球首个万亿美元ETF诞生",
@@ -525,7 +638,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -536,7 +649,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -547,7 +660,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -561,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "SpaceX：已申请将A类普通股在纳斯达克全球精选市场及纳斯达克得克萨斯交易所挂牌上市，股票代码为SPCX。",
+          "url": "https://flash.jin10.com/detail/20260604190759480800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.143吨，当前持仓量为1026.857吨。",
@@ -580,7 +704,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -599,8 +723,19 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "《国务院关于对外投资的规定》对投资者有何影响？商务部回应",
+          "url": "https://wallstreetcn.com/livenews/3114414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
         {
           "title": "美联储沃什接手“双面经济”：投资热遇上消费冷，通胀压力持续攀升",
           "url": "https://flash.jin10.com/detail/20260604071746054800",
@@ -637,6 +772,28 @@
           "time_info": "[02时22分 ~ 07时42分]"
         },
         {
+          "title": "深圳：要在新型基础设施规划建设上谋项目强投资，加快算力网、新一代通信网等建设",
+          "url": "https://wallstreetcn.com/livenews/3114402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "SpaceX：散户投资者将能够以与大型机构相同的价格参与。预计SpaceX每股价格为135美元。 拟授予承销商30天期权，可额外购买最多83,333,333股A类普通股。 已启动555,555,555股A类普通股的首次公开募股（IPO）路演。 已申请将其A类普通股在纳斯达克全球精选市场和纳斯达克德克萨斯上市，股票代码为“SPCX”。 高盛、摩根士丹利、美银证券、花旗、摩根大通、巴克莱及其他公司将担任本次发行的账簿管理人。",
+          "url": "https://wallstreetcn.com/livenews/3114401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "投资长鑫科技与宇树科技，险资“耐心资本”布棋新质生产力",
           "url": "https://wallstreetcn.com/livenews/3114047",
           "source": "华尔街见闻-快讯",
@@ -659,6 +816,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "深圳：要在新型基础设施规划建设上谋项目强投资，加快算力网、新一代通信网等建设",
+          "url": "https://flash.jin10.com/detail/20260604190804044800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "美联储洛根：由于美墨加协定（USMCA）即将进入谈判阶段，边境地区的投资活动已经放缓。",
           "url": "https://flash.jin10.com/detail/20260604044709435800",
           "source": "金十数据",
@@ -668,13 +836,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "SpaceX：散户投资者将能够以与大型机构投资者相同的价格参与本次发行。预计发行价为每股135美元。",
+          "url": "https://flash.jin10.com/detail/20260604190718473800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 19时52分]"
+        },
         {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
           "url": "https://wallstreetcn.com/livenews/3114177",
@@ -687,18 +879,6 @@
           "time_info": "11时49分"
         },
         {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 16时20分]"
-        },
-        {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
           "url": "https://flash.jin10.com/detail/20260604051716270800",
           "source": "金十数据",
@@ -708,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
