@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T10:56:14.343628+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-06-06T14:32:04.727988+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
-          "url": "https://wallstreetcn.com/livenews/3115408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -130,6 +119,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时32分]"
         },
         {
           "title": "美国总统特朗普：加拿大苛刻地对待美国农民。",
@@ -263,7 +264,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -345,6 +346,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
           "url": "https://flash.jin10.com/detail/20260606053657743800",
           "source": "金十数据",
@@ -417,7 +429,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -450,7 +462,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -483,7 +495,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -538,7 +550,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -568,8 +580,19 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "我国造船业再创全球新纪录",
+          "url": "https://www.toutiao.com/trending/7648101106039508531/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时32分]"
+        },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
           "url": "https://wallstreetcn.com/articles/3773915",
@@ -583,28 +606,41 @@
           "time_info": "[01时53分 ~ 07时07分]"
         },
         {
-          "title": "我国造船业再创全球新纪录",
-          "url": "https://www.toutiao.com/trending/7648101106039508531/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
           "title": "《给阿嬷的情书》启动全球上映，6月18日起登陆新加坡等地",
           "url": "https://m.thepaper.cn/newsDetail_forward_33316707",
           "source": "澎湃新闻",
           "ranks": [
             15,
             14,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 10时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 14时32分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
+          "title": "全球资产崩跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E5%B4%A9%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时32分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -653,17 +689,6 @@
           "time_info": "[01时53分 ~ 03时52分]"
         },
         {
-          "title": "全球资产崩跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E5%B4%A9%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
           "title": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞，就践行全球治理倡议提出四点建议",
           "url": "https://wallstreetcn.com/livenews/3115279",
           "source": "华尔街见闻-快讯",
@@ -684,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://wallstreetcn.com/livenews/3115413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "日媒：全球纯电动汽车销量激增",
@@ -756,22 +792,24 @@
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 14时32分]"
         },
         {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
           "url": "https://wallstreetcn.com/livenews/3115400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 14时32分]"
         },
         {
           "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
@@ -780,7 +818,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -802,7 +840,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -810,7 +848,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全面加强监管！国务院办公厅：建立私募基金风险集中监测平台，严控新设政府投资基金",
@@ -818,11 +856,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时07分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 14时32分]"
+        },
+        {
+          "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
+          "url": "https://flash.jin10.com/detail/20260606133259268800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
@@ -839,7 +889,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -851,6 +901,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 07时07分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
         }
       ]
     },
@@ -865,7 +926,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
