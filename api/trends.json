@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T14:32:04.727988+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-06-06T17:25:40.198260+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时55分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -192,6 +203,18 @@
           "time_info": "[05时25分 ~ 07时07分]"
         },
         {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
           "url": "https://flash.jin10.com/detail/20260606060212679800",
           "source": "金十数据",
@@ -344,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "美国总统特朗普：（经济）增长实际上会遏制通胀。",
@@ -580,7 +592,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "我国造船业再创全球新纪录",
@@ -624,11 +636,12 @@
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 17时25分]"
         },
         {
           "title": "全球资产崩跌",
@@ -689,6 +702,17 @@
           "time_info": "[01时53分 ~ 03时52分]"
         },
         {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦：将俄罗斯排除在全球石油供应链之外是不可能的。",
+          "url": "https://flash.jin10.com/detail/20260606164625135800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞，就践行全球治理倡议提出四点建议",
           "url": "https://wallstreetcn.com/livenews/3115279",
           "source": "华尔街见闻-快讯",
@@ -717,7 +741,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -733,6 +757,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "俄罗斯石油公司Rosneft CEO谢钦警告称，霍尔木兹海峡关闭后，全球其他航道，如马六甲海峡、巴布曼德海峡和直布罗陀海峡，也可能面临中断威胁。",
+          "url": "https://flash.jin10.com/detail/20260606160138308800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
           "url": "https://wallstreetcn.com/livenews/3115328",
           "source": "华尔街见闻-快讯",
@@ -742,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官谢钦：无法将俄罗斯排除在全球石油供应链之外。",
+          "url": "https://flash.jin10.com/detail/20260606154047951800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -848,7 +894,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "全面加强监管！国务院办公厅：建立私募基金风险集中监测平台，严控新设政府投资基金",
@@ -860,8 +906,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时07分 ~ 17时25分]"
         },
         {
           "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
@@ -870,9 +916,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
+          "url": "https://www.cls.cn/detail/2392651",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "证监会主席：始终注重投资者利益优先",
+          "url": "https://www.toutiao.com/trending/7648169696647266347/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
@@ -907,11 +975,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 17时25分]"
         }
       ]
     },
