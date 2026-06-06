@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-06T21:28:55.397237+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-06-06T23:14:17.307840+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 23时14分]"
+        },
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
           "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时55分 ~ 14时32分]"
-        },
-        {
-          "title": "特朗普“官宣”：我和马斯克又成朋友了",
-          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
@@ -313,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进展顺利。",
@@ -579,6 +601,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普：我很高兴地宣布提名斯图尔特·纳什担任哥伦比亚特区上诉法院法官。",
           "url": "https://flash.jin10.com/detail/20260606090506851800",
           "source": "金十数据",
@@ -637,8 +670,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 23时14分]"
         },
         {
           "title": "我国造船业再创全球新纪录",
@@ -684,9 +717,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "全球资产崩跌",
@@ -710,6 +743,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 05时25分]"
+        },
+        {
+          "title": "世界杯“一瓶水”引发全球争议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E4%B8%80%E7%93%B6%E6%B0%B4%E2%80%9D%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时14分]"
         },
         {
           "title": "美国疯狂全球抢铜",
@@ -767,17 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "世界杯“一瓶水”引发全球争议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E4%B8%80%E7%93%B6%E6%B0%B4%E2%80%9D%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）全球股市指数-美洲市场",
@@ -953,6 +987,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
+          "url": "https://www.cls.cn/detail/2392651",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 23时14分]"
+        },
+        {
           "title": "全面加强监管！国务院办公厅：建立私募基金风险集中监测平台，严控新设政府投资基金",
           "url": "https://wallstreetcn.com/articles/3773965",
           "source": "华尔街见闻",
@@ -964,19 +1012,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时07分 ~ 17时25分]"
-        },
-        {
-          "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
-          "url": "https://www.cls.cn/detail/2392651",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 21时28分]"
         },
         {
           "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
@@ -1028,8 +1063,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 23时14分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -1046,8 +1081,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金饰价格跌去约21% 黄金还能买吗",
+          "url": "https://www.toutiao.com/trending/7648263144199949867/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
         {
           "title": "金饰价格跌回2025年 专家建议：黄金占资产配比10%",
           "url": "https://flash.jin10.com/detail/20260606092732683800",
