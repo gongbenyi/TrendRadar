@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:25:29.717811+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-06T21:28:55.397237+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -243,7 +244,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -496,7 +497,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -617,7 +618,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -625,8 +626,20 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 21时28分]"
+        },
         {
           "title": "我国造船业再创全球新纪录",
           "url": "https://www.toutiao.com/trending/7648101106039508531/",
@@ -651,18 +664,6 @@
           "time_info": "[01时53分 ~ 07时07分]"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时25分]"
-        },
-        {
           "title": "《给阿嬷的情书》启动全球上映，6月18日起登陆新加坡等地",
           "url": "https://m.thepaper.cn/newsDetail_forward_33316707",
           "source": "澎湃新闻",
@@ -675,6 +676,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时53分 ~ 14时32分]"
+        },
+        {
+          "title": "我国造船业再创全球新纪录",
+          "url": "https://www.douyin.com/hot/2525596",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "全球资产崩跌",
@@ -755,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "世界杯“一瓶水”引发全球争议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E4%B8%80%E7%93%B6%E6%B0%B4%E2%80%9D%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）全球股市指数-美洲市场",
@@ -948,11 +971,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时28分]"
         },
         {
           "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
@@ -994,6 +1018,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 21时28分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -1003,19 +1041,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 07时07分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时25分]"
         }
       ]
     },
