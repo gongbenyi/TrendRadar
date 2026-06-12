@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-12T22:10:32.334829+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-06-13T01:37:33.473383+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 18时09分]"
-        },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
           "url": "https://wallstreetcn.com/articles/3774389",
@@ -27,706 +15,80 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
           "url": "https://wallstreetcn.com/articles/3774457",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 22时10分]"
-        },
-        {
-          "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
-          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 13时48分]"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 13时48分]"
-        },
-        {
-          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
-          "url": "https://wallstreetcn.com/articles/3774371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时19分]"
-        },
-        {
-          "title": "美国总统特朗普：我的总统任期是历史上最成功的之一。",
-          "url": "https://flash.jin10.com/detail/20260612075139887800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "01时37分"
         },
         {
-          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
-          "url": "https://news.ifeng.com/c/8tso5G96e80",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
-          "url": "https://news.ifeng.com/c/8ttDG767op3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
-          "url": "https://wallstreetcn.com/livenews/3118418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://news.ifeng.com/c/8tsig3GUtRk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "美国上诉法院放行特朗普的10%关税政策 后续或再上最高法院",
-          "url": "https://flash.jin10.com/detail/20260612074520011800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普急得要命，伊朗那边却“信号不好”：美伊谈判卡在“人肉快递”",
-          "url": "https://flash.jin10.com/detail/20260612133053435800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "特朗普称伊朗袭击印度船只不可接受",
-          "url": "https://wallstreetcn.com/livenews/3118943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
+          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3119021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普：今天结束了与伊朗的战争。",
-          "url": "https://wallstreetcn.com/livenews/3118447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2397555",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时19分]"
-        },
-        {
-          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
-          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时19分]"
+          "time_info": "01时37分"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时10分]"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 08时19分]"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "特朗普取消对伊朗“猛烈打击”",
-          "url": "https://www.toutiao.com/trending/7650278567816728102/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普称取消对伊猛烈打击 伊朗回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E4%BC%8A%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB+%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "市场消息：卡塔尔埃米尔与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260612030527728800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3118442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普欲“抹除”两次弹劾记录 专家指此程序仅有象征意义",
-          "url": "https://flash.jin10.com/detail/20260612070859759800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
-          "url": "https://flash.jin10.com/detail/20260612070155257800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "01时37分"
         },
         {
-          "title": "特朗普称伊媒发布的美伊协议草案与事实不符",
-          "url": "https://wallstreetcn.com/livenews/3118933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "特朗普：伊朗向“假新闻”泄露的条款与书面达成的协议条款毫无关系",
-          "url": "https://flash.jin10.com/detail/20260612214711731800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "特朗普：伊朗对协议的说法与事实完全不符。 伊朗最好行动起来，赶紧行动。 媒体报道的伊朗条款与已达成的协议条款毫无关系。 伊朗袭击印度船只不可接受。 跟他们打交道完全没有诚意可言。",
-          "url": "https://wallstreetcn.com/livenews/3118931",
+          "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3119010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "美国国债收益率创下日内新高，此前美国总统特朗普对伊朗问题发表评论。",
-          "url": "https://flash.jin10.com/detail/20260612214614851800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
-          "url": "https://wallstreetcn.com/livenews/3118352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
-          "url": "https://wallstreetcn.com/livenews/3118400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "伊媒嘲讽特朗普再次TACO",
-          "url": "https://flash.jin10.com/detail/20260612024640276800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "专家：特朗普试图从伊朗战略灾难中寻找“体面退路”",
-          "url": "https://flash.jin10.com/detail/20260612171932020800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及伊朗）他们昨晚对离开霍尔木兹海峡的印度船只发动的无人机袭击是完全不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260612214332798800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "特朗普提名原SEC主席为美国国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3118350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
-          "url": "https://wallstreetcn.com/livenews/3118398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
-          "url": "https://flash.jin10.com/detail/20260612064649190800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普政府将就法官叫停10万美元H-1B签证费的裁决提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3118297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3118348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯” 以总理“猝不及防”",
-          "url": "https://wallstreetcn.com/livenews/3118751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
-          "url": "https://flash.jin10.com/detail/20260612064451567800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗泄露给假新闻的条款与书面达成的条款毫无关系。与他们打交道，根本不存在诚信可言。伊朗最好迅速采取行动。",
-          "url": "https://flash.jin10.com/detail/20260612214145573800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
-          "url": "https://wallstreetcn.com/livenews/3118346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "特朗普先打再谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%89%93%E5%86%8D%E8%B0%88%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "特朗普称伊朗各方均已批准美伊协议",
-          "url": "https://flash.jin10.com/detail/20260612042328842800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3118394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
-          "url": "https://flash.jin10.com/detail/20260612042246303800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
-          "url": "https://wallstreetcn.com/livenews/3118393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "分析人士：称特朗普声明并未改变局势",
-          "url": "https://flash.jin10.com/detail/20260612023118594800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普结束白宫讲话。",
-          "url": "https://flash.jin10.com/detail/20260612042139765800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
-          "url": "https://wallstreetcn.com/livenews/3118342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
-          "url": "https://wallstreetcn.com/livenews/3118340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
-          "url": "https://wallstreetcn.com/livenews/3118338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
-          "title": "全国铁路完成固定资产投资2485亿元",
-          "url": "https://www.toutiao.com/trending/7650414204134034954/",
-          "source": "今日头条",
+          "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
+          "url": "https://www.cls.cn/detail/2398745",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "中国人民银行：将个人投资人认购大额存单起点金额降至不低于20万元人民币",
-          "url": "https://wallstreetcn.com/livenews/3118790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "一文读懂“SpaceX首秀”：今晚投资者将如何见证历史？",
-          "url": "https://www.cls.cn/detail/2397956",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 18时09分]"
+          "time_info": "01时37分"
         },
         {
           "title": "1至5月全国铁路完成投资2485亿元",
@@ -735,77 +97,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "SpaceX上市引爆杠杆投资热潮，多家机构火速推出2倍做多和做空ETF",
-          "url": "https://www.cls.cn/detail/2398247",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时10分]"
-        },
-        {
-          "title": "Deltec资产管理公司专注于新兴市场股票的投资组合经理Greg Lesko：市场感觉到我们终于接近这场（与伊朗相关的）冲突的尾声了，无论是如目前预期的那样达成协议，还是继续轰炸。 魔鬼藏在细节中，而我们目前还没看到这些细节。",
-          "url": "https://wallstreetcn.com/livenews/3118416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "纽约联储：公开市场交易台计划于6月12日至7月13日期间进行约165亿美元的再投资购买操作。",
-          "url": "https://flash.jin10.com/detail/20260612031114652800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "独家|能源巨头战略延伸？宁德时代首次投资核聚变企业 为何“花落”贝塔聚变",
-          "url": "https://www.cls.cn/detail/2397280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时02分]"
-        },
-        {
-          "title": "美联储披露6-7月短期国债（T-Bill）购买计划。 将购买100亿美元债券用于储备金管理。 将购买165亿美元债券用于抵押贷款支持证券（MBS）再投资。",
-          "url": "https://wallstreetcn.com/livenews/3118365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2397810",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时37分"
         },
         {
           "title": "央行征求意见：将个人投资人认购大额存单起点金额降至不低于20万元",
@@ -814,140 +108,16 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场资产下降至7.87万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3118359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "资深做空投资者、Chanos & Co.创始人查诺斯：牛市会给前景赋予溢价。熊市会给现实打折。现在我们显然处在前一种市场当中。",
-          "url": "https://wallstreetcn.com/livenews/3118305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "SpaceX IPO据悉吸引了超过3500亿美元的总需求。SpaceX IPO据悉吸引了超过2500亿美元的机构认购。SpaceX据悉将20%份额分配给散户投资者。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3118932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "深圳水贝金饰克价下探至1060元、北京投资金柜台前排长队，黄金市场销量回升",
-          "url": "https://wallstreetcn.com/livenews/3118580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "韩国投资者爆买中国资产",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E7%88%86%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "SpaceX股东Ark投资看好轨道数据中心，预计可带来3000亿美元收益",
-          "url": "https://wallstreetcn.com/livenews/3118399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
-          "url": "https://wallstreetcn.com/livenews/3118433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "做强“长钱”引擎，长期资金投资基金行业比例提升至7.6%",
-          "url": "https://wallstreetcn.com/livenews/3118429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "原料涨价助推 全球六氟化钨供给持续收紧 新增产能短期或难释放",
-          "url": "https://www.cls.cn/detail/2397862",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 18时09分]"
-        },
-        {
-          "title": "中国有望引领全球6G部署",
-          "url": "https://www.douyin.com/hot/2531444",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时35分 ~ 13时48分]"
-        },
         {
           "title": "中国农机驶向全球",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E9%A9%B6%E5%90%91%E5%85%A8%E7%90%83",
@@ -955,222 +125,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "01时37分"
         },
         {
           "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
           "url": "https://wallstreetcn.com/articles/3774485",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时10分]"
-        },
-        {
-          "title": "世界杯补水时间被全球吐槽",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A1%A5%E6%B0%B4%E6%97%B6%E9%97%B4%E8%A2%AB%E5%85%A8%E7%90%83%E5%90%90%E6%A7%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "世界杯补水时间被全球吐槽",
-          "url": "https://www.toutiao.com/trending/7650053131720654898/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
-          "title": "研究显示全球变暖主因是人类活动",
-          "url": "https://flash.jin10.com/detail/20260612132433188800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/3118403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年6月12日",
-          "url": "https://flash.jin10.com/detail/20260612065952078800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3118922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1013.640吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260612062549871800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "CoreWeave加入云计算巨头们于全球债务市场融资的步伐，将首次尝试发行欧元债券。 该公司考虑在美国和欧洲债券市场发行等同于35.5亿美元的债券，其中包括欧元计价的垃圾债（高收益率债券），（最近讨论的）两者的收益率分别介于8.50%-8.75%和大约9.75%。 目前，欧元债已经获得超过70亿欧元认购。",
-          "url": "https://wallstreetcn.com/livenews/3118290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1.96%。",
-          "url": "https://wallstreetcn.com/livenews/3118388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic已讨论相关安排，由谷歌为其部分租赁义务提供财务担保。Anthropic已与多家美国开发商签署十余份意向书，计划租赁数据中心设施。",
-          "url": "https://flash.jin10.com/detail/20260612003239087800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据The Information：Anthropic正寻求签署首批数据中心租赁协议，并向谷歌(GOOG.O)寻求资金支持。",
-          "url": "https://flash.jin10.com/detail/20260612003149002800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶部门Waymo面向出行请求频率最高的人员首发每个月30美元的订阅服务。",
-          "url": "https://wallstreetcn.com/livenews/3118311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "谷歌：还在倡导联邦立法，以使网络犯罪保护措施永久化。",
-          "url": "https://flash.jin10.com/detail/20260612170709263800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 13时48分]"
-        },
-        {
-          "title": "OpenAI将收购Ona 强化Codex代理能力",
-          "url": "https://flash.jin10.com/detail/20260612003612955800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
-          "url": "https://flash.jin10.com/detail/20260612003327546800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
-          "url": "https://www.cls.cn/detail/2397742",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "01时37分"
         }
       ]
     },
@@ -1183,12 +151,11 @@
           "url": "https://www.zhihu.com/question/2031303606524186735",
           "source": "知乎",
           "ranks": [
-            11,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时08分 ~ 22时10分]"
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     }
