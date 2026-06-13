@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-06-14T05:14:54.634590+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-14T07:03:53.263519+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
+          "url": "https://flash.jin10.com/detail/20260614051019663800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
         {
           "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
           "url": "https://flash.jin10.com/detail/20260614045258501800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
+          "url": "https://flash.jin10.com/detail/20260614025927509800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 07时03分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -31,16 +67,15 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
-          "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
-          "url": "https://flash.jin10.com/detail/20260614025927509800",
-          "source": "金十数据",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            17
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -67,28 +102,6 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
-          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3119171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
-        },
-        {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
           "url": "https://wallstreetcn.com/livenews/3119159",
           "source": "华尔街见闻-快讯",
@@ -96,8 +109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "美媒细数特朗普曾39次说与伊朗谈好",
@@ -107,8 +120,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -219,7 +232,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "全球首条百万片级体全息光波导自动化产线在天津投产",
@@ -229,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
@@ -267,6 +280,19 @@
           "time_info": "[01时21分 ~ 03时23分]"
         },
         {
+          "title": "全球艾滋病应对正进入危险时刻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%89%BE%E6%BB%8B%E7%97%85%E5%BA%94%E5%AF%B9%E6%AD%A3%E8%BF%9B%E5%85%A5%E5%8D%B1%E9%99%A9%E6%97%B6%E5%88%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
           "title": "如何 2026 年中国企业全球影响力中米哈游排名第 50 名？",
           "url": "https://www.zhihu.com/question/2049185744908989704",
           "source": "知乎",
@@ -280,27 +306,27 @@
           "time_info": "[01时21分 ~ 05时14分]"
         },
         {
-          "title": "全球艾滋病应对正进入危险时刻",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%89%BE%E6%BB%8B%E7%97%85%E5%BA%94%E5%AF%B9%E6%AD%A3%E8%BF%9B%E5%85%A5%E5%8D%B1%E9%99%A9%E6%97%B6%E5%88%BB%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
-        },
-        {
           "title": "界面财联社“2026中国企业全球影响力对话”勾勒出海新蓝图 共建生态让企业“出海选择上海”",
           "url": "https://www.cls.cn/detail/2398979",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 07时03分]"
+        },
+        {
+          "title": "印度真能成为全球第四大经济体吗",
+          "url": "https://www.toutiao.com/trending/7650834468629909035/",
+          "source": "今日头条",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "07时03分"
         }
       ]
     },
@@ -309,17 +335,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
-          "url": "https://www.cls.cn/detail/2398745",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
-        },
-        {
           "title": "“投资中国”德国企业圆桌会在德国举行",
           "url": "https://wallstreetcn.com/livenews/3119170",
           "source": "华尔街见闻-快讯",
@@ -327,8 +342,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
+        },
+        {
+          "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
+          "url": "https://www.cls.cn/detail/2398745",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "投资772亿工程开工仪式不到15分钟",
@@ -337,11 +364,12 @@
           "ranks": [
             18,
             9,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         },
         {
           "title": "股神巴菲特的投资厉害在哪里？",
@@ -370,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 07时03分]"
         }
       ]
     }
