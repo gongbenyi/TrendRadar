@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:13:58.796126+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-06-13T21:56:04.537268+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -55,6 +55,18 @@
           "time_info": "[01时37分 ~ 13时20分]"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 21时56分]"
+        },
+        {
           "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3119021",
           "source": "华尔街见闻-快讯",
@@ -77,16 +89,15 @@
           "time_info": "[01时37分 ~ 08时19分]"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时56分]"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
@@ -149,15 +160,26 @@
           "time_info": "[13时19分 ~ 13时20分]"
         },
         {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "21时56分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
@@ -180,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
+          "url": "https://flash.jin10.com/detail/20260613203149483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
@@ -242,8 +275,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时37分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时37分 ~ 21时56分]"
+        },
+        {
+          "title": "投资772亿工程开工仪式不到15分钟",
+          "url": "https://www.toutiao.com/trending/7650146869192146985/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 21时56分]"
         },
         {
           "title": "1至5月全国铁路完成投资2485亿元",
@@ -255,18 +300,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时37分 ~ 08时19分]"
-        },
-        {
-          "title": "投资772亿工程开工仪式不到15分钟",
-          "url": "https://www.toutiao.com/trending/7650146869192146985/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 19时13分]"
         },
         {
           "title": "央行征求意见：将个人投资人认购大额存单起点金额降至不低于20万元",
@@ -288,7 +321,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -297,11 +330,12 @@
           "url": "https://wallstreetcn.com/livenews/3119141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 21时56分]"
         },
         {
           "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
@@ -310,7 +344,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -321,7 +355,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -332,7 +366,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -342,6 +376,18 @@
       "keyword_group": "全球",
       "match_count": 8,
       "titles": [
+        {
+          "title": "如何评价 Claude Fable 5 全球暂停访问？",
+          "url": "https://www.zhihu.com/question/2049072203191342205",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时19分 ~ 21时56分]"
+        },
         {
           "title": "中国农机驶向全球",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9C%BA%E9%A9%B6%E5%90%91%E5%85%A8%E7%90%83",
@@ -354,16 +400,17 @@
           "time_info": "[01时37分 ~ 08时19分]"
         },
         {
-          "title": "如何评价 Claude Fable 5 全球暂停访问？",
-          "url": "https://www.zhihu.com/question/2049072203191342205",
-          "source": "知乎",
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            1
+            8,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时19分 ~ 19时13分]"
+          "time_info": "[16时56分 ~ 21时56分]"
         },
         {
           "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
@@ -402,18 +449,6 @@
           "time_info": "[06时24分 ~ 08时19分]"
         },
         {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 19时13分]"
-        },
-        {
           "title": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列。",
           "url": "https://wallstreetcn.com/livenews/3119079",
           "source": "华尔街见闻-快讯",
@@ -440,6 +475,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 13时20分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -453,24 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 13时20分]"
         }
       ]
     }
