@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T12:04:56.397676+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-06-15T18:54:28.284459+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -75,6 +75,18 @@
           "time_info": "[01时19分 ~ 07时08分]"
         },
         {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 18时54分]"
+        },
+        {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
           "url": "https://flash.jin10.com/detail/20260615043754149800",
           "source": "金十数据",
@@ -99,6 +111,17 @@
           "time_info": "[03时24分 ~ 07时08分]"
         },
         {
+          "title": "特朗普称将允许伊朗进行低水平铀浓缩",
+          "url": "https://news.ifeng.com/c/8tyryak6dFQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
           "url": "https://flash.jin10.com/detail/20260615043701037800",
           "source": "金十数据",
@@ -121,15 +144,15 @@
           "time_info": "01时20分"
         },
         {
-          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
-          "url": "https://wallstreetcn.com/articles/3774634",
-          "source": "华尔街见闻",
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "18时54分"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
@@ -192,6 +215,18 @@
           "time_info": "[03时24分 ~ 05时11分]"
         },
         {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 18时54分]"
+        },
+        {
           "title": "特朗普称美伊协议完成",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%AE%8C%E6%88%90&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -209,7 +244,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -220,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -302,13 +337,24 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普称将允许伊朗进行低水平铀浓缩",
+          "url": "https://wallstreetcn.com/livenews/3119628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
           "url": "https://www.cls.cn/detail/2399494",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -322,17 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时04分"
         },
         {
           "title": "俄总统助理：特朗普告知俄方美伊谈判取得可接受结果",
@@ -374,7 +409,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -399,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -500,6 +546,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-15）",
+          "url": "https://flash.jin10.com/detail/20260615180514262800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
           "url": "https://flash.jin10.com/detail/20260615013436769800",
           "source": "金十数据",
@@ -514,7 +571,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -552,6 +609,17 @@
           "time_info": "[01时19分 ~ 12时04分]"
         },
         {
+          "title": "全球欢庆美伊达成协议？分析师“泼冷水”：还没正式签署，生变只在一瞬间！",
+          "url": "https://www.cls.cn/detail/2399718",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "“慢镜头下的悲剧”：中东局势冲击全球农业，南半球正受严重威胁",
           "url": "https://m.thepaper.cn/newsDetail_forward_33377947",
           "source": "澎湃新闻",
@@ -564,13 +632,24 @@
           "time_info": "[07时07分 ~ 12时04分]"
         },
         {
+          "title": "全球 AI “黑马神话”一夜反转，被指套壳阿里千问",
+          "url": "https://wallstreetcn.com/livenews/3119612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "金十图示：2026年06月15日（周一）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260615111829391800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -581,7 +660,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -592,7 +671,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -603,9 +682,59 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "赛分科技：拟投资3亿元建设规模化蛋白生产和色谱填料扩产项目",
+          "url": "https://flash.jin10.com/detail/20260615182125536800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "天弘同利债券(LOF)：自06月17日起，调整本基金大额申购（含转换转入及定期定额投资）业务金额限制",
+          "url": "https://flash.jin10.com/detail/20260615181621423800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗协议意味着伊朗将永远不会拥有核武器，如果伊朗遵守，协议将使中东更具投资吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3119290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "中国中车：子公司参与设立华舆国科战新（苏州）创业投资基金合伙企业（有限合伙）",
+          "url": "https://flash.jin10.com/detail/20260615180135905800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -640,23 +769,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 07时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国副总统万斯：伊朗协议意味着伊朗将永远不会拥有核武器，如果伊朗遵守，协议将使中东更具投资吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3119290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
         }
       ]
     }
