@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T11:55:03.959540+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-16T17:25:47.638259+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 11时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 17时25分]"
         },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -55,6 +56,18 @@
           "time_info": "[00时17分 ~ 04时24分]"
         },
         {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 17时25分]"
+        },
+        {
           "title": "报道：特朗普、万斯、伊朗议长签署美伊谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119798",
           "source": "华尔街见闻-快讯",
@@ -64,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
-          "url": "https://www.cls.cn/detail/2400664",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 11时55分]"
         },
         {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
@@ -99,6 +101,17 @@
           "time_info": "[11时54分 ~ 11时55分]"
         },
         {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
@@ -119,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美国高级官员：美国已与伊朗签署谅解备忘录。特朗普与万斯签署了谅解备忘录，伊朗议会议长也签署了该文件。美伊谅解备忘录规定立即开放霍尔木兹海峡。",
@@ -190,7 +214,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "金十图示：2026年06月15日（周一）全球股市指数-美洲市场（收盘）",
@@ -267,7 +291,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
         },
@@ -294,6 +318,39 @@
           "time_info": "07时02分"
         },
         {
+          "title": "全球最富五百人单日财富激增3360亿美元 马斯克身家达1.27万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3120191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "全球最大变质岩油田二期项目全部平台建造完工",
+          "url": "https://wallstreetcn.com/livenews/3120190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "清华大学首度跻身全球前10",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%A6%96%E5%BA%A6%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E5%89%8D10",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "全球股市做多情绪大幅升温",
           "url": "https://www.toutiao.com/trending/7651389901262602281/",
           "source": "今日头条",
@@ -303,12 +360,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "青岛峰会持续拓展全球朋友圈",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%B3%B0%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%8B%93%E5%B1%95%E5%85%A8%E7%90%83%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "老破小成抢手货，租售比超 2% 跑赢存款利率，反映了房地产市场的哪些变化？投资老破小需注意哪些风险？",
@@ -321,6 +389,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 07时02分]"
+        },
+        {
+          "title": "投资增速波动反映投资由扩张向提质转变",
+          "url": "https://www.toutiao.com/trending/7651817718698229798/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”",
+          "url": "https://wallstreetcn.com/articles/3774747",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "在成长与安全之间寻找平衡点，公私募探讨下半年科技投资大方向",
@@ -340,15 +430,59 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "6月16日投资避雷针：国晟科技因信息披露不及时收到北京证监局警示函",
+          "url": "https://www.cls.cn/detail/2400676",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "中国台湾金管会开放保险业投资AI策略性产业，并调高投资私募股权基金限额。",
+          "url": "https://wallstreetcn.com/livenews/3120192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://wallstreetcn.com/livenews/3120188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
@@ -362,15 +496,65 @@
           "time_info": "00时17分"
         },
         {
+          "title": "分析师：Anthropic较OpenAI企业市场优势明显",
+          "url": "https://flash.jin10.com/detail/20260616165616859800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
           "url": "https://flash.jin10.com/detail/20260616113107944800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "报道：2025年OpenAI净亏损增加七倍 成本高达340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3120179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek完成500亿融资",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     }
