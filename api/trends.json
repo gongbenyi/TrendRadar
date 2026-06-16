@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-16T07:02:28.972956+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-16T11:55:03.959540+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 11时55分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -26,17 +38,6 @@
             5,
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 07时02分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -65,6 +66,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 11时55分]"
+        },
+        {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
@@ -76,13 +88,24 @@
           "time_info": "[00时17分 ~ 04时24分]"
         },
         {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 11时55分]"
+        },
+        {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -93,7 +116,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -159,7 +182,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -167,7 +190,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年06月15日（周一）全球股市指数-美洲市场（收盘）",
@@ -181,6 +204,18 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
+          "url": "https://www.zhihu.com/question/2047945194050254497",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 11时55分]"
+        },
+        {
           "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
           "url": "https://wallstreetcn.com/livenews/3119863",
           "source": "华尔街见闻-快讯",
@@ -190,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美伊协议推动全球股市狂欢 英伟达时隔5年发债 | 环球市场",
+          "url": "https://www.cls.cn/detail/2400644",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 11时55分]"
         },
         {
           "title": "小电驴三蹦子全球爆单",
@@ -204,17 +250,6 @@
           "time_info": "[04时24分 ~ 07时02分]"
         },
         {
-          "title": "特斯拉在日本卖白菜价，Model 3 仅需 13.4 万全球最低，为何在日本狂降价？能打开日本市场吗？",
-          "url": "https://www.zhihu.com/question/2047945194050254497",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
           "title": "金十图示：2026年06月15日（周一）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260615234108635800",
           "source": "金十数据",
@@ -226,13 +261,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "日本央行：在当前时期，需要特别关注中东局势的未来走向对金融市场、外汇市场、经济和物价的影响。 必须关注全球AI相关需求以及未来外汇走势对日本经济和物价的影响。",
+          "url": "https://wallstreetcn.com/livenews/3120039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.427吨，当前持仓量为1012.213吨。",
           "url": "https://flash.jin10.com/detail/20260616062056373800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -243,7 +289,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -262,7 +308,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "老破小成抢手货，租售比超 2% 跑赢存款利率，反映了房地产市场的哪些变化？投资老破小需注意哪些风险？",
@@ -283,15 +329,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "力拓集团首席商务官：铁矿石业务为投资组合向铜和锂增长方向再平衡提供了支撑。",
+          "url": "https://flash.jin10.com/detail/20260616113958256800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
@@ -303,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI去年支出达340亿美元。",
+          "url": "https://flash.jin10.com/detail/20260616113107944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
