@@ -1,149 +1,99 @@
 {
-  "generated_at": "2026-06-17T23:23:07.689176+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-18T02:14:23.237385+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 27,
       "titles": [
         {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
+          "title": "摩根资产管理Michele：经济形势不适合降息，沃什注定让特朗普失望",
+          "url": "https://wallstreetcn.com/livenews/3121178",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 19时46分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 23时23分]"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普：与俄乌首脑会谈良好，考虑用美国导弹援乌！",
-          "url": "https://flash.jin10.com/detail/20260617225454989800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "02时14分"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
           "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
           "source": "凤凰网",
           "ranks": [
-            4,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
+          "title": "巴西总统卢拉：我预计美国总统特朗普不会干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260618014915001800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普：我喜欢“伊朗协议不奏效就怪罪万斯”这个想法",
+          "url": "https://wallstreetcn.com/livenews/3121174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 23时23分]"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
           "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
           "source": "凤凰网",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
+          "title": "巴西总统卢拉：美国总统特朗普说得太多，倾听得太少。",
+          "url": "https://flash.jin10.com/detail/20260618014754366800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 14时09分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -153,19 +103,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
-          "source": "澎湃新闻",
+          "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
+          "url": "https://wallstreetcn.com/livenews/3121170",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -175,752 +125,307 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普G7峰会迟到后宣告我是老大",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AEG7%E5%B3%B0%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%90%8E%E5%AE%A3%E5%91%8A%E6%88%91%E6%98%AF%E8%80%81%E5%A4%A7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "日本首相高市早苗：在与特朗普总统的会谈中，我们确认将基于牢固的信任关系，继续在安全和经济等广泛领域推进高质量合作。",
-          "url": "https://flash.jin10.com/detail/20260617225306506800",
+          "title": "巴西总统卢拉：谈判结束后，我不介意与美国总统特朗普安排新会议。",
+          "url": "https://flash.jin10.com/detail/20260618014416355800",
           "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "02时14分"
         },
         {
-          "title": "分析师Adam Button评EIA原油库存数据：这是美国原油库存连续第三周出现大幅下降，也是有记录以来连续三周累计降幅最大的一次。难怪特朗普急着与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260617225243133800",
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "巴西总统卢拉：我现在没有理由与美国总统特朗普交谈，我们正处于谈判中。",
+          "url": "https://flash.jin10.com/detail/20260618014411364800",
           "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "意大利总理梅洛尼：我们在七国集团（G7）峰会上已就乌克兰问题与特朗普达成协议。 与美国总统特朗普就乌克兰问题达成的协议，并不总是可以理所当然地认为会一直存在（不能视为理所当然）。 在峰会期间，所有G7成员国之间的氛围都非常融洽。 我与特朗普的个人关系并没有发生改变。 在即将举行的欧盟峰会上，我将提议为乌克兰事务指定一名统一的欧盟谈判代表。 如果由大国出面提议设立针对乌克兰问题的欧盟单一谈判代表，将会非常困难。 这名谈判代表应该来自一个中等规模的国家。 我们目前正专注于接下来需要落实的工作。",
-          "url": "https://wallstreetcn.com/livenews/3121096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
-          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
-          "source": "凤凰网",
-          "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "02时14分"
         },
         {
-          "title": "德国总理默茨：在七国集团峰会上与特朗普的对话富有建设性。",
-          "url": "https://wallstreetcn.com/livenews/3120969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "特朗普赞扬马克龙，称法国做得非常出色。",
-          "url": "https://wallstreetcn.com/livenews/3120963",
-          "source": "华尔街见闻-快讯",
+          "title": "摩根大通全球固收负责人米歇尔：美联储主席沃什注定会让特朗普失望。",
+          "url": "https://flash.jin10.com/detail/20260618014345044800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://wallstreetcn.com/livenews/3120550",
+          "title": "美国总统特朗普：正在调查“美国袭击伊朗学校”一事。",
+          "url": "https://wallstreetcn.com/livenews/3121161",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普：油价回落将对民众购买力产生积极影响",
-          "url": "https://wallstreetcn.com/livenews/3120960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
-          "url": "https://wallstreetcn.com/livenews/3120957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "意大利总理梅洛尼：我与美国总统特朗普的个人关系没有改变。",
-          "url": "https://flash.jin10.com/detail/20260617224338522800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普称赞与埃及的关系。",
-          "url": "https://wallstreetcn.com/livenews/3120956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "提醒：美国总统特朗普在G7与印度总理莫迪的会谈结束。",
-          "url": "https://wallstreetcn.com/livenews/3121084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普：美方或恢复对俄石油制裁",
-          "url": "https://www.toutiao.com/trending/7652117439001477139/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "美国总统特朗普：就人工智能（AI）问题进行了一次不错的会议。 与Anthropic的对话不错。",
-          "url": "https://wallstreetcn.com/livenews/3121083",
+          "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
+          "url": "https://wallstreetcn.com/livenews/3121158",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
+          "title": "巴西总统卢拉：我并没有要求在G7峰会上与美国总统特朗普进行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260618014034015800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
         },
         {
-          "title": "特朗普：伊朗几乎不可能拥有核武器 市场对伊朗协议“非常满意”",
-          "url": "https://flash.jin10.com/detail/20260617191908755800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "美国总统特朗普宣称：欧洲领袖们希望参与（伊朗问题）。",
-          "url": "https://wallstreetcn.com/livenews/3121082",
+          "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
+          "url": "https://wallstreetcn.com/livenews/3121156",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "02时14分"
         },
         {
-          "title": "美国总统特朗普宣称：以色列应该（能够）自卫，但需要很好的判断。",
-          "url": "https://wallstreetcn.com/livenews/3121081",
+          "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3121153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普指责奥巴马在达成2015年伊核协议期间“贿赂”伊朗，称其用飞机向德黑兰运送了17亿美元的“美元现金”。",
-          "url": "https://flash.jin10.com/detail/20260617191109851800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "02时14分"
         },
         {
-          "title": "印度总理莫迪：感谢美国总统特朗普尝试恢复（中东）和平。",
-          "url": "https://wallstreetcn.com/livenews/3121075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "特朗普：考虑用美国导弹帮助乌克兰",
-          "url": "https://wallstreetcn.com/livenews/3121073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国总统特朗普：将在45分钟之后举行新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/3121072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”",
-          "url": "https://wallstreetcn.com/articles/3774747",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "英国首相在G7峰会兜售能源与AI项目获13亿英镑投资",
-          "url": "https://wallstreetcn.com/livenews/3120511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "6万亿元投资“源源而来”",
-          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BF%E5%85%83%E6%8A%95%E8%B5%84%E2%80%9C%E6%BA%90%E6%BA%90%E8%80%8C%E6%9D%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "投资近 3 亿北斗监测边坡系统，底座用手一掰就碎，工程质量监管为何失灵？巨额投资为何换来「脆皮」工程？",
-          "url": "https://www.zhihu.com/question/2049801744209686933",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "美国城堡证券：宽松的金融条件、持续的供应链中断、劳动力市场的加速复苏以及人工智能投资的激增正相互叠加，持续维持着通胀压力。",
-          "url": "https://flash.jin10.com/detail/20260617030007710800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "吴清：中国资产正受国际投资者青睐",
-          "url": "https://www.toutiao.com/trending/7652194311722778678/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "【通鼎互联：公司与英伟达不存在任何业务关系】通鼎互联发布异动公告，公司近期发现某微信公众号于2026年5月12日发表了《搭上英伟达，A股光纤牛股年内涨超300%》的文章。经核实，康宁作为供应商，对外销售光纤预制棒产品。公司向康宁采购光棒用于光纤生产。截至目前，康宁仅作为公司的光棒原材料供应商，采购规模有限，不存在独家供货情形，也不存在其他合作关系。公司未来将通过自产光棒的方式减少外部采购占比。上述公众号文章的标题及内容存在误导投资者判断的可能性，文章标题的表述不准确、结论不成立。公司与英伟达不存在任何业务关系。",
-          "url": "https://wallstreetcn.com/livenews/3120977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "6月17日投资避雷针：5月6日至6月16日累计涨幅249% 光通信大牛股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2401798",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "华锋股份：子公司计划投资5870万元新增两条低压变频腐蚀生产线",
-          "url": "https://flash.jin10.com/detail/20260617192748135800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "诺基亚扩大美国半导体先进测试仪封装运营。 该公司计划在美国研发与制造环节进行持续数年的投资，规模40亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3120461",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "投资者权衡美伊协议，拉美股汇走势分化",
-          "url": "https://wallstreetcn.com/livenews/3120500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
-          "url": "https://wallstreetcn.com/livenews/3120964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "特朗普：美国不会向伊朗投资",
-          "url": "https://flash.jin10.com/detail/20260617191833745800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "百亿级私募凯丰投资官宣自购",
-          "url": "https://wallstreetcn.com/livenews/3120950",
+          "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3121152",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "02时14分"
         },
         {
-          "title": "公募热议主题投资新规：约束“漂移”冲动，重塑竞争逻辑",
-          "url": "https://wallstreetcn.com/livenews/3120536",
+          "title": "美国总统特朗普：希望获得扩大版“亚伯拉罕协议”。",
+          "url": "https://wallstreetcn.com/livenews/3121151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：将不得不为黎巴嫩付出努力。",
+          "url": "https://wallstreetcn.com/livenews/3121150",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
         },
         {
-          "title": "新加坡金融管理局行长谢啇真：全球股权投资估值高度依赖于AI 但相关营收回报不确定性强",
-          "url": "https://wallstreetcn.com/livenews/3120947",
-          "source": "华尔街见闻-快讯",
+          "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
+          "url": "https://www.toutiao.com/trending/7652352370063445558/",
+          "source": "今日头条",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "02时14分"
         },
         {
-          "title": "境外投资者重返中国债市",
-          "url": "https://wallstreetcn.com/livenews/3120532",
+          "title": "美国总统特朗普：试图让哈马斯解除武装。",
+          "url": "https://wallstreetcn.com/livenews/3121149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
+          "url": "https://wallstreetcn.com/livenews/3121146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
-          "url": "https://www.cls.cn/detail/2401556",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "腾讯控股公告，根据全球中期票据计划，完成发行24.5亿美元及人民币150亿元票据。",
-          "url": "https://wallstreetcn.com/livenews/3120570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
         {
           "title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？",
           "url": "https://wallstreetcn.com/articles/3774886",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "切尼尔能源公司CFO：大部分发展中国家不会将能源安全托付给美国。希望卡塔尔能源公司尽快回归市场，因为这能创造全球多元化供应格局。",
-          "url": "https://flash.jin10.com/detail/20260617030351744800",
+          "title": "摩根大通全球固收负责人米歇尔：油价冲击在某种程度上是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260618015126860800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "中国政府发布关于全球治理的白皮书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396495",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 23时23分]"
-        },
-        {
-          "title": "全球治理白皮书｜王毅：“丛林法则”卷土重来，不是因为《联合国宪章》过时了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396463",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 23时23分]"
+          "time_info": "02时14分"
         },
         {
           "title": "当Fable 5全球下架，GLM 5.2逼近Opus 4.8“意义重大”",
           "url": "https://wallstreetcn.com/articles/3774855",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 23时23分]"
-        },
-        {
-          "title": "高通CEO：重新定义AI设备，全球消费电子将迎来强制性底层芯片架构大升级",
-          "url": "https://wallstreetcn.com/articles/3774814",
-          "source": "华尔街见闻",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "02时14分"
         },
         {
-          "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
-          "url": "https://www.cls.cn/detail/2401197",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "中国光纤企业抢占全球算力市场 光纤赛道掀起研发竞速潮",
-          "url": "https://flash.jin10.com/detail/20260617224926577800",
+          "title": "摩根大通全球固收负责人米歇尔：将对鹰派或鸽派倾向感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260618014543720800",
           "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "02时14分"
         },
         {
-          "title": "SpaceX超越亚马逊成全球市值第五公司",
-          "url": "https://www.toutiao.com/trending/7652134285020761650/",
+          "title": "摩根大通全球固收负责人米歇尔：如果美联储放弃宽松偏向，将不会有异议。",
+          "url": "https://flash.jin10.com/detail/20260618014528921800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "摩根大通全球固收负责人米歇尔：这不是一个可以降息的经济环境。",
+          "url": "https://flash.jin10.com/detail/20260618014409819800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美媒：全球油价没“疯涨”多亏中国",
+          "url": "https://www.toutiao.com/trending/7652342651785580068/",
           "source": "今日头条",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
         },
         {
-          "title": "高盛全球并购业务主管Stephan Feldgoise：今年是大交易之年。 过去我们也有过非常活跃的年份——2021年显然就非常活跃——我们都在想，在我们的职业生涯中是否还能看到匹配这些水平的交易量。",
-          "url": "https://wallstreetcn.com/livenews/3120453",
-          "source": "华尔街见闻-快讯",
+          "title": "摩根大通全球固收负责人米歇尔：对美联储主席沃什而言，问题在于制度改革意味着什么。",
+          "url": "https://flash.jin10.com/detail/20260618014344572800",
+          "source": "金十数据",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "02时14分"
         },
         {
-          "title": "SpaceX收涨4.77%，报201.68美元，收盘市值2.65万亿美元，超过亚马逊、成为全球第五大上市公司。",
-          "url": "https://wallstreetcn.com/livenews/3120488",
-          "source": "华尔街见闻-快讯",
+          "title": "中国政府发布关于全球治理的白皮书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396495",
+          "source": "澎湃新闻",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "全球算力版图被中国小城改写",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%9F%8E%E6%94%B9%E5%86%99",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "朱鹤新：更好支持境内主体全球资源配置，新增发放新一批QDII额度",
-          "url": "https://wallstreetcn.com/livenews/3120730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "清华大学首度跻身全球前10",
-          "url": "https://www.toutiao.com/trending/7651810075542224939/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            23,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
+          "title": "全球治理白皮书｜王毅：“丛林法则”卷土重来，不是因为《联合国宪章》过时了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396463",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 19时46分]"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            9,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 19时46分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3120568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
           "url": "https://www.cls.cn/detail/2402553",
@@ -929,80 +434,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时22分 ~ 23时23分]"
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
-          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
-          "url": "https://wallstreetcn.com/livenews/3120501",
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
-          "url": "https://wallstreetcn.com/livenews/3120751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
-          "url": "https://wallstreetcn.com/livenews/3120560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617072915805800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时14分"
         }
       ]
     }
