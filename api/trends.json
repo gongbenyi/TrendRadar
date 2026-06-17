@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T05:04:28.710595+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-06-18T07:23:38.567452+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "摩根资产管理Michele：经济形势不适合降息，沃什注定让特朗普失望",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -59,19 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
-        },
-        {
-          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
-          "url": "https://www.cls.cn/detail/2402714",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -82,8 +71,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
@@ -92,6 +81,17 @@
           "ranks": [
             14,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -164,6 +164,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
+          "url": "https://flash.jin10.com/detail/20260618061907048800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "巴西总统卢拉：我现在没有理由与美国总统特朗普交谈，我们正处于谈判中。",
           "url": "https://flash.jin10.com/detail/20260618014411364800",
           "source": "金十数据",
@@ -195,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3121274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
@@ -280,7 +302,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -321,7 +343,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？",
@@ -331,8 +353,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
+        },
+        {
+          "title": "“南向通”机构扩容：险资配置全球债券走向常态化",
+          "url": "https://wallstreetcn.com/livenews/3121295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "摩根大通全球固收负责人米歇尔：油价冲击在某种程度上是暂时的。",
@@ -353,8 +386,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "美媒：全球油价没“疯涨”多亏中国",
@@ -362,11 +395,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "中国政府发布关于全球治理的白皮书",
@@ -377,8 +411,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2026年06月17日（周三）全球股市指数-美洲市场（收盘）",
@@ -387,7 +421,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -398,7 +432,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -425,6 +459,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1012.213吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260618062742615800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "摩根大通全球固收负责人米歇尔：这不是一个可以降息的经济环境。",
           "url": "https://flash.jin10.com/detail/20260618014409819800",
           "source": "金十数据",
@@ -434,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少33.76吨，当前持仓量为14939.09吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260618060853767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "摩根大通全球固收负责人米歇尔：对美联储主席沃什而言，问题在于制度改革意味着什么。",
@@ -456,6 +512,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
+          "url": "https://wallstreetcn.com/livenews/3121260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家电视台：伊朗议长卡利巴夫称没有禁止美国在伊朗投资。",
+          "url": "https://wallstreetcn.com/livenews/3121256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：根据谅解备忘录，已分配3000亿美元用于投资伊朗，其中一部分将用于重建。",
+          "url": "https://flash.jin10.com/detail/20260618042530620800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "投资中国从“可选”变“首选”，嘉宾热议中国资本市场功能完善路径",
+          "url": "https://wallstreetcn.com/livenews/3121278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "WTI原油期货低开1.7%，交投于75美元附近，投资者关注伊朗协议生效。",
+          "url": "https://wallstreetcn.com/livenews/3121276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -468,11 +596,12 @@
           "url": "https://www.cls.cn/detail/2402553",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时14分 ~ 07时23分]"
         },
         {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
@@ -484,34 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国家电视台：伊朗议长卡利巴夫称没有禁止美国在伊朗投资。",
-          "url": "https://wallstreetcn.com/livenews/3121256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：根据谅解备忘录，已分配3000亿美元用于投资伊朗，其中一部分将用于重建。",
-          "url": "https://flash.jin10.com/detail/20260618042530620800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         }
       ]
     }
