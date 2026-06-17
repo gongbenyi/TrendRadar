@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:15:41.150269+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-17T14:09:32.042282+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "6万亿元投资“源源而来”",
+          "url": "https://www.baidu.com/s?wd=6%E4%B8%87%E4%BA%BF%E5%85%83%E6%8A%95%E8%B5%84%E2%80%9C%E6%BA%90%E6%BA%90%E8%80%8C%E6%9D%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
@@ -78,6 +89,28 @@
           "time_info": "03时33分"
         },
         {
+          "title": "吴清：中国资产正受国际投资者青睐",
+          "url": "https://www.toutiao.com/trending/7652194311722778678/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "6月17日投资避雷针：5月6日至6月16日累计涨幅249% 光通信大牛股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2401798",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
           "title": "诺基亚扩大美国半导体先进测试仪封装运营。 该公司计划在美国研发与制造环节进行持续数年的投资，规模40亿美元。",
           "url": "https://wallstreetcn.com/livenews/3120461",
           "source": "华尔街见闻-快讯",
@@ -106,7 +139,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -117,15 +150,164 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         }
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
+          "url": "https://www.cls.cn/detail/2401556",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 08时15分]"
+        },
+        {
+          "title": "腾讯控股公告，根据全球中期票据计划，完成发行24.5亿美元及人民币150亿元票据。",
+          "url": "https://wallstreetcn.com/livenews/3120570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "切尼尔能源公司CFO：大部分发展中国家不会将能源安全托付给美国。希望卡塔尔能源公司尽快回归市场，因为这能创造全球多元化供应格局。",
+          "url": "https://flash.jin10.com/detail/20260617030351744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "中国政府发布关于全球治理的白皮书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "全球治理白皮书｜王毅：“丛林法则”卷土重来，不是因为《联合国宪章》过时了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396463",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "高通CEO：重新定义AI设备，全球消费电子将迎来强制性底层芯片架构大升级",
+          "url": "https://wallstreetcn.com/articles/3774814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
+          "url": "https://www.cls.cn/detail/2401197",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "SpaceX超越亚马逊成全球市值第五公司",
+          "url": "https://www.toutiao.com/trending/7652134285020761650/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "高盛全球并购业务主管Stephan Feldgoise：今年是大交易之年。 过去我们也有过非常活跃的年份——2021年显然就非常活跃——我们都在想，在我们的职业生涯中是否还能看到匹配这些水平的交易量。",
+          "url": "https://wallstreetcn.com/livenews/3120453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "SpaceX收涨4.77%，报201.68美元，收盘市值2.65万亿美元，超过亚马逊、成为全球第五大上市公司。",
+          "url": "https://wallstreetcn.com/livenews/3120488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "全球算力版图被中国小城改写",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%9F%8E%E6%94%B9%E5%86%99",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "朱鹤新：更好支持境内主体全球资源配置，新增发放新一批QDII额度",
+          "url": "https://wallstreetcn.com/livenews/3120730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "清华大学首度跻身全球前10",
+          "url": "https://www.toutiao.com/trending/7651810075542224939/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -148,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 06时10分]"
+        },
+        {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
@@ -190,9 +383,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "14时09分"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
@@ -201,7 +405,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -212,7 +416,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -223,7 +427,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -241,153 +445,20 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
-          "url": "https://www.cls.cn/detail/2401556",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 08时15分]"
-        },
-        {
-          "title": "腾讯控股公告，根据全球中期票据计划，完成发行24.5亿美元及人民币150亿元票据。",
-          "url": "https://wallstreetcn.com/livenews/3120570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "切尼尔能源公司CFO：大部分发展中国家不会将能源安全托付给美国。希望卡塔尔能源公司尽快回归市场，因为这能创造全球多元化供应格局。",
-          "url": "https://flash.jin10.com/detail/20260617030351744800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
-          "url": "https://www.cls.cn/detail/2401197",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "SpaceX超越亚马逊成全球市值第五公司",
-          "url": "https://www.toutiao.com/trending/7652134285020761650/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "高盛全球并购业务主管Stephan Feldgoise：今年是大交易之年。 过去我们也有过非常活跃的年份——2021年显然就非常活跃——我们都在想，在我们的职业生涯中是否还能看到匹配这些水平的交易量。",
-          "url": "https://wallstreetcn.com/livenews/3120453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "SpaceX收涨4.77%，报201.68美元，收盘市值2.65万亿美元，超过亚马逊、成为全球第五大上市公司。",
-          "url": "https://wallstreetcn.com/livenews/3120488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "全球算力版图被中国小城改写",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%AE%97%E5%8A%9B%E7%89%88%E5%9B%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%9F%8E%E6%94%B9%E5%86%99",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "清华大学首度跻身全球前10",
-          "url": "https://www.toutiao.com/trending/7651810075542224939/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
-          "url": "https://wallstreetcn.com/livenews/3120560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617072915805800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
           "url": "https://www.toutiao.com/trending/7651979830128283145/",
@@ -412,12 +483,73 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 08时15分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
+          "url": "https://wallstreetcn.com/livenews/3120560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617072915805800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
@@ -426,7 +558,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -440,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
+          "url": "https://wallstreetcn.com/livenews/3120751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     }
