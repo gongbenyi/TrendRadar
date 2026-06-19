@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-19T08:25:44.722596+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-06-19T14:17:44.314026+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
         {
           "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
           "url": "https://flash.jin10.com/detail/20260619001546386800",
@@ -224,6 +235,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "韩国总统李在明：特朗普询问我韩国能否尽快帮助建造美国海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260619130852219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "沃什为何敢“硬刚”特朗普",
           "url": "https://www.toutiao.com/trending/7652718457070292523/",
           "source": "今日头条",
@@ -248,19 +270,92 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日大增7.422吨，为4月17日以来最大增幅，当前持仓量为1020.491吨。",
+          "url": "https://flash.jin10.com/detail/20260619064759361800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "韩国称，计划积极合作，加强全球能源供应链。",
+          "url": "https://wallstreetcn.com/livenews/3121986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-06-19）",
+          "url": "https://flash.jin10.com/detail/20260619133526666800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-06-19）",
+          "url": "https://flash.jin10.com/detail/20260619133137925800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "财政部副部长廖岷会见标普国际信用评级公司主权信用评级 全球主管罗伯托·西丰—阿雷瓦罗",
+          "url": "https://wallstreetcn.com/livenews/3121971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
           "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时25分 ~ 14时17分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时25分"
+          "time_info": "14时17分"
         },
         {
           "title": "DeepSeek正式上线识图模式",
@@ -280,7 +375,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
@@ -297,11 +392,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 08时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 14时17分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -347,23 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "全球",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日大增7.422吨，为4月17日以来最大增幅，当前持仓量为1020.491吨。",
-          "url": "https://flash.jin10.com/detail/20260619064759361800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
         }
       ]
     }
