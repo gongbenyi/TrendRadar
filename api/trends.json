@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T21:59:07.446720+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-20T23:47:40.102466+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 21时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 23时47分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 21时59分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 23时47分]"
         },
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -77,8 +77,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时47分]"
         },
         {
           "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
@@ -288,6 +288,17 @@
           "time_info": "[01时55分 ~ 06时55分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时17分 ~ 23时47分]"
+        },
+        {
           "title": "意外长取消访美：特朗普冒犯了意大利",
           "url": "https://www.toutiao.com/trending/7653072490532556324/",
           "source": "今日头条",
@@ -300,6 +311,18 @@
           "time_info": "[16时53分 ~ 19时17分]"
         },
         {
+          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时47分]"
+        },
+        {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
           "url": "https://flash.jin10.com/detail/20260620035757098800",
           "source": "金十数据",
@@ -310,17 +333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时09分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时59分]"
         },
         {
           "title": "美国总统特朗普：美国国防部长赫格塞思做得很好。",
@@ -520,17 +532,6 @@
           "time_info": "[05时09分 ~ 08时08分]"
         },
         {
-          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
-        },
-        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -585,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普高市早苗当众吵起来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
@@ -659,7 +671,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -714,7 +726,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
@@ -725,6 +737,20 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
+          "url": "https://wallstreetcn.com/articles/3775107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 23时47分]"
+        },
+        {
           "title": "超3000家外资企业追加在华投资",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B6%853000%E5%AE%B6%E5%A4%96%E8%B5%84%E4%BC%81%E4%B8%9A%E8%BF%BD%E5%8A%A0%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -734,19 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
-        },
-        {
-          "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
-          "url": "https://wallstreetcn.com/articles/3775107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 21时59分]"
         },
         {
           "title": "投资者买“老破小” 收益胜过存银行",
@@ -832,6 +845,18 @@
           "time_info": "[13时12分 ~ 19时17分]"
         },
         {
+          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
+          "url": "https://wallstreetcn.com/livenews/3122258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时47分]"
+        },
+        {
           "title": "李小冉梦一场造型是全球首穿",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%A2%A6%E4%B8%80%E5%9C%BA%E9%80%A0%E5%9E%8B%E6%98%AF%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -842,17 +867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 19时17分]"
-        },
-        {
-          "title": "投降的艺术：全球市场在美国-伊朗签署谅解备忘录后大涨，平静可能是暂时的",
-          "url": "https://wallstreetcn.com/livenews/3122258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "吉林一号全球任意地点每天重访几十次",
@@ -902,8 +916,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时58分 ~ 21时59分]"
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 23时47分]"
         }
       ]
     },
