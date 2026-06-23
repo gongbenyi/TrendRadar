@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T06:46:47.490827+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-23T08:04:59.094678+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 08时04分]"
         },
         {
           "title": "美国总统特朗普签署量子领域行政令。",
@@ -63,17 +63,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
-          "url": "https://flash.jin10.com/detail/20260623061805327800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
           "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
@@ -83,6 +72,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
+          "url": "https://flash.jin10.com/detail/20260623061805327800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时04分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -100,11 +101,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时04分]"
         },
         {
           "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
@@ -278,7 +280,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -300,7 +302,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -311,7 +313,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         }
@@ -319,7 +321,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "全球龙头齐聚链博会",
@@ -329,19 +331,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 08时04分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.713吨，当前持仓量为1022.204吨。",
-          "url": "https://flash.jin10.com/detail/20260623062151398800",
+          "title": "全球脑机接口×医保创新场景大赛在杭州启动",
+          "url": "https://wallstreetcn.com/livenews/3123074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年6月23日",
+          "url": "https://flash.jin10.com/detail/20260623070530009800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "08时04分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.713吨，当前持仓量为1022.204吨。",
+          "url": "https://flash.jin10.com/detail/20260623062151398800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时04分]"
         },
         {
           "title": "“受理到获批仅6个月”！五款新药同日放行 实体瘤CAR-T、双抗ADC迎全球首创",
@@ -367,6 +392,51 @@
           "time_info": "[01时39分 ~ 01时40分]"
         },
         {
+          "title": "彭博股指：SpaceX将于2026年6月24日收盘时被纳入彭博全球股指的大盘股板块。",
+          "url": "https://flash.jin10.com/detail/20260623053237628800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时04分]"
+        },
+        {
+          "title": "澳大利亚6月标普全球制造业PMI初值 51.2，前值50.7。",
+          "url": "https://flash.jin10.com/detail/20260623070002181800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "澳大利亚6月标普全球服务业PMI初值 49.9，前值48.7。",
+          "url": "https://flash.jin10.com/detail/20260623070002173800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "澳大利亚6月标普全球综合PMI初值 49.8，前值48.7。",
+          "url": "https://flash.jin10.com/detail/20260623070002147800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
           "url": "https://wallstreetcn.com/livenews/3123018",
           "source": "华尔街见闻-快讯",
@@ -378,17 +448,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "彭博股指：SpaceX将于2026年6月24日收盘时被纳入彭博全球股指的大盘股板块。",
-          "url": "https://flash.jin10.com/detail/20260623053237628800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
           "url": "https://wallstreetcn.com/livenews/3122965",
           "source": "华尔街见闻-快讯",
@@ -398,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.4吨，当前持仓量为15023.49吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260623064256317800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "东盟秘书长：东盟和中国应深化合作应对全球挑战",
@@ -425,7 +495,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "近4000家外资企业追加在华投资",
@@ -435,30 +505,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 08时04分]"
         },
         {
-          "title": "黑石集团总裁Jon Gray：投资日本（多个）数据中心。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3123060",
+          "title": "个别产品年化收益率近140%，银行理财指数化投资受青睐",
+          "url": "https://wallstreetcn.com/livenews/3123071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "08时04分"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
           "url": "https://wallstreetcn.com/articles/3775200",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 08时04分]"
+        },
+        {
+          "title": "报道：韩国总统李在明将与三星讨论区域投资计划",
+          "url": "https://wallstreetcn.com/livenews/3123069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "黑石集团总裁Jon Gray：投资日本（多个）数据中心。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3123060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时04分]"
         },
         {
           "title": "意大利埃尼集团Eni批准关于在安哥拉周边海域的31区块和31/21区块离岸石油开发的Greater PAJ Project最终投资决定。",
@@ -575,8 +669,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 08时04分]"
         }
       ]
     }
