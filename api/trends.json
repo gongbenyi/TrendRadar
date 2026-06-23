@@ -1,552 +1,227 @@
 {
-  "generated_at": "2026-06-23T23:46:46.547138+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-06-24T01:52:19.825242+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 19,
       "titles": [
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 08时04分]"
-        },
-        {
-          "title": "美国总统特朗普签署量子领域行政令。",
-          "url": "https://flash.jin10.com/detail/20260623043421047800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3123433",
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美伊谈判之际 特朗普将于周三会见国防承包商",
-          "url": "https://flash.jin10.com/detail/20260623012550145800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普政府考虑在美国弗吉尼亚州附近海底开采关键矿产",
-          "url": "https://wallstreetcn.com/livenews/3122973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出。",
-          "url": "https://wallstreetcn.com/livenews/3123432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司：美国总统特朗普预计将于周三与国防承包商会面。",
-          "url": "https://flash.jin10.com/detail/20260623012205582800",
+          "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
+          "url": "https://flash.jin10.com/detail/20260624014333064800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 23时46分]"
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
-          "url": "https://wallstreetcn.com/livenews/3122971",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://flash.jin10.com/detail/20260624014248941800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美媒：特朗普情报系统大裁员启动 “深层政府”清洗行动展开",
-          "url": "https://flash.jin10.com/detail/20260623061805327800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 04时50分]"
+          "time_info": "01时52分"
         },
         {
           "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
           "url": "https://www.zhihu.com/question/2052711074215081192",
           "source": "知乎",
           "ranks": [
-            15,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 23时46分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时04分]"
-        },
-        {
-          "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
-          "url": "https://wallstreetcn.com/livenews/3123021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
-          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
-          "url": "https://wallstreetcn.com/livenews/3122969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普“羞辱”梅洛尼有何连锁反应",
-          "url": "https://www.toutiao.com/trending/7654533191415369252/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美国总统特朗普：如有必要，可能会迅速重新启动封锁。",
-          "url": "https://flash.jin10.com/detail/20260623041742651800",
+          "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
+          "url": "https://flash.jin10.com/detail/20260624012900197800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普：资金将用于购买食品和医疗物资。 谈话进展顺利。 船只已就位，以备必要时重新实施封锁。 释放的资金将存入由美国控制的托管账户。 伊朗获得资金，将用于从美国获取食品和物资。 采购将仅从美国进行。 伊朗迫切地需要食品和医疗用品。 伊朗已完全同意核核查。",
-          "url": "https://wallstreetcn.com/livenews/3123424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "特朗普点名英意德差劲",
-          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美国总统特朗普：国防承包商将不被允许进行股票回购。",
-          "url": "https://flash.jin10.com/detail/20260623041714980800",
+          "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
+          "url": "https://flash.jin10.com/detail/20260624012804033800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普称伊朗将同意接受重大武器核查",
-          "url": "https://wallstreetcn.com/livenews/3122966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国总统特朗普：哥伦比亚总统致电感谢我。",
-          "url": "https://flash.jin10.com/detail/20260623041649887800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "芝加哥周末枪击致多人死伤，特朗普借机再推联邦派兵",
-          "url": "https://flash.jin10.com/detail/20260623122219001800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "美国总统特朗普：油价大幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3123017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：只要伊朗尊重美国，我们就不会有任何烦恼。",
-          "url": "https://flash.jin10.com/detail/20260623041553835800",
+          "title": "被问及国际原子能机构核查员什么时候会在伊朗现场，美国总统特朗普表示：在合适的时候。不急。",
+          "url": "https://flash.jin10.com/detail/20260624012449182800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "黄金跌美元涨，特朗普的弱美元还能信吗？",
-          "url": "https://flash.jin10.com/detail/20260623193548012800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
-          "url": "https://wallstreetcn.com/livenews/3123016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
-          "url": "https://www.cls.cn/detail/2406197",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "美国总统特朗普：祝斯塔默一切顺利。",
-          "url": "https://flash.jin10.com/detail/20260623041502171800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：我向英国首相斯塔默表示，他在能源方面真的搞砸了。",
-          "url": "https://flash.jin10.com/detail/20260623041447860800",
+          "title": "伊朗方面说没有安排国际原子能机构核查人员的访问，美国总统特朗普对此回应称：“如果他们说的是真的，我现在就取消所有会面。”",
+          "url": "https://flash.jin10.com/detail/20260624012312735800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：（关于经济）我们正处于与经济萧条相反的状态，油价大幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260623040846901800",
+          "title": "美国总统特朗普：伊朗面临饥饿、食品、药品及通胀问题。",
+          "url": "https://flash.jin10.com/detail/20260624012138450800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的军事基础设施已彻底摧毁，通胀率已达300%。",
+          "url": "https://flash.jin10.com/detail/20260624012047921800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。",
-          "url": "https://flash.jin10.com/detail/20260623005913970800",
+          "title": "美国总统特朗普：在军事力量和能力遭受重创之后，伊朗已不具备有利的谈判地位。",
+          "url": "https://flash.jin10.com/detail/20260624012030463800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "01时52分"
         },
         {
-          "title": "美国总统特朗普：如果伊朗不遵守协议，我将采取必要措施。",
-          "url": "https://flash.jin10.com/detail/20260623040810149800",
+          "title": "美国总统特朗普：如果伊朗想找麻烦，那就去寻求核武器。",
+          "url": "https://flash.jin10.com/detail/20260624011947877800",
           "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡",
-          "url": "https://wallstreetcn.com/livenews/3123007",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：正在与伊朗达成协议，期待后续进展。",
+          "url": "https://flash.jin10.com/detail/20260624011838787800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普称伊朗将同意接受武器核查",
-          "url": "https://flash.jin10.com/detail/20260623044828361800",
+          "title": "美国总统特朗普：当务之急是确保伊朗永远不会拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260624011808259800",
           "source": "金十数据",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国加州起诉特朗普政府，因后者将州级车辆排放规则提交国会以寻求废除。",
-          "url": "https://wallstreetcn.com/livenews/3122953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "特朗普：伊朗已完全同意接受长期核检查 这是进一步谈判的前提",
-          "url": "https://flash.jin10.com/detail/20260623192624565800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "市场消息：美国上诉法院允许特朗普政府扩大“快速遣返”程序的适用范围。",
-          "url": "https://flash.jin10.com/detail/20260623230002400800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
+          "time_info": "01时52分"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
           "url": "https://www.toutiao.com/trending/7654527066271911478/",
           "source": "今日头条",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "美国总统特朗普：油价正在暴跌，世界变得更加安全了。",
-          "url": "https://flash.jin10.com/detail/20260623192538892800",
-          "source": "金十数据",
-          "ranks": [
-            25
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         },
         {
-          "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
-          "url": "https://flash.jin10.com/detail/20260623044248643800",
+          "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
+          "url": "https://flash.jin10.com/detail/20260624011732048800",
           "source": "金十数据",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "01时52分"
         },
         {
-          "title": "鲁比奥开启“高难度海湾之行”：既要力挺特朗普，更要稳住中东盟友",
-          "url": "https://flash.jin10.com/detail/20260623160153876800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
-          "url": "https://wallstreetcn.com/livenews/3123029",
+          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
+          "url": "https://wallstreetcn.com/livenews/3123570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗迫切地需要食品和医疗用品。",
-          "url": "https://flash.jin10.com/detail/20260623192453788800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 33,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "全球龙头齐聚链博会",
-          "url": "https://www.douyin.com/hot/2542993",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 08时04分]"
-        },
-        {
-          "title": "全球资产全线下跌",
-          "url": "https://www.toutiao.com/trending/7654160233615507494/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 20时02分]"
-        },
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，纳指期货跌2%，美光盘前跌超10%，韩股收跌10%，现货黄金失守4100",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
           "url": "https://wallstreetcn.com/articles/3775262",
@@ -554,42 +229,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "宁德时代发布全球首款实证型钠电储能场站解决方案",
-          "url": "https://flash.jin10.com/detail/20260623125032722800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "全球脑机接口×医保创新场景大赛在杭州启动",
-          "url": "https://wallstreetcn.com/livenews/3123074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，韩股收跌10%，纳指期货跌2%，现货黄金失守4100",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "01时52分"
         },
         {
           "title": "刷新世界算力新高度 “灵晟”问鼎全球超算TOP500",
@@ -598,42 +240,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "陈吉宁分别会见法国赛诺菲集团全球首席执行官葛丽鹤、英国汇丰集团主席聂智恒",
-          "url": "https://flash.jin10.com/detail/20260623194617363800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年6月23日",
-          "url": "https://flash.jin10.com/detail/20260623070530009800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "全球资产全线下跌",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%B5%84%E4%BA%A7%E5%85%A8%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -642,549 +251,98 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "【刷新世界算力新高度 “灵晟”问鼎全球超算TOP500】6月23日，德国汉堡ISC2026大会（国际超算大会）发布全球超算Top500榜单：全国产自主研制的“灵晟”超级计算机以2.19EFlops（每秒1018次浮点运算）持续双精度浮点性能登顶全球超算TOP500，时隔九年，我国超算再次排名全球第一。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3123431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.713吨，当前持仓量为1022.204吨。",
-          "url": "https://flash.jin10.com/detail/20260623062151398800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时04分]"
-        },
-        {
-          "title": "“受理到获批仅6个月”！五款新药同日放行 实体瘤CAR-T、双抗ADC迎全球首创",
-          "url": "https://www.cls.cn/detail/2405904",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 06时46分]"
-        },
-        {
-          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
-          "url": "https://www.zhihu.com/question/2049458434265855778",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 23时46分]"
-        },
-        {
-          "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
-          "url": "https://www.zhihu.com/question/2052342121999380803",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
-        },
-        {
-          "title": "彭博股指：SpaceX将于2026年6月24日收盘时被纳入彭博全球股指的大盘股板块。",
-          "url": "https://flash.jin10.com/detail/20260623053237628800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时04分]"
-        },
-        {
-          "title": "做空力量正碾压多头？高盛：对冲基金五周来首次净卖出全球股票",
-          "url": "https://www.cls.cn/detail/2406667",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 23时46分]"
-        },
-        {
-          "title": "澳大利亚6月标普全球制造业PMI初值 51.2，前值50.7。",
-          "url": "https://flash.jin10.com/detail/20260623070002181800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "澳大利亚6月标普全球服务业PMI初值 49.9，前值48.7。",
-          "url": "https://flash.jin10.com/detail/20260623070002173800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "澳大利亚6月标普全球综合PMI初值 49.8，前值48.7。",
-          "url": "https://flash.jin10.com/detail/20260623070002147800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
-          "url": "https://wallstreetcn.com/livenews/3123018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "长飞光纤：全球光纤光缆行业处于上行周期，但部分产品的价格波动幅度存在不确定性",
-          "url": "https://wallstreetcn.com/livenews/3123423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
-          "url": "https://wallstreetcn.com/livenews/3122965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "避险蔓延全球泡沫担忧升温 欧美科技股暴跌加剧",
-          "url": "https://www.cls.cn/detail/2407016",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加84.4吨，当前持仓量为15023.49吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260623064256317800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "重磅登顶！“灵晟”问鼎全球超算TOP500，中国刷新世界算力新高度",
-          "url": "https://flash.jin10.com/detail/20260623193230696800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
           "url": "https://www.zhihu.com/question/2052673340993811952",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "东盟秘书长：东盟和中国应深化合作应对全球挑战",
-          "url": "https://wallstreetcn.com/livenews/3122961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "金十图示：2026年06月22日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260623040552542800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "全球约90%稀土冶炼分离产能在中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%BA%A690%25%E7%A8%80%E5%9C%9F%E5%86%B6%E7%82%BC%E5%88%86%E7%A6%BB%E4%BA%A7%E8%83%BD%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "全球首艘三文鱼养殖工船“苏海1号”今天首捕",
-          "url": "https://wallstreetcn.com/livenews/3123271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "近4000家外资企业追加在华投资",
-          "url": "https://www.toutiao.com/trending/7654165745076538916/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 08时04分]"
-        },
-        {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 20时02分]"
-        },
-        {
-          "title": "我国交通固定资产投资超3.67万亿元",
-          "url": "https://www.toutiao.com/trending/7654481210810338867/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 20时02分]"
-        },
-        {
-          "title": "个别产品年化收益率近140%，银行理财指数化投资受青睐",
-          "url": "https://wallstreetcn.com/livenews/3123071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "01时52分"
         },
         {
-          "title": "加拿大央行：下调银行资本制度并非解决投资偏低的唯一方案。",
-          "url": "https://wallstreetcn.com/livenews/3123552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "报道：韩国总统李在明将与三星讨论区域投资计划",
-          "url": "https://wallstreetcn.com/livenews/3123069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "黑石集团总裁Jon Gray：投资日本（多个）数据中心。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3123060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时04分]"
-        },
-        {
-          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
-          "url": "https://www.zhihu.com/question/2052111489327281889",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 23时46分]"
-        },
-        {
-          "title": "6月23日投资避雷针：5月11日至6月22日期间累计涨幅388.77% 这只人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2406247",
+          "title": "避险蔓延全球泡沫担忧升温 欧美科技股暴跌加剧",
+          "url": "https://www.cls.cn/detail/2407016",
           "source": "财联社热门",
           "ranks": [
-            11,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "做空力量正碾压多头？高盛：对冲基金五周来首次净卖出全球股票",
+          "url": "https://www.cls.cn/detail/2406667",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时32分]"
-        },
-        {
-          "title": "上交所：景顺长城全球半导体芯片投资基金（QDIILOF）将于2026年6月24日开市起停牌，自2026年6月24日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://wallstreetcn.com/livenews/3123411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "01时52分"
         },
         {
-          "title": "意大利埃尼集团Eni批准关于在安哥拉周边海域的31区块和31/21区块离岸石油开发的Greater PAJ Project最终投资决定。",
-          "url": "https://wallstreetcn.com/livenews/3122958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "MiniMax 解禁在即：阿里、米哈游两大战略投资人表示不减持",
-          "url": "https://wallstreetcn.com/livenews/3123152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "巴克莱建议投资者为美国国债收益率走高布局",
-          "url": "https://wallstreetcn.com/livenews/3122998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "报道：SpaceX将首次发行投资级债券，银行家正进行推介",
-          "url": "https://wallstreetcn.com/livenews/3122946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时32分]"
-        },
-        {
-          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
-          "url": "https://wallstreetcn.com/livenews/3122970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
-          "url": "https://flash.jin10.com/detail/20260623010954351800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
-          "url": "https://wallstreetcn.com/livenews/3123013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 08时04分]"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
+          "url": "https://www.zhihu.com/question/2049458434265855778",
           "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 23时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
-          "url": "https://flash.jin10.com/detail/20260623043203412800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "OpenAI：推出“Patch the Planet”项目，这是“Daybreak”倡议的一部分，旨在支持开源软件维护者。",
-          "url": "https://flash.jin10.com/detail/20260623010428902800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623121000175800",
-          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时59分"
-        },
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623120926115800",
-          "source": "金十数据",
+          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
+          "url": "https://www.zhihu.com/question/2052111489327281889",
+          "source": "知乎",
           "ranks": [
-            16
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "加拿大央行行长发出警告，称过度投资美国构成全球金融风险",
+          "url": "https://wallstreetcn.com/livenews/3123580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     }
