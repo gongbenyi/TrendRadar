@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:04:59.094678+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-23T12:59:25.981383+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -120,6 +120,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
           "url": "https://wallstreetcn.com/livenews/3122969",
           "source": "华尔街见闻-快讯",
@@ -175,6 +186,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "芝加哥周末枪击致多人死伤，特朗普借机再推联邦派兵",
+          "url": "https://flash.jin10.com/detail/20260623122219001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美国总统特朗普：油价大幅下跌。",
           "url": "https://wallstreetcn.com/livenews/3123017",
           "source": "华尔街见闻-快讯",
@@ -206,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美国总统特朗普：祝斯塔默一切顺利。",
@@ -321,7 +354,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "全球龙头齐聚链博会",
@@ -335,13 +368,24 @@
           "time_info": "[01时39分 ~ 08时04分]"
         },
         {
+          "title": "宁德时代发布全球首款实证型钠电储能场站解决方案",
+          "url": "https://flash.jin10.com/detail/20260623125032722800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "全球脑机接口×医保创新场景大赛在杭州启动",
           "url": "https://wallstreetcn.com/livenews/3123074",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -352,7 +396,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -410,7 +454,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -421,7 +465,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -432,7 +476,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -465,7 +509,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -479,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "日本准备去格陵兰评估稀土开采，是否说明全球资源争夺已经进入「稀土时代」？",
+          "url": "https://www.zhihu.com/question/2049458434265855778",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）全球股市指数-美洲市场（收盘）",
@@ -495,7 +550,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "近4000家外资企业追加在华投资",
@@ -509,17 +564,6 @@
           "time_info": "[01时39分 ~ 08时04分]"
         },
         {
-          "title": "个别产品年化收益率近140%，银行理财指数化投资受青睐",
-          "url": "https://wallstreetcn.com/livenews/3123071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
           "url": "https://wallstreetcn.com/articles/3775200",
           "source": "华尔街见闻",
@@ -528,8 +572,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时39分 ~ 08时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 12时59分]"
+        },
+        {
+          "title": "个别产品年化收益率近140%，银行理财指数化投资受青睐",
+          "url": "https://wallstreetcn.com/livenews/3123071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "报道：韩国总统李在明将与三星讨论区域投资计划",
@@ -538,7 +593,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -555,6 +610,17 @@
           "time_info": "[06时46分 ~ 08时04分]"
         },
         {
+          "title": "6月23日投资避雷针：5月11日至6月22日期间累计涨幅388.77% 这只人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2406247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "意大利埃尼集团Eni批准关于在安哥拉周边海域的31区块和31/21区块离岸石油开发的Greater PAJ Project最终投资决定。",
           "url": "https://wallstreetcn.com/livenews/3122958",
           "source": "华尔街见闻-快讯",
@@ -564,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "MiniMax 解禁在即：阿里、米哈游两大战略投资人表示不减持",
+          "url": "https://wallstreetcn.com/livenews/3123152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "巴克莱建议投资者为美国国债收益率走高布局",
@@ -591,7 +668,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -603,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "市场消息：谷歌DeepMind与A24宣布达成研究合作关系。",
@@ -653,6 +741,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
