@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T00:20:19.858728+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T02:51:40.568276+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -15,19 +15,86 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时51分"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
+        },
+        {
+          "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
+          "url": "https://flash.jin10.com/detail/20260625022804523800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
+          "url": "https://flash.jin10.com/detail/20260625022715934800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正同意我想要的一切，而且他们别无选择。",
+          "url": "https://flash.jin10.com/detail/20260625022323219800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢其中的几个议员，但我想你们知道他们是谁。",
+          "url": "https://flash.jin10.com/detail/20260625022306102800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：与立法者进行了很好的会晤。",
+          "url": "https://flash.jin10.com/detail/20260625022152928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
@@ -61,6 +128,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美国总统特朗普在国会山宣称：伊朗做出重大让步。 进展非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3124166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中标南京中山陵景区配套酒店项目投资数百万无法开业，出租方：无法办理消防许可",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33434421",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
+        },
+        {
+          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
+          "url": "https://www.zhihu.com/question/2052784601471493284",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
+        },
+        {
+          "title": "索尼影业对巨幕初创公司Cosm投资1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3124186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
+          "url": "https://wallstreetcn.com/livenews/3124130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "SpaceX投资者Andreessen：“星舰”为太空AI发展铺平了道路",
+          "url": "https://flash.jin10.com/detail/20260625021429927800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
+          "url": "https://wallstreetcn.com/livenews/3124175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "知名投资人提示科技股泡沫破裂风险",
+          "url": "https://www.toutiao.com/trending/7654943006419586579/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "Prosus将在法国AI公司Alan投资4亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3124164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
@@ -80,6 +254,18 @@
           "time_info": "00时20分"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
+        },
+        {
           "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
           "url": "https://wallstreetcn.com/articles/3775350",
           "source": "华尔街见闻",
@@ -87,30 +273,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
         },
         {
           "title": "全球芯片股灾的暴风眼：韩股暴跌背后的“各种鬼故事”",
           "url": "https://wallstreetcn.com/articles/3775352",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
         },
         {
           "title": "金十图示：2026年06月24日（周三）全球股市指数-欧洲市场",
@@ -126,41 +302,69 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
       "titles": [
         {
-          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
-          "url": "https://www.zhihu.com/question/2052784601471493284",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "中标南京中山陵景区配套酒店项目投资数百万无法开业，出租方：无法办理消防许可",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33434421",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
-          "url": "https://wallstreetcn.com/livenews/3124130",
+          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3124193",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时20分"
+          "time_info": "02时51分"
+        },
+        {
+          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
+          "url": "https://flash.jin10.com/detail/20260625021946400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
+          "url": "https://wallstreetcn.com/livenews/3124168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://flash.jin10.com/detail/20260625020749576800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
@@ -173,11 +377,12 @@
           "url": "https://www.douyin.com/hot/2546511",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时51分]"
         }
       ]
     }
