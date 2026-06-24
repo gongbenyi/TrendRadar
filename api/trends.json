@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T15:39:11.227654+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-06-24T18:47:38.358743+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
@@ -30,6 +30,17 @@
           "time_info": "[01时52分 ~ 07时08分]"
         },
         {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "路透社/益普索民调显示，美国总统特朗普支持率跌至34%，与他第二个任期内的最低水平持平。",
           "url": "https://flash.jin10.com/detail/20260624014333064800",
           "source": "金十数据",
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -115,6 +126,19 @@
           "time_info": "[01时52分 ~ 04时02分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 18时47分]"
+        },
+        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
@@ -131,18 +155,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时39分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -169,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
@@ -570,7 +593,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
@@ -632,6 +655,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
           "url": "https://wallstreetcn.com/livenews/3123657",
           "source": "华尔街见闻-快讯",
@@ -676,22 +710,23 @@
           "time_info": "[11时24分 ~ 15时39分]"
         },
         {
+          "title": "如何评价《英雄联盟》2025 全球总决赛 T1 冠军皮肤？",
+          "url": "https://www.zhihu.com/question/2052878027915269436",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 18时47分]"
+        },
+        {
           "title": "全球股市波动加剧，韩股上演“过山车行情”，美元触及七个月高位，黄金跌超1.3%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "如何评价《英雄联盟》2025 全球总决赛 T1 冠军皮肤？",
-          "url": "https://www.zhihu.com/question/2052878027915269436",
-          "source": "知乎",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -732,6 +767,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
+          "url": "https://wallstreetcn.com/articles/3775350",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "金十图示：2026年06月24日（周三）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260624110236900800",
           "source": "金十数据",
@@ -760,7 +806,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -771,7 +817,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -801,7 +847,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "“加息噩梦”真要来了？高盛投资主管：7月份概率较大！",
@@ -841,24 +887,25 @@
           "time_info": "[07时08分 ~ 11时24分]"
         },
         {
+          "title": "中标南京中山陵景区配套酒店项目投资数百万无法开业，出租方：无法办理消防许可",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33434421",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 18时47分]"
+        },
+        {
           "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
           "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
           "ranks": [
             8,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 15时39分]"
-        },
-        {
-          "title": "中标南京中山陵景区配套酒店项目投资数百万无法开业，出租方：无法办理消防许可",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33434421",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -872,8 +919,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 18时47分]"
         },
         {
           "title": "市场消息：美国总统特朗普在谈及就业市场情况时，称礼来(LLY.N)是“伟大的制药公司”，还提及礼来的投资。",
@@ -885,6 +932,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "昀冢科技：控股子公司拟设立项目公司实施高性能多层片式陶瓷电容器生产项目，拟投资总额为15亿元",
+          "url": "https://wallstreetcn.com/livenews/3123945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "红板科技：拟投资不超9亿元建设高阶HDI精密电路板生产线智能化改造项目",
+          "url": "https://wallstreetcn.com/livenews/3123943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "加拿大央行行长发出警告，称过度投资美国构成全球金融风险",
@@ -929,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "【A股今年打新有多赚钱？安永：首日平均回报率233%，为近五年最高】安永发布的《中国内地和香港IPO市场报告》显示，2026年上半年，A股经历了一轮显著的估值修复，宏观环境改善、投资者信心提升，市盈率较去年有所上升。A股IPO市场未出现破发，平均首日回报率为233%，位居近五年榜首。（中新经纬）",
+          "url": "https://wallstreetcn.com/livenews/3123915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
@@ -980,11 +1060,12 @@
           "url": "https://wallstreetcn.com/articles/3775315",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 18时47分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
