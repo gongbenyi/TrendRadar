@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T13:04:41.349837+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-06-25T16:59:02.958405+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
@@ -121,6 +132,40 @@
           "time_info": "06时16分"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时59分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
           "url": "https://flash.jin10.com/detail/20260625043436507800",
           "source": "金十数据",
@@ -149,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -182,7 +227,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -237,7 +282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -262,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3124531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美国总统特朗普：与立法者进行了很好的会晤。",
@@ -292,7 +348,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -317,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：希望与伊朗的谈判能取得积极成果。 我们并不想不惜一切代价与伊朗达成协议。 霍尔木兹海峡不属于任何国家。 霍尔木兹海峡是国际水道。 对霍尔木兹海峡通行收费将开创不可接受的先例。 特朗普在通行收费问题上的立场一贯明确无误。",
+          "url": "https://wallstreetcn.com/livenews/3124528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
@@ -372,17 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
@@ -457,7 +513,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -487,7 +543,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "中标南京中山陵景区配套酒店项目投资数百万无法开业，出租方：无法办理消防许可",
@@ -573,6 +629,18 @@
           "time_info": "[08时10分 ~ 13时04分]"
         },
         {
+          "title": "6月25日投资避雷针：这两家上市公司董事长被刑事拘留",
+          "url": "https://www.cls.cn/detail/2408581",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时59分]"
+        },
+        {
           "title": "知名投资人提示科技股泡沫破裂风险",
           "url": "https://www.toutiao.com/trending/7654943006419586579/",
           "source": "今日头条",
@@ -582,17 +650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 04时47分]"
-        },
-        {
-          "title": "6月25日投资避雷针：这两家上市公司董事长被刑事拘留",
-          "url": "https://www.cls.cn/detail/2408581",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "索尼影业对巨幕初创公司Cosm投资1亿美元。",
@@ -615,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
+          "url": "https://wallstreetcn.com/livenews/3124535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "英国央行货币政策委员会（MPC）成员Swati Dhingra警告称：高利率造成绿色创新放缓。 较高的利率通过减缓对绿色技术的投资，损害了应对气候变化的进展。",
@@ -697,7 +765,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -727,6 +795,17 @@
           "time_info": "[00时20分 ~ 08时10分]"
         },
         {
+          "title": "链博会助力全球产业链更有韧性",
+          "url": "https://www.douyin.com/hot/2547328",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
           "url": "https://www.cls.cn/detail/2407855",
           "source": "财联社热门",
@@ -750,6 +829,18 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
+          "title": "油价暴跌恐重塑利率预期？“全球资产定价之锚”一夜跳水！",
+          "url": "https://www.cls.cn/detail/2408599",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时59分]"
+        },
+        {
           "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
           "url": "https://wallstreetcn.com/livenews/3124226",
           "source": "华尔街见闻-快讯",
@@ -762,6 +853,17 @@
           "time_info": "[04时47分 ~ 06时16分]"
         },
         {
+          "title": "全球同日三次强震存在联系吗",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E5%90%8C%E6%97%A5%E4%B8%89%E6%AC%A1%E5%BC%BA%E9%9C%87%E5%AD%98%E5%9C%A8%E8%81%94%E7%B3%BB%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
           "url": "https://wallstreetcn.com/livenews/3124250",
           "source": "华尔街见闻-快讯",
@@ -771,17 +873,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
-        },
-        {
-          "title": "油价暴跌恐重塑利率预期？“全球资产定价之锚”一夜跳水！",
-          "url": "https://www.cls.cn/detail/2408599",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年6月25日",
@@ -820,7 +911,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -832,6 +923,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
@@ -880,6 +982,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
+          "url": "https://flash.jin10.com/detail/20260625020749576800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -900,28 +1030,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。",
-          "url": "https://flash.jin10.com/detail/20260625020749576800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 16时59分]"
         }
       ]
     }
