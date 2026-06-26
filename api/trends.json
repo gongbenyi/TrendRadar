@@ -1,8 +1,208 @@
 {
-  "generated_at": "2026-06-26T11:32:29.178969+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-06-26T15:51:03.018126+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "全球",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "如何评价《2026 全球独角兽榜》中米哈游估值 2000 亿元，位列中国十大独角兽企业？",
+          "url": "https://www.zhihu.com/question/2053562499140735507",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            10,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时32分]"
+        },
+        {
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 15时51分]"
+        },
+        {
+          "title": "中国电力凭什么是“全球唯一”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B%E5%87%AD%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
+          "title": "全球咨询公司ICF International：美国电网正以惊人的速度扩张，到2030年，其新增规模可能相当于该国目前最大的区域电力系统。",
+          "url": "https://flash.jin10.com/detail/20260626010712558800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
+          "url": "https://wallstreetcn.com/articles/3775516",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
+          "title": "佟璐：全球第五也不错",
+          "url": "https://www.douyin.com/hot/2547950",
+          "source": "抖音",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
+          "title": "市场消息：大众集团未来几年内全球将裁员多达10万名员工。",
+          "url": "https://flash.jin10.com/detail/20260626151838633800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少6.28吨，当前持仓量为1007.075吨。",
+          "url": "https://flash.jin10.com/detail/20260626062146303800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加73.13吨，当前持仓量为14991.13吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260626062053964800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "市场消息：微软正在全球范围内上调Xbox价格。",
+          "url": "https://flash.jin10.com/detail/20260626004914322800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260626110554776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260626151248218800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260626040616583800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "金十图示：2026年06月26日（周五）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260626110049721800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "2026全球独角兽榜单出炉",
+          "url": "https://www.baidu.com/s?wd=2026%E5%85%A8%E7%90%83%E7%8B%AC%E8%A7%92%E5%85%BD%E6%A6%9C%E5%8D%95%E5%87%BA%E7%82%89",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时58分"
+        },
+        {
+          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 14,
@@ -68,6 +268,18 @@
           "time_info": "[05时47分 ~ 07时17分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
@@ -109,18 +321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -171,173 +372,8 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "如何评价《2026 全球独角兽榜》中米哈游估值 2000 亿元，位列中国十大独角兽企业？",
-          "url": "https://www.zhihu.com/question/2053562499140735507",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            10,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时32分]"
-        },
-        {
-          "title": "全球咨询公司ICF International：美国电网正以惊人的速度扩张，到2030年，其新增规模可能相当于该国目前最大的区域电力系统。",
-          "url": "https://flash.jin10.com/detail/20260626010712558800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
-          "url": "https://wallstreetcn.com/articles/3775531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时32分]"
-        },
-        {
-          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
-          "url": "https://wallstreetcn.com/articles/3775516",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少6.28吨，当前持仓量为1007.075吨。",
-          "url": "https://flash.jin10.com/detail/20260626062146303800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加73.13吨，当前持仓量为14991.13吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260626062053964800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "市场消息：微软正在全球范围内上调Xbox价格。",
-          "url": "https://flash.jin10.com/detail/20260626004914322800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "金十图示：2026年06月26日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260626110554776800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3124851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "金十图示：2026年06月25日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260626040616583800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "佟璐：全球第五也不错",
-          "url": "https://www.douyin.com/hot/2547950",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "金十图示：2026年06月26日（周五）全球富豪榜",
-          "url": "https://flash.jin10.com/detail/20260626110049721800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "2026全球独角兽榜单出炉",
-          "url": "https://www.baidu.com/s?wd=2026%E5%85%A8%E7%90%83%E7%8B%AC%E8%A7%92%E5%85%BD%E6%A6%9C%E5%8D%95%E5%87%BA%E7%82%89",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
-          "url": "https://wallstreetcn.com/livenews/3124752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
@@ -361,11 +397,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 15时51分]"
         },
         {
           "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
@@ -385,7 +422,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -401,6 +438,40 @@
           "time_info": "07时17分"
         },
         {
+          "title": "厦钨新能：拟在香港新设全资子公司并由其合资设立控股子公司建设马来西亚年产10,000吨锂离子正极材料项目，项目总投资约6,458万美元。",
+          "url": "https://wallstreetcn.com/livenews/3125125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "6月26日投资避雷针：5月7日至6月25日累计上涨277.95% MLCC大牛股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2409702",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
+          "title": "“十五五”能源重点项目和新业态投资将超20万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33457809",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 15时51分]"
+        },
+        {
           "title": "报道：三星将在10年内投资1000万亿韩元",
           "url": "https://wallstreetcn.com/livenews/3124881",
           "source": "华尔街见闻-快讯",
@@ -412,15 +483,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "6月26日投资避雷针：5月7日至6月25日累计上涨277.95% MLCC大牛股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2409702",
-          "source": "财联社热门",
+          "title": "亚洲科技股大跌，部分投资者“卖金补损”",
+          "url": "https://flash.jin10.com/detail/20260626151537989800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "15时51分"
         },
         {
           "title": "央行：为促进中非贸易投资便利化，中国人民银行决定授权南非标准银行有限公司和中国工商银行股份有限公司担任非洲人民币联合清算行。",
@@ -429,7 +500,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -440,7 +511,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -493,7 +564,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -584,6 +655,18 @@
           "time_info": "[05时47分 ~ 07时17分]"
         },
         {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
@@ -593,17 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -629,20 +701,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 15时51分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -651,7 +724,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
