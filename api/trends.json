@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T18:06:46.718656+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-27T20:09:24.957730+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -41,6 +41,18 @@
           "time_info": "02时51分"
         },
         {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 20时09分]"
+        },
+        {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
           "url": "https://flash.jin10.com/detail/20260627022141001800",
           "source": "金十数据",
@@ -63,16 +75,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            12
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 18时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
@@ -99,6 +110,30 @@
           "time_info": "[12时52分 ~ 15时49分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
+          "url": "https://flash.jin10.com/detail/20260627172958574800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
+          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
+          "url": "https://wallstreetcn.com/livenews/3125565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
           "url": "https://wallstreetcn.com/livenews/3125418",
           "source": "华尔街见闻-快讯",
@@ -111,15 +146,15 @@
           "time_info": "[02时51分 ~ 04时46分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
-          "url": "https://flash.jin10.com/detail/20260627172958574800",
-          "source": "金十数据",
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时09分"
         },
         {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
@@ -131,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
-          "url": "https://wallstreetcn.com/livenews/3125565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "奥巴马回应总被特朗普骂",
@@ -245,127 +269,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
-          "url": "https://flash.jin10.com/detail/20260627021924211800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
-          "url": "https://wallstreetcn.com/livenews/3125429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 04时46分]"
-        },
-        {
-          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3125428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时51分 ~ 04时46分]"
-        },
-        {
-          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3125443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 06时12分]"
-        },
-        {
-          "title": "OpenAI发布GPT5.6",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
-        },
-        {
-          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
-          "url": "https://wallstreetcn.com/articles/3775589",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
-          "url": "https://flash.jin10.com/detail/20260626233456947800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260627020005789800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时51分"
-        },
-        {
-          "title": "OpenAI发布GPT5.6",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%8F%91%E5%B8%83GPT5.6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -435,6 +340,17 @@
           "time_info": "[06时12分 ~ 08时05分]"
         },
         {
+          "title": "火箭军老兵自信谈打击范围覆盖全球",
+          "url": "https://www.toutiao.com/trending/7654963211921539099/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
           "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
           "url": "https://wallstreetcn.com/livenews/3125490",
           "source": "华尔街见闻-快讯",
@@ -446,15 +362,15 @@
           "time_info": "08时05分"
         },
         {
-          "title": "火箭军老兵自信谈打击范围覆盖全球",
-          "url": "https://www.toutiao.com/trending/7654963211921539099/",
-          "source": "今日头条",
+          "title": "厦门一女子检出全球从未记录新基因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E6%A3%80%E5%87%BA%E5%85%A8%E7%90%83%E4%BB%8E%E6%9C%AA%E8%AE%B0%E5%BD%95%E6%96%B0%E5%9F%BA%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时09分"
         },
         {
           "title": "IMF首席经济学家：全球经济依然牢牢地“以美元为中心”",
@@ -466,6 +382,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "近期全球多地强震意味着什么",
+          "url": "https://www.toutiao.com/trending/7655639038540382234/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://flash.jin10.com/detail/20260627021924211800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
+          "url": "https://wallstreetcn.com/livenews/3125429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时46分]"
+        },
+        {
+          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3125428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时51分 ~ 04时46分]"
+        },
+        {
+          "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3125443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 15时49分]"
+        },
+        {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美媒：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260627020005789800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%8F%91%E5%B8%83GPT5.6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -499,15 +545,40 @@
           "time_info": "[00时15分 ~ 12时52分]"
         },
         {
+          "title": "DeepSeek发布DSpark",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
           "url": "https://wallstreetcn.com/livenews/3125564",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            15,
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时09分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -519,28 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
-          "url": "https://www.zhihu.com/question/2050591443664779181",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "DeepSeek发布DSpark",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83DSpark%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "DeepSeek新晋独角兽第一",
