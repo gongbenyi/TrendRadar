@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:02:10.881505+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-06-28T08:02:20.533149+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时02分]"
-        },
-        {
-          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
-          "url": "https://flash.jin10.com/detail/20260628050053611800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
-          "url": "https://flash.jin10.com/detail/20260628045321794800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -48,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -59,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -68,11 +46,24 @@
           "source": "金十数据",
           "ranks": [
             1,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 08时02分]"
+        },
+        {
+          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
+          "url": "https://flash.jin10.com/detail/20260628050053611800",
+          "source": "金十数据",
+          "ranks": [
+            1,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时07分 ~ 06时02分]"
+          "time_info": "[06时02分 ~ 08时02分]"
         },
         {
           "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
@@ -80,11 +71,37 @@
           "source": "金十数据",
           "ranks": [
             2,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 08时02分]"
+        },
+        {
+          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
+          "url": "https://flash.jin10.com/detail/20260628045321794800",
+          "source": "金十数据",
+          "ranks": [
+            2,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时07分 ~ 06时02分]"
+          "time_info": "[06时02分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
+          "url": "https://flash.jin10.com/detail/20260628033654937800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 08时02分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -99,28 +116,17 @@
           "time_info": "[00时04分 ~ 02时02分]"
         },
         {
-          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
-          "url": "https://flash.jin10.com/detail/20260628033654937800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 06时02分]"
-        },
-        {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
           "url": "https://www.toutiao.com/trending/7656026817400475182/",
           "source": "今日头条",
           "ranks": [
             28,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 08时02分]"
         },
         {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
@@ -128,28 +134,30 @@
           "source": "金十数据",
           "ranks": [
             10,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时07分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时07分 ~ 08时02分]"
         },
         {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
           "url": "https://flash.jin10.com/detail/20260628041744920800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 08时02分]"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "TCL李东生：全球供应链加速重构，中国有望在维护产业链供应链稳定中发挥更加积极的作用",
@@ -159,8 +167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "全球企业认准中国完整产业链",
@@ -184,6 +192,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 04时07分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "佛得角奇迹：全球化足球的成功密码",
@@ -211,19 +230,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -245,16 +265,31 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "腾讯全球总部「企鹅岛」开建，总投资达 370 亿元，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/466045401",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 08时02分]"
+        },
+        {
           "title": "经纬度：预计投资超20万亿元，中国加快建设新型能源体系",
           "url": "https://m.thepaper.cn/newsDetail_forward_33459893",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -264,21 +299,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时02分]"
-        },
-        {
-          "title": "腾讯全球总部「企鹅岛」开建，总投资达 370 亿元，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/466045401",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 08时02分]"
         }
       ]
     },
@@ -291,22 +313,24 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 08时02分]"
         }
       ]
     }
