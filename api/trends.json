@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T21:43:16.435231+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-06-28T23:17:48.398737+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 23时17分]"
         },
         {
           "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
@@ -45,17 +45,6 @@
           "time_info": "[00时04分 ~ 16时21分]"
         },
         {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 08时02分]"
-        },
-        {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
           "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
           "source": "澎湃新闻",
@@ -63,11 +52,12 @@
             19,
             15,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 23时17分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -79,8 +69,32 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 23时17分]"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时45分 ~ 21时43分]"
+          "time_info": "[00时04分 ~ 08时02分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 23时17分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -94,6 +108,28 @@
           "time_info": "[00时04分 ~ 08时02分]"
         },
         {
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3125689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-28）",
           "url": "https://flash.jin10.com/detail/20260628181334156800",
           "source": "金十数据",
@@ -103,18 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 21时43分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -205,6 +229,17 @@
           "time_info": "[04时07分 ~ 08时02分]"
         },
         {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时17分]"
+        },
+        {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
           "url": "https://flash.jin10.com/detail/20260628025551765800",
           "source": "金十数据",
@@ -216,17 +251,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时07分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
@@ -273,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
+          "url": "https://wallstreetcn.com/livenews/3125682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
@@ -365,11 +400,23 @@
           "url": "https://wallstreetcn.com/livenews/3125676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时17分]"
+        },
+        {
+          "title": "专家辟谣全球进入地震活跃期",
+          "url": "https://www.toutiao.com/trending/7655569850642943531/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时17分]"
         },
         {
           "title": "张艺兴新专辑全球试听会",
@@ -384,15 +431,16 @@
           "time_info": "[00时04分 ~ 04时07分]"
         },
         {
-          "title": "专家辟谣全球进入地震活跃期",
-          "url": "https://www.toutiao.com/trending/7655569850642943531/",
-          "source": "今日头条",
+          "title": "全球芯片LOF：6月29日开市起停牌 10:30起复牌",
+          "url": "https://flash.jin10.com/detail/20260628200208750800",
+          "source": "金十数据",
           "ranks": [
-            11
+            21,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "time_info": "[21时43分 ~ 23时17分]"
         },
         {
           "title": "国际清算银行：需要协调全球监管以增强金融稳定性。",
@@ -404,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
-        },
-        {
-          "title": "全球芯片LOF：6月29日开市起停牌 10:30起复牌",
-          "url": "https://flash.jin10.com/detail/20260628200208750800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
@@ -442,7 +479,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -471,6 +508,19 @@
           "time_info": "[02时02分 ~ 08时02分]"
         },
         {
+          "title": "中国版「星链」运营方启动新一轮增资，设 50 亿元投资门槛，明确拒绝境外资本，低轨卫星互联网为什么重要？",
+          "url": "https://www.zhihu.com/question/2053410817152902707",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 23时17分]"
+        },
+        {
           "title": "经纬度：预计投资超20万亿元，中国加快建设新型能源体系",
           "url": "https://m.thepaper.cn/newsDetail_forward_33459893",
           "source": "澎湃新闻",
@@ -484,16 +534,15 @@
           "time_info": "[00时04分 ~ 08时02分]"
         },
         {
-          "title": "中国版「星链」运营方启动新一轮增资，设 50 亿元投资门槛，明确拒绝境外资本，低轨卫星互联网为什么重要？",
-          "url": "https://www.zhihu.com/question/2053410817152902707",
-          "source": "知乎",
+          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
+          "url": "https://flash.jin10.com/detail/20260628213314042800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 21时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -501,11 +550,23 @@
           "source": "金十数据",
           "ranks": [
             11,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 23时17分]"
+        },
+        {
+          "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
+          "url": "https://wallstreetcn.com/livenews/3125681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "韩国总统办公室：三星、SK海力士周一将公布重大投资计划",
@@ -560,8 +621,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 23时17分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -582,11 +643,12 @@
           "source": "微博",
           "ranks": [
             19,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时06分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[19时06分 ~ 23时17分]"
         }
       ]
     },
@@ -602,8 +664,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 23时17分]"
         },
         {
           "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
