@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:49:28.061708+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-06-29T18:54:28.261172+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "投资",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "券商“把脉”下半年可转债市场投资主线，看好科技板块机遇",
@@ -41,7 +41,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -63,9 +63,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "韩媒：三星和SK集团预计将宣布高达2000万亿韩元的投资计划",
@@ -109,9 +120,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "三星电子和 SK 海力士将发布大规模投资计划，规模预超 2000 万亿韩元，这一行动释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2054848792436762180",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "6月29日投资避雷针：这两家上市公司明起将被实施ST",
@@ -120,7 +142,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -142,7 +164,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -164,9 +186,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "旗滨集团：截至目前，公司未针对芯片封装玻璃项目投资建设量产产线，不存在量产业务及对应营收。未来该业务在公司的产业化进程存在重大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3126072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "景顺：主权投资者越来越注重多元化并开始转向能源资产",
@@ -186,7 +219,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -208,7 +241,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -219,7 +252,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -230,9 +263,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "旗滨集团：公司未针对芯片封装玻璃项目投资建设量产产线",
+          "url": "https://flash.jin10.com/detail/20260629181247342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "韩国总统李在明：将投资于国家西南地区的芯片生产基地。",
@@ -241,7 +285,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -260,7 +304,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "印度移民在全球范围内的负面讨论增多，其背后原因是什么？",
@@ -307,7 +351,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -353,7 +397,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -364,7 +408,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -375,7 +419,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -397,7 +441,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         },
@@ -408,9 +452,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "马来西亚官员：全球能源市场动荡将推高食品价格",
+          "url": "https://wallstreetcn.com/livenews/3126065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "国际清算银行警告全球经济面临多重压力",
@@ -433,12 +488,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "一台空调背后的全球化逻辑",
+          "url": "https://www.toutiao.com/trending/7656728309824228906/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "专家预计全球央行加息节奏将出现反复",
+          "url": "https://www.toutiao.com/trending/7656437162279452713/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -566,9 +643,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -616,7 +704,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -629,6 +717,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时08分 ~ 13时49分]"
+        },
+        {
+          "title": "谷歌云将提供用于科学研究的专业AI模型",
+          "url": "https://flash.jin10.com/detail/20260629181622032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     }
