@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T17:32:50.081943+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-06-30T20:08:04.073236+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时35分 ~ 13时03分]"
+        },
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时07分 ~ 20时08分]"
         },
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -147,6 +158,18 @@
           "time_info": "[03时55分 ~ 05时25分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 20时08分]"
+        },
+        {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
           "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
           "source": "凤凰网",
@@ -157,6 +180,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 17时32分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "特朗普“和粉丝吵翻了”",
@@ -227,17 +261,6 @@
           "time_info": "03时55分"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
           "url": "https://flash.jin10.com/detail/20260630032736175800",
           "source": "金十数据",
@@ -249,15 +272,15 @@
           "time_info": "03时55分"
         },
         {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
+          "title": "特朗普政府收紧医疗补助 遭半数州集体起诉",
+          "url": "https://wallstreetcn.com/livenews/3126752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "20时08分"
         },
         {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
@@ -406,7 +429,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
@@ -431,24 +454,13 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
-          "title": "中欧贸易投资磋商机制首次会议发表联合声明",
-          "url": "https://news.ifeng.com/c/8uMyNgMWxdJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
           "title": "晋控电力：拟78.31亿元投资建设塔山三期2×100万千瓦煤电项目",
           "url": "https://flash.jin10.com/detail/20260630172552351800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -459,9 +471,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "中欧贸易投资磋商机制首次会议发表联合声明",
+          "url": "https://news.ifeng.com/c/8uMyNgMWxdJ",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "惠誉评级：亚洲投资者面临加剧的人工智能、私人信贷和主权风险。",
@@ -470,7 +494,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -492,7 +516,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -531,6 +555,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "盛科通信：国家集成电路产业投资基金股份有限公司在2026年6月17日至2026年6月30日期间，通过集中竞价方式减持公司股份246万股，占公司总股本的比例由11.60%减少至11.00%。",
+          "url": "https://wallstreetcn.com/livenews/3126746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "市场消息：英国政府将推出国防投资计划，拟在未来四年投入约50亿英镑发展无人机，并加速人工智能与自主系统在军队中的应用，以提升应对现代战争能力。",
           "url": "https://flash.jin10.com/detail/20260630054142027800",
           "source": "金十数据",
@@ -559,9 +594,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "盛科通信：国家集成电路产业投资基金6月17日至6月30日期间减持246万股公司股份",
+          "url": "https://flash.jin10.com/detail/20260630191931548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "沙特公共投资基金：2025年总资产增长5%，增至4.54万亿里亚尔，2024年为4.32万亿里亚尔。",
@@ -570,7 +616,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -592,7 +638,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -621,9 +667,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少45.01吨，当前持仓量为14902.53吨。欢迎点击查看数据中心...",
@@ -676,7 +722,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -759,11 +805,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -805,18 +852,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 20时08分]"
+        },
+        {
+          "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
+          "url": "https://flash.jin10.com/detail/20260630193124737800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "美国金融数据和分析服务提供商FactSet宣布与谷歌云建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260630193101223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
