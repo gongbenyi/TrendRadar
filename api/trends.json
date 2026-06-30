@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T20:08:04.073236+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-30T23:26:58.502216+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -25,11 +25,12 @@
           "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时07分 ~ 20时08分]"
+          "appearance_count": 3,
+          "time_info": "[20时07分 ~ 23时26分]"
         },
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -146,6 +147,18 @@
           "time_info": "[03时55分 ~ 05时25分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
+        {
           "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
           "url": "https://flash.jin10.com/detail/20260630033555569800",
           "source": "金十数据",
@@ -158,16 +171,15 @@
           "time_info": "[03时55分 ~ 05时25分]"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时26分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -180,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 17时32分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "特朗普“和粉丝吵翻了”",
@@ -250,6 +251,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "美国法院公布一批裁决 特朗普“两胜两负”",
+          "url": "https://flash.jin10.com/detail/20260630225819996800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
           "url": "https://flash.jin10.com/detail/20260630032916343800",
           "source": "金十数据",
@@ -278,9 +290,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院刚刚取消了对政治支出的限制！这是共和党的重大胜利，更重要的是，也是美国宪法第一修正案的重大胜利！",
+          "url": "https://flash.jin10.com/detail/20260630225727621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
+          "url": "https://wallstreetcn.com/livenews/3126889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
@@ -292,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
@@ -358,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
@@ -429,7 +485,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
@@ -454,6 +510,18 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
+          "title": "中欧贸易投资磋商机制首次会议发表联合声明",
+          "url": "https://news.ifeng.com/c/8uMyNgMWxdJ",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
+        {
           "title": "晋控电力：拟78.31亿元投资建设塔山三期2×100万千瓦煤电项目",
           "url": "https://flash.jin10.com/detail/20260630172552351800",
           "source": "金十数据",
@@ -476,18 +544,6 @@
           "time_info": "17时32分"
         },
         {
-          "title": "中欧贸易投资磋商机制首次会议发表联合声明",
-          "url": "https://news.ifeng.com/c/8uMyNgMWxdJ",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时08分]"
-        },
-        {
           "title": "惠誉评级：亚洲投资者面临加剧的人工智能、私人信贷和主权风险。",
           "url": "https://flash.jin10.com/detail/20260630172436606800",
           "source": "金十数据",
@@ -508,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)将投资10亿美元，将人工智能工程师嵌入客户团队。",
+          "url": "https://flash.jin10.com/detail/20260630230028507800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "永和股份：全资子公司投资19.14亿元建设邵武永和氟材料及中试基地项目",
@@ -555,13 +622,24 @@
           "time_info": "13时03分"
         },
         {
+          "title": "美联储哈玛克：人工智能投资对通胀施加了上行压力。",
+          "url": "https://flash.jin10.com/detail/20260630225600999800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "盛科通信：国家集成电路产业投资基金股份有限公司在2026年6月17日至2026年6月30日期间，通过集中竞价方式减持公司股份246万股，占公司总股本的比例由11.60%减少至11.00%。",
           "url": "https://wallstreetcn.com/livenews/3126746",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -605,7 +683,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -646,8 +724,20 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "深圳“鹏城云脑Ⅲ”存储性能登全球榜首",
+          "url": "https://www.cls.cn/detail/2412964",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3126312",
@@ -659,17 +749,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时55分]"
-        },
-        {
-          "title": "深圳“鹏城云脑Ⅲ”存储性能登全球榜首",
-          "url": "https://www.cls.cn/detail/2412964",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少45.01吨，当前持仓量为14902.53吨。欢迎点击查看数据中心...",
@@ -760,6 +839,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "Token“降价潮”将席卷全球吗",
+          "url": "https://www.toutiao.com/trending/7657110600850030633/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "立讯精密：拟全球发售约3.83亿股H股，发售价不超63.28港元",
           "url": "https://wallstreetcn.com/livenews/3126332",
           "source": "华尔街见闻-快讯",
@@ -788,6 +878,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时26分]"
+        },
+        {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
@@ -799,18 +901,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 05时25分]"
-        },
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时08分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -852,7 +942,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -863,8 +953,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 20时08分]"
+          "appearance_count": 7,
+          "time_info": "[08时03分 ~ 23时26分]"
+        },
+        {
+          "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
+          "url": "https://wallstreetcn.com/livenews/3126892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
@@ -873,7 +974,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -884,7 +985,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -903,7 +1004,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
@@ -915,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "OpenAI研发出新方案，可将推理成本减半",
+          "url": "https://wallstreetcn.com/livenews/3126866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }
