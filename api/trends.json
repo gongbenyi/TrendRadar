@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:56:50.056982+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-03T20:08:49.686978+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
@@ -49,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 20时08分]"
         },
         {
           "title": "王冰汝谈特朗普一年躺赚20亿美元",
@@ -98,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -252,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "德国总理默茨：（就特朗普相关言论）将在下周举行的北约峰会上提及德国和欧洲提高对北约贡献的问题。",
+          "url": "https://flash.jin10.com/detail/20260703194631320800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "美国总统特朗普：赞赏美光和戴尔科技。 昨天与美光科技（高管）说过话，那可是一家炙手可热的公司。",
@@ -422,7 +445,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。",
@@ -475,7 +498,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -581,13 +604,24 @@
           "time_info": "14时32分"
         },
         {
+          "title": "东方财富：以自有资金出资2亿元参与投资由上海云锋新创投资管理有限公司作为管理人、上海麒鹏投资管理有限公司作为普通合伙人的上海云锋元创私募基金中心（有限合伙）。",
+          "url": "https://wallstreetcn.com/livenews/3128668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "有研粉材：中国有研科技集团有限公司及有研鼎盛投资发展有限公司拟询价转让4.99%股份。",
           "url": "https://wallstreetcn.com/livenews/3128574",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -628,7 +662,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.996吨，当前持仓量为1001.366吨。",
@@ -653,6 +687,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时04分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 20时08分]"
         },
         {
           "title": "全球AI疯狂重创千元机市场",
@@ -688,17 +734,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "“全球最大杠杆ETF”的威力：“两倍海力士ETF”不仅影响海力士，甚至是整个全球科技股走势",
           "url": "https://wallstreetcn.com/articles/3776019",
           "source": "华尔街见闻",
@@ -710,13 +745,24 @@
           "time_info": "07时04分"
         },
         {
+          "title": "全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code",
+          "url": "https://wallstreetcn.com/livenews/3128677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "欧洲央行管委穆兰：霍尔木兹海峡发生的事情对全球来说是好消息。",
           "url": "https://flash.jin10.com/detail/20260703174623266800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -738,9 +784,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3128664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "若黄金保持在4000美元左右，全球央行可能恢复增持逻辑",
@@ -768,7 +825,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
@@ -782,6 +839,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时04分]"
+        },
+        {
+          "title": "腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线",
+          "url": "https://wallstreetcn.com/livenews/3128693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -874,6 +942,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
+          "url": "https://wallstreetcn.com/livenews/3128645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         }
       ]
     }
