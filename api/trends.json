@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:20:50.551280+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-04T23:03:53.217495+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,28 @@
           "time_info": "[01时23分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时03分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时03分]"
+        },
+        {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
           "url": "https://v.ifeng.com/c/8uU91uEdDMo",
           "source": "凤凰网",
@@ -41,26 +63,18 @@
           "time_info": "[17时21分 ~ 19时25分]"
         },
         {
-          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
-          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
-          "source": "凤凰网",
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11,
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
-          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
-          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 23时03分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -75,17 +89,15 @@
           "time_info": "[03时19分 ~ 07时02分]"
         },
         {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            11,
-            18
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 21时20分]"
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时03分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
@@ -98,6 +110,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 21时20分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时03分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -146,17 +169,6 @@
           "time_info": "14时18分"
         },
         {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
-        },
-        {
           "title": "特朗普：美国经济正强劲腾飞！",
           "url": "https://flash.jin10.com/detail/20260704093740277800",
           "source": "金十数据",
@@ -166,17 +178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -244,11 +245,24 @@
           "url": "https://www.toutiao.com/trending/7658565435637497897/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 23时03分]"
+        },
+        {
+          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
+          "url": "https://www.zhihu.com/question/2056125863993914328",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 23时03分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -276,6 +290,19 @@
           "time_info": "[14时18分 ~ 17时21分]"
         },
         {
+          "title": "总投资15亿元，常州三大项目正式签约",
+          "url": "https://wallstreetcn.com/livenews/3128933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时03分]"
+        },
+        {
           "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
           "url": "https://wallstreetcn.com/livenews/3128897",
           "source": "华尔街见闻-快讯",
@@ -286,18 +313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 17时21分]"
-        },
-        {
-          "title": "总投资15亿元，常州三大项目正式签约",
-          "url": "https://wallstreetcn.com/livenews/3128933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时20分]"
         },
         {
           "title": "英国首相候选人伯纳姆（Andy Burnham）在Reddit上回答网友提问：坚守养老金“三重锁定”承诺至关重要。 将确保国防投资计划获得全额资金。 不会要求大选。 将促成政府加强与欧盟的关系。",
@@ -312,29 +327,18 @@
           "time_info": "[01时24分 ~ 03时19分]"
         },
         {
-          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
-          "url": "https://www.zhihu.com/question/2056125863993914328",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 21时20分]"
-        },
-        {
           "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
           "url": "https://wallstreetcn.com/livenews/3128921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 21时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时21分 ~ 23时03分]"
         },
         {
           "title": "英国首相候选人伯纳姆：将确保国防投资计划获得充分资金支持。",
@@ -362,7 +366,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -385,6 +389,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
+          "url": "https://flash.jin10.com/detail/20260704222818603800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "美伊和平协议使大量原油供应释放，全球供应过剩担忧重燃",
+          "url": "https://flash.jin10.com/detail/20260704221515573800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "惠誉：中东局势仍对全球企业构成风险",
@@ -429,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "阿根廷佛得角全球观看量最高",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BD%9B%E5%BE%97%E8%A7%92%E5%85%A8%E7%90%83%E8%A7%82%E7%9C%8B%E9%87%8F%E6%9C%80%E9%AB%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "截至7月3日，全球最大的黄金ETF SPDR Gold Trust持仓量为1001.366吨，较前一个交易日维持不变。",
