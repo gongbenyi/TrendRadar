@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T20:15:16.340473+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-07-05T22:42:12.108082+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时42分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -53,8 +53,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时42分]"
+        },
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时42分]"
+        },
+        {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时14分 ~ 22时42分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -68,17 +92,16 @@
           "time_info": "[01时02分 ~ 08时09分]"
         },
         {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
           "ranks": [
             7,
-            4,
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时15分]"
+          "time_info": "[18时11分 ~ 22时42分]"
         },
         {
           "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
@@ -93,15 +116,19 @@
           "time_info": "[12时55分 ~ 18时11分]"
         },
         {
-          "title": "特朗普又把自己加上了“总统山”",
-          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
-          "source": "凤凰网",
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            15,
+            17,
+            16,
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 22时42分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -135,18 +162,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 08时09分]"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时15分]"
         },
         {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
@@ -184,31 +199,18 @@
           "time_info": "[05时58分 ~ 08时09分]"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 20时15分]"
-        },
-        {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
           "url": "https://wallstreetcn.com/livenews/3128968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             11,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 22时42分]"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -355,6 +357,18 @@
           "time_info": "[12时55分 ~ 15时56分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普并没有要求以色列停止对真主党隧道的行动。",
+          "url": "https://flash.jin10.com/detail/20260705192324103800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 22时42分]"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
           "url": "https://flash.jin10.com/detail/20260705053346224800",
           "source": "金十数据",
@@ -469,17 +483,6 @@
           "time_info": "[07时00分 ~ 08时09分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：美国总统特朗普并没有要求以色列停止对真主党隧道的行动。",
-          "url": "https://flash.jin10.com/detail/20260705192324103800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
           "title": "美国财政部正式推出“特朗普账户”应用程序",
           "url": "https://flash.jin10.com/detail/20260705001056251800",
           "source": "金十数据",
@@ -508,7 +511,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -659,7 +662,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "王思聪投资翻车损失惨重",
@@ -711,15 +714,26 @@
           "time_info": "[01时02分 ~ 08时09分]"
         },
         {
-          "title": "叙利亚总统府：一支法国投资者代表团将陪同法国总统马克龙访问叙利亚。",
-          "url": "https://flash.jin10.com/detail/20260705194212691800",
+          "title": "卡塔尔能源：商务与工业部将主导投资者互动、机会挖掘和生态系统协调。",
+          "url": "https://flash.jin10.com/detail/20260705221734790800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "22时42分"
+        },
+        {
+          "title": "卡塔尔能源：已达成协议，规定了评估和分配碳氢化合物、天然气、电力及相关资源的条款，以支持下游工业投资。",
+          "url": "https://flash.jin10.com/detail/20260705221535942800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美光在日本广岛晶圆厂扩建动工，投资约93亿美元布局HBM产能",
@@ -741,11 +755,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时42分]"
+        },
+        {
+          "title": "叙利亚总统府：一支法国投资者代表团将陪同法国总统马克龙访问叙利亚。",
+          "url": "https://flash.jin10.com/detail/20260705194212691800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 20时15分]"
+          "time_info": "[20时15分 ~ 22时42分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -779,6 +806,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "卡塔尔能源：将在梅赛义德工业城开发一个新的中型工业区。与卡塔尔工业部将合作评估并分配碳氢化合物衍生资源，以支持符合条件的工业投资机会。",
+          "url": "https://flash.jin10.com/detail/20260705221528475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
+          "url": "https://flash.jin10.com/detail/20260705221127542800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
@@ -840,11 +889,12 @@
           "ranks": [
             2,
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 20时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 22时42分]"
         },
         {
           "title": "鸿海：仍有必要监测动荡的全球政治和经济形势的影响。",
@@ -937,11 +987,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 20时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 22时42分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
