@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-08T01:13:21.398736+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-08T03:53:13.229992+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
           "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -26,8 +27,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
+        },
+        {
+          "title": "特朗普：对北约非常失望",
+          "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[03时52分 ~ 03时53分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普偶尔存在分歧。",
@@ -36,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -47,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -70,19 +82,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -91,7 +104,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -102,7 +115,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -124,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -135,7 +148,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
@@ -143,7 +156,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
@@ -153,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
@@ -164,41 +177,55 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
+        },
+        {
+          "title": "曝 TikTok 全球裁员，网传印尼将裁 90%，裁员出于哪些原因？这一架构调整可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2057807463441593129",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "time_info": "[03时52分 ~ 03时53分]"
         },
         {
           "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
           "url": "https://www.zhihu.com/question/2057185895623791482",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "三星财报引发全球芯片股回调 纳斯达克100指数期货跌近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2419563",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "听说全球变暖对我国利大于弊，这是真的吗？从科学角度上看，该说法是否合理？",
           "url": "https://www.zhihu.com/question/2057188903359098994",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "EIA短期能源展望报告：预计2026年全球石油产量为1.019亿桶/日，高于此前预测的9900万桶/日；预计2027年产量为1.098亿桶/日，高于此前预测的1.093亿桶/日。",
@@ -207,7 +234,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
@@ -218,26 +245,16 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
-        },
-        {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -245,6 +262,17 @@
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 03时53分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -263,7 +291,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -274,7 +302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -285,7 +313,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
@@ -302,7 +330,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         },
@@ -313,7 +341,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
@@ -330,7 +358,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
         }
