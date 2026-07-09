@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T14:43:28.189678+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-07-09T18:23:43.681271+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时28分 ~ 10时47分]"
+        },
+        {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时04分 ~ 18时23分]"
         },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -84,6 +97,22 @@
           "time_info": "[01时28分 ~ 14时43分]"
         },
         {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 18时23分]"
+        },
+        {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
           "url": "https://www.cls.cn/detail/2421032",
           "source": "财联社热门",
@@ -95,31 +124,31 @@
           "time_info": "[07时04分 ~ 14时43分]"
         },
         {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时04分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19,
-            20,
-            13,
-            10
+            16,
+            11,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时28分 ~ 14时43分]"
+          "time_info": "[03时22分 ~ 18时23分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 18时23分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -134,41 +163,17 @@
           "time_info": "[01时28分 ~ 07时05分]"
         },
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时22分 ~ 14时43分]"
-        },
-        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 18时23分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -446,7 +451,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -501,7 +506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -512,9 +517,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普在社媒上发布数条关于伊朗遭到打击后的爆炸视频或图片。",
@@ -597,7 +613,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国财政部：在最新双周报告期内，投资基金购买2033年6月30日到期的7年期美国国债金额为315.59亿美元，低于上月的329.25亿美元。外国投资者购买2033年6月30日到期的7年期美国国债金额为58.64亿美元，高于上月的56.51亿美元。",
@@ -622,6 +638,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "中东冲突再起之际 投资者上调对英国利率上升的预期",
+          "url": "https://flash.jin10.com/detail/20260709180852257800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "中证报：资金保障底气足，下半年稳投资料持续加力",
           "url": "https://wallstreetcn.com/livenews/3130931",
           "source": "华尔街见闻-快讯",
@@ -644,6 +671,29 @@
           "time_info": "03时22分"
         },
         {
+          "title": "“站在科创里”的3家券商业绩翻倍，科创投资贡献摆上了台面，还有几百亿待入账",
+          "url": "https://www.cls.cn/detail/2421571",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 18时23分]"
+        },
+        {
           "title": "7月9日投资避雷针：市场竞争加剧 这家整车厂商预计上半年净亏损7.4亿元",
           "url": "https://www.cls.cn/detail/2421080",
           "source": "财联社热门",
@@ -655,15 +705,15 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
+          "title": "投资100亿美元！Meta拟建其美国以外最大数据中心 “算力过剩”又被证伪了？",
+          "url": "https://www.cls.cn/detail/2421144",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时43分"
+          "time_info": "18时23分"
         },
         {
           "title": "城堡投资（Citadel）的肯·格里芬（Ken Griffin）将在2028年美国大选中支持卢比奥（现任国务卿）。（Axios）",
@@ -708,12 +758,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "深圳市委召开专题会议 研究部署工业投资重点项目推进等工作",
+          "url": "https://flash.jin10.com/detail/20260709175350781800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "大唐电信：拟对募集资金投资项目延期并调整投资金额与结构",
+          "url": "https://flash.jin10.com/detail/20260709175337409800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
@@ -723,11 +795,23 @@
             15,
             14,
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 14时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时28分 ~ 18时23分]"
+        },
+        {
+          "title": "外媒称中国空军全球第二，国防部回应",
+          "url": "https://news.ifeng.com/c/8ucVKQll9Lm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少15.47吨，当前持仓量为14899.63吨。欢迎点击查看数据中心...",
@@ -770,7 +854,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -808,6 +892,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "河南造出全球最大培育钻石",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "金十图示：2026年07月08日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260709040826108800",
           "source": "金十数据",
@@ -825,9 +920,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "中国空军已成全球第二？国防部回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%EF%BC%9F%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
@@ -923,7 +1029,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
