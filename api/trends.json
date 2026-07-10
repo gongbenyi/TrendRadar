@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:21:28.029478+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-10T19:50:49.095857+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,18 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
           "url": "https://news.ifeng.com/c/8ucxOCMpd4c",
           "source": "凤凰网",
@@ -100,18 +112,6 @@
           "time_info": "[04时46分 ~ 06时21分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
-        },
-        {
           "title": "特朗普称“日本导弹”打美国航母，白宫回应",
           "url": "https://news.ifeng.com/c/8udg4food2U",
           "source": "凤凰网",
@@ -119,8 +119,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时50分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -145,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -274,7 +274,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "长征十号乙首飞告捷 全球首创海上网系回收成功 商业航天下半年迎三重共振",
@@ -304,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "分析师：尼日利亚正经历全球资本机构的“重新估值”",
@@ -325,7 +325,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -336,7 +336,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -363,17 +363,6 @@
           "time_info": "02时50分"
         },
         {
-          "title": "LPL锁定全球总决赛4个名额",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356061&amp;topic_name=LPL%E9%94%81%E5%AE%9A%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B4%E4%B8%AA%E5%90%8D%E9%A2%9D",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "河南造出全球最大培育钻石",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3",
           "source": "百度热搜",
@@ -389,6 +378,31 @@
           "time_info": "[00时27分 ~ 08时03分]"
         },
         {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
+          "title": "LPL锁定全球总决赛4个名额",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356061&amp;topic_name=LPL%E9%94%81%E5%AE%9A%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B4%E4%B8%AA%E5%90%8D%E9%A2%9D",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时50分]"
+        },
+        {
           "title": "到2050年全球癌症新发病例将近3500万",
           "url": "https://www.toutiao.com/trending/7660372370170904626/",
           "source": "今日头条",
@@ -402,27 +416,16 @@
           "time_info": "[00时27分 ~ 06时21分]"
         },
         {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
-          "source": "财联社热门",
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
           "ranks": [
             10,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
@@ -437,15 +440,48 @@
           "time_info": "[04时46分 ~ 06时21分]"
         },
         {
+          "title": "揭秘全球首次运载火箭网系回收",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
+          "url": "https://www.cls.cn/detail/2422471",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "IEA月报：全球石油供应在六月反弹410万桶/日，达到9880万桶/日。",
           "url": "https://flash.jin10.com/detail/20260710160123066800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "中国可回收火箭里程碑时刻！长征十号乙首飞成功，实现全球首创海上网系回收",
+          "url": "https://wallstreetcn.com/articles/3776638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "IEA月报：预计全球石油需求到2027年将增加190万桶/日。",
@@ -454,7 +490,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -476,7 +512,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -498,7 +534,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -509,7 +545,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -531,15 +567,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "上纬新材将在WAIC推出全球首个可变形个人机器人启元T1",
+          "url": "https://wallstreetcn.com/livenews/3131985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -578,6 +625,18 @@
           "time_info": "[06时21分 ~ 08时03分]"
         },
         {
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时50分]"
+        },
+        {
           "title": "7月10日投资避雷针：液冷概念人气股发布业绩 预计上半年净利同比下降62%-68%",
           "url": "https://www.cls.cn/detail/2422320",
           "source": "财联社热门",
@@ -600,17 +659,6 @@
           "time_info": "12时50分"
         },
         {
-          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
-          "url": "https://www.cls.cn/detail/2422609",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
           "title": "投资培育上市公司达300家，深创投：推动资本和产业深度融合",
           "url": "https://wallstreetcn.com/livenews/3131579",
           "source": "华尔街见闻-快讯",
@@ -631,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "拓荆科技：拟通过发行股份及支付现金方式购买无锡尚积82.97%股份、上海泰纳微100%股权和无锡宽行100%股权，并向不超过35名特定投资者发行股份募集配套资金。本次交易后，上市公司将直接及间接持有无锡尚积100%股份。股票复牌。",
+          "url": "https://wallstreetcn.com/livenews/3132014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "市场消息：SK海力士美国ADR发行获近2000亿美元认购需求，吸引超过500家投资者参与，其中前25大账户获约67%份额，前十大账户拿下近一半ADR配售。",
@@ -672,7 +731,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -699,11 +758,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -756,7 +816,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
