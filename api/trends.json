@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T03:01:50.850868+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-07-12T04:09:47.529776+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260712021117643800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时09分]"
         },
         {
           "title": "沐曦天使轮5000万5年浮盈74亿 投资机构：中国或将诞生多家万亿市值上市企业",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时09分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -62,11 +63,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时09分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -76,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时09分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -86,11 +88,12 @@
           "ranks": [
             27,
             24,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时09分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -99,11 +102,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时09分]"
         }
       ]
     },
@@ -119,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时09分]"
         },
         {
           "title": "LPL锁定全球总决赛4个名额",
@@ -130,8 +134,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时09分]"
         }
       ]
     },
@@ -144,11 +148,12 @@
           "url": "https://www.zhihu.com/question/2055029429290771542",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时09分]"
         }
       ]
     }
