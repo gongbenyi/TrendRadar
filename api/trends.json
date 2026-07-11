@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:45:11.757989+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:53:37.267492+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -54,8 +54,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时53分]"
+        },
+        {
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时45分]"
+          "time_info": "[06时45分 ~ 07时53分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -73,26 +84,16 @@
           "time_info": "[00时56分 ~ 05时47分]"
         },
         {
-          "title": "两党住房法案未经特朗普签署自动生效",
-          "url": "https://flash.jin10.com/detail/20260712054924358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时53分]"
         }
       ]
     },
@@ -109,19 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时45分]"
-        },
-        {
-          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
-          "url": "https://wallstreetcn.com/articles/3776682",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时53分]"
         },
         {
           "title": "存储器投资爆火 内存ETF成立三个月疯狂吸金220亿美元",
@@ -134,8 +124,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 06时45分]"
+          "appearance_count": 5,
+          "time_info": "[03时01分 ~ 07时53分]"
+        },
+        {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时01分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -162,8 +163,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "LPL锁定全球总决赛4个名额",
@@ -173,19 +174,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时53分]"
         },
         {
           "title": "全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考",
           "url": "https://wallstreetcn.com/articles/3776706",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时47分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[05时47分 ~ 07时53分]"
         },
         {
           "title": "头部游企6月全球收入增幅超17% 暑期档新品密集落地",
@@ -195,8 +197,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 07时53分]"
         }
       ]
     },
@@ -211,11 +213,12 @@
           "ranks": [
             13,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 06时45分]"
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时53分]"
         }
       ]
     },
@@ -232,8 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时45分]"
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时53分]"
         }
       ]
     }
