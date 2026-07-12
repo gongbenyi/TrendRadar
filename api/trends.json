@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-13T06:45:03.520745+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-13T07:52:27.939498+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "投资",
       "match_count": 6,
       "titles": [
-        {
-          "title": "券商另类子三年投资科创逾200亿元，中证协发文建言拓宽发展空间",
-          "url": "https://wallstreetcn.com/livenews/3132457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
         {
           "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
           "url": "https://flash.jin10.com/detail/20260713025812018800",
@@ -30,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时48分]"
+        },
+        {
+          "title": "券商另类子三年投资科创逾200亿元，中证协发文建言拓宽发展空间",
+          "url": "https://wallstreetcn.com/livenews/3132457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时52分]"
         },
         {
           "title": "国家发展改革委紧急安排1亿元中央预算内投资支持浙江台风灾害灾后应急恢复",
@@ -90,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -101,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -131,6 +132,18 @@
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
+          "url": "https://wallstreetcn.com/livenews/3132448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
           "ranks": [
@@ -139,34 +152,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
-          "url": "https://wallstreetcn.com/livenews/3132448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
           "url": "https://wallstreetcn.com/articles/3776714",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
         },
         {
           "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
@@ -177,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
         },
         {
           "title": "战锤40K全球首发实机演示",
@@ -188,17 +191,29 @@
             16,
             17,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年7月13日",
+          "url": "https://flash.jin10.com/detail/20260713070120026800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -208,8 +223,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时52分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     }
