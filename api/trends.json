@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T06:55:19.009107+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-07-14T07:53:59.942686+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -27,8 +28,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
@@ -42,18 +55,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
-        },
-        {
           "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
           "url": "https://flash.jin10.com/detail/20260714033602404800",
           "source": "金十数据",
@@ -65,26 +66,37 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普称仍可能与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260714063751176800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "据AXIOS：美国官员透露，特朗普对沙特王储本·萨勒曼针对也门胡塞武装采取极为罕见的军事行动表示支持。",
-          "url": "https://flash.jin10.com/detail/20260714063620914800",
-          "source": "金十数据",
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称中东盟友应支付保护费",
+          "url": "https://wallstreetcn.com/livenews/3133130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
+          "url": "https://www.zhihu.com/question/2060130032056366712",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "【美军连续第三晚空袭伊朗】当地时间7月13日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午4时45分开始对伊朗发动连续第三晚空袭。美中央司令部称，行动将继续使伊朗武装力量付出沉重代价，并削弱其袭击霍尔木兹海峡无辜平民和商业航运的能力。（央视）",
@@ -99,6 +111,54 @@
           "time_info": "[05时55分 ~ 06时55分]"
         },
         {
+          "title": "特朗普称仍可能与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260714063751176800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "据AXIOS：美国官员透露，特朗普对沙特王储本·萨勒曼针对也门胡塞武装采取极为罕见的军事行动表示支持。",
+          "url": "https://flash.jin10.com/detail/20260714063620914800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
+          "url": "https://wallstreetcn.com/livenews/3133113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
+          "url": "https://flash.jin10.com/detail/20260714062715329800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
           "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
           "url": "https://wallstreetcn.com/livenews/3133037",
           "source": "华尔街见闻-快讯",
@@ -111,6 +171,78 @@
           "time_info": "[02时44分 ~ 04时14分]"
         },
         {
+          "title": "特朗普称中东盟友应支付保护费",
+          "url": "https://flash.jin10.com/detail/20260714062643321800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普：认为可能会与伊朗达成协议，将从得到美方帮助的国家获得补偿",
+          "url": "https://wallstreetcn.com/livenews/3133110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
+          "url": "https://wallstreetcn.com/livenews/3133109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
+          "url": "https://wallstreetcn.com/livenews/3133108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：认为伊朗局势推进得非常迅速。 将消除伊朗与霍尔木兹海峡相关的影响力。 预计我们将彻底控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3133107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260714060823307800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
           "url": "https://flash.jin10.com/detail/20260714020323664800",
           "source": "金十数据",
@@ -120,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
+          "url": "https://flash.jin10.com/detail/20260714065721126800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "美国官员声称，总统特朗普将支持（国会山）对俄罗斯制裁的立法草案。（CNN）",
@@ -144,70 +287,37 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
-          "url": "https://wallstreetcn.com/livenews/3133113",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普将重启对伊行动定性为“军事冲突” 拒绝划定时间表",
+          "url": "https://flash.jin10.com/detail/20260714065615611800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
         },
         {
-          "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
-          "url": "https://flash.jin10.com/detail/20260714062715329800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "特朗普称中东盟友应支付保护费",
-          "url": "https://flash.jin10.com/detail/20260714062643321800",
-          "source": "金十数据",
+          "title": "特朗普通知国会伊朗战事重新爆发",
+          "url": "https://www.douyin.com/hot/2570278",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
         },
         {
-          "title": "特朗普：认为可能会与伊朗达成协议，将从得到美方帮助的国家获得补偿",
-          "url": "https://wallstreetcn.com/livenews/3133110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美国总统特朗普：今夜，我们在伊朗有大量弹药。",
-          "url": "https://wallstreetcn.com/livenews/3133109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
-          "url": "https://wallstreetcn.com/livenews/3133108",
+          "title": "美国总统特朗普签署针对“特定固定污染源”的监管豁免公告。 白宫发布关于监管豁免的总统公告。 特朗普豁免特定污染源遵守“HON规则”（有害空气污染物国家排放标准）。",
+          "url": "https://wallstreetcn.com/livenews/3133122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -221,15 +331,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：认为伊朗局势推进得非常迅速。 将消除伊朗与霍尔木兹海峡相关的影响力。 预计我们将彻底控制霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3133107",
+          "title": "特朗普称仍可能与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3133121",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -285,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
-        },
-        {
-          "title": "美国总统特朗普：（美东时间）周一晚间将对伊朗进行又一次大规模打击。",
-          "url": "https://flash.jin10.com/detail/20260714060823307800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -378,7 +477,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -388,8 +487,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
+        },
+        {
+          "title": "全球首颗近存计算3D芯片发布",
+          "url": "https://www.douyin.com/hot/2569670",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "全球首艘电弹两攻亮相",
@@ -403,31 +515,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
-          "title": "全球首颗近存计算3D芯片发布",
-          "url": "https://www.douyin.com/hot/2569670",
-          "source": "抖音",
+          "title": "金十数据全球财经早餐 | 2026年7月14日",
+          "url": "https://flash.jin10.com/detail/20260714070114106800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓量为1002.449吨，较前一个交易日维持不变。",
           "url": "https://flash.jin10.com/detail/20260714063333094800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
@@ -446,11 +558,23 @@
           "url": "https://flash.jin10.com/detail/20260714062106809800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "全球AI龙头股共振下跌，机构称后续关注三个信号",
+          "url": "https://wallstreetcn.com/livenews/3133124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
         },
         {
           "title": "金十图示：2026年07月13日（周一）全球股市指数-欧洲市场",
@@ -489,18 +613,19 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
           "url": "https://www.cls.cn/detail/2424821",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时53分]"
         },
         {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
@@ -518,11 +643,34 @@
           "url": "https://wallstreetcn.com/livenews/3133118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
+          "url": "https://wallstreetcn.com/livenews/3133128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "07时53分"
+        },
+        {
+          "title": "对印度投入巨资？新西兰政府内部围绕200亿美元投资的关键表述闹分歧",
+          "url": "https://wallstreetcn.com/livenews/3133125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "博世集团（Bosch）计划今后至2031年在美国（运营领域）投资至多75亿美元。 该公司将在2026年于美国启动商业化制造。",
