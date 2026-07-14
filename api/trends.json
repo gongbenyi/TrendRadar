@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T06:03:51.913320+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-07-15T07:53:34.512317+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 07时53分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -48,11 +49,23 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
+          "url": "https://news.ifeng.com/c/8ulRMRR0meG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -65,8 +78,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
+          "url": "https://flash.jin10.com/detail/20260715070627062800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -75,22 +99,24 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 07时53分]"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 07时53分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -118,6 +144,18 @@
           "time_info": "[00时14分 ~ 02时02分]"
         },
         {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时53分]"
+        },
+        {
           "title": "据Axios：一名白宫官员驳斥了以色列媒体有关内塔尼亚胡将于下周访问华盛顿的报道，并表示：“目前特朗普总统的日程安排中没有内塔尼亚胡的访问计划。”",
           "url": "https://flash.jin10.com/detail/20260715044150500800",
           "source": "金十数据",
@@ -140,17 +178,6 @@
           "time_info": "03时39分"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
           "title": "据悉美国对俄制裁法案允许特朗普在认定符合美国国家利益时豁免相关制裁。<br/>",
           "url": "https://flash.jin10.com/detail/20260715030217353800",
           "source": "金十数据",
@@ -160,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
@@ -195,6 +233,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
+          "url": "https://flash.jin10.com/detail/20260715064314727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
           "url": "https://flash.jin10.com/detail/20260715010957773800",
           "source": "金十数据",
@@ -204,6 +253,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普：将继续打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3133913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -217,6 +277,39 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
+          "url": "https://flash.jin10.com/detail/20260715063311504800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国总统特朗普宣称：现在，我才不想与伊朗对话。 （被问及他上一次与伊朗方面交谈是什么时候时）我的代表就在今天下午已经与伊朗官员交谈。 美方（已经）告诉伊朗，最好还是达成一份协议。 我们一直都认真仔细地对待（伊朗）平民。 美国官员告诉伊朗方面，德黑兰最好达成协议，否则将“一无所有”。 （当被问及是否认为伊朗会达成协议）伊朗应该这么做，但他不知道伊朗会不会这样做。",
+          "url": "https://wallstreetcn.com/livenews/3133911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普称与伊朗方面举行了会谈 威胁打击电厂",
+          "url": "https://flash.jin10.com/detail/20260715062920165800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
           "url": "https://flash.jin10.com/detail/20260715024103412800",
           "source": "金十数据",
@@ -226,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
+          "url": "https://flash.jin10.com/detail/20260715062230575800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "仅过一日，特朗普放弃对霍尔木兹海峡征收20%的保护费，要求用贸易协议替换，油价回吐涨幅。",
@@ -248,12 +352,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：对伊朗的打击将持续到我喊停 能源目标最后再打",
+          "url": "https://wallstreetcn.com/livenews/3133907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
+          "url": "https://flash.jin10.com/detail/20260715061817167800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国总统特朗普：美国敦促伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260715061639787800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3133905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
@@ -311,9 +459,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "OpenAI计划推出家用智能音箱",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E6%8E%A8%E5%87%BA%E5%AE%B6%E7%94%A8%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -329,49 +488,8 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
-          "url": "https://www.cls.cn/detail/2426403",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
-        },
-        {
-          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
-          "url": "https://www.zhihu.com/question/2060364904519791870",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
-        },
-        {
-          "title": "花旗集团CEO弗雷泽：如果良好的环境持续，将加快投资步伐。",
-          "url": "https://flash.jin10.com/detail/20260714233637222800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "全球",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
@@ -380,11 +498,23 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年7月15日",
+          "url": "https://flash.jin10.com/detail/20260715070058133800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
@@ -399,6 +529,17 @@
           "time_info": "[04时59分 ~ 06时03分]"
         },
         {
+          "title": "减少41%！外媒：中国一个举动，正默默挽救全球经济",
+          "url": "https://news.ifeng.com/c/8ulUDMcgu0h",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
           "url": "https://flash.jin10.com/detail/20260714234056146800",
           "source": "金十数据",
@@ -408,6 +549,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加102.64吨，当前持仓量为14957.28吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260715064705704800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1004.447吨。",
+          "url": "https://flash.jin10.com/detail/20260715064507935800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
+          "url": "https://www.cls.cn/detail/2426403",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
+          "url": "https://www.zhihu.com/question/2060364904519791870",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "花旗集团CEO弗雷泽：如果良好的环境持续，将加快投资步伐。",
+          "url": "https://flash.jin10.com/detail/20260714233637222800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -424,8 +639,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时53分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
