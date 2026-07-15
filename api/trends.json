@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:12:19.813421+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-07-15T13:29:32.141705+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -19,18 +19,6 @@
           "time_info": "[00时14分 ~ 06时03分]"
         },
         {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时59分]"
-        },
-        {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -41,8 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[03时39分 ~ 13时29分]"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时59分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -69,17 +69,6 @@
           "time_info": "07时53分"
         },
         {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "如何看特朗普在霍尔木兹收费",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
           "source": "bilibili 热搜",
@@ -92,6 +81,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 07时53分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时39分 ~ 13时29分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -120,17 +122,16 @@
           "time_info": "07时53分"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            17,
-            15
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时39分 ~ 10时12分]"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时29分]"
         },
         {
           "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
@@ -142,8 +143,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时03分 ~ 13时29分]"
+        },
+        {
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时03分 ~ 10时12分]"
+          "time_info": "[07时53分 ~ 13时29分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -171,16 +185,16 @@
           "time_info": "[00时14分 ~ 02时02分]"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时12分]"
+          "time_info": "[10时12分 ~ 13时29分]"
         },
         {
           "title": "据Axios：一名白宫官员驳斥了以色列媒体有关内塔尼亚胡将于下周访问华盛顿的报道，并表示：“目前特朗普总统的日程安排中没有内塔尼亚胡的访问计划。”",
@@ -194,17 +208,6 @@
           "time_info": "04时59分"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
           "url": "https://flash.jin10.com/detail/20260715030602681800",
           "source": "金十数据",
@@ -214,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "据悉美国对俄制裁法案允许特朗普在认定符合美国国家利益时豁免相关制裁。<br/>",
@@ -247,6 +261,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
@@ -291,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普战情室密谋升级打击！美军考虑扩大对伊朗本土攻击",
+          "url": "https://flash.jin10.com/detail/20260715121904164800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -370,6 +417,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "极限施压再上演，这次特朗普还会TACO吗？",
+          "url": "https://flash.jin10.com/detail/20260715121004025800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "美联储主席沃什：即便特朗普谴责我，我也要根据数据来采取行动。",
           "url": "https://wallstreetcn.com/livenews/3133745",
           "source": "华尔街见闻-快讯",
@@ -428,7 +486,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -461,7 +519,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -471,11 +529,35 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时29分]"
+        },
+        {
+          "title": "7月15日投资避雷针：光通信概念人气股公告 如股价进一步异常上涨将停牌核查",
+          "url": "https://www.cls.cn/detail/2426626",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时12分]"
+          "time_info": "[10时12分 ~ 13时29分]"
+        },
+        {
+          "title": "瑞银王宗豪：欧洲投资者对中国AI抱有信心",
+          "url": "https://flash.jin10.com/detail/20260715125638722800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "中国1至6月城镇固定资产投资同比 -5.7%，前值 -4.1%。",
@@ -484,20 +566,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
         {
-          "title": "7月15日投资避雷针：光通信概念人气股公告 如股价进一步异常上涨将停牌核查",
-          "url": "https://www.cls.cn/detail/2426626",
+          "title": "韩股又熔断！芯片股杠杆ETF放大波动 券商讨论提高投资门槛",
+          "url": "https://www.cls.cn/detail/2426922",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时29分"
         },
         {
           "title": "国家统计局：1—6月份，民间固定资产投资同比下降8.5%。从环比看，6月份固定资产投资（不含农户）下降0.37%。",
@@ -506,7 +588,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -517,7 +599,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -528,9 +610,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "李斌回应战略投资长鑫科技",
+          "url": "https://flash.jin10.com/detail/20260715122359015800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "花旗集团CEO弗雷泽：如果良好的环境持续，将加快投资步伐。",
@@ -550,9 +643,129 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "国家统计局：上半年高技术产业投资同比增长4.6%",
+          "url": "https://wallstreetcn.com/livenews/3134069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
+          "url": "https://wallstreetcn.com/articles/3776884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 13时29分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年7月15日",
+          "url": "https://flash.jin10.com/detail/20260715070058133800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3133869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时03分]"
+        },
+        {
+          "title": "减少41%！外媒：中国一个举动，正默默挽救全球经济",
+          "url": "https://news.ifeng.com/c/8ulUDMcgu0h",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260714234056146800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "比亚迪全球业务高管：无需美国市场也能超越丰田登顶全球销冠",
+          "url": "https://flash.jin10.com/detail/20260715123329493800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加102.64吨，当前持仓量为14957.28吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20260715064705704800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1004.447吨。",
+          "url": "https://flash.jin10.com/detail/20260715064507935800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "据英国金融时报：比亚迪(01211.HK)高管称表示，即便不进入美国市场，比亚迪也能超越丰田夺取全球销冠宝座。",
+          "url": "https://flash.jin10.com/detail/20260715120653321800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
@@ -638,7 +851,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -656,95 +869,8 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
-          "url": "https://wallstreetcn.com/articles/3776884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 10时12分]"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年7月15日",
-          "url": "https://flash.jin10.com/detail/20260715070058133800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
-          "url": "https://wallstreetcn.com/livenews/3133869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 06时03分]"
-        },
-        {
-          "title": "减少41%！外媒：中国一个举动，正默默挽救全球经济",
-          "url": "https://news.ifeng.com/c/8ulUDMcgu0h",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "金十图示：2026年07月14日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260714234056146800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加102.64吨，当前持仓量为14957.28吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20260715064705704800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1004.447吨。",
-          "url": "https://flash.jin10.com/detail/20260715064507935800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -768,6 +894,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行：将年末黄金价格预测下调至每盎司4600美元，将未来12个月预测下调至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260715122146880800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
