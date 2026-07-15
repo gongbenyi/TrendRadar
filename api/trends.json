@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:48:27.240328+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-07-15T20:14:12.934204+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时39分 ~ 18时48分]"
+          "appearance_count": 10,
+          "time_info": "[03时39分 ~ 20时14分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -32,6 +32,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 06时03分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时03分 ~ 20时14分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -46,18 +60,16 @@
           "time_info": "[00时14分 ~ 04时59分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            6,
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时03分 ~ 18时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 20时14分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -85,6 +97,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时39分 ~ 16时05分]"
+        },
+        {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "不到24小时，特朗普态度大转弯",
@@ -117,7 +140,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -162,15 +185,28 @@
           "time_info": "07时53分"
         },
         {
-          "title": "特朗普为何频频感谢中俄？",
-          "url": "https://news.ifeng.com/c/8umXJBl3ies",
-          "source": "凤凰网",
+          "title": "特朗普的“炸电厂”威胁将如何冲击伊朗能源命脉？",
+          "url": "https://flash.jin10.com/detail/20260715200731931800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "20时14分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 20时14分]"
         },
         {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
@@ -186,6 +222,18 @@
           "time_info": "[10时12分 ~ 16时05分]"
         },
         {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 20时14分]"
+        },
+        {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2426568",
           "source": "财联社热门",
@@ -197,19 +245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 18时48分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -243,7 +278,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -257,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "美国总统特朗普：以色列从黎巴嫩部分地区撤军将是一件好事。",
+          "url": "https://flash.jin10.com/detail/20260715200127012800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
@@ -279,17 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
-        },
-        {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
@@ -353,7 +388,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -430,7 +465,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -584,7 +619,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -595,7 +630,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -603,7 +638,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -617,6 +652,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 10时12分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时53分 ~ 20时14分]"
+        },
+        {
+          "title": "国企投资近900万拍综艺收益仅8600元",
+          "url": "https://www.toutiao.com/trending/7662633026036383763/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
@@ -653,20 +714,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 18时48分]"
-        },
-        {
           "title": "7月15日投资避雷针：光通信概念人气股公告 如股价进一步异常上涨将停牌核查",
           "url": "https://www.cls.cn/detail/2426626",
           "source": "财联社热门",
@@ -677,6 +724,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时12分 ~ 16时05分]"
+        },
+        {
+          "title": "邹市明上海拳馆年租金高达 5000 万元，年卡定价达 8.8 万，天价投资健身房的盈利模式是怎样的？",
+          "url": "https://www.zhihu.com/question/2060401370436297161",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 20时14分]"
         },
         {
           "title": "瑞银王宗豪：欧洲投资者对中国AI抱有信心",
@@ -806,7 +864,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -814,7 +872,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
@@ -887,6 +945,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：数据显示没有理由提高利率。 相信沃什会带领美联储就利率作出正确决定。 伊朗挟持全球经济的能力已经下降。 几天前见过沃什。 和沃什进行了一次愉快的交谈。 就委员会人选问题称赞沃什。",
+          "url": "https://wallstreetcn.com/livenews/3134340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加102.64吨，当前持仓量为14957.28吨。欢迎点击查看数据中心……",
           "url": "https://flash.jin10.com/detail/20260715064705704800",
           "source": "金十数据",
@@ -918,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3134319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     },
@@ -1041,11 +1121,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 20时14分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -1068,8 +1149,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 20时14分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时29分 ~ 18时48分]"
+          "time_info": "[18时48分 ~ 20时14分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -1084,24 +1177,13 @@
           "time_info": "[13时29分 ~ 16时05分]"
         },
         {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "梁文锋登顶全球大模型首富",
           "url": "https://wallstreetcn.com/livenews/3134277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
