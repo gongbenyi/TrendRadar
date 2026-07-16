@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:07:50.585463+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-16T15:22:05.210181+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -63,11 +63,27 @@
             13,
             14,
             15,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 12时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时05分 ~ 15时22分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -82,18 +98,18 @@
           "time_info": "[00时20分 ~ 08时06分]"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19,
-            16,
-            14
+            10,
+            9,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时05分 ~ 12时07分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 15时22分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -116,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 02时05分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -184,19 +211,6 @@
           "time_info": "07时01分"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时07分]"
-        },
-        {
           "title": "美国总统特朗普：国防生产需要再加快一些速度。",
           "url": "https://flash.jin10.com/detail/20260716034057841800",
           "source": "金十数据",
@@ -252,6 +266,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 12时07分]"
+        },
+        {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
@@ -351,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "美国总统特朗普：伊朗想要会面。",
@@ -675,7 +689,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "投资者付费跟随任泽平观点炒股爆仓",
@@ -707,7 +721,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -773,7 +787,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -789,13 +803,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "台积电证实在亚利桑那州追加1000亿美元投资。",
+          "url": "https://wallstreetcn.com/livenews/3134857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "韩国央行行长：AI热潮是更强劲增长前景的主要驱动力。 更高的企业利润和薪资将对内需形成支撑。 更高的外汇汇率将在一段时间内持续推高通胀。 芯片价格飙升正在推高名义GDP。 需要密切关注能源冲击对CPI的间接影响。 出口、投资和消费均保持强劲。 需求侧压力将在经济增长中发挥重要作用。 如果收入提高，需求侧通胀压力将会增加。 将持续作出政策回应，直至CPI稳定在目标水平。",
           "url": "https://wallstreetcn.com/livenews/3134757",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -832,6 +857,17 @@
           "time_info": "[00时20分 ~ 08时06分]"
         },
         {
+          "title": "全球人工智能 进入“上海时间”",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
+        },
+        {
           "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
           "url": "https://www.cls.cn/detail/2427322",
           "source": "财联社热门",
@@ -845,15 +881,16 @@
           "time_info": "[00时20分 ~ 07时01分]"
         },
         {
-          "title": "全球人工智能 进入“上海时间”",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
-          "source": "百度热搜",
+          "title": "中国“预制变电站”，全球爆单",
+          "url": "https://www.cls.cn/detail/2427865",
+          "source": "财联社热门",
           "ranks": [
-            3
+            11,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.569吨，当前持仓量为1001.878吨。",
@@ -865,17 +902,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "中国“预制变电站”，全球爆单",
-          "url": "https://www.cls.cn/detail/2427865",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "全球算力、数据中心及终端设备需求的持续扩张 中国“预制变电站”全球爆单",
@@ -895,7 +921,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -906,7 +932,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -961,6 +987,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
+        },
+        {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3134592",
           "source": "华尔街见闻-快讯",
@@ -983,15 +1021,16 @@
           "time_info": "00时20分"
         },
         {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
+          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
+          "url": "https://www.cls.cn/detail/2427717",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -1027,17 +1066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
-          "url": "https://www.cls.cn/detail/2427717",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         }
       ]
     },
@@ -1059,6 +1087,18 @@
           "time_info": "[00时20分 ~ 08时06分]"
         },
         {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 15时22分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -1071,17 +1111,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 07时01分]"
-        },
-        {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         }
       ]
     },
@@ -1096,7 +1125,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
