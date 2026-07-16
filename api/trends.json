@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:22:05.210181+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-07-16T18:07:37.933697+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -79,23 +79,12 @@
             19,
             16,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时05分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 08时06分]"
+          "appearance_count": 11,
+          "time_info": "[02时05分 ~ 18时07分]"
         },
         {
           "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
@@ -108,8 +97,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 18时07分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -257,6 +258,18 @@
           "time_info": "[04时07分 ~ 06时00分]"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 18时07分]"
+        },
+        {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
           "url": "https://wallstreetcn.com/articles/3776985",
           "source": "华尔街见闻",
@@ -268,15 +281,15 @@
           "time_info": "[08时05分 ~ 12时07分]"
         },
         {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
+          "title": "特朗普称美国与伊拉克建立大规模石油伙伴关系，此话背后何意味？",
+          "url": "https://flash.jin10.com/detail/20260716175029033800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
@@ -376,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "美国总统特朗普：伊朗想要会面。",
@@ -689,7 +713,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "投资者付费跟随任泽平观点炒股爆仓",
@@ -748,6 +772,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "【昭衍新药：生物资产公允价值受多种不确定性因素影响 存在较大价值波动风险】昭衍新药公告称，公司股票于2026年7月14日、15日和16日连续3个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司股票于2026年7月14日、7月15日、7月16日连续三个交易日内收盘价格涨幅偏离值累计超过20%，公司股价短期内涨幅较大，存在市场情绪过热、非理性炒作风险，交易风险极大，随时存在股价下跌的风险。另外，公司生物资产公允价值受多种不确定性因素影响，存在较大价值波动风险。敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。",
+          "url": "https://wallstreetcn.com/livenews/3134974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "报道：Anthropic计划在IPO临近之际安排投资者会议",
           "url": "https://wallstreetcn.com/livenews/3134498",
           "source": "华尔街见闻-快讯",
@@ -792,6 +827,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "上半年上海市重大工程完成投资超1303亿元，新开工项目19个",
+          "url": "https://wallstreetcn.com/livenews/3134967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "据悉Anthropic计划在未来几周举行IPO投资者会议",
           "url": "https://flash.jin10.com/detail/20260715234318606800",
           "source": "金十数据",
@@ -803,13 +849,24 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国商务部：台积电将在美国追加投资1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3134965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "台积电证实在亚利桑那州追加1000亿美元投资。",
           "url": "https://wallstreetcn.com/livenews/3134857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -839,7 +896,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
@@ -904,6 +961,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "克里姆林宫：伊朗危机的新一轮动荡令人担忧，可能对全球经济造成伤害。",
+          "url": "https://flash.jin10.com/detail/20260716174529210800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "全球算力、数据中心及终端设备需求的持续扩张 中国“预制变电站”全球爆单",
           "url": "https://wallstreetcn.com/livenews/3134655",
           "source": "华尔街见闻-快讯",
@@ -913,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "全球芯中国造",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E4%B8%AD%E5%9B%BD%E9%80%A0%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "皮尤调查：中国全球好感度排名超美国",
@@ -948,6 +1027,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "金十数据全球财经早餐 | 2026年7月16日",
           "url": "https://flash.jin10.com/detail/20260716070313112800",
           "source": "金十数据",
@@ -957,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "外交部：愿同各方提升全球人工智能创新发展水平",
+          "url": "https://wallstreetcn.com/livenews/3134963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "金十图示：2026年07月15日（周三）全球股市指数-欧洲市场",
@@ -992,11 +1093,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 18时07分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
