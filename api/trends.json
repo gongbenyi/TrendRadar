@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T20:20:40.099704+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-07-16T23:01:39.658514+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -63,11 +63,12 @@
             10,
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 23时01分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
+          "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -360,6 +372,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "甲骨文创始人因与特朗普的“腐败”华纳兄弟交易遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3135144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "据华尔街日报：特朗普正考虑扩大对伊朗的军事行动，包括加强空袭、派地面部队控制霍尔木兹海峡附近岛屿及打击核相关设施，但尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260716033635016800",
           "source": "金十数据",
@@ -432,7 +455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -726,7 +749,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
@@ -755,6 +778,17 @@
           "time_info": "[12时07分 ~ 15时22分]"
         },
         {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
           "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
           "url": "https://www.cls.cn/detail/2427322",
           "source": "财联社热门",
@@ -766,6 +800,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 07时01分]"
+        },
+        {
+          "title": "中国联通携华为发布全球最大规模5G-A百兆大上行网络",
+          "url": "https://wallstreetcn.com/livenews/3135152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时01分]"
         },
         {
           "title": "中国“预制变电站”，全球爆单",
@@ -780,16 +838,26 @@
           "time_info": "[12时07分 ~ 15时22分]"
         },
         {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
+          "title": "全球最大浆果巨头怡颗莓被起诉",
+          "url": "https://www.douyin.com/hot/2573767",
+          "source": "抖音",
           "ranks": [
-            20,
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时07分 ~ 20时20分]"
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "小鹏MONAL03全球发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FMONAL03%E5%85%A8%E7%90%83%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.569吨，当前持仓量为1001.878吨。",
@@ -809,9 +877,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
+        },
+        {
+          "title": "IMF报告显示：2022年事件“似乎提高了英国国债收益率波动率对于全球冲击的敏感性”",
+          "url": "https://wallstreetcn.com/livenews/3135141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "克里姆林宫：伊朗危机的新一轮动荡令人担忧，可能对全球经济造成伤害。",
@@ -886,7 +965,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -900,6 +979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "金十图示：2026年07月16日（周四）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260716220336981800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "外交部：愿同各方提升全球人工智能创新发展水平",
@@ -930,7 +1020,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -952,7 +1042,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -963,7 +1053,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -980,7 +1070,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1135,7 +1225,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1189,8 +1279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 20时20分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 23时01分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1257,7 +1347,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1323,11 +1413,12 @@
           "url": "https://www.toutiao.com/trending/7663049647610400299/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 23时01分]"
         }
       ]
     },
@@ -1359,7 +1450,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
