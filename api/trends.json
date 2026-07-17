@@ -1,11 +1,182 @@
 {
-  "generated_at": "2026-07-18T02:04:51.103987+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-07-18T04:05:11.031166+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
+        },
+        {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
+        },
+        {
+          "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
+          "url": "https://flash.jin10.com/detail/20260718034050546800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普再次赞赏6月通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3135890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：6月通胀数据传来“重大好消息”，美国正迎来“黄金时代”。",
+          "url": "https://flash.jin10.com/detail/20260718033729701800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
+          "url": "https://wallstreetcn.com/livenews/3135887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
+          "url": "https://flash.jin10.com/detail/20260718033109369800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大拒绝进行基本的森林管理和清理工作。这项污染的成本必然会被加到加拿大目前支付的关税上。",
+          "url": "https://flash.jin10.com/detail/20260718032748327800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：我将在白天致电加拿大总理卡尼，了解他们将如何应对野火事件。",
+          "url": "https://flash.jin10.com/detail/20260718032717229800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：要求加拿大对其森林维护不当的事实承担责任。",
+          "url": "https://flash.jin10.com/detail/20260718032553853800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普：已邀请Darline Graham参加8月11日举行的共和党特别参议员初选。",
+          "url": "https://flash.jin10.com/detail/20260718031740689800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
+          "url": "https://flash.jin10.com/detail/20260718004214447800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
+          "url": "https://wallstreetcn.com/livenews/3135838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "全球",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,19 +197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
-        },
-        {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         },
         {
           "title": "智能体互信互联互操作全球合作倡议",
@@ -47,9 +207,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 04时05分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -63,26 +235,16 @@
           "time_info": "00时14分"
         },
         {
-          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
-          "url": "https://wallstreetcn.com/articles/3777138",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
-        },
-        {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         },
         {
           "title": "全球首款机器人手机亮相引老外围观",
@@ -90,11 +252,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         },
         {
           "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
@@ -103,6 +266,17 @@
           "ranks": [
             16,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
+        },
+        {
+          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
+          "url": "https://wallstreetcn.com/articles/3777138",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -118,85 +292,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
-        },
-        {
-          "title": "生死博弈！“特朗普美元”来了",
-          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
-        },
-        {
-          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3135845",
+          "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
+          "url": "https://wallstreetcn.com/livenews/3135867",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
-          "url": "https://flash.jin10.com/detail/20260718004214447800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
-          "url": "https://wallstreetcn.com/livenews/3135838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时05分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
+          "url": "https://flash.jin10.com/detail/20260718033701724800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "尽管遭遇抛售，交易员们仍在继续将资金涌入贝莱德（BlackRock）规模达224亿美元的 iShares MSCI South Korea ETF。 根据彭博社汇编的数据，该基金本周已吸引超过28亿美元的资金流入，有望创下其有史以来最佳的单周资金流入纪录。该基金将其约四分之一的投资组合配置在韩国上市的SK海力士（SK Hynix）股票上。",
+          "url": "https://wallstreetcn.com/livenews/3135870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
         {
           "title": "非洲能源政策中心（Africa Centre for Energy Policy）执行董事Benjamin Boakye：目前并没有令人信服的、基于证据的理由表明加纳的矿业制度需要如此大刀阔斧的改革。 挑战不仅在于从该行业提取更多财政价值，还在于优化矿业对经济的整体贡献，同时保持该国作为投资目的地的竞争力。",
           "url": "https://wallstreetcn.com/livenews/3135841",
@@ -204,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -215,9 +350,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
@@ -230,11 +382,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时05分]"
         }
       ]
     }
