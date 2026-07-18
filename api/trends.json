@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T06:47:39.921138+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-07-19T07:52:36.026564+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
@@ -39,19 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
-        },
-        {
-          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
-          "url": "https://news.ifeng.com/c/8us63AU51TY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -62,11 +51,24 @@
             14,
             13,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
+        },
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时07分 ~ 07时52分]"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -78,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -103,8 +105,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
+        },
+        {
+          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
+          "url": "https://flash.jin10.com/detail/20260719052220338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
         },
         {
           "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
@@ -116,18 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
-          "url": "https://flash.jin10.com/detail/20260719052220338800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -189,8 +191,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
         },
         {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
@@ -205,16 +219,16 @@
           "time_info": "[03时02分 ~ 04时08分]"
         },
         {
-          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
-          "url": "https://flash.jin10.com/detail/20260719043315182800",
-          "source": "金十数据",
+          "title": "特朗普点评英格兰队战术",
+          "url": "https://www.douyin.com/hot/2575689",
+          "source": "抖音",
           "ranks": [
-            10,
-            13
+            13,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
+          "time_info": "[06时47分 ~ 07时52分]"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -228,44 +242,46 @@
           "time_info": "01时56分"
         },
         {
-          "title": "特朗普点评英格兰队战术",
-          "url": "https://www.douyin.com/hot/2575689",
+          "title": "特朗普威胁对加拿大收“空气税”",
+          "url": "https://www.douyin.com/hot/2575543",
           "source": "抖音",
           "ranks": [
-            13
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时52分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "超300款AI新品迎来全球首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
-        },
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
           "url": "https://wallstreetcn.com/articles/3777291",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
+        },
+        {
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "皮尤调查显示中国全球好感度首超美国，反映了哪些趋势？",
@@ -274,11 +290,12 @@
           "ranks": [
             18,
             17,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
@@ -302,8 +319,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
         },
         {
           "title": "全球巨头发声：必须在中国扎根",
@@ -311,11 +328,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时52分]"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -327,6 +345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 04时08分]"
+        },
+        {
+          "title": "全球首场人形机器人格斗赛观赏性拉满",
+          "url": "https://www.toutiao.com/trending/7663326895714926598/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -353,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 06时47分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 07时52分]"
         },
         {
           "title": "王毅：赞赏印尼方重申欢迎中资企业赴印尼投资合作",
@@ -365,8 +394,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时52分]"
         },
         {
           "title": "印尼投资部部长：对中印尼投资合作未来充满信心",
@@ -395,11 +424,12 @@
             16,
             15,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 07时52分]"
         }
       ]
     },
@@ -416,8 +446,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时52分]"
         }
       ]
     },
@@ -432,9 +462,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时52分]"
         }
       ]
     }
