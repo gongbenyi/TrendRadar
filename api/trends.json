@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T22:50:51.387848+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-07-18T23:55:27.276387+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时46分 ~ 22时50分]"
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 23时55分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -44,6 +44,18 @@
           "time_info": "[00时14分 ~ 06时48分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 23时55分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -55,29 +67,18 @@
           "time_info": "[00时14分 ~ 04时05分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 22时50分]"
-        },
-        {
           "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
           "source": "澎湃新闻",
           "ranks": [
             15,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时46分 ~ 22时50分]"
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 23时55分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -192,8 +193,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -203,8 +204,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "曝特朗普买股票后在社媒发有利信息",
@@ -217,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时55分]"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -318,17 +330,6 @@
           "time_info": "02时04分"
         },
         {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
           "url": "https://flash.jin10.com/detail/20260718004214447800",
           "source": "金十数据",
@@ -354,7 +355,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -472,15 +473,16 @@
           "time_info": "07时51分"
         },
         {
-          "title": "全球参数最大的开源模型能干啥",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%8F%82%E6%95%B0%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%B9%B2%E5%95%A5",
-          "source": "bilibili 热搜",
+          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
+          "url": "https://wallstreetcn.com/articles/3777291",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -507,16 +509,16 @@
           "time_info": "[15时46分 ~ 19时03分]"
         },
         {
-          "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
-          "url": "https://wallstreetcn.com/articles/3777291",
-          "source": "华尔街见闻",
+          "title": "全球参数最大的开源模型能干啥",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%8F%82%E6%95%B0%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%B9%B2%E5%95%A5",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            5
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时50分]"
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
@@ -540,6 +542,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时23分 ~ 17时23分]"
+        },
+        {
+          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2061833227313189605",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 23时55分]"
         },
         {
           "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
@@ -579,15 +592,52 @@
           "time_info": "[00时14分 ~ 02时04分]"
         },
         {
-          "title": "印度民营火箭 Vikram-1 首飞成功入轨，成全球第三个拥有民营轨道发射能力的国家，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2061833227313189605",
-          "source": "知乎",
+          "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
+          "url": "https://wallstreetcn.com/livenews/3136047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时09分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时55分]"
+        },
+        {
+          "title": "中国首创人工智能赋能核能技术路线全球首发",
+          "url": "https://flash.jin10.com/detail/20260718210538813800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时55分]"
+        },
+        {
+          "title": "中国首创AI赋能核能技术路线全球首发",
+          "url": "https://wallstreetcn.com/livenews/3136038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时55分]"
+        },
+        {
+          "title": "全球首个基于光量子技术路线的智能体平台：图灵量子发布行业级量子-经典混合Agent平台QAgent",
+          "url": "https://wallstreetcn.com/livenews/3136037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时55分]"
         },
         {
           "title": "全球巨头发声：必须在中国扎根",
@@ -623,48 +673,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
-          "url": "https://wallstreetcn.com/livenews/3136047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "中国首创人工智能赋能核能技术路线全球首发",
-          "url": "https://flash.jin10.com/detail/20260718210538813800",
-          "source": "金十数据",
+          "title": "皮尤调查显示中国全球好感度首超美国，反映了哪些趋势？",
+          "url": "https://www.zhihu.com/question/2061175218329196382",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "中国首创AI赋能核能技术路线全球首发",
-          "url": "https://wallstreetcn.com/livenews/3136038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "全球首个基于光量子技术路线的智能体平台：图灵量子发布行业级量子-经典混合Agent平台QAgent",
-          "url": "https://wallstreetcn.com/livenews/3136037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时55分"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
@@ -695,7 +712,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -717,17 +734,6 @@
           "time_info": "[19时02分 ~ 19时03分]"
         },
         {
-          "title": "王毅：赞赏印尼方重申欢迎中资企业赴印尼投资合作",
-          "url": "https://wallstreetcn.com/livenews/3136058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
           "url": "https://flash.jin10.com/detail/20260718033701724800",
           "source": "金十数据",
@@ -737,6 +743,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "王毅：赞赏印尼方重申欢迎中资企业赴印尼投资合作",
+          "url": "https://wallstreetcn.com/livenews/3136058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时55分]"
         },
         {
           "title": "专家：市场给投资者上了一课",
@@ -862,8 +880,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3136067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3135881",
