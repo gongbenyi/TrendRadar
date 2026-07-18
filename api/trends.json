@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T17:23:10.038175+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-07-18T19:03:12.784185+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -32,6 +32,18 @@
           "time_info": "[00时14分 ~ 06时48分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 19时03分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -43,16 +55,16 @@
           "time_info": "[00时14分 ~ 04时05分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            1
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 19时03分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -88,6 +100,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
           "url": "https://wallstreetcn.com/livenews/3135887",
           "source": "华尔街见闻-快讯",
@@ -99,15 +122,16 @@
           "time_info": "04时05分"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 17时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 19时03分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -153,18 +177,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时23分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -397,8 +409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时03分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加67.49吨，当前持仓量为15061.32吨。欢迎点击查看数据中心>>",
@@ -428,11 +440,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 19时03分]"
+        },
+        {
+          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
+          "url": "https://www.zhihu.com/question/2061186638059758273",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时03分]"
         },
         {
           "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
@@ -484,17 +508,6 @@
           "time_info": "[00时14分 ~ 02时04分]"
         },
         {
-          "title": "2026 世界人工智能大会在上海举行，超 300 款全球首发 AI 产品将亮相，本次大会有哪些看点？",
-          "url": "https://www.zhihu.com/question/2061186638059758273",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
-        },
-        {
           "title": "全球巨头发声：必须在中国扎根",
           "url": "https://www.toutiao.com/trending/7663029845223587883/",
           "source": "今日头条",
@@ -542,8 +555,19 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "泰王国驻成都总领事馆投资处揭牌",
+          "url": "https://www.toutiao.com/trending/7663772659452543030/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
           "url": "https://flash.jin10.com/detail/20260718033701724800",
@@ -556,6 +580,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "专家：市场给投资者上了一课",
+          "url": "https://www.toutiao.com/trending/7663675198251470355/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时03分]"
+        },
+        {
           "title": "国家发展改革委安排3000万元中央预算内投资支持重庆山体崩塌灾害灾后应急恢复。",
           "url": "https://wallstreetcn.com/livenews/3135956",
           "source": "华尔街见闻-快讯",
@@ -566,17 +601,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 15时46分]"
-        },
-        {
-          "title": "专家：市场给投资者上了一课",
-          "url": "https://www.toutiao.com/trending/7663675198251470355/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         },
         {
           "title": "投资中国AI产业链成全球共识 中国AI科技零部件订单排至2027年底",
@@ -637,7 +661,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -649,8 +673,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 19时03分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
