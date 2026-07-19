@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T22:54:05.885075+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-07-19T23:56:44.995342+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 23时56分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -119,11 +119,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 22时54分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 23时56分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -286,6 +287,17 @@
           "time_info": "[05时49分 ~ 07时52分]"
         },
         {
+          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
+          "url": "https://wallstreetcn.com/livenews/3136305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
+        },
+        {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
           "url": "https://flash.jin10.com/detail/20260719020717428800",
           "source": "金十数据",
@@ -296,6 +308,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时08分]"
+        },
+        {
+          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
+          "url": "https://flash.jin10.com/detail/20260719220841809800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
+        },
+        {
+          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
+          "url": "https://flash.jin10.com/detail/20260719220832968800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
+        },
+        {
+          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
+          "url": "https://flash.jin10.com/detail/20260719220803871800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
+        },
+        {
+          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260719220736369800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
+        },
+        {
+          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
+          "url": "https://flash.jin10.com/detail/20260719220638278800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
         },
         {
           "title": "特朗普点评英格兰队战术",
@@ -310,26 +382,15 @@
           "time_info": "[06时47分 ~ 07时52分]"
         },
         {
-          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
-          "url": "https://wallstreetcn.com/livenews/3136305",
+          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
+          "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
-          "url": "https://flash.jin10.com/detail/20260719220841809800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时56分]"
         },
         {
           "title": "国际足联主席盛赞特朗普",
@@ -341,17 +402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
-          "url": "https://flash.jin10.com/detail/20260719220832968800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -376,39 +426,6 @@
           "time_info": "19时56分"
         },
         {
-          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
-          "url": "https://flash.jin10.com/detail/20260719220803871800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
-          "url": "https://flash.jin10.com/detail/20260719220736369800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
-          "url": "https://flash.jin10.com/detail/20260719220638278800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
           "title": "据纽约邮报：美国总统特朗普表示，美国的打击阻止了伊朗获得核武器。如果不制止伊朗，地区可能会陷入更广泛的冲突。",
           "url": "https://flash.jin10.com/detail/20260719112308290800",
           "source": "金十数据",
@@ -418,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
-          "url": "https://wallstreetcn.com/livenews/3136290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "美国总统特朗普：共和党人应该将伊朗纳入针对俄罗斯的制裁法案。这是林赛·格雷厄姆想要做的，而且原本就要这么做了。",
@@ -456,7 +462,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "高盛点评Kimi K3：中国开源模型“智能”达到全球普及关键点，高端模型竞争激烈",
@@ -513,6 +519,17 @@
           "time_info": "[00时56分 ~ 04时08分]"
         },
         {
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 23时56分]"
+        },
+        {
           "title": "中国AI站上全球治理主场",
           "url": "https://www.douyin.com/hot/2577012",
           "source": "抖音",
@@ -522,17 +539,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时13分 ~ 19时56分]"
-        },
-        {
-          "title": "中国大模型首次登顶全球代码榜",
-          "url": "https://www.douyin.com/hot/2577641",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时14分 ~ 22时54分]"
         },
         {
           "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
@@ -545,8 +551,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时13分 ~ 22时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时13分 ~ 23时56分]"
         },
         {
           "title": "中国推动全球AI治理迈入合作新阶段",
@@ -560,16 +566,51 @@
           "time_info": "13时50分"
         },
         {
+          "title": "姚期智：中国AI产业领跑全球",
+          "url": "https://flash.jin10.com/detail/20260719232612191800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "Kimi K3让全球AI圈炸锅了",
           "url": "https://www.toutiao.com/trending/7664192249667784198/",
           "source": "今日头条",
           "ranks": [
             6,
-            21
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 23时56分]"
+        },
+        {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时14分 ~ 22时54分]"
+          "time_info": "[21时14分 ~ 23时56分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "美国发布全球安全警示 称中东局势可能出现意外升级",
@@ -595,29 +636,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 07时52分]"
-        },
-        {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时54分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "全球化的日本在赚本土日本的钱",
@@ -748,8 +766,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 23时56分]"
         },
         {
           "title": "王毅：赞赏印尼方重申欢迎中资企业赴印尼投资合作",
@@ -787,6 +805,17 @@
           "time_info": "[10时31分 ~ 16时13分]"
         },
         {
+          "title": "幼儿园还未运营就被拆投资人称当地隐瞒拆迁规划，湖北鄂州多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604644",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时56分]"
+        },
+        {
           "title": "灵均投资：公司及主要核心人员将在两周内使用自有资金人民币2亿元参与申购公司旗下私募证券基金产品。",
           "url": "https://flash.jin10.com/detail/20260719190707362800",
           "source": "金十数据",
@@ -821,17 +850,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 13时50分]"
-        },
-        {
-          "title": "幼儿园还未运营就被拆投资人称当地隐瞒拆迁规划，湖北鄂州多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33604644",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "敬业钢铁有限公司：正告英国政府立即停止以国内法践踏国际投资规则的行径",
@@ -891,51 +909,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3136067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时52分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 22时54分]"
-        },
-        {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -947,8 +922,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -966,6 +941,72 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时56分 ~ 10时31分]"
+        },
+        {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时56分]"
+        },
+        {
+          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3136067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时52分]"
+        },
+        {
+          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
+          "url": "https://wallstreetcn.com/livenews/3136253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 21时14分]"
         }
       ]
     },
