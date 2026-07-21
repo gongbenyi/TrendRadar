@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T21:44:56.891750+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-07-21T23:43:01.893162+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 51,
       "titles": [
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
@@ -64,6 +64,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美国总统特朗普宣称：伊朗想要见面，但我们没兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3137671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
           "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
           "source": "澎湃新闻",
@@ -99,6 +110,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美国总统特朗普：如果红海被封锁，将不得不处理相关业务。",
+          "url": "https://flash.jin10.com/detail/20260721231902762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普政府出新招：到美国建厂铝关税打对折",
           "url": "https://wallstreetcn.com/livenews/3137085",
           "source": "华尔街见闻-快讯",
@@ -121,6 +143,28 @@
           "time_info": "11时34分"
         },
         {
+          "title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。",
+          "url": "https://flash.jin10.com/detail/20260721231816030800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及胡塞封锁）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260721231753948800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普暗示美军将对伊朗发动强硬报复",
           "url": "https://flash.jin10.com/detail/20260721030649919800",
           "source": "金十数据",
@@ -130,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
+          "url": "https://wallstreetcn.com/livenews/3137667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
@@ -153,6 +208,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 14时27分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时43分]"
         },
         {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
@@ -203,6 +270,17 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "美国总统特朗普声称：与英国首相伯纳姆关系非常不错。 我们讨论了北海石油和贸易问题。 将在不久的将来与伯纳姆会见。",
           "url": "https://wallstreetcn.com/livenews/3137114",
           "source": "华尔街见闻-快讯",
@@ -237,6 +315,50 @@
           "time_info": "[14时26分 ~ 14时27分]"
         },
         {
+          "title": "美国总统特朗普：我们对黎巴嫩感觉良好。 以色列正从黎巴嫩“撤军”。",
+          "url": "https://wallstreetcn.com/livenews/3137666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "黎巴嫩总统奥恩感谢美国总统特朗普在签署框架协议方面取得的历史性成就。",
+          "url": "https://flash.jin10.com/detail/20260721231555478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国总统特朗普：将妥善对待黎巴嫩，给予应有的尊重。",
+          "url": "https://flash.jin10.com/detail/20260721231518766800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们将大力帮助黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260721231438448800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
           "url": "https://flash.jin10.com/detail/20260721005257690800",
           "source": "金十数据",
@@ -246,6 +368,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国总统特朗普：将与黎巴嫩的黎巴嫩总统奥恩取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260721231419836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩遭受重创已达数十年之久。",
+          "url": "https://flash.jin10.com/detail/20260721231410402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国总统特朗普：与黎巴嫩的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260721231407346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：每当伊朗杀死一名美国士兵，都将为此付出数倍的代价。",
@@ -270,6 +425,28 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美国总统特朗普：我们对黎巴嫩的情况感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20260721231244822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "加拿大总理卡尼周二与美国总统特朗普通话，双方同意加强沟通。",
+          "url": "https://wallstreetcn.com/livenews/3137656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普：本届世界杯取得巨大成功，国际足联主席将世界杯提升至前所未有的高度。",
           "url": "https://flash.jin10.com/detail/20260721003912135800",
           "source": "金十数据",
@@ -290,17 +467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美国总统特朗普声称：以色列总理内塔尼亚胡无论如何都不会在美国被逮捕。",
@@ -336,6 +502,17 @@
           "time_info": "06时59分"
         },
         {
+          "title": "美国总统特朗普：黎巴嫩总统奥恩备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260721230922065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "西班牙夺冠合影特朗普被裁掉",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%90%88%E5%BD%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%A3%81%E6%8E%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -358,6 +535,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "市场消息：美国总统特朗普在白宫接见黎巴嫩总统，准备举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721230909971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普：伊朗每杀死一名美国士兵都将付出“数倍”代价",
           "url": "https://wallstreetcn.com/livenews/3137026",
           "source": "华尔街见闻-快讯",
@@ -375,7 +563,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -394,7 +582,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何看待诺兰新片《奥德赛》首周全球票房 2.631 亿，拿下诺兰职业生涯最佳成绩？",
@@ -408,6 +596,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 08时02分]"
+        },
+        {
+          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
+          "url": "https://wallstreetcn.com/articles/3777542",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时43分]"
         },
         {
           "title": "清华姚班 全球AI半壁江山",
@@ -425,6 +627,17 @@
           "time_info": "[02时01分 ~ 08时02分]"
         },
         {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "历史性突破！全球同步研发创新药在中国首报首发",
           "url": "https://www.cls.cn/detail/2432469",
           "source": "财联社热门",
@@ -435,19 +648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 19时46分]"
-        },
-        {
-          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
-          "url": "https://wallstreetcn.com/articles/3777542",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 21时44分]"
         },
         {
           "title": "金十图示：2026年07月21日（周二）全球汽车制造商市值变化",
@@ -467,9 +667,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "新西兰7月7日全球乳制品贸易价格指数 1.5%，前值-4.9%。",
+          "url": "https://flash.jin10.com/detail/20260721231729629800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.566吨，当前持仓量为1003.59吨。",
@@ -490,7 +701,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -589,7 +800,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -686,11 +897,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时43分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -819,7 +1031,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -848,6 +1060,19 @@
           "time_info": "02时01分"
         },
         {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时43分]"
+        },
+        {
           "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
           "url": "https://www.zhihu.com/question/2062579631564093084",
           "source": "知乎",
@@ -855,18 +1080,6 @@
             12,
             14,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 21时44分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -883,12 +1096,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时59分 ~ 08时02分]"
+        },
+        {
+          "title": "113家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://wallstreetcn.com/livenews/3137648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -896,11 +1120,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 23时43分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -912,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 14时27分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
+          "url": "https://wallstreetcn.com/livenews/3137668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -939,11 +1175,12 @@
             8,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时34分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[11时34分 ~ 23时43分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
