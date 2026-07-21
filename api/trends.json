@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T17:27:26.527459+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-07-21T19:46:23.372402+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 19时46分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -121,6 +121,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 19时46分]"
+        },
+        {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
           "url": "https://wallstreetcn.com/livenews/3137065",
           "source": "华尔街见闻-快讯",
@@ -131,17 +142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 05时11分]"
-        },
-        {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 17时27分]"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
@@ -215,6 +215,17 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时46分]"
+        },
+        {
           "title": "舒默称特朗普是美国史上最腐败总统",
           "url": "https://www.toutiao.com/trending/7663682649068109887/",
           "source": "今日头条",
@@ -235,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "西班牙，你太不给特朗普面子了",
-          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "美国总统特朗普：每当伊朗杀死一名美国士兵，都将为此付出数倍的代价。",
@@ -371,8 +371,197 @@
       ]
     },
     {
+      "keyword_group": "投资",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
+          "url": "https://wallstreetcn.com/articles/3777464",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时01分 ~ 19时46分]"
+        },
+        {
+          "title": "证监会召开投资者座谈会：全力维护市场平稳运行",
+          "url": "https://wallstreetcn.com/articles/3777421",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 14时27分]"
+        },
+        {
+          "title": "证监会召开投资者座谈会听取意见建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620408",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 14时27分]"
+        },
+        {
+          "title": "长鑫科技：IPO发行结果公布 网上投资者放弃认购658万股",
+          "url": "https://flash.jin10.com/detail/20260721192658256800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "【长鑫科技：网上投资者放弃认购658.62万股】长鑫科技公告称，公司首次公开发行股票并在科创板上市发行结果已公布。本次发行价格为8.66元/股，初始发行股份数量为66.88亿股，占发行后总股本约10%。最终战略配售数量为16.67亿股，网上发行最终中签率约为0.47141739%。网上投资者缴款认购38.45亿股，放弃认购658.62万股；网下投资者缴款认购21.73亿股，放弃认购31567股。联席主承销商包销股份661.78万股，包销金额5731.01万元。超额配售选择权行使前，发行费用为2.81亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 11时34分]"
+        },
+        {
+          "title": "7月21日投资避雷针：又一光纤企业扩产 杭电股份拟定增28.8亿元用于光纤预制棒等项目",
+          "url": "https://www.cls.cn/detail/2431984",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 14时27分]"
+        },
+        {
+          "title": "紧抓权益市场投资机遇，理财资金打新常态化",
+          "url": "https://wallstreetcn.com/livenews/3137125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
+          "url": "https://wallstreetcn.com/livenews/3137480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "证监会：希望上市公司着力增强合规经营能力、提升核心竞争力，更好回报投资者",
+          "url": "https://flash.jin10.com/detail/20260721192135642800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "美股资金大轮动开启！高盛：AI之外，关注三大替代投资主题",
+          "url": "https://www.cls.cn/detail/2431987",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "上海科创基金投资组合IPO数量增至228家",
+          "url": "https://flash.jin10.com/detail/20260721140803526800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "报道：贝莱德、高瓴和淡马锡将成为中际旭创香港上市交易的基石投资者",
+          "url": "https://wallstreetcn.com/livenews/3137459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
+          "url": "https://flash.jin10.com/detail/20260721165906625800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "高科桥：完成收购豪民投资控股有限公司全部股权权益的重大及关联交易",
+          "url": "https://flash.jin10.com/detail/20260721165838710800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "英国政府中长期融资成本至少涨8个基点，投资者关注新任首相伯纳姆的财政政策方向",
+          "url": "https://wallstreetcn.com/livenews/3137022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待诺兰新片《奥德赛》首周全球票房 2.631 亿，拿下诺兰职业生涯最佳成绩？",
@@ -403,6 +592,18 @@
           "time_info": "[02时01分 ~ 08时02分]"
         },
         {
+          "title": "历史性突破！全球同步研发创新药在中国首报首发",
+          "url": "https://www.cls.cn/detail/2432469",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时46分]"
+        },
+        {
           "title": "金十图示：2026年07月21日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260721110528087800",
           "source": "金十数据",
@@ -414,15 +615,16 @@
           "time_info": "11时34分"
         },
         {
-          "title": "历史性突破！全球同步研发创新药在中国首报首发",
-          "url": "https://www.cls.cn/detail/2432469",
-          "source": "财联社热门",
+          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
+          "url": "https://wallstreetcn.com/articles/3777542",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时46分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加4.566吨，当前持仓量为1003.59吨。",
@@ -448,17 +650,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "美财长贝森特宣称：美国很快将控制全球80%的算力",
-          "url": "https://wallstreetcn.com/articles/3777542",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少8.43吨，当前持仓量为15052.89吨。欢迎点击查看数据中心..",
           "url": "https://flash.jin10.com/detail/20260721065742508800",
           "source": "金十数据",
@@ -468,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "全球科技股反弹！美股盘前闪迪涨约7%，韩股收涨3.6%，油价回落、金价上涨1%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
@@ -542,165 +744,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "半导体指数跌入熊市，高盛悄然转向三大替代投资主题",
-          "url": "https://wallstreetcn.com/articles/3777464",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 17时27分]"
-        },
-        {
-          "title": "证监会召开投资者座谈会：全力维护市场平稳运行",
-          "url": "https://wallstreetcn.com/articles/3777421",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 14时27分]"
-        },
-        {
-          "title": "证监会召开投资者座谈会听取意见建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620408",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 14时27分]"
-        },
-        {
-          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
-          "url": "https://www.cls.cn/detail/2431826",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时34分]"
-        },
-        {
-          "title": "7月21日投资避雷针：又一光纤企业扩产 杭电股份拟定增28.8亿元用于光纤预制棒等项目",
-          "url": "https://www.cls.cn/detail/2431984",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 14时27分]"
-        },
-        {
-          "title": "紧抓权益市场投资机遇，理财资金打新常态化",
-          "url": "https://wallstreetcn.com/livenews/3137125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
-          "url": "https://wallstreetcn.com/livenews/3137480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美股资金大轮动开启！高盛：AI之外，关注三大替代投资主题",
-          "url": "https://www.cls.cn/detail/2431987",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "上海科创基金投资组合IPO数量增至228家",
-          "url": "https://flash.jin10.com/detail/20260721140803526800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "报道：贝莱德、高瓴和淡马锡将成为中际旭创香港上市交易的基石投资者",
-          "url": "https://wallstreetcn.com/livenews/3137459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
-          "url": "https://flash.jin10.com/detail/20260721165906625800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "高科桥：完成收购豪民投资控股有限公司全部股权权益的重大及关联交易",
-          "url": "https://flash.jin10.com/detail/20260721165838710800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "英国政府中长期融资成本至少涨8个基点，投资者关注新任首相伯纳姆的财政政策方向",
-          "url": "https://wallstreetcn.com/livenews/3137022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
         }
       ]
     },
@@ -751,22 +797,24 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
           "url": "https://www.zhihu.com/question/2062579631564093084",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 19时46分]"
         }
       ]
     },
@@ -774,6 +822,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 19时46分]"
+        },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
@@ -784,18 +844,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时34分 ~ 14时27分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 17时27分]"
         },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
@@ -821,11 +869,12 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 19时46分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
