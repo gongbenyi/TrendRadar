@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T05:05:28.877429+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-23T07:01:39.763183+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -39,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时05分 ~ 07时01分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -76,15 +88,15 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
+          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
+          "url": "https://flash.jin10.com/detail/20260723061154517800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "07时01分"
         },
         {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
@@ -104,7 +116,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -134,8 +146,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
+        },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
           "url": "https://flash.jin10.com/detail/20260723044833293800",
@@ -143,7 +167,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -159,26 +183,26 @@
           "time_info": "01时16分"
         },
         {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
-        },
-        {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
           "url": "https://wallstreetcn.com/livenews/3138394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，分析师预期1170.2亿美元。 二季度剔除流量获取成本（Ex-TAC）营收103.6亿美元，分析师预期1010.7亿美元。 二季度谷歌云营收247.7亿美元，分析师预期224.6亿美元；谷歌云订单积压5140亿美元。 二季度谷歌搜索与其他收入632.7亿美元，分析师预期632.8亿美元。 二季度搜索同比增长17%。 二季度谷歌服务营收945.4亿美元，分析师预期943.2亿美元。 二季度谷歌广告营收816.3亿美元，分析师预期811.2亿美元。 二季度YouTube广告营收110.6亿美元，分析师预期108.1亿美元。 二季度运营利润407.6亿美元，分析师预期405.5亿美元。 二季度资本开支449.2亿美元，分析师预期441.5亿美元。 没有按市价出售任何股份，股权增长990.3亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -187,9 +211,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.3%，谷歌A与特斯拉掀开美国科技股业绩报告序幕。",
+          "url": "https://wallstreetcn.com/livenews/3138440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "Alphabet(GOOG.O)：Gemini模型现在每分钟可处理220亿个API词元（TOKENS）。",
@@ -198,7 +233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -209,7 +244,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -223,6 +258,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
+          "url": "https://wallstreetcn.com/livenews/3138425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "胡塞武装宣布对沙特实施禁运，全球供应链遭遇中东“双锁”困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33631150",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
+        },
+        {
+          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
+          "url": "https://wallstreetcn.com/livenews/3138400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "一箭9星 全球最大固体运载火箭首秀",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%AE%AD9%E6%98%9F+%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9B%BA%E4%BD%93%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E9%A6%96%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 07时01分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.998吨，当前持仓量为1007.871吨。",
+          "url": "https://flash.jin10.com/detail/20260723062004150800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15066.94吨。欢迎点击查看数据中心..",
+          "url": "https://flash.jin10.com/detail/20260723061656457800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "金十图示：2026年07月22日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260723040551092800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
@@ -238,19 +358,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -262,19 +383,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -284,65 +406,14 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "全球",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "胡塞武装宣布对沙特实施禁运，全球供应链遭遇中东“双锁”困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33631150",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
-        },
-        {
-          "title": "周三（7月22日），美股行业ETF多数收跌，网络股指数ETF、全球航空业ETF、生物科技指数ETF至多跌1.86%，半导体ETF涨0.48%，能源业ETF涨1.20%。 标普500指数的11个板块中，电信板块收跌1.29%，可选消费板块跌0.84%，信息技术/科技板块涨0.01%，能源板块涨1.19%，原材料板块涨1.45%，公用事业板块涨2.29%。",
-          "url": "https://wallstreetcn.com/livenews/3138400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "一箭9星 全球最大固体运载火箭首秀",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%AE%AD9%E6%98%9F+%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9B%BA%E4%BD%93%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E9%A6%96%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 05时05分]"
-        },
-        {
-          "title": "金十图示：2026年07月22日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260723040551092800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
@@ -363,8 +434,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -372,11 +443,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)首席财务官：公司将择机筹措最高300亿美元债务融资，用以加码各类投资项目。",
+          "url": "https://flash.jin10.com/detail/20260723060306108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -390,11 +473,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -404,8 +488,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时01分]"
         }
       ]
     }
