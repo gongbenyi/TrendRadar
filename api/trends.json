@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T18:21:42.557184+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-07-23T20:23:41.462259+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "谷歌财报",
@@ -78,6 +78,19 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
           "url": "https://flash.jin10.com/detail/20260723044833293800",
           "source": "金十数据",
@@ -100,16 +113,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
+          "title": "谷歌披露持有SpaceX股份940亿美元",
+          "url": "https://flash.jin10.com/detail/20260723195331103800",
+          "source": "金十数据",
           "ranks": [
-            13,
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "谷歌盘后大跌！全年资本开支上调8%，CFO称继续加大投入",
@@ -184,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -211,13 +223,24 @@
           "time_info": "05时05分"
         },
         {
+          "title": "谷歌(GOOG.O)在10-Q报告中披露了对SpaceX(SPCX.O)的持股情况，在SpaceX上市后其持有价值940亿美元的股份，其中800亿美元SpaceX持股受短期锁定期限制。",
+          "url": "https://flash.jin10.com/detail/20260723194312680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
           "url": "https://www.zhihu.com/question/2063582676884223714",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -242,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "谷歌上调AI资本开支至2050亿美元，美国科技巨头持续扩大投入",
@@ -269,7 +303,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -295,6 +329,18 @@
           "time_info": "[08时09分 ~ 12时14分]"
         },
         {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
+        },
+        {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
           "source": "凤凰网",
@@ -304,18 +350,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时14分 ~ 18时21分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时21分]"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -342,15 +376,37 @@
           "time_info": "05时05分"
         },
         {
+          "title": "美国总统特朗普：美国并不反对民用（非浓缩）核设施。",
+          "url": "https://flash.jin10.com/detail/20260723195408068800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "金十整理——惨遭现实“打脸”，四个方面回看特朗普对伊朗战争的判断",
           "url": "https://flash.jin10.com/detail/20260723175340528800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "美国总统特朗普：美国能源部与沙特阿拉伯之间的核协议将获得批准，但完全取决于沙特阿拉伯加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20260723195405095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -362,6 +418,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -386,18 +455,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 05时05分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时21分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -445,6 +502,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
           "url": "https://flash.jin10.com/detail/20260723002126993800",
           "source": "金十数据",
@@ -473,7 +541,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -506,7 +574,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -514,7 +582,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
@@ -522,11 +590,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时23分]"
         },
         {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
@@ -591,11 +660,12 @@
           "url": "https://wallstreetcn.com/articles/3777719",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 20时23分]"
         },
         {
           "title": "可再生能源发展十五五规划发布：预计“十五五”期间可再生能源产业总投资将超5万亿元",
@@ -610,13 +680,24 @@
           "time_info": "[12时14分 ~ 15时32分]"
         },
         {
+          "title": "长鑫能“涨多高”？无缘中国新股的外国投资者，正在币圈热烈押注",
+          "url": "https://www.cls.cn/detail/2435130",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
           "url": "https://wallstreetcn.com/livenews/3138799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -630,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
+          "url": "https://wallstreetcn.com/livenews/3138866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "星展：投资者或将密切关注美日短端利率差",
@@ -660,7 +752,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -676,6 +768,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "红板科技：拟投资不超过50亿元建设高阶mSAP高端精密电路板产业化项目",
+          "url": "https://flash.jin10.com/detail/20260723194130468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "韩国最快可能会在8月份宣布双边贸易协议中第一个对美国投资项目。（韩联社）",
           "url": "https://wallstreetcn.com/livenews/3138458",
           "source": "华尔街见闻-快讯",
@@ -685,12 +788,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "吴伟任中国投资有限责任公司党委副书记",
+          "url": "https://wallstreetcn.com/livenews/3138848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "红板科技：全资子公司赣州红板拟在现有厂区内实施高阶mSAP高端精密电路板产业化项目，预计总投资不超过人民币50亿元。",
+          "url": "https://wallstreetcn.com/livenews/3138846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "胡塞武装宣布对沙特实施禁运，全球供应链遭遇中东“双锁”困局",
@@ -783,6 +908,39 @@
           "time_info": "12时14分"
         },
         {
+          "title": "证监会：推动中长期资金稳步提升入市规模和比例，加强应对全球市场波动和风险跨境传导的政策储备",
+          "url": "https://wallstreetcn.com/livenews/3138868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "【普冉股份：预计2026年上半年净利润同比增长1925.36%】普冉股份公告，预计2026年半年度实现归属于母公司所有者的净利润约为8.25亿元，与上年同期（法定披露数据）相比，将增加7.84亿元左右，同比增加1925.36%左右。2026年上半年，受益于全球人工智能算力建设，存储芯片行业供给格局结构优化，通用存储芯片产品价格维持上涨态势，存储业务实现量价同步改善。同时公司持续落实“存储+”发展战略，MCU、Driver等模拟新产品逐步渗透工业控制、AIoT领域并实现规模出货，相关产品市场占有率稳步提升，最终带动公司上半年整体营业收入较去年同期实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3138858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "华晨宇首位全球前10中国内地歌手",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%A6%96%E4%BD%8D%E5%85%A8%E7%90%83%E5%89%8D10%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E6%AD%8C%E6%89%8B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "金十图示：2026年07月22日（周三）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260723040551092800",
           "source": "金十数据",
@@ -811,7 +969,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -819,7 +977,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -841,7 +999,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -892,6 +1050,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "梁文锋内部分享提“甚至不用加班”",
           "url": "https://www.toutiao.com/trending/7665582859733700147/",
           "source": "今日头条",
@@ -912,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "如何看待梁文锋称不要求员工长期加班？为啥刘强东、梁文锋等大厂创始人都在反过度加班但这仍是大厂的常态？",
+          "url": "https://www.zhihu.com/question/2063652081714423010",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "梁文锋四小时投资人会议实录引热议",
@@ -940,8 +1120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 20时23分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
