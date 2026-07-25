@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:50:08.639156+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-26T05:54:54.804770+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时54分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -28,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时54分]"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 05时54分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 04时50分]"
-        },
-        {
-          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
-          "url": "https://wallstreetcn.com/livenews/3139778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 04时50分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -80,6 +80,18 @@
           "time_info": "[00时10分 ~ 01时57分]"
         },
         {
+          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260726031504146800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
+        },
+        {
           "title": "特朗普下令暂停空袭伊朗",
           "url": "https://flash.jin10.com/detail/20260726013259150800",
           "source": "金十数据",
@@ -92,26 +104,16 @@
           "time_info": "[03时08分 ~ 04时50分]"
         },
         {
-          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260726031504146800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
           "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
           "url": "https://flash.jin10.com/detail/20260726031254710800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
         }
       ]
     },
@@ -127,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 05时54分]"
         },
         {
           "title": "女投资人五年前重仓长鑫",
@@ -141,8 +143,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时54分]"
+        },
+        {
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 05时54分]"
+        },
+        {
+          "title": "富达的高级投资组合经理Ian Samson：在韩国以及程度稍轻的市场看到的极端波动，使得逢低买入变得更加困难。 这种波动意味着，从投资组合构建的角度来看，我们对于是否要过于激进地买入必须保持审慎。",
+          "url": "https://wallstreetcn.com/livenews/3139753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 05时54分]"
         },
         {
           "title": "中信建投：看好电力设备产业投资前景",
@@ -155,28 +179,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
-          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3139766",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260726031905539800",
+          "source": "金十数据",
           "ranks": [
-            18
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 04时50分]"
-        },
-        {
-          "title": "富达的高级投资组合经理Ian Samson：在韩国以及程度稍轻的市场看到的极端波动，使得逢低买入变得更加困难。 这种波动意味着，从投资组合构建的角度来看，我们对于是否要过于激进地买入必须保持审慎。",
-          "url": "https://wallstreetcn.com/livenews/3139753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时54分]"
         }
       ]
     },
@@ -192,8 +223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时54分]"
         },
         {
           "title": "景德镇用小写的c惊艳全球",
@@ -203,25 +234,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 04时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260726031905539800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 05时54分]"
         }
       ]
     }
