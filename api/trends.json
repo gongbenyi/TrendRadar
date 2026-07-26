@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:58:23.331835+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-07-27T07:01:09.112799+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -60,8 +60,34 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "time_info": "[02时02分 ~ 07时01分]"
+        },
+        {
+          "title": "英国新任首相：若有必要将公开批评特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 07时01分]"
         },
         {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
@@ -76,18 +102,6 @@
           "time_info": "[02时03分 ~ 04时08分]"
         },
         {
-          "title": "英国新任首相：若有必要将公开批评特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
           "url": "https://wallstreetcn.com/livenews/3139844",
           "source": "华尔街见闻-快讯",
@@ -98,18 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 05时58分]"
         },
         {
           "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
@@ -164,33 +166,36 @@
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
           "url": "https://flash.jin10.com/detail/20260727034547959800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
@@ -207,7 +212,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "找准定位：多省份明确政府投资基金重点投资方向",
@@ -215,11 +220,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "究竟丨付费学员投资亏损，任泽平“不荐股”声明能否免责？",
@@ -230,8 +236,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
+        },
+        {
+          "title": "上证报：“六张网”铺开、资金就位，下半年投资企稳向好可期",
+          "url": "https://wallstreetcn.com/livenews/3139874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "芝商所（CME）周一将推出个股期货，使投资者能够对50多只美国龙头股进行对冲或投机。相关合约将以挂钩股票的收盘价进行现金结算，并提供比期权更为简单的杠杆方式。个股期货将每周交易五天、每天23小时，并有两种规模：大型合约以100股股票为基础，微型合约以10股为基础。",
@@ -250,11 +267,12 @@
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
         }
       ]
     },
@@ -270,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
@@ -282,8 +300,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -294,8 +312,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时01分]"
         }
       ]
     }
