@@ -1,140 +1,12 @@
 {
-  "generated_at": "2026-07-27T23:41:57.475217+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-07-28T01:41:39.956954+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/articles/3777934",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
-          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 20时21分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普是不是美国最好总统？泽连斯基回应",
-          "url": "https://news.ifeng.com/c/8v6JXj4MicX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "特朗普：为了谈判，已经决定暂停袭击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3140411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "3个选项，特朗普举棋未定",
-          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普：伊朗谈判窗口有限，若谈判破裂将重启军事行动",
-          "url": "https://flash.jin10.com/detail/20260727231254381800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
           "url": "https://news.ifeng.com/c/8v6of60c6nV",
@@ -142,130 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "英国新任首相：若有必要将公开批评特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 07时01分]"
-        },
-        {
-          "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
-          "url": "https://flash.jin10.com/detail/20260727010619989800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时08分]"
-        },
-        {
-          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3139844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
-          "url": "https://wallstreetcn.com/livenews/3139838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "内塔尼亚胡称将赴美会晤特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
-          "url": "https://wallstreetcn.com/livenews/3139824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 05时58分]"
-        },
-        {
-          "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
-          "url": "https://flash.jin10.com/detail/20260727002330493800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
-          "url": "https://flash.jin10.com/detail/20260727041540869800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
-        },
-        {
-          "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
-          "url": "https://flash.jin10.com/detail/20260727034547959800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
-          "url": "https://flash.jin10.com/detail/20260727034241267800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
+          "time_info": "01时41分"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -274,551 +25,116 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "据以色列第12频道：美国总统特朗普表示，他不会在谈判上花费太多时间；如果谈判失败，他将依靠强有力的军事措施。",
-          "url": "https://flash.jin10.com/detail/20260727230622433800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
-          "url": "https://flash.jin10.com/detail/20260727194347581800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "01时41分"
         },
         {
-          "title": "美伊刚降温，内塔尼亚胡却赴美施压特朗普：别让伊朗核计划“死灰复燃”",
-          "url": "https://flash.jin10.com/detail/20260727073444945800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "据以色列第12频道援引消息人士称，内塔尼亚胡将请求特朗普不要向土耳其出售武器系统和F-35战斗机。",
-          "url": "https://flash.jin10.com/detail/20260727194215895800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "据以色列第12频道援引消息来人士称，内塔尼亚胡将向特朗普提供有关伊朗迈向拥有核武器进程的最新情报信息。",
-          "url": "https://flash.jin10.com/detail/20260727194108715800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特朗普连发数十张AI图遭吐槽",
-          "url": "https://www.douyin.com/hot/2586656",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
-          "url": "https://flash.jin10.com/detail/20260727065319315800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
-          "url": "https://flash.jin10.com/detail/20260726230940914800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：在与特朗普的会议中，将讨论议程上的所有问题，其中伊朗是重中之重。我们的目标明确——确保以色列的安全，增强以色列实力，扩大周围的和平圈。",
-          "url": "https://flash.jin10.com/detail/20260727192920582800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "找准定位：多省份明确政府投资基金重点投资方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33661440",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "究竟丨付费学员投资亏损，任泽平“不荐股”声明能否免责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33624220",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "芝商所（CME）周一将推出个股期货，使投资者能够对50多只美国龙头股进行对冲或投机。相关合约将以挂钩股票的收盘价进行现金结算，并提供比期权更为简单的杠杆方式。个股期货将每周交易五天、每天23小时，并有两种规模：大型合约以100股股票为基础，微型合约以10股为基础。",
-          "url": "https://flash.jin10.com/detail/20260727010322157800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时08分]"
-        },
-        {
-          "title": "上证报：“六张网”铺开、资金就位，下半年投资企稳向好可期",
-          "url": "https://wallstreetcn.com/livenews/3139874",
+          "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
+          "url": "https://wallstreetcn.com/livenews/3140440",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时08分]"
-        },
-        {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时01分]"
-        },
-        {
-          "title": "7月27日投资避雷针：这家上市公司上半年净亏损1.01亿 将被实施其他风险警示",
-          "url": "https://www.cls.cn/detail/2437348",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时29分]"
-        },
-        {
-          "title": "NAVER与英伟达签署10亿美元的战略投资协议，英伟达将收购4.5%的NAVER股份。受该消息提振，NAVER股价盘前上涨22%。",
-          "url": "https://wallstreetcn.com/livenews/3139889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "01时41分"
         },
         {
-          "title": "英伟达计划向Naver公司投资10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3140317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
-          "url": "https://www.cls.cn/detail/2437832",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "上海国投上半年投资数据出炉：新增投决金额超450亿元",
-          "url": "https://wallstreetcn.com/livenews/3140137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "今年上半年全国实施水利项目3.3万个，完成水利建设投资5151亿元",
-          "url": "https://wallstreetcn.com/livenews/3139988",
+          "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
+          "url": "https://wallstreetcn.com/livenews/3140436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "01时41分"
         },
         {
-          "title": "长鑫之后A股投资者还能吃到什么",
-          "url": "https://www.toutiao.com/trending/7667144954543607306/",
-          "source": "今日头条",
+          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3140432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "摩根大通：供给激增令投资者对超大规模云厂商债券望而却步",
-          "url": "https://wallstreetcn.com/livenews/3140380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "媒体：A股交易新规更好满足投资者",
-          "url": "https://www.toutiao.com/trending/7666957100584697898/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "凯盛科技：拟投资1.5亿元建设TGV先进封装玻璃中试线",
-          "url": "https://wallstreetcn.com/livenews/3140118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "keyword_group": "投资",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
+          "title": "大摩：美联储决议前夕，投资者增持美元多头头寸",
+          "url": "https://wallstreetcn.com/livenews/3140455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时29分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://wallstreetcn.com/livenews/3140016",
+          "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3140439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "01时41分"
         },
         {
-          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3140408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "据The Information：英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260727230812803800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 23时41分]"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 16时29分]"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
-          "url": "https://flash.jin10.com/detail/20260727121032306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将与美国高级官员们预览众多新款模型。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3140389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
-          "url": "https://flash.jin10.com/detail/20260727192930998800",
-          "source": "金十数据",
+          "title": "阿里76亿元投资长鑫搏出近1700亿",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C76%E4%BA%BF%E5%85%83%E6%8A%95%E8%B5%84%E9%95%BF%E9%91%AB%E6%90%8F%E5%87%BA%E8%BF%911700%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“订单暴涨3000%”！两大赛道，全球爆单",
-          "url": "https://www.cls.cn/detail/2436975",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
-          "url": "https://wallstreetcn.com/articles/3777856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时01分]"
-        },
-        {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 08时08分]"
-        },
-        {
-          "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
-          "url": "https://www.zhihu.com/question/2064455331346962042",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 20时21分]"
-        },
-        {
-          "title": "电影成为全球观众爱上中国新窗口",
-          "url": "https://www.douyin.com/hot/2587058",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 20时21分]"
-        },
-        {
-          "title": "本周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
-          "url": "https://wallstreetcn.com/articles/3777856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：数小时前，位于沙特阿拉伯东部的大型布盖格石油设施——全球最重要的石油加工中心之一，在无人机和导弹袭击中起火。",
-          "url": "https://flash.jin10.com/detail/20260727194722920800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "物理AI公司“正奇未来”完成数亿元天使系列融资，年内开展全球商业化落地",
-          "url": "https://wallstreetcn.com/livenews/3140000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年7月27日",
-          "url": "https://flash.jin10.com/detail/20260727070316724800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
         {
           "title": "苹果总市值超越英伟达重返全球第一",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
@@ -826,81 +142,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时41分"
+          "time_info": "01时41分"
         },
         {
-          "title": "世界黄金协会全球研究负责人：美联储重估与AI吸金夹击，东方买盘正重塑定价逻辑",
-          "url": "https://wallstreetcn.com/livenews/3140300",
-          "source": "华尔街见闻-快讯",
+          "title": "小米大模型调用量全球第一",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "财政部副部长廖岷会见福特汽车全球执行副总裁柯立",
-          "url": "https://wallstreetcn.com/livenews/3139971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://www.toutiao.com/trending/7666377405216509494/",
-          "source": "今日头条",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            2
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时41分"
-        },
-        {
-          "title": "梁文锋打新长鑫浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "梁文锋打新长鑫科技浮盈8.27亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "01时41分"
         }
       ]
     }
