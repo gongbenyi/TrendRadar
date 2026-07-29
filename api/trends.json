@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:51:29.952754+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-29T16:37:11.159051+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
         },
         {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
@@ -52,6 +41,18 @@
           "time_info": "00时39分"
         },
         {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时37分]"
+        },
+        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
           "source": "澎湃新闻",
@@ -74,6 +75,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 13时51分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "内塔尼亚胡称与特朗普进行了一次“极佳的会晤”",
@@ -192,7 +215,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -302,7 +325,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
@@ -310,7 +333,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -413,6 +436,17 @@
           "time_info": "[00时39分 ~ 06时03分]"
         },
         {
+          "title": "中国GDP全球第二为何股市仍有差距",
+          "url": "https://www.toutiao.com/trending/7667803379451563570/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 16时37分]"
+        },
+        {
           "title": "金十图示：2026年07月28日（周二）全球股市指数-美洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260729040550579800",
           "source": "金十数据",
@@ -490,6 +524,17 @@
           "time_info": "06时03分"
         },
         {
+          "title": "新加坡财政部：预计全球能源价格将保持高位。",
+          "url": "https://flash.jin10.com/detail/20260729162429072800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "王毅出席全球发展倡议5周年高级别会议",
           "url": "https://wallstreetcn.com/livenews/3141103",
           "source": "华尔街见闻-快讯",
@@ -499,12 +544,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "外交部：5年来全球发展倡议已从中国的主张转化为国际共识。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3141544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "德国正研究中国的供应链脆弱性，外交部：中德应共同维护全球产供链稳定畅通",
+          "url": "https://wallstreetcn.com/livenews/3141540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关",
@@ -531,6 +598,29 @@
           "time_info": "04时15分"
         },
         {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 16时37分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时37分]"
+        },
+        {
           "title": "葛兰素史克（GSK）未来三年将在英国生命科学投资4亿英镑。",
           "url": "https://wallstreetcn.com/livenews/3141146",
           "source": "华尔街见闻-快讯",
@@ -543,26 +633,26 @@
           "time_info": "[02时14分 ~ 04时15分]"
         },
         {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
+          "title": "粉笔投资亏损超5600万元",
+          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E7%AC%94%E6%8A%95%E8%B5%84%E4%BA%8F%E6%8D%9F%E8%B6%855600%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时51分]"
+          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
+          "title": "瑞士7月投资者信心指数 10，前值 -25。",
+          "url": "https://wallstreetcn.com/livenews/3141560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "德意志银行第二季度净营收84.8亿欧元，同比增长8.6%，市场预估81.3亿欧元。 第二季度除税前利润26.8亿欧元，同比增长11%，市场预估23.9亿欧元。 第二季度普通股一级资本充足率13.9％，上年同期14.2％，市场预估13.9％。 第二季度投资银行业务营收31.9亿欧元，同比增长19%，市场预估29.2亿欧元。",
@@ -571,9 +661,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "Momenta获德国全境L4级测试许可，Uber再次追加投资",
+          "url": "https://wallstreetcn.com/livenews/3141555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "SK海力士ADR美股盘后跌幅扩大至5.7%，该公司二季度运营利润逊色于分析师预期；韩国股市即将在北京时间08:00开盘。 纳斯达克100指数股指期货在亚太盘初下跌0.5%，AI顾虑和美国-伊朗紧张关系牵动投资者神经。",
@@ -593,7 +694,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -607,6 +708,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "恒兴新材：子公司拟投资6亿元建设两个精细化工项目",
+          "url": "https://flash.jin10.com/detail/20260729162604637800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "英联股份：签署投资协议，罐头易开盖项目投资约9.18亿元",
+          "url": "https://flash.jin10.com/detail/20260729162520584800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "SK海力士利润创纪录，但未能满足投资者对AI的极高预期",
