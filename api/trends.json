@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T07:05:12.882266+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-07-31T10:37:06.625044+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：与哈马斯达成全面解除武装协议",
+          "url": "https://news.ifeng.com/c/8vCOAeHmmzS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：特朗普削减了负责防范此类网络攻击的机构——美国网络安全与基础设施安全局（CISA）——的7亿美元预算，却连一位CISA常任局长都未提名。既无远见，也无战略，只有这种冲动且危险的决策，持续将美国民众置于风险之中。",
+          "url": "https://flash.jin10.com/detail/20260731101401911800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -41,6 +63,17 @@
           "time_info": "[01时24分 ~ 03时22分]"
         },
         {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
           "url": "https://flash.jin10.com/detail/20260731023101313800",
           "source": "金十数据",
@@ -58,7 +91,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -69,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -80,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -113,15 +146,157 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
       ]
     },
     {
+      "keyword_group": "投资",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时05分]"
+        },
+        {
+          "title": "国家发改委：十五五算力网将新增直接投资4万亿",
+          "url": "https://wallstreetcn.com/livenews/3142854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://flash.jin10.com/detail/20260731101238712800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "据The Information：知情人士透露，数据中心运营商CyrusOne正在准备面试和聘请投资银行，以咨询明年IPO事宜。CyrusOne由私募股权巨头KKR和全球基础设施合伙人（GIP）所有。",
+          "url": "https://flash.jin10.com/detail/20260731101127610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://wallstreetcn.com/livenews/3142839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "7月31日投资避雷针：4连板人气股提示风险 不涉及人形机器人整机制造",
+          "url": "https://www.cls.cn/detail/2442061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "今年7550亿元中央预算内投资基本下达完毕。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "今年7550亿元中央预算内投资已基本下达完毕",
+          "url": "https://flash.jin10.com/detail/20260731100649508800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3142605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3142561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -148,6 +323,28 @@
           "time_info": "[01时25分 ~ 03时22分]"
         },
         {
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
           "title": "OpenAI：GPT-5.6 SOL快速模式取代了API中的优先级处理。",
           "url": "https://flash.jin10.com/detail/20260731010243690800",
           "source": "金十数据",
@@ -157,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "OpenAI应用研究主管：GPT-5.6 Luna应该会有更多的应用，考虑到模型的快速进展，它的成本低得离谱，速度也很快。",
+          "url": "https://flash.jin10.com/detail/20260731100209277800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "OpenAI：SOL定价、ChatGPT和Codex订阅价格及配额预算保持不变；Terra和Luna的使用消耗的积分更少。",
@@ -216,73 +424,20 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 5,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
+          "title": "谷歌发布新一代机器人AI模型 剑指“灵巧性”难题",
+          "url": "https://www.cls.cn/detail/2441953",
           "source": "财联社热门",
           "ranks": [
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 10时37分]"
         },
-        {
-          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3142605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3142561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
         {
           "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3142601",
@@ -329,7 +484,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
