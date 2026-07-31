@@ -1,11 +1,186 @@
 {
-  "generated_at": "2026-07-31T10:37:06.625044+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-07-31T14:12:41.297887+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "投资",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 10时37分]"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时05分]"
+        },
+        {
+          "title": "国家发改委：十五五算力网将新增直接投资4万亿",
+          "url": "https://wallstreetcn.com/livenews/3142854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://flash.jin10.com/detail/20260731101238712800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家发改委：十五五算力网将新增直接投资4万亿",
+          "url": "https://www.cls.cn/detail/2442255",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "据The Information：知情人士透露，数据中心运营商CyrusOne正在准备面试和聘请投资银行，以咨询明年IPO事宜。CyrusOne由私募股权巨头KKR和全球基础设施合伙人（GIP）所有。",
+          "url": "https://flash.jin10.com/detail/20260731101127610800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
+          "url": "https://wallstreetcn.com/livenews/3142839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "7月31日投资避雷针：4连板人气股提示风险 不涉及人形机器人整机制造",
+          "url": "https://www.cls.cn/detail/2442061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 14时12分]"
+        },
+        {
+          "title": "今年7550亿元中央预算内投资基本下达完毕。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "今年7550亿元中央预算内投资已基本下达完毕",
+          "url": "https://flash.jin10.com/detail/20260731100649508800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3142605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "派杰投资：将万事达(MA.N)目标价从597美元上调至710美元。",
+          "url": "https://flash.jin10.com/detail/20260731132752519800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3142561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "仲量联行：中国内地上半年酒店投资交易额超99亿元，同比激增155.4%",
+          "url": "https://wallstreetcn.com/livenews/3142907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -36,7 +211,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -67,11 +242,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 14时12分]"
         },
         {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
@@ -105,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美国总统特朗普：和平委员会达成历史性协议，全面解除哈马斯及加沙所有其他武装团体的武装。",
@@ -149,148 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 10时37分]"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时05分]"
-        },
-        {
-          "title": "国家发改委：十五五算力网将新增直接投资4万亿",
-          "url": "https://wallstreetcn.com/livenews/3142854",
+          "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
+          "url": "https://wallstreetcn.com/livenews/3142913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
-          "url": "https://flash.jin10.com/detail/20260731101238712800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "据The Information：知情人士透露，数据中心运营商CyrusOne正在准备面试和聘请投资银行，以咨询明年IPO事宜。CyrusOne由私募股权巨头KKR和全球基础设施合伙人（GIP）所有。",
-          "url": "https://flash.jin10.com/detail/20260731101127610800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
-          "url": "https://wallstreetcn.com/livenews/3142839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "7月31日投资避雷针：4连板人气股提示风险 不涉及人形机器人整机制造",
-          "url": "https://www.cls.cn/detail/2442061",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
-        },
-        {
-          "title": "今年7550亿元中央预算内投资基本下达完毕。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3142837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "今年7550亿元中央预算内投资已基本下达完毕",
-          "url": "https://flash.jin10.com/detail/20260731100649508800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "据知情人士透露，Equinix料将达成最新一笔数据中心协议，有望通过出售投资级债券融资30亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3142611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3142605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3142561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "14时12分"
         }
       ]
     },
@@ -323,22 +379,23 @@
           "time_info": "[01时25分 ~ 03时22分]"
         },
         {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 14时12分]"
+        },
+        {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
           "url": "https://www.zhihu.com/question/2066333638568972760",
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
-        },
-        {
-          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
-          "url": "https://www.cls.cn/detail/2442077",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -362,7 +419,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -424,6 +481,67 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "法国外交部：我们呼吁红海局势降温。霍尔木兹海峡的关闭将影响全球经济。",
+          "url": "https://flash.jin10.com/detail/20260731011453199800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.427吨，当前持仓量为1007.871吨。",
+          "url": "https://flash.jin10.com/detail/20260731061825852800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "Omdia：第二季度全球智能手机出货量同比下降6%",
+          "url": "https://wallstreetcn.com/livenews/3142921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "上交所：景顺长城全球芯片LOF将于下午开市起停牌至收市",
+          "url": "https://wallstreetcn.com/livenews/3142915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "高盛称柴油处于供应危机“震中”，全球炼油量降至疫情后同期最低",
+          "url": "https://flash.jin10.com/detail/20260731125953953800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -463,30 +581,19 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "法国外交部：我们呼吁红海局势降温。霍尔木兹海峡的关闭将影响全球经济。",
-          "url": "https://flash.jin10.com/detail/20260731011453199800",
-          "source": "金十数据",
+          "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
+          "url": "https://wallstreetcn.com/livenews/3142950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.427吨，当前持仓量为1007.871吨。",
-          "url": "https://flash.jin10.com/detail/20260731061825852800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "time_info": "14时12分"
         }
       ]
     }
