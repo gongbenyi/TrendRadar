@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T17:05:17.237428+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-01T19:15:51.744170+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
@@ -31,6 +31,19 @@
           "time_info": "[00时44分 ~ 08时01分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
           "source": "澎湃新闻",
@@ -40,6 +53,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 19时15分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -90,30 +115,6 @@
           "time_info": "[06时03分 ~ 08时01分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 17时05分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 17时05分]"
-        },
-        {
           "title": "美国总统特朗普赞扬英伟达(NVDA.O)。",
           "url": "https://flash.jin10.com/detail/20260801002339147800",
           "source": "金十数据",
@@ -134,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
+          "url": "https://flash.jin10.com/detail/20260801184158588800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）总统特使威特科夫、库什纳、美国副总统万斯、美国国务卿鲁比奥参与谈判。",
@@ -217,6 +229,18 @@
           "time_info": "[14时27分 ~ 17时05分]"
         },
         {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时15分]"
+        },
+        {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
           "url": "https://flash.jin10.com/detail/20260801050448584800",
           "source": "金十数据",
@@ -241,15 +265,16 @@
           "time_info": "[06时03分 ~ 08时01分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "time_info": "[17时05分 ~ 19时15分]"
         },
         {
           "title": "美媒称特朗普下令再袭伊朗迫其投降",
@@ -329,15 +354,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://wallstreetcn.com/livenews/3143570",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时05分"
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：美国代理司法部长布兰奇应该获得批准。",
@@ -508,7 +533,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -527,11 +552,12 @@
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -544,6 +570,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 06时03分]"
+        },
+        {
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时27分 ~ 19时15分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
@@ -572,18 +611,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时41分 ~ 17时05分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 17时05分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -645,13 +672,24 @@
           "time_info": "00时44分"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
           "url": "https://flash.jin10.com/detail/20260801151758117800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -659,7 +697,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
@@ -671,8 +709,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 19时15分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
@@ -684,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "中方在联合国举行2026世界人工智能大会暨人工智能全球治理高级别会议吹风会",
+          "url": "https://wallstreetcn.com/livenews/3143594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -799,11 +848,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 17时05分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 19时15分]"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -924,8 +974,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 17时05分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 19时15分]"
         },
         {
           "title": "2025年地方养老基金投资收益率为5.76%",
@@ -939,15 +989,28 @@
           "time_info": "11时42分"
         },
         {
+          "title": "投资1.6亿的黄河不夜城停摆",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%841.6%E4%BA%BF%E7%9A%84%E9%BB%84%E6%B2%B3%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%81%9C%E6%91%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时15分]"
+        },
+        {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
           "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时15分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -957,8 +1020,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时15分]"
         },
         {
           "title": "上海国投先导集成电路母基金拟参与投资2只子基金",
@@ -971,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 14时28分]"
-        },
-        {
-          "title": "投资1.6亿的黄河不夜城停摆",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%95%E8%B5%841.6%E4%BA%BF%E7%9A%84%E9%BB%84%E6%B2%B3%E4%B8%8D%E5%A4%9C%E5%9F%8E%E5%81%9C%E6%91%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
         }
       ]
     },
