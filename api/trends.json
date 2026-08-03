@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T14:21:26.735774+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-08-03T18:41:33.425771+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -109,9 +109,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 18时41分]"
         },
         {
           "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
@@ -291,18 +303,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -346,7 +347,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -464,7 +465,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -500,9 +501,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "跨越全球的东风长剑",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%85%A8%E7%90%83%E7%9A%84%E4%B8%9C%E9%A3%8E%E9%95%BF%E5%89%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "韩国股市 38 天跌掉韩国一年 GDP，韩股「去杠杆」结束了吗？这场杠杆风暴给全球散户带来哪些警示？",
@@ -554,6 +566,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "全球首款可DIY个人机器人亮相",
+          "url": "https://www.douyin.com/hot/2595733",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "澳大利亚7月标普全球制造业PMI终值 52，预期51.7，前值51.7。",
           "url": "https://flash.jin10.com/detail/20260803070002266800",
           "source": "金十数据",
@@ -571,7 +594,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -582,7 +605,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -593,7 +616,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -612,7 +635,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "法国总理办公室针对外国投资制度发布声明：法国收紧关于非欧洲实体持股法国公司的制度。 非欧洲投资者若取得法国企业10%及以上股权，必须获得法国财政部批准。",
@@ -641,24 +664,36 @@
           "time_info": "[06时55分 ~ 07时57分]"
         },
         {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 18时41分]"
+        },
+        {
+          "title": "核电板块掀涨停潮：千亿投资“落袋”，产业链迎确定性时刻",
+          "url": "https://www.cls.cn/detail/2443935",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "曝年会不能停2投资人曾预期票房20亿",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E6%8A%95%E8%B5%84%E4%BA%BA%E6%9B%BE%E9%A2%84%E6%9C%9F%E7%A5%A8%E6%88%BF20%E4%BA%BF%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
-          "url": "https://wallstreetcn.com/articles/3778511",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -669,9 +704,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能投资不会带来金融稳定风险。对人工智能行业的波动并不感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260803180436783800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
@@ -688,7 +734,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -730,6 +776,69 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时53分 ~ 07时57分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A8%A1%E5%9E%8B%E5%8D%95%E6%97%A5%E5%90%9E%E4%B8%8B8%E4%B8%87%E4%BA%BFToken",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 14时21分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
@@ -748,25 +857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时48分 ~ 14时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 14时21分]"
         }
       ]
     }
