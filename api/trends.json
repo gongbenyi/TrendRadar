@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-04T02:50:28.736234+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-08-04T04:26:18.292884+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
+        },
         {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
           "url": "https://flash.jin10.com/detail/20260804001514489800",
@@ -36,7 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -52,25 +65,13 @@
           "time_info": "00时23分"
         },
         {
-          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
-        },
-        {
           "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
           "url": "https://wallstreetcn.com/livenews/3144310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -147,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -169,7 +170,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -180,7 +181,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -202,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -213,9 +214,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗最高领袖顾问Mohsen Rezaee通过国家电视台表示：美国必须迈出第一步行动，并改变其行为方式，这可能是一个积极的开端。 如果特朗普不撤销封锁，美军基地、战舰都将沦为我方的打击目标。 如果美国遵守备忘录的条款，这可能表明其行为出现了变化。 而若这种情况没有发生，我们绝不可能容忍海上封锁，美国军舰和基地将面临严重危险。",
+          "url": "https://wallstreetcn.com/livenews/3144329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "雪佛龙(CVX.N)和埃克森美孚石油(XOM.N)股价直线下挫，现分别跌2.2%和0.8%，此前特朗普称雪佛龙和埃克森美孚石油“赚得太多了”。",
@@ -224,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -235,7 +247,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -246,7 +258,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -257,7 +269,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -268,9 +280,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "法庭文件显示：美国25个州提起诉讼，挑战特朗普最新关税政策。 纽约州总检察长称，特朗普新关税覆盖面宽泛程度超出法律允许范围，规避了法律规定的针对特定国家开展调查的要求。特朗普最新关税仅仅是替换此前被美国最高法院裁定无效的关税。",
+          "url": "https://wallstreetcn.com/livenews/3144325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：我不会让伊朗在霍尔木兹海峡收取费用。",
@@ -279,7 +302,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -290,7 +313,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -301,9 +324,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "美国总统特朗普：将批准2450万美元资金，用于应对密苏里州遭遇的严重风暴、强风、龙卷风和洪水灾害。",
+          "url": "https://flash.jin10.com/detail/20260804034236095800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：伊朗谈判的第二阶段是去核化。",
@@ -312,7 +346,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -323,7 +357,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -334,7 +368,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -345,9 +379,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "美国民主党参议员Mark Warner：特朗普无法停止反复摇摆立场。他威胁要对伊朗发动空袭，随后以“协议即将达成”为由取消行动，而如今谈判再次破裂。这场他选择发动的战争已经持续五个月，但目前仍看不到结束的迹象。",
+          "url": "https://flash.jin10.com/detail/20260804032523156800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -356,7 +401,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -367,7 +412,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -378,7 +423,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -407,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -418,8 +463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -430,8 +475,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
+        },
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "time_info": "[02时50分 ~ 04时26分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -439,22 +496,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            14
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "[02时50分 ~ 04时26分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -463,18 +522,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }
@@ -482,7 +530,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球首款可DIY个人机器人亮相",
@@ -493,8 +541,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040534932800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "专家：美出手说明日元贬值已成全球性风险",
@@ -506,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "金十图示：2026年08月03日（周一）全球股市指数-欧洲市场",
@@ -521,6 +591,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
+        },
+        {
+          "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
+          "url": "https://wallstreetcn.com/livenews/3144322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "投资",
       "match_count": 2,
       "titles": [
@@ -532,8 +631,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 04时26分]"
         },
         {
           "title": "戴尔(DELL.N)：新投资者看到业务规模化发展的机遇。",
@@ -562,24 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 02时50分]"
         }
       ]
     }
