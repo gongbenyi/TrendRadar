@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:37:54.244035+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-08-04T18:37:22.454776+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 18时37分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -123,16 +123,16 @@
           "time_info": "00时23分"
         },
         {
-          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
-          "url": "https://www.cls.cn/detail/2444679",
-          "source": "财联社热门",
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
           "ranks": [
-            6,
-            8
+            12,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时37分]"
+          "time_info": "[15时37分 ~ 18时37分]"
         },
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -143,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 18时37分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
@@ -152,7 +152,20 @@
           "source": "抖音",
           "ranks": [
             8,
-            16
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 18时37分]"
+        },
+        {
+          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
+          "url": "https://www.cls.cn/detail/2444679",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -237,6 +250,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "美国总统特朗普：希望在对伊朗采取极端措施前给予其最后机会。希望伊朗能够恢复理智。",
           "url": "https://flash.jin10.com/detail/20260804022240669800",
           "source": "金十数据",
@@ -290,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "特朗普威胁对伊朗采取“斩首”行动",
-          "url": "https://www.douyin.com/hot/2596526",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         },
         {
           "title": "美国总统特朗普重申石油公司应更好地降低零售价格。",
@@ -441,7 +454,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -592,7 +605,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -674,6 +687,19 @@
           "time_info": "[02时50分 ~ 08时08分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 18时37分]"
+        },
+        {
           "title": "DeepSeek登顶全球第一",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -684,18 +710,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 06时08分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 15时37分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -709,13 +723,24 @@
           "time_info": "12时12分"
         },
         {
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "Codex直连DeepSeek堪称国模之王",
           "url": "https://s.weibo.com/weibo?q=Codex%E7%9B%B4%E8%BF%9EDeepSeek%E5%A0%AA%E7%A7%B0%E5%9B%BD%E6%A8%A1%E4%B9%8B%E7%8E%8B&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -737,15 +762,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
@@ -757,8 +793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时26分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[04时26分 ~ 18时37分]"
         },
         {
           "title": "全球首款可DIY个人机器人亮相",
@@ -774,15 +810,27 @@
           "time_info": "[00时23分 ~ 08时08分]"
         },
         {
+          "title": "日元又成了全世界的问题？当全球最关键套利交易遭“降维打击”……",
+          "url": "https://www.cls.cn/detail/2445058",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "全球第三大富豪易主",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89%E5%A4%A7%E5%AF%8C%E8%B1%AA%E6%98%93%E4%B8%BB%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 18时37分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）全球股市指数-美洲市场（收盘）",
@@ -872,12 +920,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "全球风险越来越难定价 债券基金转向欧洲债券",
+          "url": "https://wallstreetcn.com/livenews/3144645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
@@ -887,11 +946,12 @@
             8,
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 18时37分]"
         },
         {
           "title": "长鑫科技旗下股权投资公司增资至约61.3亿",
@@ -940,6 +1000,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "中国核电投资控股的田湾核电8号机组全面转入调试阶段",
+          "url": "https://wallstreetcn.com/livenews/3144662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "走差异化“出海”路径，资管机构抢筹港股基石投资",
           "url": "https://wallstreetcn.com/livenews/3144372",
           "source": "华尔街见闻-快讯",
@@ -964,11 +1035,12 @@
             7,
             9,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 15时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 18时37分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
