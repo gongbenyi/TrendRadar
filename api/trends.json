@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T08:08:20.734590+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-08-04T12:12:47.765205+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 12时12分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取斩首行动",
+          "url": "https://news.ifeng.com/c/8vJ4hRSmRkF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
@@ -39,9 +50,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
+          "url": "https://www.cls.cn/detail/2444694",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "美25州联手，特朗普关税再遭阻击",
+          "url": "https://news.ifeng.com/c/8vIzMGikgqm",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "特朗普：与伊朗的谈判已开始，后续会谈也已提上日程",
@@ -53,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "特朗普：与伊朗的谈判正在进行 将分两阶段推进",
@@ -75,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
+          "url": "https://www.cls.cn/detail/2444679",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
@@ -121,6 +176,28 @@
           "time_info": "02时50分"
         },
         {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "特朗普：不会允许伊朗征收霍尔木兹海峡通行费",
           "url": "https://flash.jin10.com/detail/20260804022441429800",
           "source": "金十数据",
@@ -141,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
+          "url": "https://www.cls.cn/detail/2444718",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美国总统特朗普：希望在对伊朗采取极端措施前给予其最后机会。希望伊朗能够恢复理智。",
@@ -171,7 +259,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -295,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "特朗普声称美伊“正在”谈判，这是伊朗达成协议的“最后机会”，现货金银多头占比均接近90%，美国原油多头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260804111728759800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
@@ -464,106 +563,8 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "全球首款可DIY个人机器人亮相",
-          "url": "https://www.douyin.com/hot/2595733",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时08分]"
-        },
-        {
-          "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711206",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时26分 ~ 08时08分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040534932800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时08分]"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年8月4日",
-          "url": "https://flash.jin10.com/detail/20260804070520403800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日减少1.141吨，当前持仓量为1005.874吨。",
-          "url": "https://flash.jin10.com/detail/20260804061616597800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3144351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "专家：美出手说明日元贬值已成全球性风险",
-          "url": "https://wallstreetcn.com/livenews/3144246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260803234104006800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -587,8 +588,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时50分 ~ 08时08分]"
+          "appearance_count": 6,
+          "time_info": "[02时50分 ~ 12时12分]"
         },
         {
           "title": "DeepSeek 斩杀线",
@@ -654,6 +655,235 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时50分 ~ 06时08分]"
+        },
+        {
+          "title": "DeepSeek斩杀线",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "OpenAI等巨头大幅降价对标DeepSeek",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "全球最大压缩空气储能项目塌方事故后，行业扩张节奏或生变？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时26分 ~ 12时12分]"
+        },
+        {
+          "title": "全球首款可DIY个人机器人亮相",
+          "url": "https://www.douyin.com/hot/2595733",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 08时08分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040534932800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时08分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月4日",
+          "url": "https://flash.jin10.com/detail/20260804070520403800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日减少1.141吨，当前持仓量为1005.874吨。",
+          "url": "https://flash.jin10.com/detail/20260804061616597800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3144351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时08分"
+        },
+        {
+          "title": "专家：美出手说明日元贬值已成全球性风险",
+          "url": "https://wallstreetcn.com/livenews/3144246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260803234104006800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260804110548355800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260804110209215800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778581",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 12时12分]"
+        },
+        {
+          "title": "长鑫科技旗下股权投资公司增资至约61.3亿",
+          "url": "https://flash.jin10.com/detail/20260804114226712800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "市场消息：日本IT服务供应商NTT Data正考虑在日本数据中心领域投资约90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260804051515344800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时08分]"
+        },
+        {
+          "title": "8月4日投资避雷针：国际原油期货结算价收跌约5%",
+          "url": "https://www.cls.cn/detail/2444711",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "戴尔(DELL.N)：新投资者看到业务规模化发展的机遇。",
+          "url": "https://flash.jin10.com/detail/20260803235301978800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "走差异化“出海”路径，资管机构抢筹港股基石投资",
+          "url": "https://wallstreetcn.com/livenews/3144372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     },
@@ -667,11 +897,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 12时12分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -710,58 +941,6 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778581",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 08时08分]"
-        },
-        {
-          "title": "市场消息：日本IT服务供应商NTT Data正考虑在日本数据中心领域投资约90亿美元。",
-          "url": "https://flash.jin10.com/detail/20260804051515344800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时08分 ~ 08时08分]"
-        },
-        {
-          "title": "戴尔(DELL.N)：新投资者看到业务规模化发展的机遇。",
-          "url": "https://flash.jin10.com/detail/20260803235301978800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "走差异化“出海”路径，资管机构抢筹港股基石投资",
-          "url": "https://wallstreetcn.com/livenews/3144372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -794,7 +973,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
