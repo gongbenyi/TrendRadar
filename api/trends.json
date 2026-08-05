@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T13:45:52.752415+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-08-05T16:32:30.759427+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "全球",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -69,6 +69,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "火遍全球的Chinamaxxing是什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E7%9A%84Chinamaxxing%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "全球销量前十首次出现三家中国车企",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E9%A6%96%E6%AC%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81",
           "source": "百度热搜",
@@ -114,8 +125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时32分]"
         },
         {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-05）",
@@ -124,9 +135,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "鸿海：7月销售额9,465.1亿元台币，首次突破9,000亿新台币，同比增长54.2％。 展望第三季度，AI机架出货量预计将保持增长。 整体运营前景预计将实现环比和同比双增长。 仍有必要监测全球政经局势动荡所带来的影响。",
+          "url": "https://wallstreetcn.com/livenews/3145241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "如何看待奇瑞集团成为中国首个单月出口突破 20 万辆的车企？它的全球化布局有哪些可复制的经验？",
@@ -135,7 +157,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -157,7 +179,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -176,7 +198,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -197,9 +219,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时32分]"
         },
         {
           "title": "伊朗否认启动与美国谈判，伊媒：这是特朗普第十次在对德黑兰的“决定性”军事威胁面前退缩",
@@ -257,6 +279,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗议员细数特朗普言辞 批其谈判立场“矛盾且不可靠”",
+          "url": "https://flash.jin10.com/detail/20260805161449690800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
           "url": "https://wallstreetcn.com/livenews/3144972",
           "source": "华尔街见闻-快讯",
@@ -304,7 +337,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -338,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时32分]"
         },
         {
           "title": "美股再创新高之际迎“季节性陷阱”，投资者是否该撤退？",
@@ -359,7 +392,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -408,6 +441,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "上海芯联启辰二期私募投资基金合伙企业成立，出资额7.81亿",
+          "url": "https://wallstreetcn.com/livenews/3145222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "经济学家：鼓励大家投资金融资产",
           "url": "https://www.toutiao.com/trending/7669755293739335723/",
           "source": "今日头条",
@@ -422,7 +466,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -489,9 +533,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "DeepSeek价格是有点过分了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%B7%E6%A0%BC%E6%98%AF%E6%9C%89%E7%82%B9%E8%BF%87%E5%88%86%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -528,9 +583,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时32分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
