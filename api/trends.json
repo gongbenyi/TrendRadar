@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:02:54.316865+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-08-07T19:44:23.122636+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -42,6 +42,32 @@
           "time_info": "[08时40分 ~ 15时12分]"
         },
         {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 19时44分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 19时44分]"
+        },
+        {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
           "url": "https://www.cls.cn/detail/2447915",
           "source": "财联社热门",
@@ -54,25 +80,13 @@
           "time_info": "[08时40分 ~ 15时12分]"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普：数据中心可能会比石油更重要",
           "url": "https://flash.jin10.com/detail/20260807175232367800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -89,18 +103,15 @@
           "time_info": "[08时40分 ~ 16时57分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时49分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时44分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -115,24 +126,13 @@
           "time_info": "[11时49分 ~ 15时12分]"
         },
         {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普民调承压，内外交困陷入“流沙困境”",
           "url": "https://flash.jin10.com/detail/20260807174925300800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -154,7 +154,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -179,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "美媒：特朗普拟投入逾1.8亿美元 推动采矿行业教育发展",
+          "url": "https://flash.jin10.com/detail/20260807190915827800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -231,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -253,9 +264,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
+        },
+        {
+          "title": "据CBS新闻：特朗普计划于周五宣布拨款超过1.8亿美元，用于加强采矿业的教育和贸易项目，这是提高关键矿产产量的举措之一。",
+          "url": "https://flash.jin10.com/detail/20260807190238913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普下令调查美军弹药库存信息泄露",
@@ -264,7 +286,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -304,8 +326,184 @@
       ]
     },
     {
+      "keyword_group": "投资",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 15时12分]"
+        },
+        {
+          "title": "佰维存储：控股子公司拟增资不超6亿元引入投资者",
+          "url": "https://wallstreetcn.com/livenews/3146695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中证协：券商出具债券投资建议时 原则上单一债券投顾账户持仓规模不超过25%",
+          "url": "https://wallstreetcn.com/livenews/3146617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "8月7日投资避雷针：10连板人气股提示 如股价进一步异常上涨将再次停牌核查",
+          "url": "https://www.cls.cn/detail/2447971",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 16时57分]"
+        },
+        {
+          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
+          "url": "https://wallstreetcn.com/articles/3778828",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时40分 ~ 13时39分]"
+        },
+        {
+          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
+          "url": "https://www.cls.cn/detail/2447866",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 13时39分]"
+        },
+        {
+          "title": "中证协：券商出具债券投资建议时 原则上单一债券投顾账户持仓规模不超过25%",
+          "url": "https://flash.jin10.com/detail/20260807174215843800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "超颖电子：拟投资20.86亿元建设高多层及HDI印制电路板P3项目",
+          "url": "https://wallstreetcn.com/livenews/3146611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "出光兴产：越南宜山炼油厂各投资方关于减少利息支付措施的讨论预计将于2027年3月前结束。我们目前无法从红海一侧获取中东原油，正在考虑替代方案，包括通过苏伊士运河采购。",
+          "url": "https://flash.jin10.com/detail/20260807165143733800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "中证协：证券公司不得将客户超额收益直接作为债券投资顾问业务人员的业绩考核指标",
+          "url": "https://flash.jin10.com/detail/20260807173721926800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "日本最大能源开发企业之一INPEX高管表示，阿布扎比原油的重要性保持不变，我们将继续投资以增加该地区的产量。",
+          "url": "https://flash.jin10.com/detail/20260807144128983800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "日本政府养老金投资基金因股市上涨录得1520亿美元收益",
+          "url": "https://wallstreetcn.com/livenews/3146495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "银行保险资管行业三季度信心调查显示：权益投资信心环比回升，受访机构配置意愿增强",
+          "url": "https://wallstreetcn.com/livenews/3146301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "市场消息：印尼主权财富基金Danantara将向与JBS的合资企业投资25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260807185743983800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -316,8 +514,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 19时44分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -341,11 +539,23 @@
             18,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时40分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时40分 ~ 19时44分]"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -382,6 +592,17 @@
           "time_info": "[15时12分 ~ 18时02分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时44分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -392,17 +613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 11时49分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 18时02分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -451,151 +661,8 @@
       ]
     },
     {
-      "keyword_group": "投资",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时40分 ~ 15时12分]"
-        },
-        {
-          "title": "中证协：券商出具债券投资建议时 原则上单一债券投顾账户持仓规模不超过25%",
-          "url": "https://wallstreetcn.com/livenews/3146617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "8月7日投资避雷针：10连板人气股提示 如股价进一步异常上涨将再次停牌核查",
-          "url": "https://www.cls.cn/detail/2447971",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 16时57分]"
-        },
-        {
-          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
-          "url": "https://wallstreetcn.com/articles/3778828",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时40分 ~ 13时39分]"
-        },
-        {
-          "title": "SpaceX、特斯拉官宣投资168亿美元 地球最大芯片厂有新进展",
-          "url": "https://www.cls.cn/detail/2447866",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 13时39分]"
-        },
-        {
-          "title": "中证协：券商出具债券投资建议时 原则上单一债券投顾账户持仓规模不超过25%",
-          "url": "https://flash.jin10.com/detail/20260807174215843800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "超颖电子：拟投资20.86亿元建设高多层及HDI印制电路板P3项目",
-          "url": "https://wallstreetcn.com/livenews/3146611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "出光兴产：越南宜山炼油厂各投资方关于减少利息支付措施的讨论预计将于2027年3月前结束。我们目前无法从红海一侧获取中东原油，正在考虑替代方案，包括通过苏伊士运河采购。",
-          "url": "https://flash.jin10.com/detail/20260807165143733800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "中证协：证券公司不得将客户超额收益直接作为债券投资顾问业务人员的业绩考核指标",
-          "url": "https://flash.jin10.com/detail/20260807173721926800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "日本最大能源开发企业之一INPEX高管表示，阿布扎比原油的重要性保持不变，我们将继续投资以增加该地区的产量。",
-          "url": "https://flash.jin10.com/detail/20260807144128983800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "日本政府养老金投资基金因股市上涨录得1520亿美元收益",
-          "url": "https://wallstreetcn.com/livenews/3146495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "银行保险资管行业三季度信心调查显示：权益投资信心环比回升，受访机构配置意愿增强",
-          "url": "https://wallstreetcn.com/livenews/3146301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-07）",
@@ -614,11 +681,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 19时44分]"
         },
         {
           "title": "全球百万人“花钱干农活”",
@@ -632,6 +700,17 @@
           "time_info": "[16时57分 ~ 18时02分]"
         },
         {
+          "title": "2026全球智能制造与电子产品博览会将于12月举办",
+          "url": "https://wallstreetcn.com/livenews/3146689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "全球首座16兆瓦浮式风电平台投运",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A716%E5%85%86%E7%93%A6%E6%B5%AE%E5%BC%8F%E9%A3%8E%E7%94%B5%E5%B9%B3%E5%8F%B0%E6%8A%95%E8%BF%90",
           "source": "bilibili 热搜",
@@ -641,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "2026全球智能制造与电子产品博览会将于12月举办",
+          "url": "https://flash.jin10.com/detail/20260807191540333800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "半月内两起儿童基因编辑试验死亡事件曝光，业内警示：追求“全球首创”不能忽视临床安全与合规要求",
@@ -660,7 +750,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
