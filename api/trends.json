@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T20:58:49.065383+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-08-07T22:14:35.991687+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,22 @@
           "time_info": "[08时40分 ~ 15时12分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 22时14分]"
+        },
+        {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
           "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
           "source": "凤凰网",
@@ -53,21 +69,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 20时58分]"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 20时58分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -504,6 +505,180 @@
       ]
     },
     {
+      "keyword_group": "全球",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2068810918826447155",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 22时14分]"
+        },
+        {
+          "title": "全球能源，为何越来越“脆”？",
+          "url": "https://news.ifeng.com/c/8vOzqlUQWOd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807133330813800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "全球百万人“花钱干农活”",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%99%BE%E4%B8%87%E4%BA%BA%E2%80%9C%E8%8A%B1%E9%92%B1%E5%B9%B2%E5%86%9C%E6%B4%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 18时02分]"
+        },
+        {
+          "title": "2026全球智能制造与电子产品博览会将于12月举办",
+          "url": "https://wallstreetcn.com/livenews/3146689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "全球首座16兆瓦浮式风电平台投运",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A716%E5%85%86%E7%93%A6%E6%B5%AE%E5%BC%8F%E9%A3%8E%E7%94%B5%E5%B9%B3%E5%8F%B0%E6%8A%95%E8%BF%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "2026全球智能制造与电子产品博览会将于12月举办",
+          "url": "https://flash.jin10.com/detail/20260807191540333800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "全球首个长时储能一体化产业园正式量产",
+          "url": "https://wallstreetcn.com/livenews/3146754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "半月内两起儿童基因编辑试验死亡事件曝光，业内警示：追求“全球首创”不能忽视临床安全与合规要求",
+          "url": "https://wallstreetcn.com/livenews/3146434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3146757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "7月全球食品价格指数创三年多来新高",
+          "url": "https://wallstreetcn.com/livenews/3146748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "24.1万亿日元！全球最大养老金季度收益创纪录",
+          "url": "https://flash.jin10.com/detail/20260807172637654800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月7日",
+          "url": "https://flash.jin10.com/detail/20260807071452282800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "何小鹏带队全球顶级媒体路测G9L",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%B8%A6%E9%98%9F%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7%E5%AA%92%E4%BD%93%E8%B7%AF%E6%B5%8BG9L%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "全球食品价格升至三年来的最高水平",
+          "url": "https://flash.jin10.com/detail/20260807163033696800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 14,
       "titles": [
@@ -589,8 +764,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 22时14分]"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
@@ -639,17 +826,6 @@
           "time_info": "13时39分"
         },
         {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "梁文锋投了宇树",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E4%BA%86%E5%AE%87%E6%A0%91",
           "source": "百度热搜",
@@ -674,138 +850,8 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2068810918826447155",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 20时58分]"
-        },
-        {
-          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-07）",
-          "url": "https://flash.jin10.com/detail/20260807133330813800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "全球百万人“花钱干农活”",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E7%99%BE%E4%B8%87%E4%BA%BA%E2%80%9C%E8%8A%B1%E9%92%B1%E5%B9%B2%E5%86%9C%E6%B4%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 18时02分]"
-        },
-        {
-          "title": "2026全球智能制造与电子产品博览会将于12月举办",
-          "url": "https://wallstreetcn.com/livenews/3146689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "全球首座16兆瓦浮式风电平台投运",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E9%A6%96%E5%BA%A716%E5%85%86%E7%93%A6%E6%B5%AE%E5%BC%8F%E9%A3%8E%E7%94%B5%E5%B9%B3%E5%8F%B0%E6%8A%95%E8%BF%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "2026全球智能制造与电子产品博览会将于12月举办",
-          "url": "https://flash.jin10.com/detail/20260807191540333800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "半月内两起儿童基因编辑试验死亡事件曝光，业内警示：追求“全球首创”不能忽视临床安全与合规要求",
-          "url": "https://wallstreetcn.com/livenews/3146434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "24.1万亿日元！全球最大养老金季度收益创纪录",
-          "url": "https://flash.jin10.com/detail/20260807172637654800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "金十数据全球财经早餐 | 2026年8月7日",
-          "url": "https://flash.jin10.com/detail/20260807071452282800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "何小鹏带队全球顶级媒体路测G9L",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%B8%A6%E9%98%9F%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7%E5%AA%92%E4%BD%93%E8%B7%AF%E6%B5%8BG9L%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "全球食品价格升至三年来的最高水平",
-          "url": "https://flash.jin10.com/detail/20260807163033696800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -841,6 +887,17 @@
           "time_info": "11时49分"
         },
         {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -864,7 +921,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
