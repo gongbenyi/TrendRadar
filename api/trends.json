@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:36:36.755666+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-08-08T18:31:33.312413+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时52分 ~ 17时36分]"
+          "appearance_count": 19,
+          "time_info": "[03时52分 ~ 18时31分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -217,6 +217,18 @@
           "time_info": "[03时52分 ~ 05时37分]"
         },
         {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
           "url": "https://wallstreetcn.com/articles/3778955",
           "source": "华尔街见闻",
@@ -276,15 +288,15 @@
           "time_info": "[03时52分 ~ 04时39分]"
         },
         {
-          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
-          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "18时31分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：日本当局与特朗普政府干预过后，8月4日当周，对冲基金将日元空头仓位砍半。 杠杆基金将墨西哥比索净多头头寸推升至2025年12月以来最高水平。",
@@ -479,17 +491,6 @@
           "time_info": "[12时54分 ~ 16时38分]"
         },
         {
-          "title": "印度食品监管机构已向全球最大洋酒公司帝亚吉欧发出通知，警告其关于一款本土威士忌品牌“在美国橡木桶中熟成”的说法具有误导性。",
-          "url": "https://flash.jin10.com/detail/20260808170348001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
           "url": "https://flash.jin10.com/detail/20260808040421744800",
           "source": "金十数据",
@@ -540,6 +541,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 09时22分]"
+        },
+        {
+          "title": "印度食品监管机构已向全球最大洋酒公司帝亚吉欧发出通知，警告其关于一款本土威士忌品牌“在美国橡木桶中熟成”的说法具有误导性。",
+          "url": "https://flash.jin10.com/detail/20260808170348001800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 18时31分]"
         },
         {
           "title": "蜘蛛侠4登顶2026全球票房年冠",
@@ -615,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 18时31分]"
         },
         {
           "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
@@ -767,8 +780,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 17时36分]"
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 18时31分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -799,8 +812,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时52分 ~ 17时36分]"
+          "appearance_count": 19,
+          "time_info": "[03时52分 ~ 18时31分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -888,8 +901,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时52分 ~ 17时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时52分 ~ 18时31分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -916,8 +929,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 17时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时48分 ~ 18时31分]"
         }
       ]
     }
