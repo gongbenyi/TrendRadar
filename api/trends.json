@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T07:32:14.283955+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-08-08T09:22:53.655016+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -24,11 +24,23 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时52分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[03时52分 ~ 09时22分]"
+        },
+        {
+          "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
+          "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -40,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -95,11 +118,24 @@
           "ranks": [
             2,
             13,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[05时37分 ~ 09时22分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 09时22分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -124,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时48分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时32分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -231,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
@@ -346,7 +382,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球能源，为何越来越“脆”？",
@@ -373,6 +409,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
+          "url": "https://flash.jin10.com/detail/20260808040421744800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时39分 ~ 09时22分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -403,17 +451,6 @@
           "time_info": "[02时53分 ~ 06时33分]"
         },
         {
-          "title": "据美国证券交易委员会（SEC）文件显示，AT&T(T.N)提交了发行12亿欧元浮动利率全球票据的最终条款文件，该票据将于2028年到期。",
-          "url": "https://flash.jin10.com/detail/20260808040421744800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时32分]"
-        },
-        {
           "title": "一粒米的“多米诺”：150年来最强厄尔尼诺如何撬动全球粮食安全",
           "url": "https://m.thepaper.cn/newsDetail_forward_33712390",
           "source": "澎湃新闻",
@@ -422,19 +459,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 09时22分]"
         },
         {
           "title": "蜘蛛侠4登顶2026全球票房年冠",
           "url": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A04%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E5%86%A0&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 09时22分]"
         },
         {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
@@ -446,6 +484,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.818吨，当前持仓量为1017.537吨。",
+          "url": "https://flash.jin10.com/detail/20260808081205549800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260808040638353800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "金十图示：2026年08月07日（周五）全球股市指数-欧洲市场",
@@ -462,7 +522,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
@@ -529,12 +589,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "投资或达8000亿元的芯片工厂来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%95%E8%B5%84%E6%88%96%E8%BE%BE8000%E4%BA%BF%E5%85%83%E7%9A%84%E8%8A%AF%E7%89%87%E5%B7%A5%E5%8E%82%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -570,11 +641,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时52分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[03时52分 ~ 09时22分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -598,11 +681,12 @@
           "url": "https://wallstreetcn.com/livenews/3146942",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时22分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -628,11 +712,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时22分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
