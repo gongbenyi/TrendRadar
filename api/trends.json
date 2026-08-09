@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T07:26:36.544324+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-08-09T09:28:58.344245+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -49,11 +50,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -92,6 +94,17 @@
           "time_info": "[03时28分 ~ 06时26分]"
         },
         {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
           "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
@@ -116,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
@@ -126,11 +139,12 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
@@ -139,11 +153,12 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时28分]"
         }
       ]
     },
@@ -191,11 +206,12 @@
             8,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时28分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -204,11 +220,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 09时28分]"
         }
       ]
     },
@@ -224,11 +241,12 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时28分]"
         }
       ]
     }
