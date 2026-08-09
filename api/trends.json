@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T14:53:50.365028+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-08-09T15:53:37.260594+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             7,
             15,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时53分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -57,11 +58,12 @@
             12,
             20,
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时53分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -69,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 15时53分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -88,28 +91,30 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
-          "title": "泰勒·斯威夫特下架特朗普团队音频",
-          "url": "https://flash.jin10.com/detail/20260809135228907800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
           "url": "https://flash.jin10.com/detail/20260809110518488800",
           "source": "金十数据",
           "ranks": [
             1,
             11,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 15时53分]"
+        },
+        {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时53分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -119,8 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 15时53分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -171,8 +176,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时53分]"
         },
         {
           "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
@@ -254,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时53分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -275,7 +280,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -292,13 +297,35 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 11时40分]"
+        },
+        {
+          "title": "OpenAI重置Codex付费用户用量限制",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%87%8D%E7%BD%AECodex%E4%BB%98%E8%B4%B9%E7%94%A8%E6%88%B7%E7%94%A8%E9%87%8F%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "我国成全球在研创新药第一大国",
+          "url": "https://www.douyin.com/hot/2602725",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
         {
           "title": "《蜘蛛侠4》登顶2026全球票房总冠军",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A04%E3%80%8B%E7%99%BB%E9%A1%B62026%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%80%BB%E5%86%A0%E5%86%9B",
