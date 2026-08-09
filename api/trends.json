@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T21:48:23.765473+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-08-09T22:32:56.153267+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 21时48分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 22时32分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -93,6 +93,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时28分 ~ 16时40分]"
+        },
+        {
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时32分]"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -118,15 +130,17 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
-          "source": "金十数据",
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 22时32分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -141,19 +155,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时40分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时48分]"
         },
         {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
@@ -258,8 +259,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 22时32分]"
         },
         {
           "title": "Chinamaxxing全球出圈！是啥意思",
@@ -268,9 +269,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时32分]"
         },
         {
           "title": "《蜘蛛侠4》登顶2026全球票房总冠军",
@@ -304,7 +305,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         }
@@ -322,8 +323,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 21时48分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 22时32分]"
         },
         {
           "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
@@ -358,11 +359,12 @@
           "url": "https://www.cls.cn/detail/2449376",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 22时32分]"
         }
       ]
     },
