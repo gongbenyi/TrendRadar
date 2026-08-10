@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:24:44.420015+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-08-10T15:28:47.999156+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 13时24分]"
+          "appearance_count": 14,
+          "time_info": "[01时29分 ~ 15时28分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -45,6 +45,19 @@
           "time_info": "[09时30分 ~ 13时24分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 15时28分]"
+        },
+        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
@@ -69,19 +82,6 @@
           "time_info": "11时52分"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时24分]"
-        },
-        {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
           "url": "https://flash.jin10.com/detail/20260810010023977800",
           "source": "金十数据",
@@ -104,8 +104,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 15时28分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时28分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -118,17 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时29分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 13时24分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -179,6 +179,17 @@
           "time_info": "[00时33分 ~ 01时30分]"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
           "url": "https://wallstreetcn.com/livenews/3147162",
           "source": "华尔街见闻-快讯",
@@ -196,7 +207,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -229,15 +240,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "Chinamaxxing全球出圈！是啥意思",
@@ -262,8 +284,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 15时28分]"
         },
         {
           "title": "全球最大级别运输船通过长江大桥",
@@ -299,11 +321,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时30分 ~ 15时28分]"
         },
         {
           "title": "退市新规征求意见，全球芯片LOF跌停，白银LOF重挫",
@@ -317,13 +340,24 @@
           "time_info": "11时52分"
         },
         {
+          "title": "假如全球所有人同时获得三个选项：立刻变成祖国人、十分钟后变成超人、十五分钟后变成曼哈顿博士，怎么选？",
+          "url": "https://www.zhihu.com/question/2069190461437261714",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "通用汽车中国：雪佛兰未来将继续在中国生产，出口全球",
           "url": "https://wallstreetcn.com/livenews/3147287",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -353,6 +387,17 @@
           "time_info": "[11时52分 ~ 13时24分]"
         },
         {
+          "title": "金十数据整理：每日全球外汇市场要闻速递（2026-08-10）",
+          "url": "https://flash.jin10.com/detail/20260810144159990800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "纽约证券交易所总裁：对亚洲及全球上市项目储备感到乐观，全球企业上市热潮将持续至2027年。",
           "url": "https://flash.jin10.com/detail/20260810112858678800",
           "source": "金十数据",
@@ -373,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "摩根大通依旧看好全球股市 认为周期股将领涨",
+          "url": "https://wallstreetcn.com/livenews/3147332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "上半年全球新能源乘用车销量1122万台",
@@ -433,7 +489,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -457,8 +513,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时28分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "以色列政府被曝将投资专款挪至国防预算 紧急采购武器",
@@ -507,6 +574,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "业内称成毅被投资人疯抢",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%9A%E5%86%85%E7%A7%B0%E6%88%90%E6%AF%85%E8%A2%AB%E6%8A%95%E8%B5%84%E4%BA%BA%E7%96%AF%E6%8A%A2&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日公布中国7月M2货币供应年率、欧元区8月Sentix投资者信心指数。",
           "url": "https://flash.jin10.com/detail/20260810083815987800",
           "source": "金十数据",
@@ -535,9 +613,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -551,11 +646,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 15时28分]"
         }
       ]
     }
