@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T20:59:23.302368+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-08-11T22:21:40.210706+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -54,17 +54,6 @@
           "time_info": "[09时27分 ~ 19时43分]"
         },
         {
-          "title": "特朗普称要向伊朗索赔",
-          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时39分 ~ 06时35分]"
-        },
-        {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
           "source": "华尔街见闻",
@@ -75,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时42分 ~ 20时59分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 22时21分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -86,8 +75,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时03分 ~ 20时59分]"
+          "time_info": "[04时39分 ~ 06时35分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -130,9 +130,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时21分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普谈及伊朗时表示，“如果我没有那样做，他们现在就已经拥有核武器了，而你们现在就要称呼他们为‘先生’了。”",
+          "url": "https://flash.jin10.com/detail/20260811220134990800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -308,6 +319,28 @@
           "time_info": "06时35分"
         },
         {
+          "title": "特朗普：伊朗喜欢耍花招 当面一套背后一套",
+          "url": "https://flash.jin10.com/detail/20260811215734286800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗人在会谈中和美方达成一致，却在媒体上否认，这是在“耍我们”。",
+          "url": "https://flash.jin10.com/detail/20260811215644799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
@@ -330,6 +363,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，伊朗经济正处于混乱状态。",
+          "url": "https://flash.jin10.com/detail/20260811215616874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
           "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
@@ -350,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，对伊朗的谈判风格感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20260811215605322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
@@ -385,6 +440,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，这场战争是为了防止伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215523547800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国总统特朗普签署关于疫苗推荐的命令。",
           "url": "https://wallstreetcn.com/livenews/3147671",
           "source": "华尔街见闻-快讯",
@@ -407,6 +473,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，如果不打击伊朗，它就会获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215458970800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
           "url": "https://flash.jin10.com/detail/20260811010308412800",
           "source": "金十数据",
@@ -427,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称油价比拜登执政时期还要低。",
+          "url": "https://flash.jin10.com/detail/20260811215433247800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
@@ -542,7 +630,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -566,8 +654,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 20时59分]"
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 22时21分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：同意加强澳大利亚与越南之间的贸易和投资关系。",
@@ -699,6 +787,29 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
+          "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
+          "url": "https://www.zhihu.com/question/2070481032956962155",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时21分]"
+        },
+        {
+          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
+          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 22时21分]"
+        },
+        {
           "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3147820",
           "source": "华尔街见闻-快讯",
@@ -747,35 +858,13 @@
           "time_info": "[05时40分 ~ 06时35分]"
         },
         {
-          "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
-          "url": "https://www.zhihu.com/question/2070481032956962155",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 19时43分]"
-        },
-        {
           "title": "但斌回应投资人质疑：东方港湾在7月回调行情中没有大幅减仓 仅极小比例结构性微调",
           "url": "https://wallstreetcn.com/livenews/3148069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
-          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -786,7 +875,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -797,7 +886,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -844,12 +933,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁项目",
+          "url": "https://wallstreetcn.com/livenews/3148077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -877,6 +977,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3148117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "澳大利亚国库部长查默斯：澳洲联储在全球不确定性加剧和国内持续压力的情况下，决定维持利率不变是一个受欢迎的决定。",
           "url": "https://flash.jin10.com/detail/20260811123750648800",
           "source": "金十数据",
@@ -897,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260811220018649800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "澳洲联储：全球石油供应的中断正直接推高通胀。",
@@ -991,6 +1113,17 @@
           "time_info": "19时43分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260811105621423800",
           "source": "金十数据",
@@ -1024,13 +1157,35 @@
           "time_info": "13时07分"
         },
         {
+          "title": "纽约洋基队的母公司Yankee Global Enterprises已正式宣布与阿波罗全球管理公司（Apollo Global Management）达成一项26亿美元的融资协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3148081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "小鹏G9L全球首秀",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
