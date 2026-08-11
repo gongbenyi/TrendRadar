@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T22:21:40.210706+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-08-11T23:59:58.432791+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 22时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 23时59分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -128,11 +128,12 @@
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时59分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -174,7 +175,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -325,7 +326,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -336,7 +337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -369,7 +370,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -402,7 +403,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -446,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -479,7 +480,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -512,9 +513,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
+          "url": "https://flash.jin10.com/detail/20260811224133543800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
@@ -630,8 +642,21 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 23时59分]"
+        },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
@@ -643,19 +668,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 05时40分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 22时21分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：同意加强澳大利亚与越南之间的贸易和投资关系。",
@@ -792,22 +804,24 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 23时59分]"
         },
         {
           "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
           "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时21分]"
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 23时59分]"
         },
         {
           "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
@@ -880,6 +894,28 @@
           "time_info": "20时59分"
         },
         {
+          "title": "城市更新预计可完成投资15万亿元",
+          "url": "https://flash.jin10.com/detail/20260811230251521800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "英伟达5000亿美元“循环融资”？大摩回击：投资由第三方主导，英伟达仅提供“残值支持”还能坐享长期分成",
+          "url": "https://wallstreetcn.com/articles/3779166",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁锂/磷酸铁钠前驱体（磷酸铁）项目",
           "url": "https://flash.jin10.com/detail/20260811203427315800",
           "source": "金十数据",
@@ -941,7 +977,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -949,7 +985,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -975,17 +1011,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        },
-        {
-          "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
-          "url": "https://wallstreetcn.com/livenews/3148117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "澳大利亚国库部长查默斯：澳洲联储在全球不确定性加剧和国内持续压力的情况下，决定维持利率不变是一个受欢迎的决定。",
@@ -1016,7 +1041,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1030,6 +1055,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+          "url": "https://wallstreetcn.com/livenews/3148117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时59分]"
         },
         {
           "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
@@ -1119,9 +1156,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "铝价连涨之际，全球关键工厂突然宣布产能砍半",
+          "url": "https://www.cls.cn/detail/2451392",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
@@ -1163,7 +1211,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1174,7 +1222,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
