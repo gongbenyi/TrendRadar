@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:43:10.307962+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-08-11T20:59:23.302368+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -65,17 +65,6 @@
           "time_info": "[04时39分 ~ 06时35分]"
         },
         {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时35分]"
-        },
-        {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
           "source": "华尔街见闻",
@@ -86,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时42分 ~ 20时59分]"
         },
         {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
@@ -97,8 +86,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 19时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 20时59分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时35分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时27分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -531,7 +542,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -544,6 +555,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 05时40分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 20时59分]"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：同意加强澳大利亚与越南之间的贸易和投资关系。",
@@ -568,19 +592,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 19时43分]"
-        },
-        {
           "title": "韩国部长表示，单股杠杆ETF的投资已缩减。",
           "url": "https://flash.jin10.com/detail/20260811091546420800",
           "source": "金十数据",
@@ -601,6 +612,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 20时59分]"
         },
         {
           "title": "摩根士丹利：启动美国创新基础设施计划，计划在未来10年内促进约1.5万亿美元的资本筹集、融资、顾问及相关投资活动。",
@@ -676,18 +699,6 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 19时43分]"
-        },
-        {
           "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3147820",
           "source": "华尔街见闻-快讯",
@@ -698,6 +709,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 13时07分]"
+        },
+        {
+          "title": "源杰科技：拟投资约42.68亿元建设半导体科技产业园项目",
+          "url": "https://wallstreetcn.com/livenews/3148047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时59分]"
         },
         {
           "title": "德国两年期国债收益率涨约5个基点，非农过后，投资者关注油价涨势",
@@ -735,15 +758,48 @@
           "time_info": "[19时42分 ~ 19时43分]"
         },
         {
-          "title": "源杰科技：拟投资约42.68亿元建设半导体科技产业园项目",
-          "url": "https://wallstreetcn.com/livenews/3148047",
+          "title": "但斌回应投资人质疑：东方港湾在7月回调行情中没有大幅减仓 仅极小比例结构性微调",
+          "url": "https://wallstreetcn.com/livenews/3148069",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
+          "url": "https://news.ifeng.com/c/8vVaQwUQJEb",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "20时59分"
+        },
+        {
+          "title": "钛能化学：拟与磷化集团共同投资建设年产40万吨钛白粉及140万吨七水硫酸亚铁项目",
+          "url": "https://flash.jin10.com/detail/20260811203618619800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁锂/磷酸铁钠前驱体（磷酸铁）项目",
+          "url": "https://flash.jin10.com/detail/20260811203427315800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美联储年内不会加息？高盛预言下半年“三大顺风”，建议投资者别撤！",
@@ -774,7 +830,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -785,9 +841,220 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "全球",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加33.73吨，当前持仓量为15206.72吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260811061131025800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "澳大利亚国库部长查默斯：澳洲联储在全球不确定性加剧和国内持续压力的情况下，决定维持利率不变是一个受欢迎的决定。",
+          "url": "https://flash.jin10.com/detail/20260811123750648800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260811111058055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "澳洲联储：全球石油供应的中断正直接推高通胀。",
+          "url": "https://flash.jin10.com/detail/20260811123704012800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 06时35分]"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040601624800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时40分]"
+        },
+        {
+          "title": "小孩哥脱口而出解放军是全球最帅的人",
+          "url": "https://www.toutiao.com/trending/7672049073645535275/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 06时35分]"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球富豪榜",
+          "url": "https://flash.jin10.com/detail/20260811110253067800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "机构：2026年第二季度全球平板电脑市场出货量下滑10%",
+          "url": "https://wallstreetcn.com/livenews/3147847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "机构：上半年全球人形机器人出货量增3倍，中国制造商占97%",
+          "url": "https://flash.jin10.com/detail/20260811091423772800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260811190458992800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260811105621423800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811144408377800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "澳洲联储：鉴于人工智能的繁荣和对海湾冲突的韧性，全球增长前景上调。",
+          "url": "https://flash.jin10.com/detail/20260811123351573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "小鹏G9L全球首秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG9L%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "金十数据整理：隔日全球股市走势回顾（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811084514255800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球股市指数-亚太市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260811103759853800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
@@ -996,206 +1263,6 @@
       ]
     },
     {
-      "keyword_group": "全球",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时35分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加33.73吨，当前持仓量为15206.72吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260811061131025800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "澳大利亚国库部长查默斯：澳洲联储在全球不确定性加剧和国内持续压力的情况下，决定维持利率不变是一个受欢迎的决定。",
-          "url": "https://flash.jin10.com/detail/20260811123750648800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260811111058055800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "澳洲联储：全球石油供应的中断正直接推高通胀。",
-          "url": "https://flash.jin10.com/detail/20260811123704012800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年08月10日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260811040601624800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时40分]"
-        },
-        {
-          "title": "小孩哥脱口而出解放军是全球最帅的人",
-          "url": "https://www.toutiao.com/trending/7672049073645535275/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 06时35分]"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球富豪榜",
-          "url": "https://flash.jin10.com/detail/20260811110253067800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "机构：2026年第二季度全球平板电脑市场出货量下滑10%",
-          "url": "https://wallstreetcn.com/livenews/3147847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "机构：上半年全球人形机器人出货量增3倍，中国制造商占97%",
-          "url": "https://flash.jin10.com/detail/20260811091423772800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球股市指数-亚太市场",
-          "url": "https://flash.jin10.com/detail/20260811190458992800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260811105621423800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "金十数据整理：每日全球大宗商品市场要闻速递（2026-08-11）",
-          "url": "https://flash.jin10.com/detail/20260811144408377800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "澳洲联储：鉴于人工智能的繁荣和对海湾冲突的韧性，全球增长前景上调。",
-          "url": "https://flash.jin10.com/detail/20260811123351573800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "金十数据整理：隔日全球股市走势回顾（2026-08-11）",
-          "url": "https://flash.jin10.com/detail/20260811084514255800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球股市指数-亚太市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260811103759853800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1204,11 +1271,12 @@
           "url": "https://wallstreetcn.com/livenews/3148048",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 20时59分]"
         },
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
@@ -1246,7 +1314,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         }
