@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:53:23.053041+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-08-11T19:43:10.307962+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 19时43分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -76,6 +76,31 @@
           "time_info": "[00时58分 ~ 06时35分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 19时43分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 19时43分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -88,31 +113,6 @@
           "time_info": "[09时27分 ~ 13时07分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 18时53分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 18时53分]"
-        },
-        {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
@@ -120,8 +120,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 19时43分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -141,7 +141,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -531,7 +531,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -566,6 +566,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 19时43分]"
         },
         {
           "title": "韩国部长表示，单股杠杆ETF的投资已缩减。",
@@ -663,16 +676,16 @@
           "time_info": "[11时42分 ~ 15时03分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 19时43分]"
         },
         {
           "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
@@ -711,15 +724,26 @@
           "time_info": "[05时40分 ~ 06时35分]"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
+          "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况？",
+          "url": "https://www.zhihu.com/question/2070481032956962155",
+          "source": "知乎",
           "ranks": [
-            6
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "源杰科技：拟投资约42.68亿元建设半导体科技产业园项目",
+          "url": "https://wallstreetcn.com/livenews/3148047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时53分"
+          "time_info": "19时43分"
         },
         {
           "title": "美联储年内不会加息？高盛预言下半年“三大顺风”，建议投资者别撤！",
@@ -728,7 +752,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -742,6 +766,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "源杰科技：拟投资约42.68亿元建设半导体科技产业园项目",
+          "url": "https://flash.jin10.com/detail/20260811185532876800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "东阳光：东阳光氟拟通过增资扩股的方式引入外部投资者",
+          "url": "https://wallstreetcn.com/livenews/3148030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -951,7 +997,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -1082,6 +1128,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "金十图示：2026年08月11日（周二）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20260811190458992800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20260811105621423800",
           "source": "金十数据",
@@ -1140,8 +1197,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
         {
           "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
           "url": "https://www.zhihu.com/question/2067921583944085650",
@@ -1157,7 +1225,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
@@ -1170,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时55分]"
+        },
+        {
+          "title": "法国媒体机构全国新闻信息联盟：已向法国反垄断监管机构就谷歌(GOOG.O)的人工智能业务提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260811185539534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     }
