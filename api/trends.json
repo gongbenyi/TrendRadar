@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:39:10.013560+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-13T09:47:22.320740+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,20 @@
           "time_info": "[00时58分 ~ 07时39分]"
         },
         {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时59分 ~ 09时47分]"
+        },
+        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
@@ -64,19 +78,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 07时39分]"
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 07时39分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -167,7 +168,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -222,7 +223,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -255,7 +256,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -285,8 +286,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 09时47分]"
+        },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
@@ -294,17 +307,6 @@
           "ranks": [
             5,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时39分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -319,8 +321,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 09时47分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -330,8 +332,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 09时47分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -357,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -411,17 +435,51 @@
           "url": "https://www.toutiao.com/trending/7673280015613627950/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek最新版本藏了一个大招",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%E8%97%8F%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "全球",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "霍尔木兹海峡僵局阻碍供应恢复 IEA下调全球石油需求预期",
@@ -434,6 +492,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 05时43分]"
+        },
+        {
+          "title": "机构：2025年全球商用清洁机器人出货量突破50000台，营收超过4亿美元",
+          "url": "https://flash.jin10.com/detail/20260813094201472800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "全球最大单体智算中心投产",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%8D%95%E4%BD%93%E6%99%BA%E7%AE%97%E4%B8%AD%E5%BF%83%E6%8A%95%E4%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "明晟公司（MSCI）：MSCI全球指数将新增55只证券，并剔除92只证券。",
@@ -477,7 +557,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -499,7 +579,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -520,6 +600,131 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "投资",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "15万亿元投资新机遇来了",
+          "url": "https://www.douyin.com/hot/2606839",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19,
+            8,
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 09时47分]"
+        },
+        {
+          "title": "母亲乱投资欠下五百万 女儿卖房扛债",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B9%B1%E6%8A%95%E8%B5%84%E6%AC%A0%E4%B8%8B%E4%BA%94%E7%99%BE%E4%B8%87+%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E6%89%9B%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时39分]"
+        },
+        {
+          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
+          "url": "https://www.cls.cn/detail/2452409",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 05时43分]"
+        },
+        {
+          "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
+          "url": "https://flash.jin10.com/detail/20260813071055836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "路透调查显示，四分之三的日本企业优先考虑国内投资而非海外投资。",
+          "url": "https://flash.jin10.com/detail/20260813070137039800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
+          "url": "https://www.cls.cn/detail/2452803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 09时47分]"
+        },
+        {
+          "title": "8月13日投资避雷针：13天9板人气股已被深交所重点监控 如进一步异常上涨将停牌核查",
+          "url": "https://www.cls.cn/detail/2452961",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "华人加密投资者叶俊德被曝全裸从 30 楼坠亡，生前曾管理超 24 亿美元资产，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2070227462877876846",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "韩国央行在二季度进行了十三年来的首次黄金相关投资。",
+          "url": "https://wallstreetcn.com/livenews/3148811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "红杉投资人李彦男正在关心什么",
+          "url": "https://www.toutiao.com/trending/7673125278347955722/",
+          "source": "今日头条",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -588,8 +793,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 09时47分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
@@ -619,96 +824,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "投资",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "母亲乱投资欠下五百万 女儿卖房扛债",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E4%B9%B1%E6%8A%95%E8%B5%84%E6%AC%A0%E4%B8%8B%E4%BA%94%E7%99%BE%E4%B8%87+%E5%A5%B3%E5%84%BF%E5%8D%96%E6%88%BF%E6%89%9B%E5%80%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时39分]"
-        },
-        {
-          "title": "15万亿元投资新机遇来了",
-          "url": "https://www.douyin.com/hot/2606839",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时39分]"
-        },
-        {
-          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
-          "url": "https://www.cls.cn/detail/2452409",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时43分]"
-        },
-        {
-          "title": "CoreWeave向投资者发出警告，若需从英伟达芯片转向其他芯片将面临困难，可能需要投入大量时间和资金。",
-          "url": "https://flash.jin10.com/detail/20260813071055836800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "路透调查显示，四分之三的日本企业优先考虑国内投资而非海外投资。",
-          "url": "https://flash.jin10.com/detail/20260813070137039800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "全球最大主权财富基金掌门人警告：别指望高回报能持续 未来投资环境或更艰难",
-          "url": "https://www.cls.cn/detail/2452803",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "红杉投资人李彦男正在关心什么",
-          "url": "https://www.toutiao.com/trending/7673125278347955722/",
-          "source": "今日头条",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
