@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:45:12.164864+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-08-14T16:14:30.633627+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -90,6 +90,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "特朗普允许美海军海外建造舰船",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%81%E8%AE%B8%E7%BE%8E%E6%B5%B7%E5%86%9B%E6%B5%B7%E5%A4%96%E5%BB%BA%E9%80%A0%E8%88%B0%E8%88%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -103,6 +125,18 @@
           "time_info": "[00时57分 ~ 06时39分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
           "url": "https://wallstreetcn.com/livenews/3149255",
           "source": "华尔街见闻-快讯",
@@ -113,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 03时05分]"
-        },
-        {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -160,6 +183,28 @@
           "time_info": "07时39分"
         },
         {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯：美国总统特朗普同意考虑关于关税的请求。",
           "url": "https://flash.jin10.com/detail/20260814054802462800",
           "source": "金十数据",
@@ -180,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
@@ -243,7 +299,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -295,8 +351,33 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时14分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 16时14分]"
+        },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
@@ -317,30 +398,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 09时45分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 09时45分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -417,6 +474,19 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 16时14分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -427,18 +497,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 07时39分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 09时45分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -452,6 +510,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 05时43分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -472,28 +554,6 @@
           "source": "今日头条",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -522,6 +582,28 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "DeepSeek官网撤公告疑似回滚",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -547,7 +629,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "这个投资者日，闪迪的“炸裂数字”震撼市场",
@@ -557,19 +639,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
         },
         {
           "title": "张雪机车获红杉中国投资，投后估值达60亿元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33778159",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
         },
         {
           "title": "阿根廷LNG项目申请加入RIGI激励制度，涉及投资规模510亿美元。",
@@ -589,7 +672,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -605,6 +688,18 @@
           "time_info": "03时05分"
         },
         {
+          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
+          "url": "https://www.cls.cn/detail/2454041",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 16时14分]"
+        },
+        {
           "title": "上海投资超550亿启动吴淞江工程",
           "url": "https://www.toutiao.com/trending/7673154497254113322/",
           "source": "今日头条",
@@ -614,17 +709,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时05分]"
-        },
-        {
-          "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
-          "url": "https://www.cls.cn/detail/2454041",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
         },
         {
           "title": "泛林集团计划在未来五年内投资超过30亿美元，以扩大其全球实验室网络，目标是将实验产能提升50%以上。",
@@ -694,6 +778,17 @@
           "time_info": "06时39分"
         },
         {
+          "title": "投资者获利了结 金价本周料小幅下跌",
+          "url": "https://flash.jin10.com/detail/20260814155021537800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "亿万富豪阿克曼旗下Pershing将推出首支风险投资基金 押注IPO前企业",
           "url": "https://wallstreetcn.com/livenews/3149239",
           "source": "华尔街见闻-快讯",
@@ -719,7 +814,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国制造再添全球之最",
@@ -825,6 +920,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "上半年钽价飙升158% 机构称全球钽金属或持续供应短缺",
+          "url": "https://www.cls.cn/detail/2454022",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
           "url": "https://flash.jin10.com/detail/20260814064748613800",
           "source": "金十数据",
@@ -847,6 +953,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "全球汽车工业迎来中国时刻",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E5%B7%A5%E4%B8%9A%E8%BF%8E%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%88%BB%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
           "url": "https://wallstreetcn.com/livenews/3149243",
           "source": "华尔街见闻-快讯",
@@ -861,8 +978,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
+          "url": "https://flash.jin10.com/detail/20260814160403026800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
@@ -959,7 +1087,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
