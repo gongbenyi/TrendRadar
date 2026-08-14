@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T19:02:23.649529+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-08-14T19:52:33.821312+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 07时39分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 19时52分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时57分 ~ 09时45分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时02分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -123,6 +123,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 19时52分]"
+        },
+        {
           "title": "美新闻机构起诉特朗普",
           "url": "https://www.douyin.com/hot/2607917",
           "source": "抖音",
@@ -134,17 +145,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 06时39分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "最年轻新闻秘书，“弃特朗普而去”",
@@ -211,7 +211,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -385,8 +385,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -398,8 +398,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 19时52分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -510,6 +510,19 @@
           "time_info": "[00时57分 ~ 16时14分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时52分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -522,19 +535,6 @@
           "time_info": "[00时57分 ~ 07时39分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 19时02分]"
-        },
-        {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
@@ -544,8 +544,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时52分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时44分 ~ 19时02分]"
+          "time_info": "[16时14分 ~ 19时52分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -559,17 +570,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 05时43分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -654,7 +654,7 @@
     },
     {
       "keyword_group": "投资",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "这个投资者日，闪迪的“炸裂数字”震撼市场",
@@ -664,8 +664,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时52分]"
         },
         {
           "title": "张雪机车获红杉中国投资，投后估值达60亿元",
@@ -677,8 +677,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 19时52分]"
         },
         {
           "title": "阿根廷LNG项目申请加入RIGI激励制度，涉及投资规模510亿美元。",
@@ -714,6 +714,18 @@
           "time_info": "03时05分"
         },
         {
+          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2070634579422196628",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 19时52分]"
+        },
+        {
           "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
           "url": "https://www.cls.cn/detail/2454041",
           "source": "财联社热门",
@@ -726,15 +738,15 @@
           "time_info": "[09时44分 ~ 16时14分]"
         },
         {
-          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
-          "url": "https://www.zhihu.com/question/2070634579422196628",
-          "source": "知乎",
+          "title": "高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东",
+          "url": "https://wallstreetcn.com/articles/3779419",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时02分]"
+          "time_info": "[18时39分 ~ 19时52分]"
         },
         {
           "title": "上海投资超550亿启动吴淞江工程",
@@ -746,17 +758,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时05分]"
-        },
-        {
-          "title": "高盛点评闪迪“炸裂投资者日”：长期财务指引远超预期，100%超额自由现金流回馈股东",
-          "url": "https://wallstreetcn.com/articles/3779419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 19时02分]"
         },
         {
           "title": "丸红计划在截至2028年3月的三个财年内投资120亿美元，包括资本支出。受伯克希尔·哈撒韦支持的丸红公司首席执行官表示，希望日元保持强势。",
@@ -792,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "据韩媒报道，SK海力士今年上半年大幅增加了设备投资和研发（R&D）投入。用于购置有形资产的现金支出超过18万亿韩元，同比增加逾70%。",
+          "url": "https://flash.jin10.com/detail/20260814192509332800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。（CNBC）",
@@ -874,7 +886,7 @@
     },
     {
       "keyword_group": "全球",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国制造再添全球之最",
@@ -992,6 +1004,28 @@
           "time_info": "07时39分"
         },
         {
+          "title": "乌克兰政府：即使乌克兰动用所有替代路线，本季度农产品出口最高也只能达到3000万吨，另有3000万吨将无法进入全球市场。",
+          "url": "https://flash.jin10.com/detail/20260814193250238800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "乌克兰政府：乌克兰在大敖德萨地区剩余的黑海港口在俄罗斯空袭下实质上已关闭，其计划中的农产品出口可能减半，对全球粮食供应构成风险。",
+          "url": "https://flash.jin10.com/detail/20260814193228555800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "上半年钽价飙升158% 机构称全球钽金属或持续供应短缺",
           "url": "https://www.cls.cn/detail/2454022",
           "source": "财联社热门",
@@ -1071,8 +1105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 19时52分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
